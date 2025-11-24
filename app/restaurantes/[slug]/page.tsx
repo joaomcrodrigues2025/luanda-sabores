@@ -156,9 +156,9 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Full Description */}
-      <div className="px-4 py-6">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">sobre</h2>
-        <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed whitespace-pre-line">
+      <div className="px-4 py-8">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Sobre</h2>
+        <p className="text-gray-700 dark:text-gray-300 text-base leading-7 whitespace-pre-line">
           {restaurant.descricaoCompleta}
         </p>
       </div>
@@ -168,8 +168,8 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Especialidades */}
-      <div className="px-4 py-6">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">especialidades</h2>
+      <div className="px-4 py-8">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Especialidades</h2>
         <div className="flex flex-wrap gap-2">
           {restaurant.especialidades.map((esp, index) => (
             <span
@@ -189,8 +189,8 @@ export default async function RestaurantePage({ params }: Props) {
       {/* Safety Tips */}
       {restaurant.seguranca.dicasSeguranca.length > 0 && (
         <>
-          <div className="px-4 py-6">
-            <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">dicas de segurança</h2>
+          <div className="px-4 py-8">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Dicas de segurança</h2>
             <div className="space-y-3">
               {restaurant.seguranca.dicasSeguranca.map((dica, index) => (
                 <div key={index} className="flex items-start gap-3">
@@ -211,8 +211,8 @@ export default async function RestaurantePage({ params }: Props) {
       {/* Parking */}
       {restaurant.estacionamento.temEstacionamento && (
         <>
-          <div className="px-4 py-6">
-            <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">estacionamento</h2>
+          <div className="px-4 py-8">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Estacionamento</h2>
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <span className="material-symbols-outlined text-[#D1302C]">local_parking</span>
@@ -237,8 +237,8 @@ export default async function RestaurantePage({ params }: Props) {
       )}
 
       {/* Menu */}
-      <div id="menu" className="px-4 py-6">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">menu</h2>
+      <div id="menu" className="px-4 py-8">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Menu</h2>
         {restaurant.menu.map((categoria) => (
           <div key={categoria.categoria} className="mb-6">
             <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-3">
@@ -266,8 +266,8 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Contacts */}
-      <div className="px-4 py-6">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">contactos</h2>
+      <div className="px-4 py-8">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Contactos</h2>
         <div className="space-y-3">
           <div className="flex items-center gap-3">
             <span className="material-symbols-outlined text-[#D1302C]">call</span>
@@ -306,8 +306,8 @@ export default async function RestaurantePage({ params }: Props) {
       {/* Traveler Tips */}
       {restaurant.dicasViajantes.length > 0 && (
         <>
-          <div className="px-4 py-6">
-            <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">dicas de viajantes</h2>
+          <div className="px-4 py-8">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Dicas de viajantes</h2>
             <div className="space-y-3">
               {restaurant.dicasViajantes.map((dica, index) => (
                 <div key={index} className="bg-gray-100 dark:bg-gray-800/50 p-4 rounded-lg">
@@ -326,8 +326,8 @@ export default async function RestaurantePage({ params }: Props) {
       )}
 
       {/* Location and Hours */}
-      <div id="localizacao" className="px-4 py-6">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">localização e horário</h2>
+      <div id="localizacao" className="px-4 py-8">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Localização e horário</h2>
         <div className="mb-4">
           <Map restaurants={[restaurant]} center={[restaurant.localizacao.coordenadas.latitude, restaurant.localizacao.coordenadas.longitude]} zoom={16} />
           <a
@@ -344,7 +344,7 @@ export default async function RestaurantePage({ params }: Props) {
           <div className="flex items-start gap-3 text-gray-800 dark:text-gray-200">
             <span className="material-symbols-outlined mt-0.5">schedule</span>
             <div className="flex-1">
-              <p className="font-bold mb-2">horário de funcionamento</p>
+              <p className="font-bold mb-2">Horário de funcionamento</p>
               <div className="space-y-1 text-sm">
                 {Object.entries(restaurant.horario.horarioFuncionamento).map(([dia, horario]) => (
                   <div key={dia} className="flex justify-between">
@@ -368,8 +368,8 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Reviews */}
-      <div className="px-4 py-6 pb-28">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">avaliações</h2>
+      <div className="px-4 py-8 pb-28">
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">Avaliações</h2>
         {restaurant.avaliacoes.avaliacoes.map((avaliacao, index) => (
           <div key={index} className="bg-gray-100 dark:bg-gray-800/50 p-4 rounded-lg mb-4">
             <div className="flex items-center mb-2">
@@ -406,9 +406,9 @@ export default async function RestaurantePage({ params }: Props) {
           <div className="px-4">
             <hr className="border-gray-200 dark:border-gray-800" />
           </div>
-          <div className="px-4 py-6 pb-28">
-            <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-              restaurantes semelhantes
+          <div className="px-4 py-8 pb-28">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-5">
+              Restaurantes semelhantes
             </h2>
             <div className="space-y-4">
               {relatedRestaurants.map((related) => (
