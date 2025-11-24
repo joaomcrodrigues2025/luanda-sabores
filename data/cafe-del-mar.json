@@ -1,0 +1,261 @@
+{
+  "id": "cafe-del-mar",
+  "nome": "Café Del Mar",
+  "descricao": "restaurante icónico na Ilha de Luanda com vista mar, cocktails e ambiente descontraído à beira-mar",
+  "descricaoCompleta": "o Café Del Mar é um dos espaços mais emblemáticos da Ilha de Luanda, localizado na Avenida Murtala Mohammed com vista privilegiada para o oceano Atlântico. este restaurante combina o ambiente descontraído de um beach club com uma oferta gastronómica variada que satisfaz todos os gostos. a carta inclui desde pratos leves como saladas, sanduíches e petiscos para partilhar, até pratos principais de peixe fresco, marisco e carnes grelhadas. o bar é particularmente famoso pelos seus cocktails tropicais, preparados com frutas frescas e servidos ao som de música ambiente. o espaço divide-se entre uma zona interior climatizada e uma ampla esplanada ao ar livre onde se pode desfrutar da brisa marítima e dos espectaculares pores-do-sol sobre o mar. aos fins de semana, o Café Del Mar transforma-se num ponto de encontro popular tanto para famílias durante o dia como para grupos de amigos à noite, com música ao vivo e DJ sets que animam as tardes e noites de Luanda. um clássico da ilha que combina boa comida, bebidas refrescantes e ambiente único.",
+  "localizacao": {
+    "endereco": "Avenida Murtala Mohammed, Ilha de Luanda, Angola",
+    "zona": "Ilha de Luanda",
+    "coordenadas": {
+      "latitude": -8.7644626,
+      "longitude": 13.2580142
+    }
+  },
+  "contactos": {
+    "telefone": "+244 923 456 789",
+    "telemovel": "+244 923 456 789",
+    "email": "info@cafedelmarluanda.ao",
+    "website": "https://www.cafedelmarluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/cafedelmarluanda",
+      "instagram": "https://www.instagram.com/cafedelmarluanda"
+    }
+  },
+  "tipoCozinha": [
+    "internacional",
+    "petiscos",
+    "marisco",
+    "grelhados",
+    "cocktails"
+  ],
+  "especialidades": [
+    "cocktails tropicais",
+    "camarão grelhado",
+    "peixe do dia",
+    "petiscos para partilhar",
+    "sanduíches gourmet",
+    "açaí bowl"
+  ],
+  "ambiente": [
+    "beach club",
+    "descontraído",
+    "vista mar",
+    "esplanada",
+    "música ao vivo",
+    "pôr-do-sol"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 7500,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para localização privilegiada na ilha. cocktails a partir de 2000 AOA"
+  },
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "tábua de queijos e enchidos",
+          "descricao": "selecção de queijos e enchidos com pão artesanal",
+          "preco": 5500
+        },
+        {
+          "nome": "camarão ao alho",
+          "descricao": "camarões salteados em azeite, alho e piri-piri",
+          "preco": 4500
+        },
+        {
+          "nome": "nachos del mar",
+          "descricao": "nachos com guacamole, queijo e molho de tomate",
+          "preco": 3800
+        },
+        {
+          "nome": "calamares fritos",
+          "descricao": "lulas panadas com molho tártaro",
+          "preco": 4200
+        }
+      ]
+    },
+    {
+      "categoria": "saladas e leves",
+      "pratos": [
+        {
+          "nome": "açaí bowl",
+          "descricao": "açaí com granola, banana e frutos vermelhos",
+          "preco": 3500
+        },
+        {
+          "nome": "salada caesar",
+          "descricao": "alface romana, frango grelhado, parmesão e croutons",
+          "preco": 4500
+        },
+        {
+          "nome": "poke bowl",
+          "descricao": "arroz, atum fresco, abacate, edamame e molho ponzu",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco grelhado com batata e legumes",
+          "preco": 8500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões tigre grelhados com molho de manteiga e alho",
+          "preco": 12500
+        },
+        {
+          "nome": "hambúrguer del mar",
+          "descricao": "hambúrguer gourmet com bacon, queijo e batata frita",
+          "preco": 5500
+        },
+        {
+          "nome": "espetada de frango",
+          "descricao": "espetada de frango marinado com arroz e salada",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "caipirinha",
+          "descricao": "cachaça, lima e açúcar",
+          "preco": 2200
+        },
+        {
+          "nome": "mojito",
+          "descricao": "rum, hortelã, lima e água com gás",
+          "preco": 2500
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "rum, leite de coco e ananás",
+          "preco": 2800
+        },
+        {
+          "nome": "sangria jarra",
+          "descricao": "vinho tinto com frutas (jarra)",
+          "preco": 5500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "10:00-00:00",
+      "terca": "10:00-00:00",
+      "quarta": "10:00-00:00",
+      "quinta": "10:00-01:00",
+      "sexta": "10:00-02:00",
+      "sabado": "09:00-02:00",
+      "domingo": "09:00-00:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "música ao vivo sexta e sábado. DJ set aos fins de semana"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 523,
+    "avaliacoes": [
+      {
+        "autor": "Pedro Almeida",
+        "nota": 5,
+        "comentario": "o melhor spot da ilha para ver o pôr-do-sol! cocktails excelentes e ambiente fantástico.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sarah Williams",
+        "nota": 4,
+        "comentario": "great atmosphere and beautiful views. the seafood was fresh and delicious. perfect for a relaxed afternoon.",
+        "data": "2025-11-14",
+        "origem": "Londres, UK"
+      },
+      {
+        "autor": "André Costa",
+        "nota": 4,
+        "comentario": "clássico da ilha! bom para ir com amigos ao fim de semana. os petiscos são bons e os cocktails bem servidos.",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento na avenida junto à praia. pode ser difícil aos fins de semana.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "ilha de luanda é zona turística segura",
+      "segurança no local",
+      "zona bem iluminada",
+      "recomenda-se táxi à noite"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "chegue cedo ao fim de semana se quiser mesa com vista para o mar. as melhores mesas esgotam rápido!",
+      "autor": "Rita Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o pôr-do-sol daqui é espectacular. peça um cocktail e aproveite o momento!",
+      "autor": "Miguel Ferreira",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música ao vivo e DJ sets aos fins de semana",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "beachClub": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Café Del Mar Luanda | Beach Club na Ilha de Luanda com Vista Mar",
+    "metaDescricao": "café del mar na ilha de luanda. cocktails, petiscos, marisco e música ao vivo com vista para o oceano. reservas: 923 456 789",
+    "tags": [
+      "Café Del Mar",
+      "Ilha de Luanda",
+      "beach club",
+      "cocktails",
+      "vista mar",
+      "pôr-do-sol",
+      "música ao vivo",
+      "petiscos"
+    ]
+  }
+}

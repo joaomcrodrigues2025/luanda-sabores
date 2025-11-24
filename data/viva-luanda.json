@@ -1,0 +1,269 @@
+{
+  "id": "viva-luanda",
+  "nome": "Restaurante Viva Luanda",
+  "descricao": "restaurante de fine dining na baixa de Luanda com cozinha internacional contemporânea e ambiente sofisticado",
+  "descricaoCompleta": "o Viva Luanda é um restaurante de fine dining que celebra a gastronomia internacional com toques de modernidade e criatividade. localizado na Rua de São Tomé, no coração da baixa de Luanda, o espaço oferece uma experiência gastronómica sofisticada num ambiente elegante e contemporâneo. a cozinha é comandada por um chef experiente que combina técnicas clássicas francesas com influências mediterrânicas e locais, criando pratos visualmente deslumbrantes e repletos de sabor. a carta muda sazonalmente para aproveitar os melhores ingredientes de cada época, mas mantém sempre os clássicos que fizeram a reputação do restaurante: o foie gras em várias preparações, os risotos cremosos, as carnes maturadas e os peixes do dia preparados com criatividade. a adega é impressionante, com mais de 200 referências de vinhos de todo o mundo, desde champagnes prestigiados a vinhos portugueses de pequenos produtores. o serviço é de excelência, com funcionários bem treinados e conhecedores da carta. o ambiente é perfeito para jantares românticos, celebrações especiais ou encontros de negócios onde se pretenda impressionar. reserva obrigatória, especialmente aos fins de semana.",
+  "localizacao": {
+    "endereco": "Rua de São Tomé nº 2, Centro, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Centro",
+    "coordenadas": {
+      "latitude": -8.8123975,
+      "longitude": 13.2435357
+    }
+  },
+  "contactos": {
+    "telefone": "+244 946 302 896",
+    "telemovel": "+244 946 302 896",
+    "email": "reservas@vivaluanda.ao",
+    "website": "https://www.vivaluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/vivaluandarestaurante",
+      "instagram": "https://www.instagram.com/vivaluanda"
+    }
+  },
+  "tipoCozinha": [
+    "internacional",
+    "contemporânea",
+    "francesa",
+    "mediterrânica",
+    "fine dining"
+  ],
+  "especialidades": [
+    "foie gras com chutney de figo",
+    "risotto de cogumelos trufado",
+    "lombo de wagyu",
+    "robalo em crosta de ervas",
+    "soufflé de chocolate",
+    "tártaro de atum"
+  ],
+  "ambiente": [
+    "sofisticado",
+    "elegante",
+    "romântico",
+    "fine dining",
+    "contemporâneo",
+    "exclusivo"
+  ],
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 18000,
+    "moeda": "AOA",
+    "observacao": "restaurante fine dining com preços premium. menu de degustação disponível"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "foie gras mi-cuit",
+          "descricao": "foie gras com chutney de figo, brioche tostado e flor de sal",
+          "preco": 7500
+        },
+        {
+          "nome": "tártaro de atum",
+          "descricao": "atum em tártaro com abacate, wasabi e chips de batata-doce",
+          "preco": 5800
+        },
+        {
+          "nome": "vieiras grelhadas",
+          "descricao": "vieiras com puré de couve-flor trufado e bacon crocante",
+          "preco": 7200
+        },
+        {
+          "nome": "carpaccio de novilho",
+          "descricao": "carpaccio finamente fatiado com rúcula, parmesão e azeite trufado",
+          "preco": 5500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - mar",
+      "pratos": [
+        {
+          "nome": "robalo em crosta de ervas",
+          "descricao": "robalo selvagem com crosta de ervas, espargos e molho de champagne",
+          "preco": 16500
+        },
+        {
+          "nome": "lavagante thermidor",
+          "descricao": "lavagante gratinado com molho thermidor e legumes da época",
+          "preco": 24000
+        },
+        {
+          "nome": "atum grelhado",
+          "descricao": "atum em ponto rosa com puré de batata-doce e legumes asiáticos",
+          "preco": 15500
+        },
+        {
+          "nome": "risotto de lagostins",
+          "descricao": "risotto cremoso com lagostins, açafrão e bisque de marisco",
+          "preco": 14500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - terra",
+      "pratos": [
+        {
+          "nome": "lombo de wagyu",
+          "descricao": "wagyu 200g grelhado com puré trufado e molho de vinho do Porto",
+          "preco": 28000
+        },
+        {
+          "nome": "magret de pato",
+          "descricao": "magret com redução de laranja, puré de castanha e legumes",
+          "preco": 15500
+        },
+        {
+          "nome": "borrego em crosta",
+          "descricao": "carré de borrego com crosta de ervas, ratatouille e jus",
+          "preco": 17500
+        },
+        {
+          "nome": "risotto de cogumelos trufado",
+          "descricao": "risotto cremoso com cogumelos selvagens e trufa negra",
+          "preco": 13500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "soufflé de chocolate",
+          "descricao": "soufflé de chocolate negro com gelado de baunilha (15 min)",
+          "preco": 3500
+        },
+        {
+          "nome": "crème brûlée",
+          "descricao": "crème brûlée clássica de baunilha de Madagáscar",
+          "preco": 2800
+        },
+        {
+          "nome": "tarte tatin",
+          "descricao": "tarte de maçã caramelizada com gelado de canela",
+          "preco": 3000
+        },
+        {
+          "nome": "selecção de queijos",
+          "descricao": "queijos franceses e portugueses com compota e nozes",
+          "preco": 4500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "19:00-23:00",
+      "quarta": "19:00-23:00",
+      "quinta": "19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-23:30",
+      "sabado": "12:00-15:00, 19:00-23:30",
+      "domingo": "12:00-15:30"
+    },
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
+    "observacoes": "reserva obrigatória. encerrado às segundas-feiras. almoço apenas sexta a domingo"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 145,
+    "avaliacoes": [
+      {
+        "autor": "Mariana Costa",
+        "nota": 5,
+        "comentario": "experiência gastronómica excepcional! o foie gras é sublime e o serviço impecável. perfeito para ocasiões especiais.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Laurent Dupont",
+        "nota": 4,
+        "comentario": "excellent restaurant avec une cuisine raffinée. le robalo était parfait et la carte des vins impressionnante.",
+        "data": "2025-11-14",
+        "origem": "Paris, França"
+      },
+      {
+        "autor": "Sandra Mendes",
+        "nota": 5,
+        "comentario": "o melhor fine dining de Luanda! cada prato é uma obra de arte. vale cada kwanza!",
+        "data": "2025-11-06",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "valet parking",
+    "informacaoEstacionamento": "serviço de valet parking disponível à porta do restaurante. seguro e conveniente.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da baixa com boa iluminação",
+      "valet parking disponível",
+      "segurança à porta do restaurante",
+      "táxi ou transfere recomendado à noite"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência, especialmente para jantares ao fim de semana. o menu de degustação com harmonização de vinhos é espectacular!",
+      "autor": "Patrícia Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o soufflé de chocolate deve ser pedido no início do jantar, pois demora 15 minutos. vale muito a pena esperar!",
+      "autor": "Francisco Lopes",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "dresscode": "smart elegant"
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1481931098730-318b6f776db0?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Viva Luanda - Restaurante Fine Dining na Baixa de Luanda | Alta Gastronomia",
+    "metaDescricao": "restaurante fine dining na baixa de Luanda. cozinha internacional contemporânea, foie gras, carnes premium, carta de vinhos premiada. reservas: 946 302 896",
+    "tags": [
+      "fine dining",
+      "alta gastronomia",
+      "internacional",
+      "romântico",
+      "elegante",
+      "baixa de luanda",
+      "foie gras",
+      "wagyu",
+      "exclusivo"
+    ]
+  }
+}

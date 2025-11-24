@@ -1,0 +1,262 @@
+{
+  "id": "o-naval",
+  "nome": "Restaurante O Naval",
+  "descricao": "restaurante clássico no Clube Naval de Luanda com especialidade em peixe fresco e marisco num ambiente náutico único",
+  "descricaoCompleta": "o Restaurante O Naval é uma instituição gastronómica de Luanda, localizado no prestigiado Clube Naval na marginal da cidade. este restaurante combina a tradição marítima angolana com uma cozinha focada no melhor peixe e marisco frescos, preparados com simplicidade e respeito pelos ingredientes. a localização privilegiada junto ao mar oferece uma experiência única onde se pode saborear o oceano enquanto se desfruta das suas melhores ofertas gastronómicas. a decoração mantém o espírito náutico do clube, com elementos marítimos que criam uma atmosfera autêntica e acolhedora. a carta destaca-se pelas caldeiradas, arroz de marisco, peixe grelhado do dia e as famosas lagostas que chegam directamente dos pescadores locais. o serviço é tradicional e familiar, com funcionários que conhecem os clientes de longa data e sabem aconselhar as melhores escolhas do dia. O Naval é particularmente popular aos domingos para almoços em família, uma tradição de várias gerações de luandenses. uma experiência autêntica para quem aprecia a verdadeira cozinha do mar em Luanda.",
+  "localizacao": {
+    "endereco": "Clube Naval de Luanda, Avenida Murtala Mohamed, Luanda, Angola",
+    "zona": "Marginal de Luanda - Clube Naval",
+    "coordenadas": {
+      "latitude": -8.797710799999999,
+      "longitude": 13.2243831
+    }
+  },
+  "contactos": {
+    "telefone": "+244 222 337 891",
+    "telemovel": "+244 924 337 891",
+    "email": "restaurante@clubenaval.ao",
+    "website": "https://www.clubenaval.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/ClubeNavalLuanda",
+      "instagram": "https://www.instagram.com/clubenavalluanda"
+    }
+  },
+  "tipoCozinha": [
+    "marisco",
+    "peixe",
+    "portuguesa",
+    "tradicional",
+    "grelhados"
+  ],
+  "especialidades": [
+    "caldeirada de peixe",
+    "arroz de marisco",
+    "lagosta grelhada",
+    "peixe do dia grelhado",
+    "camarão à O Naval",
+    "cataplana de marisco"
+  ],
+  "ambiente": [
+    "náutico",
+    "tradicional",
+    "familiar",
+    "clube privado",
+    "vista mar",
+    "clássico"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 12000,
+    "moeda": "AOA",
+    "observacao": "preços justos para a qualidade do marisco fresco. lagosta vendida ao peso"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "conquilhas à bulhão pato",
+          "descricao": "conquilhas salteadas com alho, azeite e coentros",
+          "preco": 4500
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo cozido com cebola, pimento e azeite",
+          "preco": 5200
+        },
+        {
+          "nome": "gambas ao alho",
+          "descricao": "gambas salteadas em azeite com alho e piri-piri",
+          "preco": 4800
+        },
+        {
+          "nome": "caldo de peixe",
+          "descricao": "caldo tradicional de peixe com legumes",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "peixes",
+      "pratos": [
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco grelhado com batata cozida e legumes",
+          "preco": 9500
+        },
+        {
+          "nome": "bacalhau à naval",
+          "descricao": "lombo de bacalhau com broa, azeite e batata a murro",
+          "preco": 11500
+        },
+        {
+          "nome": "robalo ao sal",
+          "descricao": "robalo inteiro assado em crosta de sal",
+          "preco": 13500
+        },
+        {
+          "nome": "dourada grelhada",
+          "descricao": "dourada inteira grelhada com batata e salada",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "mariscos",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta fresca grelhada com manteiga de ervas (preço por kg)",
+          "preco": 18000
+        },
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com camarão, amêijoas, mexilhões e lagostins",
+          "preco": 14500
+        },
+        {
+          "nome": "caldeirada de peixe",
+          "descricao": "caldeirada com peixes variados, batata e molho de tomate",
+          "preco": 12500
+        },
+        {
+          "nome": "camarão à O Naval",
+          "descricao": "camarões grelhados com molho especial da casa",
+          "preco": 13500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de ovos",
+          "descricao": "pudim tradicional português com caramelo",
+          "preco": 2000
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse de chocolate negro",
+          "preco": 2200
+        },
+        {
+          "nome": "fruta da época",
+          "descricao": "selecção de frutas tropicais frescas",
+          "preco": 1800
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-22:00",
+      "sexta": "12:00-15:00, 19:00-22:30",
+      "sabado": "12:00-16:00, 19:00-22:30",
+      "domingo": "12:00-16:00"
+    },
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
+    "observacoes": "reserva recomendada especialmente aos domingos. encerrado às segundas"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 387,
+    "avaliacoes": [
+      {
+        "autor": "Fernando Gomes",
+        "nota": 5,
+        "comentario": "o melhor marisco de Luanda! a caldeirada é espectacular e o peixe sempre fresquíssimo. tradição familiar há anos.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Maria João",
+        "nota": 5,
+        "comentario": "restaurante clássico com qualidade consistente. o arroz de marisco é dos melhores que já comi. ambiente autêntico.",
+        "data": "2025-11-12",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Mendes",
+        "nota": 4,
+        "comentario": "tradição em Luanda. aos domingos é ponto de encontro familiar. a lagosta grelhada vale cada kwanza!",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento do clube",
+    "informacaoEstacionamento": "estacionamento no recinto do Clube Naval com vigilância.",
+    "capacidadeEstacionamento": 60,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "clube privado com segurança",
+      "zona da marginal bem policiada",
+      "estacionamento vigiado",
+      "ambiente familiar e seguro"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "reserve sempre aos domingos - é muito concorrido para almoços de família. peça a caldeirada para duas pessoas!",
+      "autor": "António Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "pergunte qual é o peixe do dia - normalmente é o mais fresco e bem preparado.",
+      "autor": "Marta Ferreira",
+      "origem": "Porto, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "clubePrivado": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante O Naval - Clube Naval de Luanda | Marisco e Peixe Fresco",
+    "metaDescricao": "restaurante o naval no clube naval de luanda. marisco fresco, caldeirada, lagosta e peixe grelhado. tradição desde sempre. reservas: 222 337 891",
+    "tags": [
+      "O Naval",
+      "Clube Naval",
+      "marisco",
+      "peixe",
+      "caldeirada",
+      "lagosta",
+      "tradicional",
+      "marginal luanda"
+    ]
+  }
+}

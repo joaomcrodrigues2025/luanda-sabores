@@ -1,0 +1,289 @@
+{
+  "id": "tocota",
+  "nome": "Restaurante Tocota",
+  "descricao": "restaurante tradicional angolano na Rua Nicolau Gomes Spencer com especialidades locais e ambiente autêntico",
+  "descricaoCompleta": "o Restaurante Tocota é um estabelecimento dedicado à cozinha tradicional angolana, localizado na Rua Nicolau Gomes Spencer, uma área histórica de Luanda. o nome 'Tocota' é uma palavra kimbundu que significa 'comer bem', e é exactamente isso que o restaurante se propõe a oferecer: comida angolana autêntica num ambiente acolhedor e familiar. a carta apresenta os clássicos da gastronomia nacional: muamba de galinha, calulu, funge em várias preparações, mufete e pratos de peixe fresco. a cozinha segue receitas tradicionais passadas de geração em geração, utilizando ingredientes locais de qualidade. o ambiente é simples mas cuidado, com decoração que homenageia a cultura angolana através de artesanato local, tecidos tradicionais e fotografias históricas de Luanda. a clientela é maioritariamente local - famílias angolanas, trabalhadores da zona e expatriados que procuram sabores autênticos. ao almoço, o movimento é intenso com o prato do dia que oferece excelente relação qualidade-preço. aos fins de semana, é comum ver famílias a partilhar grandes travessas de muamba acompanhada de funge. o Tocota representa a essência da hospitalidade angolana onde comer é sempre um momento de partilha e celebração.",
+  "localizacao": {
+    "endereco": "Rua Nicolau Gomes Spencer, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda",
+    "coordenadas": {
+      "latitude": -8.823665799999999,
+      "longitude": 13.2404618
+    }
+  },
+  "contactos": {
+    "telefone": "+244 923 456 123",
+    "telemovel": "+244 923 456 123",
+    "email": "restaurantetocota@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restaurantetocota",
+      "instagram": "https://www.instagram.com/restaurantetocota"
+    }
+  },
+  "tipoCozinha": [
+    "angolana",
+    "tradicional",
+    "africana",
+    "caseira"
+  ],
+  "especialidades": [
+    "muamba de galinha",
+    "calulu de peixe",
+    "mufete completo",
+    "funge com molhos",
+    "pirão de peixe",
+    "cocada"
+  ],
+  "ambiente": [
+    "tradicional",
+    "familiar",
+    "caseiro",
+    "autêntico",
+    "local",
+    "acolhedor"
+  ],
+  "precos": {
+    "faixaPreco": 1,
+    "faixaPrecoTexto": "$",
+    "precoMedio": 4500,
+    "moeda": "AOA",
+    "observacao": "preços muito acessíveis. prato do dia ao almoço com excelente custo-benefício"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ginguba com jindungo",
+          "descricao": "amendoim torrado com piri-piri",
+          "preco": 1000
+        },
+        {
+          "nome": "feijão de óleo de palma",
+          "descricao": "feijão cozido com dendém",
+          "preco": 1800
+        },
+        {
+          "nome": "kizaka",
+          "descricao": "folhas de mandioca com ginguba moída",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos do dia",
+      "pratos": [
+        {
+          "nome": "prato do dia",
+          "descricao": "prato do dia com arroz/funge e salada (varia diariamente)",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "muambas",
+      "pratos": [
+        {
+          "nome": "muamba de galinha",
+          "descricao": "galinha em molho de ginguba com quiabos e funge",
+          "preco": 5500
+        },
+        {
+          "nome": "muamba de peixe",
+          "descricao": "peixe em molho de ginguba com legumes e funge",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de peixe",
+      "pratos": [
+        {
+          "nome": "calulu de peixe",
+          "descricao": "peixe seco com quiabos, tomate e óleo de palma",
+          "preco": 5500
+        },
+        {
+          "nome": "mufete completo",
+          "descricao": "peixe grelhado com feijão de óleo de palma, banana e farinha",
+          "preco": 6000
+        },
+        {
+          "nome": "pirão de peixe",
+          "descricao": "peixe cozido em molho grosso com funge",
+          "preco": 4800
+        },
+        {
+          "nome": "peixe grelhado",
+          "descricao": "peixe do dia grelhado com acompanhamento à escolha",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de carne",
+      "pratos": [
+        {
+          "nome": "carne seca com funge",
+          "descricao": "carne seca frita com funge e molho",
+          "preco": 4500
+        },
+        {
+          "nome": "cabidela",
+          "descricao": "galinha cozida no sangue com arroz",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "funge de bombó",
+          "descricao": "funge de farinha de mandioca",
+          "preco": 700
+        },
+        {
+          "nome": "arroz branco",
+          "descricao": "porção de arroz",
+          "preco": 500
+        },
+        {
+          "nome": "banana frita",
+          "descricao": "banana da terra frita",
+          "preco": 800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cocada",
+          "descricao": "doce tradicional de coco",
+          "preco": 1200
+        },
+        {
+          "nome": "doce de ginguba",
+          "descricao": "doce tradicional de amendoim",
+          "preco": 1000
+        },
+        {
+          "nome": "fruta da época",
+          "descricao": "frutas tropicais frescas",
+          "preco": 1500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-21:00",
+      "terca": "11:00-21:00",
+      "quarta": "11:00-21:00",
+      "quinta": "11:00-21:00",
+      "sexta": "11:00-21:00",
+      "sabado": "11:00-21:00",
+      "domingo": "11:00-18:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "prato do dia servido ao almoço. domingo encerra mais cedo"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.1,
+    "numeroAvaliacoes": 178,
+    "avaliacoes": [
+      {
+        "autor": "Joaquina Domingos",
+        "nota": 4,
+        "comentario": "comida como em casa! a muamba é das melhores de Luanda. preços honestos e ambiente familiar.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Pedro Nunes",
+        "nota": 4,
+        "comentario": "excelente para conhecer a verdadeira comida angolana. o mufete é muito bom!",
+        "data": "2025-11-11",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Maria das Dores",
+        "nota": 4,
+        "comentario": "restaurante simples mas com comida autêntica. os funcionários são muito simpáticos!",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": false,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento na rua. zona pode estar congestionada ao almoço.",
+    "capacidadeEstacionamento": 0,
+    "custoEstacionamento": "na rua"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada durante o dia",
+      "frequentado por locais",
+      "evitar objectos de valor visíveis",
+      "ir de dia é mais recomendado"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o prato do dia ao almoço é a melhor opção custo-benefício. chegue cedo pois acaba rápido!",
+      "autor": "Sofia Gomes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peçam muamba para partilhar em grupo - é mais saborosa e rende mais!",
+      "autor": "Carlos Alberto",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "cozinhaCaseira": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Tocota - Comida Angolana Tradicional em Luanda",
+    "metaDescricao": "tocota serve comida angolana tradicional autêntica. muamba, calulu, mufete, funge. preços acessíveis na baixa de luanda. contacto: 923 456 123",
+    "tags": [
+      "Tocota",
+      "angolano",
+      "tradicional",
+      "muamba",
+      "caseiro",
+      "barato",
+      "baixa de luanda",
+      "autêntico"
+    ]
+  }
+}

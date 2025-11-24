@@ -1,0 +1,272 @@
+{
+  "id": "madeirense-cidade",
+  "nome": "O Madeirense Cidade",
+  "descricao": "restaurante português especializado em carnes e cozinha tradicional da Madeira na baixa de Luanda",
+  "descricaoCompleta": "o Madeirense Cidade traz os autênticos sabores da ilha da Madeira para o coração de Luanda. localizado na Rua José Anchieta, no centro da cidade, este restaurante é uma referência para quem aprecia a genuína cozinha portuguesa, com especial destaque para as especialidades madeirenses. a casa é conhecida pelas suas carnes de qualidade superior, incluindo a famosa espetada em pau de louro, o bolo do caco e o picado à madeirense. a decoração evoca as típicas tascas madeirenses, com azulejos, madeiras e elementos que transportam os clientes para a ilha. além das especialidades da Madeira, o restaurante oferece uma carta variada de pratos portugueses tradicionais, incluindo bacalhau preparado de diversas formas, peixes grelhados e mariscos frescos. a carta de vinhos privilegia rótulos portugueses, com destaque para os vinhos da Madeira e vinhos continentais de diversas regiões. o ambiente é acolhedor e familiar, com serviço simpático e conhecedor das tradições gastronómicas portuguesas. é um local de eleição para a comunidade portuguesa em Luanda e para angolanos que apreciam a boa cozinha lusitana.",
+  "localizacao": {
+    "endereco": "Rua José Anchieta 19, Centro, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Centro",
+    "coordenadas": {
+      "latitude": -8.8211024,
+      "longitude": 13.2436947
+    }
+  },
+  "contactos": {
+    "telefone": "+244 932 056 860",
+    "telemovel": "+244 932 056 860",
+    "email": "madeirensecidade@restaurante.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/madeirensecidade",
+      "instagram": "https://www.instagram.com/madeirensecidade"
+    }
+  },
+  "tipoCozinha": [
+    "portuguesa",
+    "madeirense",
+    "carnes",
+    "tradicional"
+  ],
+  "especialidades": [
+    "espetada em pau de louro",
+    "picado à madeirense",
+    "bolo do caco",
+    "bacalhau à brás",
+    "bitoque à portuguesa",
+    "milho frito madeirense"
+  ],
+  "ambiente": [
+    "tradicional",
+    "acolhedor",
+    "familiar",
+    "típico português",
+    "casual"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 8000,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para porções generosas de comida tradicional portuguesa"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "bolo do caco",
+          "descricao": "tradicional pão madeirense com manteiga de alho",
+          "preco": 1500
+        },
+        {
+          "nome": "lapas grelhadas",
+          "descricao": "lapas frescas grelhadas com manteiga de alho",
+          "preco": 4500
+        },
+        {
+          "nome": "peixinhos da horta",
+          "descricao": "feijão verde em massa crocante",
+          "preco": 2200
+        },
+        {
+          "nome": "chouriço assado",
+          "descricao": "chouriço transmontano flambado",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "especialidades madeirenses",
+      "pratos": [
+        {
+          "nome": "espetada em pau de louro",
+          "descricao": "espetada de carne de vaca em pau de louro com milho frito e bolo do caco",
+          "preco": 9500
+        },
+        {
+          "nome": "picado à madeirense",
+          "descricao": "cubos de carne de vaca salteados com alho, louro e piri-piri",
+          "preco": 7500
+        },
+        {
+          "nome": "milho frito com couve",
+          "descricao": "acompanhamento tradicional madeirense",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes",
+      "pratos": [
+        {
+          "nome": "bitoque à portuguesa",
+          "descricao": "bife com ovo a cavalo, batatas fritas e arroz",
+          "preco": 6500
+        },
+        {
+          "nome": "costeletão de novilho",
+          "descricao": "costeleta grande grelhada com batata a murro",
+          "preco": 12000
+        },
+        {
+          "nome": "prego no prato",
+          "descricao": "bife de vaca suculento com ovo, presunto e batatas",
+          "preco": 7000
+        },
+        {
+          "nome": "frango piri-piri",
+          "descricao": "meio frango grelhado com molho piri-piri e batata frita",
+          "preco": 5500
+        }
+      ]
+    },
+    {
+      "categoria": "bacalhau",
+      "pratos": [
+        {
+          "nome": "bacalhau à brás",
+          "descricao": "lascas de bacalhau com ovos, batata palha e azeitonas",
+          "preco": 8500
+        },
+        {
+          "nome": "bacalhau à lagareiro",
+          "descricao": "posta de bacalhau assado com batata a murro e azeite",
+          "preco": 9500
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas caseiras com arroz de feijão",
+          "preco": 6500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "bolo de mel da Madeira",
+          "descricao": "tradicional bolo de mel madeirense",
+          "preco": 1800
+        },
+        {
+          "nome": "pudim de maracujá",
+          "descricao": "pudim cremoso de maracujá",
+          "preco": 1600
+        },
+        {
+          "nome": "queijada de leite",
+          "descricao": "queijada tradicional portuguesa",
+          "preco": 1500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:30-22:00",
+      "terca": "11:30-22:00",
+      "quarta": "11:30-22:00",
+      "quinta": "11:30-22:00",
+      "sexta": "11:30-23:00",
+      "sabado": "11:30-23:00",
+      "domingo": "11:30-21:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. aos domingos fecha mais cedo"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 234,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Sousa",
+        "nota": 5,
+        "comentario": "melhor espetada em pau de louro de Luanda! sabor autêntico da Madeira. porções muito generosas e preço justo.",
+        "data": "2025-11-17",
+        "origem": "Funchal, Portugal"
+      },
+      {
+        "autor": "Ana Rita",
+        "nota": 4,
+        "comentario": "comida portuguesa de qualidade. o bacalhau à brás estava delicioso. ambiente acolhedor e serviço simpático.",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Carlos Nunes",
+        "nota": 4,
+        "comentario": "boa tasca portuguesa na baixa. o picado à madeirense é imperdível!",
+        "data": "2025-11-03",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento disponível nas ruas adjacentes. zona movimentada durante o dia.",
+    "capacidadeEstacionamento": 10,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona comercial movimentada durante o dia",
+      "evitar visitas muito tardias durante a semana",
+      "aos fins de semana há mais movimento na zona",
+      "estacionar em locais iluminados"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+  "dicasViajantes": [
+    {
+      "dica": "a espetada em pau de louro é obrigatória! peça com bolo do caco e milho frito para a experiência completa.",
+      "autor": "João Miguel",
+      "origem": "Funchal, Portugal"
+    },
+    {
+      "dica": "as porções são muito generosas. considere partilhar os pratos se não tiver muita fome.",
+      "autor": "Teresa Gomes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "https://images.unsplash.com/photo-1558030006-450675393462?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "O Madeirense Cidade - Restaurante Português em Luanda | Espetada em Pau de Louro",
+    "metaDescricao": "restaurante português e madeirense na baixa de Luanda. espetada em pau de louro, picado, bacalhau e carnes grelhadas. contacto: 932 056 860",
+    "tags": [
+      "português",
+      "madeirense",
+      "espetada",
+      "carnes",
+      "bacalhau",
+      "tradicional",
+      "baixa de luanda",
+      "tasca"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "intercontinental-miramar",
+  "nome": "Restaurante Miramar - InterContinental",
+  "descricao": "restaurante principal do hotel InterContinental Luanda com buffet internacional e vista panorâmica sobre a baía",
+  "descricaoCompleta": "o Restaurante Miramar é o espaço gastronómico principal do prestigiado InterContinental Luanda Miramar, um dos hotéis mais emblemáticos de Angola. localizado no edifício com vista privilegiada para a baía de Luanda, o restaurante oferece uma experiência gastronómica de classe mundial com buffets internacionais e serviço à carta. os pequenos-almoços são particularmente famosos, com um buffet extenso que combina especialidades internacionais com pratos locais angolanos, atendendo tanto a hóspedes de negócios como a turistas. ao almoço e jantar, a cozinha apresenta pratos internacionais preparados com técnicas contemporâneas e ingredientes de primeira qualidade. o espaço é amplo e elegante, com decoração que combina elementos contemporâneos com toques de arte africana. as janelas panorâmicas oferecem vistas deslumbrantes sobre o mar e a marginal de Luanda. o serviço é característico do padrão InterContinental: profissional, atencioso e multilíngue. o restaurante é popular não só entre os hóspedes do hotel mas também entre executivos locais que apreciam o ambiente sofisticado para refeições de negócios. ao fim de semana, o brunch de domingo é um dos mais concorridos de Luanda.",
+  "localizacao": {
+    "endereco": "Rua Nehru 2, Hotel InterContinental Luanda Miramar, Angola",
+    "zona": "Baixa de Luanda - Miramar",
+    "coordenadas": {
+      "latitude": -8.8115615,
+      "longitude": 13.2425289
+    }
+  },
+  "contactos": {
+    "telefone": "+244 226 300 000",
+    "telemovel": "+244 926 300 000",
+    "email": "miramar@ihg.com",
+    "website": "https://www.ihg.com/intercontinental/hotels/luanda",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/InterContinentalLuanda",
+      "instagram": "https://www.instagram.com/intercontinentalluanda"
+    }
+  },
+  "tipoCozinha": [
+    "internacional",
+    "buffet",
+    "contemporânea",
+    "portuguesa",
+    "angolana"
+  ],
+  "especialidades": [
+    "buffet de pequeno-almoço",
+    "brunch de domingo",
+    "pratos do dia",
+    "carnes premium",
+    "marisco fresco",
+    "sobremesas internacionais"
+  ],
+  "ambiente": [
+    "elegante",
+    "sofisticado",
+    "vista mar",
+    "hotel de luxo",
+    "internacional",
+    "negócios"
+  ],
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 16000,
+    "moeda": "AOA",
+    "observacao": "buffet de pequeno-almoço incluído para hóspedes. brunch de domingo aproximadamente 12000 AOA"
+  },
+  "menu": [
+    {
+      "categoria": "pequeno-almoço buffet",
+      "pratos": [
+        {
+          "nome": "buffet continental completo",
+          "descricao": "selecção completa de pães, queijos, frios, ovos, frutas frescas e especialidades locais",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "entradas à carta",
+      "pratos": [
+        {
+          "nome": "sopa do dia",
+          "descricao": "sopa fresca preparada diariamente com ingredientes da época",
+          "preco": 2200
+        },
+        {
+          "nome": "cocktail de camarão",
+          "descricao": "camarões frescos com molho cocktail e abacate",
+          "preco": 4800
+        },
+        {
+          "nome": "carpaccio de salmão",
+          "descricao": "salmão marinado com alcaparras, cebola roxa e azeite",
+          "preco": 5200
+        },
+        {
+          "nome": "salada Caesar",
+          "descricao": "alface romana, croutons, parmesão e molho caesar com opção de frango",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco do dia grelhado com legumes e molho de limão",
+          "preco": 12500
+        },
+        {
+          "nome": "lombo de novilho",
+          "descricao": "lombo grelhado 250g com puré de batata e molho de cogumelos",
+          "preco": 15500
+        },
+        {
+          "nome": "risotto de marisco",
+          "descricao": "risotto cremoso com camarão, lulas e mexilhões",
+          "preco": 11500
+        },
+        {
+          "nome": "frango piri-piri",
+          "descricao": "frango grelhado com molho piri-piri caseiro e batatas",
+          "preco": 8500
+        },
+        {
+          "nome": "massada de peixe",
+          "descricao": "massa seca com peixe, mariscos e molho de tomate",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de leite",
+          "descricao": "pudim tradicional com caramelo",
+          "preco": 2200
+        },
+        {
+          "nome": "cheesecake do dia",
+          "descricao": "cheesecake com sabor que varia diariamente",
+          "preco": 2500
+        },
+        {
+          "nome": "frutas frescas",
+          "descricao": "selecção de frutas tropicais frescas",
+          "preco": 2000
+        },
+        {
+          "nome": "gelado artesanal",
+          "descricao": "três bolas de gelado à escolha",
+          "preco": 2200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "06:30-10:30, 12:00-22:30",
+      "terca": "06:30-10:30, 12:00-22:30",
+      "quarta": "06:30-10:30, 12:00-22:30",
+      "quinta": "06:30-10:30, 12:00-22:30",
+      "sexta": "06:30-10:30, 12:00-22:30",
+      "sabado": "06:30-11:00, 12:00-23:00",
+      "domingo": "06:30-11:00, 12:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "pequeno-almoço 06:30-10:30, almoço/jantar 12:00-22:30. brunch de domingo 12:00-15:00"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "David Thompson",
+        "nota": 5,
+        "comentario": "excellent buffet breakfast with great variety! the view over the bay is stunning. professional service throughout.",
+        "data": "2025-11-22",
+        "origem": "Londres, UK"
+      },
+      {
+        "autor": "Ana Paula",
+        "nota": 5,
+        "comentario": "o brunch de domingo é fantástico! variedade incrível de pratos e champagne incluído. ambiente muito elegante.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Jean-Pierre Martin",
+        "nota": 4,
+        "comentario": "très bon restaurant d'hôtel. service impeccable et cuisine de qualité. parfait pour les réunions d'affaires.",
+        "data": "2025-11-12",
+        "origem": "Paris, França"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento do hotel com valet",
+    "informacaoEstacionamento": "estacionamento subterrâneo do hotel InterContinental com serviço de valet parking. segurança 24h.",
+    "capacidadeEstacionamento": 150,
+    "custoEstacionamento": "gratuito para clientes do restaurante"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "hotel 5 estrelas com segurança máxima",
+      "acesso controlado ao hotel",
+      "estacionamento seguro subterrâneo",
+      "zona Miramar bem policiada"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o brunch de domingo é uma instituição em Luanda. reserve com antecedência, especialmente para mesas com vista.",
+      "autor": "Rita Ferreira",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se ficar hospedado no hotel, o pequeno-almoço buffet é excepcional - não perca as omeletes feitas na hora!",
+      "autor": "Mark Johnson",
+      "origem": "Houston, EUA"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "hotelRestaurante": true,
+    "brunch": true,
+    "buffet": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Miramar - InterContinental Luanda | Buffet Internacional com Vista Mar",
+    "metaDescricao": "restaurante do InterContinental Luanda com buffet internacional, brunch de domingo e vista panorâmica para a baía. reservas: 226 300 000",
+    "tags": [
+      "InterContinental",
+      "hotel 5 estrelas",
+      "buffet",
+      "brunch",
+      "vista mar",
+      "internacional",
+      "negócios",
+      "baixa de luanda",
+      "luxo"
+    ]
+  }
+}

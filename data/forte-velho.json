@@ -1,0 +1,254 @@
+{
+  "id": "forte-velho",
+  "nome": "Restaurante Forte Velho",
+  "descricao": "restaurante tradicional angolano na marginal de Luanda com vista privilegiada para a fortaleza e o mar",
+  "descricaoCompleta": "o Restaurante Forte Velho está localizado numa posição privilegiada na Avenida 4 de Fevereiro, junto à histórica Fortaleza de São Miguel, oferecendo uma das vistas mais emblemáticas de Luanda. este espaço combina a gastronomia tradicional angolana com influências portuguesas, num ambiente que celebra a história e cultura de Angola. a localização junto à fortaleza secular confere ao restaurante um charme histórico único, com vistas panorâmicas para o oceano atlântico e para a marina de Luanda. a cozinha destaca-se pelos pratos de marisco fresco, especialidades angolanas como a muamba de galinha e o calulu, e pelos pratos de peixe grelhado capturado diariamente. o espaço conta com uma esplanada generosa que permite desfrutar das brisas marinhas enquanto se aprecia a gastronomia local. o ambiente é acolhedor e descontraído, perfeito para almoços prolongados ou jantares ao pôr do sol. o serviço é atencioso e conhecedor da tradição culinária angolana, sempre pronto a aconselhar sobre os pratos do dia e as especialidades da casa.",
+  "localizacao": {
+    "endereco": "Avenida 4 de Fevereiro, junto à Fortaleza de São Miguel, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Marginal",
+    "coordenadas": {
+      "latitude": -8.8072439,
+      "longitude": 13.2233472
+    }
+  },
+  "contactos": {
+    "telefone": "+244 946 125 858",
+    "telemovel": "+244 946 125 858",
+    "email": "fortevelho@restaurante.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/fortvelho",
+      "instagram": "https://www.instagram.com/fortevelho"
+    }
+  },
+  "tipoCozinha": [
+    "angolana",
+    "portuguesa",
+    "marisco",
+    "peixe grelhado"
+  ],
+  "especialidades": [
+    "muamba de galinha",
+    "calulu de peixe",
+    "lagosta grelhada",
+    "camarão tigre grelhado",
+    "funge com molho de peixe",
+    "arroz de marisco"
+  ],
+  "ambiente": [
+    "histórico",
+    "vista mar",
+    "esplanada",
+    "tradicional",
+    "familiar",
+    "marginal"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 12000,
+    "moeda": "AOA",
+    "observacao": "preços justos para a qualidade e localização privilegiada junto à fortaleza"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "croquetes de marisco",
+          "descricao": "croquetes caseiros de camarão e peixe",
+          "preco": 2800
+        },
+        {
+          "nome": "cocktail de camarão",
+          "descricao": "camarões frescos com molho cocktail e abacate",
+          "preco": 4500
+        },
+        {
+          "nome": "mussambê",
+          "descricao": "folhas de mandioca cozidas com amendoim e peixe seco",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de mar",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta fresca grelhada com manteiga de alho e limão",
+          "preco": 18500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões tigre grelhados com alho e piri-piri",
+          "preco": 14000
+        },
+        {
+          "nome": "calulu de peixe",
+          "descricao": "prato tradicional angolano com peixe, quiabo e óleo de palma",
+          "preco": 8500
+        },
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com lagosta, camarão e amêijoas",
+          "preco": 12500
+        },
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco do dia grelhado com batatas e legumes",
+          "preco": 9500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos tradicionais",
+      "pratos": [
+        {
+          "nome": "muamba de galinha",
+          "descricao": "galinha estufada em molho de ginguba com óleo de palma",
+          "preco": 7500
+        },
+        {
+          "nome": "funge com molho de peixe",
+          "descricao": "funge tradicional acompanhado de molho de peixe saboroso",
+          "preco": 5500
+        },
+        {
+          "nome": "cabidela de galinha",
+          "descricao": "galinha cozinhada no próprio sangue com arroz",
+          "preco": 7000
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cocada",
+          "descricao": "doce tradicional de coco e açúcar",
+          "preco": 1500
+        },
+        {
+          "nome": "doce de ginguba",
+          "descricao": "doce tradicional de amendoim",
+          "preco": 1400
+        },
+        {
+          "nome": "pudim de leite",
+          "descricao": "pudim cremoso com caramelo",
+          "preco": 1800
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-22:00",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-22:00",
+      "sexta": "11:00-23:00",
+      "sabado": "11:00-23:00",
+      "domingo": "11:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. reservas recomendadas aos fins de semana"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.3,
+    "numeroAvaliacoes": 198,
+    "avaliacoes": [
+      {
+        "autor": "António Silva",
+        "nota": 5,
+        "comentario": "localização fantástica junto à fortaleza! a muamba de galinha é das melhores que já comi em Luanda. vista espectacular!",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sofia Rodrigues",
+        "nota": 4,
+        "comentario": "adorei a esplanada com vista para o mar. marisco muito fresco e bem preparado. preços razoáveis para a zona.",
+        "data": "2025-11-12",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "João Manuel",
+        "nota": 4,
+        "comentario": "excelente para apreciar comida tradicional angolana num local histórico. o calulu estava delicioso!",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na rua com arrumadores",
+    "informacaoEstacionamento": "estacionamento na Avenida 4 de Fevereiro com arrumadores disponíveis. zona relativamente fácil para estacionar durante o dia.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gorjeta aos arrumadores"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da marginal com presença policial regular",
+      "arrumadores de confiança na zona",
+      "evitar deixar valores visíveis no carro",
+      "zona iluminada à noite"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": false
+  },
+  "dicasViajantes": [
+    {
+      "dica": "chegue antes do pôr do sol para apreciar a vista sobre a fortaleza com a luz dourada. é mágico!",
+      "autor": "Helena Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "prove a muamba de galinha, é um prato tradicional que fazem muito bem aqui.",
+      "autor": "Rui Fernandes",
+      "origem": "Porto, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Forte Velho - Comida Tradicional Angolana na Marginal de Luanda",
+    "metaDescricao": "restaurante tradicional angolano junto à Fortaleza de São Miguel. muamba, calulu, marisco fresco e vista para o mar. contacto: 946 125 858",
+    "tags": [
+      "angolano",
+      "tradicional",
+      "marginal",
+      "fortaleza",
+      "marisco",
+      "muamba",
+      "calulu",
+      "vista mar",
+      "baixa de luanda"
+    ]
+  }
+}

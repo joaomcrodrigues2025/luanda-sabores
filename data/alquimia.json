@@ -1,0 +1,288 @@
+{
+  "id": "alquimia",
+  "nome": "Alquimia",
+  "descricao": "restaurante contemporâneo na baixa de Luanda com cozinha de autor, cocktails criativos e ambiente sofisticado",
+  "descricaoCompleta": "Alquimia é um restaurante contemporâneo que traz uma proposta gastronómica diferenciada à baixa de Luanda. localizado na Rua Friedrich Engels, o espaço combina uma cozinha criativa de autor com um bar especializado em cocktails que fazem jus ao nome do estabelecimento. a filosofia da Alquimia passa por transformar ingredientes simples em pratos extraordinários através de técnicas modernas e combinações inesperadas. a carta é pensada para partilhar, com pequenas porções que permitem explorar diferentes sabores numa só refeição. os pratos misturam influências internacionais com ingredientes locais angolanos, criando uma identidade única. o bar é um dos destaques, com mixologistas que preparam cocktails de autor utilizando infusões caseiras, destilados premium e apresentações teatrais. o ambiente é sofisticado mas descontraído, com uma decoração industrial chique que combina tijolo exposto, iluminação ambiente e elementos de design contemporâneo. a música de fundo cuidadosamente seleccionada complementa a experiência. Alquimia tornou-se rapidamente num dos spots favoritos da nova geração de luandenses que procuram experiências gastronómicas diferentes do habitual. ideal para jantares em casal, encontros com amigos ou noites de cocktails.",
+  "localizacao": {
+    "endereco": "Rua Friedrich Engels, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Friedrich Engels",
+    "coordenadas": {
+      "latitude": -8.8147112,
+      "longitude": 13.2299854
+    }
+  },
+  "contactos": {
+    "telefone": "+244 926 543 210",
+    "telemovel": "+244 926 543 210",
+    "email": "hello@alquimia.ao",
+    "website": "https://www.alquimia.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/alquimialuanda",
+      "instagram": "https://www.instagram.com/alquimialuanda"
+    }
+  },
+  "tipoCozinha": [
+    "contemporânea",
+    "fusão",
+    "cocktails",
+    "tapas",
+    "autor"
+  ],
+  "especialidades": [
+    "cocktails de autor",
+    "tataki de atum",
+    "gyoza de camarão",
+    "risotto de cogumelos",
+    "costela braseada",
+    "cheesecake de maracujá"
+  ],
+  "ambiente": [
+    "contemporâneo",
+    "sofisticado",
+    "bar",
+    "cocktails",
+    "romântico",
+    "trendy"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 10000,
+    "moeda": "AOA",
+    "observacao": "pratos para partilhar entre 3000-8000 AOA. cocktails de autor a partir de 2500 AOA"
+  },
+  "menu": [
+    {
+      "categoria": "para começar",
+      "pratos": [
+        {
+          "nome": "tataki de atum",
+          "descricao": "atum selado com sésamo, ponzu e wakame",
+          "preco": 5800
+        },
+        {
+          "nome": "gyoza de camarão",
+          "descricao": "dumplings de camarão com molho de soja e gengibre (6 unidades)",
+          "preco": 4500
+        },
+        {
+          "nome": "ceviche de corvina",
+          "descricao": "corvina marinada em lima, cebola roxa, coentros e leche de tigre",
+          "preco": 5200
+        },
+        {
+          "nome": "carpaccio de novilho",
+          "descricao": "novilho em lâminas finas com rúcula, parmesão e azeite trufado",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "para partilhar",
+      "pratos": [
+        {
+          "nome": "tábua de queijos artesanais",
+          "descricao": "selecção de queijos com mel, frutos secos e tostas",
+          "preco": 5500
+        },
+        {
+          "nome": "bao buns de porco",
+          "descricao": "pão chinês no vapor com barriga de porco, pickles e hoisin (3 unidades)",
+          "preco": 4200
+        },
+        {
+          "nome": "patatas bravas",
+          "descricao": "batatas crocantes com alioli e molho brava picante",
+          "preco": 2800
+        },
+        {
+          "nome": "hummus trio",
+          "descricao": "hummus clássico, beterraba e abacate com pão pita",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "risotto de cogumelos",
+          "descricao": "risotto cremoso com mix de cogumelos e parmesão",
+          "preco": 7500
+        },
+        {
+          "nome": "costela braseada",
+          "descricao": "costela de vaca braseada 12h com puré de batata-doce",
+          "preco": 9500
+        },
+        {
+          "nome": "peixe do mercado",
+          "descricao": "peixe do dia com legumes grelhados e molho de ervas",
+          "preco": 8500
+        },
+        {
+          "nome": "duck confit",
+          "descricao": "coxa de pato confitada com salada de laranja e rúcula",
+          "preco": 8800
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails de autor",
+      "pratos": [
+        {
+          "nome": "elixir tropical",
+          "descricao": "rum, manga, lima, leite de coco e espuma de gengibre",
+          "preco": 3200
+        },
+        {
+          "nome": "smoke on the water",
+          "descricao": "whisky fumado, maple, limão e aromatic bitters",
+          "preco": 3500
+        },
+        {
+          "nome": "garden path",
+          "descricao": "gin, pepino, elderflower, hortelã e tónica",
+          "preco": 2800
+        },
+        {
+          "nome": "passion fusion",
+          "descricao": "vodka, maracujá, champagne e açúcar de coco",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cheesecake de maracujá",
+          "descricao": "cheesecake cremoso com coulis de maracujá",
+          "preco": 2500
+        },
+        {
+          "nome": "fondant de chocolate",
+          "descricao": "bolo de chocolate com centro líquido e gelado de baunilha",
+          "preco": 2800
+        },
+        {
+          "nome": "panna cotta",
+          "descricao": "panna cotta de coco com frutos vermelhos",
+          "preco": 2200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "18:00-00:00",
+      "quarta": "18:00-00:00",
+      "quinta": "18:00-01:00",
+      "sexta": "18:00-02:00",
+      "sabado": "18:00-02:00",
+      "domingo": "18:00-23:00"
+    },
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
+    "observacoes": "apenas jantar. encerrado às segundas. DJ sets quinta a sábado"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 267,
+    "avaliacoes": [
+      {
+        "autor": "Mariana Silva",
+        "nota": 5,
+        "comentario": "os cocktails são verdadeiras obras de arte! ambiente super cool e comida deliciosa. adorei!",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Bruno Lopes",
+        "nota": 5,
+        "comentario": "spot perfeito para date night. a costela braseada derrete na boca e os cocktails são top!",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sofia Martins",
+        "nota": 4,
+        "comentario": "adorei o conceito! pratos criativos e bem apresentados. só desejava que abrissem ao almoço também.",
+        "data": "2025-11-09",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": false,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento na rua. recomenda-se táxi ou Uber à noite.",
+    "capacidadeEstacionamento": 0,
+    "custoEstacionamento": "na rua"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona com boa iluminação",
+      "segurança na entrada",
+      "zona movimentada à noite",
+      "táxi recomendado"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "peçam vários pratos para partilhar - é a melhor forma de experimentar a carta. o tataki é imperdível!",
+      "autor": "Catarina Neves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa na quinta ou sexta - há DJ e o ambiente fica ainda melhor!",
+      "autor": "Diogo Pereira",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ sets quinta a sábado",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "cocktailBar": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Alquimia - Restaurante Contemporâneo e Cocktail Bar em Luanda",
+    "metaDescricao": "alquimia é um restaurante contemporâneo na baixa de luanda com cozinha de autor e cocktails criativos. reservas: 926 543 210",
+    "tags": [
+      "Alquimia",
+      "contemporâneo",
+      "cocktails",
+      "autor",
+      "trendy",
+      "baixa de luanda",
+      "bar",
+      "fusão"
+    ]
+  }
+}

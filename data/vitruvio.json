@@ -1,0 +1,261 @@
+{
+  "id": "vitruvio",
+  "nome": "Vitrúvio",
+  "descricao": "restaurante italiano de alta gastronomia no hotel EPIC SANA Luanda, oferecendo cozinha italiana autêntica com vista deslumbrante para a baía",
+  "descricaoCompleta": "o Vitrúvio é o restaurante principal do prestigiado hotel EPIC SANA Luanda, um dos hotéis mais luxuosos de Angola. localizado na baixa de Luanda com vista privilegiada para a baía, o restaurante oferece uma experiência gastronómica italiana de excelência. a cozinha é comandada por chefs italianos que preparam pratos autênticos utilizando ingredientes frescos importados directamente de Itália, combinados com produtos locais de primeira qualidade. o ambiente é sofisticado e elegante, com decoração contemporânea que combina elementos clássicos italianos com toques modernos. o restaurante dispõe de amplas janelas panorâmicas que proporcionam vistas espectaculares sobre a marginal de Luanda. a carta inclui uma vasta selecção de antipasti, massas frescas feitas na hora, risotos cremosos, carnes e peixes preparados ao estilo italiano. a adega conta com uma impressionante colecção de vinhos italianos, incluindo rótulos de regiões como Piemonte, Toscana e Sicília. o serviço é impecável e discreto, característico da hospitalidade de alto padrão do grupo SANA Hotels. ideal para jantares de negócios, ocasiões especiais e para quem aprecia a autêntica gastronomia italiana num ambiente de luxo.",
+  "localizacao": {
+    "endereco": "Rua da Missão, Hotel EPIC SANA Luanda, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - EPIC SANA Hotel",
+    "coordenadas": {
+      "latitude": -8.814678599999999,
+      "longitude": 13.235006
+    }
+  },
+  "contactos": {
+    "telefone": "+244 222 642 703",
+    "telemovel": "+244 923 642 703",
+    "email": "vitruvio@epicsanaluanda.com",
+    "website": "https://www.epic.sanahotels.com",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/EPICSANALuanda",
+      "instagram": "https://www.instagram.com/epicsanaluanda"
+    }
+  },
+  "tipoCozinha": [
+    "italiana",
+    "mediterrânica",
+    "internacional"
+  ],
+  "especialidades": [
+    "carpaccio de vitela",
+    "risotto ai funghi porcini",
+    "tagliatelle al tartufo",
+    "ossobuco alla milanese",
+    "tiramisù tradicional",
+    "filetto di manzo"
+  ],
+  "ambiente": [
+    "elegante",
+    "sofisticado",
+    "romântico",
+    "vista baía",
+    "hotel de luxo",
+    "fine dining"
+  ],
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 18000,
+    "moeda": "AOA",
+    "observacao": "restaurante de hotel 5 estrelas, preços premium correspondentes à qualidade e localização"
+  },
+  "menu": [
+    {
+      "categoria": "antipasti",
+      "pratos": [
+        {
+          "nome": "carpaccio di manzo",
+          "descricao": "carpaccio de vitela com rúcula, parmesão e azeite trufado",
+          "preco": 5500
+        },
+        {
+          "nome": "burrata pugliese",
+          "descricao": "burrata fresca com tomate cherry, manjericão e pesto",
+          "preco": 4800
+        },
+        {
+          "nome": "vitello tonnato",
+          "descricao": "vitela fatiada com molho de atum, alcaparras e anchovas",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "primi piatti",
+      "pratos": [
+        {
+          "nome": "risotto ai funghi porcini",
+          "descricao": "risotto cremoso com cogumelos porcini frescos e parmesão",
+          "preco": 8500
+        },
+        {
+          "nome": "tagliatelle al tartufo nero",
+          "descricao": "massa fresca com trufa negra, manteiga e parmesão",
+          "preco": 12000
+        },
+        {
+          "nome": "ravioli di aragosta",
+          "descricao": "ravioli recheado com lavagante em molho de tomate e manjericão",
+          "preco": 11500
+        },
+        {
+          "nome": "spaghetti alle vongole",
+          "descricao": "esparguete com amêijoas, alho, vinho branco e salsa",
+          "preco": 9200
+        }
+      ]
+    },
+    {
+      "categoria": "secondi piatti",
+      "pratos": [
+        {
+          "nome": "ossobuco alla milanese",
+          "descricao": "jarrete de vitela estufado com gremolata e risotto amarelo",
+          "preco": 16500
+        },
+        {
+          "nome": "filetto di manzo al barolo",
+          "descricao": "lombo de novilho com molho de vinho Barolo e legumes grelhados",
+          "preco": 18500
+        },
+        {
+          "nome": "branzino al forno",
+          "descricao": "robalo assado no forno com batatas, azeitonas e tomate cherry",
+          "preco": 14800
+        },
+        {
+          "nome": "saltimbocca alla romana",
+          "descricao": "escalope de vitela com presunto de parma e sálvia",
+          "preco": 15200
+        }
+      ]
+    },
+    {
+      "categoria": "dolci",
+      "pratos": [
+        {
+          "nome": "tiramisù della casa",
+          "descricao": "tiramisù tradicional com mascarpone, café e cacau",
+          "preco": 2800
+        },
+        {
+          "nome": "panna cotta ai frutti di bosco",
+          "descricao": "panna cotta com coulis de frutos silvestres",
+          "preco": 2500
+        },
+        {
+          "nome": "cannoli siciliani",
+          "descricao": "cannoli crocantes recheados com ricotta e pistáchio",
+          "preco": 2600
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-00:00",
+      "terca": "12:00-00:00",
+      "quarta": "12:00-00:00",
+      "quinta": "12:00-00:00",
+      "sexta": "12:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-00:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. reserva recomendada, especialmente ao jantar e fins de semana"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.3,
+    "numeroAvaliacoes": 287,
+    "avaliacoes": [
+      {
+        "autor": "Maria João",
+        "nota": 5,
+        "comentario": "experiência gastronómica italiana autêntica! o risotto de cogumelos estava divino e o serviço impecável. vista linda para a baía.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Roberto Ferreira",
+        "nota": 4,
+        "comentario": "excelente restaurante italiano em Luanda. os ingredientes são frescos e a pasta é feita na hora. preços altos mas qualidade correspondente.",
+        "data": "2025-11-15",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Ana Cristina",
+        "nota": 5,
+        "comentario": "o ossobuco estava perfeito! ambiente elegante e sofisticado. perfeito para ocasiões especiais.",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento do hotel com valet parking",
+    "informacaoEstacionamento": "estacionamento privativo do hotel EPIC SANA com serviço de valet parking gratuito para clientes do restaurante. segurança 24h.",
+    "capacidadeEstacionamento": 100,
+    "custoEstacionamento": "gratuito para clientes do restaurante"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "hotel 5 estrelas com segurança permanente",
+      "acesso controlado ao hotel",
+      "estacionamento seguro com vigilância",
+      "zona privilegiada da baixa de Luanda"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência, especialmente para jantares aos fins de semana. o restaurante é muito procurado por hóspedes do hotel e externos.",
+      "autor": "Pedro Almeida",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça mesa junto à janela para apreciar a vista para a baía. o pôr do sol é espectacular!",
+      "autor": "Carla Santos",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente o menu de degustação com harmonização de vinhos italianos. vale muito a pena!",
+      "autor": "Marco Rossi",
+      "origem": "Roma, Itália"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "dresscode": "smart casual",
+    "hotelRestaurante": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1481931098730-318b6f776db0?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Vitrúvio - Restaurante Italiano no EPIC SANA Luanda | Alta Gastronomia Italiana",
+    "metaDescricao": "restaurante italiano de luxo no hotel EPIC SANA Luanda. cozinha italiana autêntica, vista para a baía, ambiente sofisticado. reservas: 222 642 703",
+    "tags": [
+      "italiano",
+      "EPIC SANA",
+      "baixa de luanda",
+      "hotel 5 estrelas",
+      "fine dining",
+      "vista baía",
+      "romântico",
+      "negócios",
+      "luxo"
+    ]
+  }
+}

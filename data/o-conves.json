@@ -1,0 +1,259 @@
+{
+  "id": "o-conves",
+  "nome": "O Convés",
+  "descricao": "restaurante de marisco e peixe na marginal de Luanda com vista para a baía e ambiente marítimo autêntico",
+  "descricaoCompleta": "O Convés é um restaurante especializado em frutos do mar localizado na marginal de Luanda, oferecendo uma das melhores experiências gastronómicas marítimas da cidade. com uma vista deslumbrante sobre a baía de Luanda, o restaurante combina a frescura do peixe e marisco local com uma preparação cuidada que respeita os sabores do mar. o nome 'Convés' remete para o ambiente náutico que caracteriza todo o espaço, com decoração inspirada em embarcações e uma atmosfera que transporta os clientes para alto mar. a carta é dedicada aos tesouros do oceano Atlântico: desde simples pratos de peixe grelhado até elaboradas cataplanas e arrozes de marisco que servem para partilhar. o restaurante é particularmente conhecido pela qualidade do seu camarão, que chega diariamente dos pescadores locais. a equipa de cozinha tem experiência em preparações tradicionais portuguesas e angolanas, oferecendo o melhor de duas culturas gastronómicas com forte ligação ao mar. O Convés é escolha frequente para almoços de negócios, jantares em casal ou celebrações familiares onde o mar é o protagonista.",
+  "localizacao": {
+    "endereco": "Avenida 4 de Fevereiro, Marginal de Luanda, Angola",
+    "zona": "Marginal de Luanda - Baía",
+    "coordenadas": {
+      "latitude": -8.8012062,
+      "longitude": 13.2238997
+    }
+  },
+  "contactos": {
+    "telefone": "+244 923 789 456",
+    "telemovel": "+244 923 789 456",
+    "email": "reservas@oconves.ao",
+    "website": "https://www.oconves.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/oconvesluanda",
+      "instagram": "https://www.instagram.com/oconvesluanda"
+    }
+  },
+  "tipoCozinha": [
+    "marisco",
+    "peixe",
+    "portuguesa",
+    "angolana",
+    "grelhados"
+  ],
+  "especialidades": [
+    "camarão tigre grelhado",
+    "cataplana de marisco",
+    "arroz de tamboril",
+    "peixe espada grelhado",
+    "lagostins ao alho",
+    "açorda de marisco"
+  ],
+  "ambiente": [
+    "náutico",
+    "vista mar",
+    "romântico",
+    "familiar",
+    "marisco",
+    "autêntico"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 11000,
+    "moeda": "AOA",
+    "observacao": "marisco de qualidade a preços justos. camarão e lagosta vendidos ao peso"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "amêijoas à bulhão pato",
+          "descricao": "amêijoas salteadas com alho, coentros e vinho branco",
+          "preco": 4200
+        },
+        {
+          "nome": "camarões ao convés",
+          "descricao": "camarões salteados em alho, azeite e piri-piri",
+          "preco": 5500
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas caseiras servidas com arroz de feijão",
+          "preco": 3800
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo grelhado com batata, cebola roxa e azeite",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "peixes grelhados",
+      "pratos": [
+        {
+          "nome": "peixe espada grelhado",
+          "descricao": "posta de peixe espada com batata cozida e legumes",
+          "preco": 8500
+        },
+        {
+          "nome": "dourada ao sal",
+          "descricao": "dourada inteira em crosta de sal com batata e salada",
+          "preco": 11500
+        },
+        {
+          "nome": "cherne grelhado",
+          "descricao": "posta de cherne grelhado com molho de manteiga",
+          "preco": 12500
+        },
+        {
+          "nome": "robalo grelhado",
+          "descricao": "robalo inteiro grelhado com batata a murro",
+          "preco": 13500
+        }
+      ]
+    },
+    {
+      "categoria": "mariscos e cataplanas",
+      "pratos": [
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões tigre grelhados com molho de manteiga e alho",
+          "preco": 14500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana com camarão, amêijoas, mexilhões e peixe (2 pessoas)",
+          "preco": 18000
+        },
+        {
+          "nome": "arroz de tamboril",
+          "descricao": "arroz cremoso com tamboril, gambas e coentros",
+          "preco": 13500
+        },
+        {
+          "nome": "lagostins ao alho",
+          "descricao": "lagostins grelhados em manteiga de alho",
+          "preco": 15500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "serradura",
+          "descricao": "sobremesa de natas com bolacha maria",
+          "preco": 2000
+        },
+        {
+          "nome": "pudim flan",
+          "descricao": "pudim tradicional com caramelo",
+          "preco": 1800
+        },
+        {
+          "nome": "frutas tropicais",
+          "descricao": "manga, papaia e ananás frescos",
+          "preco": 2200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-15:00, 19:00-22:00",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-22:30",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "12:00-16:00, 19:00-23:00",
+      "domingo": "12:00-17:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "reserva recomendada aos fins de semana. domingo apenas almoço"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.3,
+    "numeroAvaliacoes": 298,
+    "avaliacoes": [
+      {
+        "autor": "João Pedro",
+        "nota": 5,
+        "comentario": "excelente marisco! a cataplana para dois estava perfeita. vista linda sobre a baía.",
+        "data": "2025-11-19",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ana Beatriz",
+        "nota": 4,
+        "comentario": "peixe muito fresco e bem grelhado. o camarão tigre é uma delícia! ambiente agradável.",
+        "data": "2025-11-13",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Rui Martins",
+        "nota": 4,
+        "comentario": "bom restaurante de marisco com localização privilegiada. preços justos para a qualidade.",
+        "data": "2025-11-07",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento junto ao restaurante",
+    "informacaoEstacionamento": "estacionamento na marginal com lugares junto ao restaurante.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da marginal bem iluminada",
+      "segurança no local",
+      "área frequentada até tarde",
+      "estacionamento vigiado"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "a cataplana de marisco é para duas pessoas e é espectacular! peça com arroz branco ao lado.",
+      "autor": "Teresa Lopes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa junto à janela para aproveitar a vista sobre a baía.",
+      "autor": "Ricardo Nunes",
+      "origem": "Porto, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "O Convés - Restaurante de Marisco na Marginal de Luanda",
+    "metaDescricao": "restaurante o convés na marginal de luanda. marisco fresco, cataplanas, peixe grelhado e vista para a baía. reservas: 923 789 456",
+    "tags": [
+      "O Convés",
+      "marisco",
+      "peixe",
+      "cataplana",
+      "marginal",
+      "vista mar",
+      "Luanda",
+      "náutico"
+    ]
+  }
+}

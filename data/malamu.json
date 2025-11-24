@@ -1,0 +1,256 @@
+{
+  "id": "malamu",
+  "nome": "Malamu - Marginal de Luanda",
+  "descricao": "restaurante de fusão asiática na marginal de Luanda, combinando sabores orientais com ingredientes locais frescos",
+  "descricaoCompleta": "o Malamu é um restaurante de fusão asiática localizado na prestigiada Avenida 4 de Fevereiro, na marginal de Luanda. o nome 'Malamu', que significa 'bom' em kimbundu, reflecte a filosofia do restaurante: oferecer boa comida, bom serviço e boas experiências. a cozinha combina técnicas e sabores asiáticos - chinês, tailandês, japonês e vietnamita - com ingredientes frescos locais, criando uma fusão única que agrada tanto aos amantes da cozinha oriental como aos que procuram novas experiências gastronómicas. o espaço é moderno e elegante, com decoração que mistura elementos orientais com toques contemporâneos africanos. dispõe de uma área interior climatizada e uma esplanada com vista para a marginal e o oceano. os destaques da carta incluem dim sum variados, noodles artesanais, wok de marisco fresco, curries aromáticos e uma selecção de sushi e sashimi. o bar oferece cocktails de inspiração asiática e uma carta de vinhos e sakés cuidadosamente seleccionada. o serviço é atencioso e os funcionários estão bem informados sobre os pratos e combinações recomendadas.",
+  "localizacao": {
+    "endereco": "Avenida 4 de Fevereiro, Marginal de Luanda, Angola",
+    "zona": "Baixa de Luanda - Marginal",
+    "coordenadas": {
+      "latitude": -8.805242999999999,
+      "longitude": 13.2245417
+    }
+  },
+  "contactos": {
+    "telefone": "+244 944 207 779",
+    "telemovel": "+244 944 207 779",
+    "email": "reservas@malamu.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/malamuluanda",
+      "instagram": "https://www.instagram.com/malamuluanda"
+    }
+  },
+  "tipoCozinha": [
+    "asiática",
+    "fusão",
+    "chinesa",
+    "tailandesa",
+    "japonesa",
+    "sushi"
+  ],
+  "especialidades": [
+    "dim sum variados",
+    "pad thai de camarão",
+    "wok de marisco",
+    "curry verde tailandês",
+    "ramen de porco",
+    "sushi selection"
+  ],
+  "ambiente": [
+    "moderno",
+    "sofisticado",
+    "marginal",
+    "vista mar",
+    "esplanada",
+    "contemporâneo"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 10000,
+    "moeda": "AOA",
+    "observacao": "preços médios-altos para cozinha asiática de qualidade na marginal"
+  },
+  "menu": [
+    {
+      "categoria": "dim sum & entradas",
+      "pratos": [
+        {
+          "nome": "dim sum selection",
+          "descricao": "selecção de 8 dim sum variados: har gow, siu mai, char siu bao",
+          "preco": 5500
+        },
+        {
+          "nome": "spring rolls de legumes",
+          "descricao": "rolinhos primavera crocantes com vegetais e molho agridoce",
+          "preco": 2800
+        },
+        {
+          "nome": "gyoza de camarão",
+          "descricao": "pastéis japoneses de camarão grelhados com molho ponzu",
+          "preco": 3500
+        },
+        {
+          "nome": "edamame com sal marinho",
+          "descricao": "favas de soja cozidas a vapor com flor de sal",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & sashimi",
+      "pratos": [
+        {
+          "nome": "malamu sushi platter",
+          "descricao": "selecção de 16 peças: nigiri, maki e uramaki variados",
+          "preco": 9500
+        },
+        {
+          "nome": "sashimi mix",
+          "descricao": "sashimi de salmão, atum e robalo (12 peças)",
+          "preco": 8500
+        },
+        {
+          "nome": "dragon roll",
+          "descricao": "uramaki de camarão tempura, abacate e enguia",
+          "preco": 6200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "pad thai de camarão",
+          "descricao": "noodles de arroz salteados com camarão tigre, tofu, amendoim e lima",
+          "preco": 8200
+        },
+        {
+          "nome": "wok de marisco",
+          "descricao": "camarão, lulas e mexilhão salteados com legumes e molho de ostras",
+          "preco": 11000
+        },
+        {
+          "nome": "curry verde de frango",
+          "descricao": "curry tailandês com leite de coco, beringela, manjericão tailandês e arroz jasmim",
+          "preco": 7500
+        },
+        {
+          "nome": "ramen de porco",
+          "descricao": "ramen japonês com caldo de porco, ovo marinado, nori e cebolinha",
+          "preco": 7800
+        },
+        {
+          "nome": "pato pequim",
+          "descricao": "pato assado estilo Pequim com panquecas, cebolinha e molho hoisin",
+          "preco": 14500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "mochi gelado",
+          "descricao": "trio de mochi recheados com gelado de manga, chá verde e morango",
+          "preco": 2500
+        },
+        {
+          "nome": "tempura de banana",
+          "descricao": "banana em tempura com gelado de baunilha e calda de caramelo",
+          "preco": 2200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-22:30",
+      "terca": "12:00-22:30",
+      "quarta": "12:00-22:30",
+      "quinta": "12:00-22:30",
+      "sexta": "12:00-23:30",
+      "sabado": "12:00-23:30",
+      "domingo": "12:00-22:30"
+    },
+    "diasEncerrado": [],
+    "observacoes": "cozinha encerra 30 minutos antes do fecho. reservas recomendadas"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.1,
+    "numeroAvaliacoes": 156,
+    "avaliacoes": [
+      {
+        "autor": "Chen Wei",
+        "nota": 4,
+        "comentario": "muito bom restaurante asiático em Luanda! o dim sum é autêntico e o pad thai delicioso. localização privilegiada na marginal.",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Paula Mendes",
+        "nota": 4,
+        "comentario": "adorei a fusão de sabores! o curry verde era cremoso e aromático. ambiente moderno e vista bonita.",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Tiago Ferreira",
+        "nota": 4,
+        "comentario": "sushi fresco e bem preparado. o wok de marisco é generoso. preços justos para a qualidade.",
+        "data": "2025-10-30",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na marginal",
+    "informacaoEstacionamento": "estacionamento disponível na Avenida 4 de Fevereiro. arrumadores de confiança na zona.",
+    "capacidadeEstacionamento": 15,
+    "custoEstacionamento": "gorjeta aos arrumadores"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da marginal bem iluminada",
+      "segurança presente na zona à noite",
+      "estacionar em locais movimentados",
+      "usar táxi ou transfere se for jantar tarde"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": false
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o dim sum é feito na hora e vale muito a pena. peça a selecção para provar vários.",
+      "autor": "Lina Chang",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa na esplanada ao final da tarde para ver o pôr do sol sobre o mar.",
+      "autor": "Bruno Santos",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1579027989536-b7b1f875659b?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1553621042-f6e147245754?w=800",
+      "https://images.unsplash.com/photo-1617196034183-421b4917c92d?w=800",
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Malamu - Restaurante Asiático na Marginal de Luanda | Fusão Oriental",
+    "metaDescricao": "restaurante de fusão asiática na marginal de Luanda. dim sum, sushi, wok, curry tailandês e vista para o mar. reservas: 944 207 779",
+    "tags": [
+      "asiático",
+      "fusão",
+      "sushi",
+      "dim sum",
+      "tailandês",
+      "wok",
+      "marginal",
+      "baixa de luanda",
+      "vista mar"
+    ]
+  }
+}

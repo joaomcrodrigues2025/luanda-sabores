@@ -1,0 +1,301 @@
+{
+  "id": "jango-veleiro",
+  "nome": "Jango Veleiro",
+  "descricao": "restaurante tradicional angolano na marginal com especialidade em muamba, caldeirada e pratos típicos",
+  "descricaoCompleta": "o Jango Veleiro é um restaurante de cozinha tradicional angolana localizado na Avenida Murtala Mohamed, junto à marginal de Luanda. o espaço é dedicado a preservar e celebrar os sabores autênticos da gastronomia angolana, oferecendo pratos que representam a riqueza culinária do país. o nome 'Jango' remete para as construções tradicionais angolanas, e 'Veleiro' para a ligação com o mar que caracteriza Luanda. a especialidade são os pratos de muamba - desde a clássica muamba de galinha até variações com peixe e camarão. a caldeirada de peixe à moda angolana é outro destaque, preparada com receita transmitida de geração em geração. o funge, acompanhamento obrigatório da cozinha angolana, é preparado diariamente com a consistência perfeita. o ambiente é acolhedor e informal, decorado com elementos da cultura angolana que transportam os clientes para o interior do país. a música ambiente inclui semba e kizomba, completando a experiência cultural. o Jango Veleiro é frequentado tanto por angolanos nostálgicos dos sabores de casa como por visitantes curiosos em descobrir a verdadeira cozinha angolana. uma experiência gastronómica autêntica no coração de Luanda.",
+  "localizacao": {
+    "endereco": "Avenida Murtala Mohamed, Marginal de Luanda, Angola",
+    "zona": "Marginal de Luanda",
+    "coordenadas": {
+      "latitude": -8.7995873,
+      "longitude": 13.2228636
+    }
+  },
+  "contactos": {
+    "telefone": "+244 924 678 901",
+    "telemovel": "+244 924 678 901",
+    "email": "jangoveleiro@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/jangoveleiro",
+      "instagram": "https://www.instagram.com/jangoveleiro"
+    }
+  },
+  "tipoCozinha": [
+    "angolana",
+    "tradicional",
+    "africana",
+    "muamba",
+    "caldeirada"
+  ],
+  "especialidades": [
+    "muamba de galinha",
+    "caldeirada de peixe angolana",
+    "mufete de cacusso",
+    "calulu de peixe",
+    "moamba de ginguba",
+    "funge"
+  ],
+  "ambiente": [
+    "tradicional",
+    "cultural",
+    "familiar",
+    "autêntico",
+    "acolhedor",
+    "angolano"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 6000,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para comida tradicional de qualidade"
+  },
+  "menu": [
+    {
+      "categoria": "entradas angolanas",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoim torrado temperado com sal",
+          "preco": 1200
+        },
+        {
+          "nome": "chikuanga",
+          "descricao": "mandioca fermentada embrulhada em folha de bananeira",
+          "preco": 1500
+        },
+        {
+          "nome": "kizaka",
+          "descricao": "folhas de mandioca preparadas com óleo de palma e ginguba",
+          "preco": 2200
+        },
+        {
+          "nome": "feijão de óleo de palma",
+          "descricao": "feijão cozido com dendém e cebola",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "muambas",
+      "pratos": [
+        {
+          "nome": "muamba de galinha",
+          "descricao": "galinha cozida em molho de ginguba, quiabos e óleo de palma com funge",
+          "preco": 6500
+        },
+        {
+          "nome": "muamba de peixe",
+          "descricao": "peixe cozido em molho de ginguba com legumes e funge",
+          "preco": 7000
+        },
+        {
+          "nome": "moamba de ginguba",
+          "descricao": "molho cremoso de amendoim com carne de porco e funge",
+          "preco": 6000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de peixe",
+      "pratos": [
+        {
+          "nome": "caldeirada de peixe angolana",
+          "descricao": "caldeirada tradicional com peixe variado, batata e tomate",
+          "preco": 7500
+        },
+        {
+          "nome": "mufete de cacusso",
+          "descricao": "peixe grelhado com feijão de óleo de palma, banana e farinha de pau",
+          "preco": 7000
+        },
+        {
+          "nome": "calulu de peixe seco",
+          "descricao": "peixe seco cozido com quiabos, jindungo e óleo de palma",
+          "preco": 6500
+        },
+        {
+          "nome": "peixe grelhado com funge",
+          "descricao": "peixe do dia grelhado servido com funge",
+          "preco": 6000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de carne",
+      "pratos": [
+        {
+          "nome": "cabidela de galinha",
+          "descricao": "galinha cozida no próprio sangue com arroz",
+          "preco": 5500
+        },
+        {
+          "nome": "funge com carne seca",
+          "descricao": "funge tradicional com carne seca frita",
+          "preco": 5000
+        },
+        {
+          "nome": "pirão de carne",
+          "descricao": "carne de vaca cozida em molho grosso servido com funge",
+          "preco": 5500
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "funge",
+          "descricao": "funge de bombó (farinha de mandioca)",
+          "preco": 800
+        },
+        {
+          "nome": "arroz",
+          "descricao": "porção de arroz branco",
+          "preco": 600
+        },
+        {
+          "nome": "farofa de dendém",
+          "descricao": "farinha de mandioca com óleo de palma",
+          "preco": 900
+        },
+        {
+          "nome": "banana frita",
+          "descricao": "banana da terra frita",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas tradicionais",
+      "pratos": [
+        {
+          "nome": "kissangua",
+          "descricao": "bebida tradicional de milho fermentado",
+          "preco": 1500
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo da fruta do embondeiro",
+          "preco": 1200
+        },
+        {
+          "nome": "cerveja Cuca",
+          "descricao": "cerveja angolana gelada",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-21:00",
+      "terca": "11:00-21:00",
+      "quarta": "11:00-21:00",
+      "quinta": "11:00-21:00",
+      "sexta": "11:00-22:00",
+      "sabado": "11:00-22:00",
+      "domingo": "11:00-20:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "muamba preparada na hora - pode demorar 30-40 minutos"
+  },
+  "avaliacoes": {
+    "avaliacao": 3.9,
+    "numeroAvaliacoes": 234,
+    "avaliacoes": [
+      {
+        "autor": "António Manuel",
+        "nota": 4,
+        "comentario": "autêntica comida angolana! a muamba de galinha transporta-nos para casa. sabores genuínos!",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Francisco Campos",
+        "nota": 4,
+        "comentario": "excelente para quem quer conhecer a verdadeira cozinha angolana. o mufete é delicioso!",
+        "data": "2025-11-10",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Rosa Domingos",
+        "nota": 4,
+        "comentario": "funge bem feito e muamba saborosa. preços justos. ambiente acolhedor com música angolana.",
+        "data": "2025-11-04",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento disponível na avenida junto ao restaurante.",
+    "capacidadeEstacionamento": 15,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da marginal movimentada",
+      "restaurante com segurança",
+      "bem iluminado",
+      "área frequentada"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "a muamba demora a preparar mas vale a pena! peça logo ao chegar se quiser esse prato.",
+      "autor": "Joaquim Neto",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimentem o kissangua - é uma bebida tradicional muito refrescante!",
+      "autor": "Helena Ribeiro",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAmbiente": "semba e kizomba",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "cozinhaTradicional": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Jango Veleiro - Restaurante de Comida Angolana Tradicional em Luanda",
+    "metaDescricao": "jango veleiro serve comida tradicional angolana autêntica. muamba de galinha, caldeirada, mufete e funge. na marginal de luanda. contacto: 924 678 901",
+    "tags": [
+      "Jango Veleiro",
+      "angolano",
+      "tradicional",
+      "muamba",
+      "funge",
+      "caldeirada",
+      "marginal",
+      "autêntico"
+    ]
+  }
+}

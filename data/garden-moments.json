@@ -1,0 +1,291 @@
+{
+  "id": "garden-moments",
+  "nome": "The Garden by Moments",
+  "descricao": "lounge bar e restaurante trendy na baixa de Luanda com jardim, cocktails premium e ambiente descontraído",
+  "descricaoCompleta": "The Garden by Moments é um conceito inovador que combina lounge bar, restaurante e espaço de eventos num ambiente verde e descontraído no coração de Luanda. localizado na Avenida Comandante Gika, o espaço distingue-se pelo seu jardim interior exuberante que cria um oásis urbano longe da agitação da cidade. o conceito é ideal para after-work, brunch aos fins de semana, almoços descontraídos ou jantares com amigos. a carta gastronómica é internacional e contemporânea, com destaque para hambúrgueres gourmet, pizzas artesanais, saladas frescas e tapas para partilhar. o bar é um dos pontos fortes, com uma carta extensa de cocktails de autor, gin tonics premium e vinhos seleccionados. aos fins de semana, o espaço ganha vida com DJ sets e música ao vivo que criam uma atmosfera vibrante mas nunca excessiva. a decoração combina elementos naturais com mobiliário contemporâneo, criando um ambiente instagram-friendly que atrai um público jovem e cosmopolita. The Garden é sinónimo de momentos especiais em Luanda, seja para relaxar ao final do dia ou celebrar ocasiões com amigos.",
+  "localizacao": {
+    "endereco": "Avenida Comandante Gika, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Comandante Gika",
+    "coordenadas": {
+      "latitude": -8.8316436,
+      "longitude": 13.2393498
+    }
+  },
+  "contactos": {
+    "telefone": "+244 922 642 935",
+    "telemovel": "+244 922 642 935",
+    "email": "hello@thegarden.ao",
+    "website": "https://www.thegarden.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/thegardenbymoments",
+      "instagram": "https://www.instagram.com/thegardenbymoments"
+    }
+  },
+  "tipoCozinha": [
+    "internacional",
+    "contemporânea",
+    "cocktails",
+    "hambúrgueres",
+    "pizzas"
+  ],
+  "especialidades": [
+    "cocktails de autor",
+    "hambúrguer The Garden",
+    "pizzas artesanais",
+    "tacos mexicanos",
+    "poke bowls",
+    "brunch aos fins de semana"
+  ],
+  "ambiente": [
+    "lounge",
+    "jardim",
+    "trendy",
+    "descontraído",
+    "instagramável",
+    "música ao vivo",
+    "after-work"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 7000,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para o ambiente e localização. cocktails premium a partir de 2500 AOA"
+  },
+  "menu": [
+    {
+      "categoria": "para partilhar",
+      "pratos": [
+        {
+          "nome": "tábua de queijos",
+          "descricao": "selecção de queijos com mel, nozes e pão artesanal",
+          "preco": 5500
+        },
+        {
+          "nome": "nachos supremos",
+          "descricao": "nachos com guacamole, pico de gallo, queijo cheddar e jalapeños",
+          "preco": 4200
+        },
+        {
+          "nome": "asas de frango",
+          "descricao": "asas crocantes com escolha de molho: BBQ, buffalo ou teriyaki",
+          "preco": 3800
+        },
+        {
+          "nome": "bruschetta mix",
+          "descricao": "trio de bruschettas: tomate e manjericão, cogumelos, presunto",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "hambúrgueres gourmet",
+      "pratos": [
+        {
+          "nome": "the garden burger",
+          "descricao": "hambúrguer 180g com bacon, queijo cheddar, cebola caramelizada e molho especial",
+          "preco": 5800
+        },
+        {
+          "nome": "chicken avocado",
+          "descricao": "hambúrguer de frango grelhado com abacate, alface e maionese de ervas",
+          "preco": 5200
+        },
+        {
+          "nome": "veggie burger",
+          "descricao": "hambúrguer de feijão preto com hummus, legumes grelhados e pão brioche",
+          "preco": 4800
+        },
+        {
+          "nome": "double smash",
+          "descricao": "dois hambúrgueres smash com queijo americano e pickles",
+          "preco": 6500
+        }
+      ]
+    },
+    {
+      "categoria": "pizzas artesanais",
+      "pratos": [
+        {
+          "nome": "margherita",
+          "descricao": "molho de tomate San Marzano, mozzarella di bufala e manjericão",
+          "preco": 4500
+        },
+        {
+          "nome": "pepperoni",
+          "descricao": "molho de tomate, mozzarella e pepperoni picante",
+          "preco": 5200
+        },
+        {
+          "nome": "quatro queijos",
+          "descricao": "mozzarella, gorgonzola, parmesão e brie com mel",
+          "preco": 5800
+        },
+        {
+          "nome": "prosciutto e rúcula",
+          "descricao": "mozzarella, presunto de parma, rúcula e parmesão",
+          "preco": 6200
+        }
+      ]
+    },
+    {
+      "categoria": "bowls & saladas",
+      "pratos": [
+        {
+          "nome": "poke bowl salmão",
+          "descricao": "salmão marinado, arroz, edamame, abacate e molho ponzu",
+          "preco": 6500
+        },
+        {
+          "nome": "caesar salad",
+          "descricao": "alface romana, frango grelhado, croutons, parmesão e molho caesar",
+          "preco": 4800
+        },
+        {
+          "nome": "buddha bowl",
+          "descricao": "quinoa, grão-de-bico, legumes grelhados, hummus e molho tahini",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails de autor",
+      "pratos": [
+        {
+          "nome": "garden mojito",
+          "descricao": "mojito com pepino, hortelã fresca e um toque de ginger",
+          "preco": 2800
+        },
+        {
+          "nome": "passion fruit martini",
+          "descricao": "vodka premium, maracujá fresco e champagne",
+          "preco": 3200
+        },
+        {
+          "nome": "aperol spritz",
+          "descricao": "aperol, prosecco e água com gás",
+          "preco": 2500
+        },
+        {
+          "nome": "gin tonic premium",
+          "descricao": "escolha de gin premium com tónica artesanal e botânicos",
+          "preco": 3500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "16:00-00:00",
+      "terca": "16:00-00:00",
+      "quarta": "16:00-00:00",
+      "quinta": "16:00-01:00",
+      "sexta": "12:00-02:00",
+      "sabado": "10:00-02:00",
+      "domingo": "10:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "brunch sábado e domingo 10h-15h. DJ sets quinta a sábado. happy hour 16h-19h"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 312,
+    "avaliacoes": [
+      {
+        "autor": "Joana Ferreira",
+        "nota": 5,
+        "comentario": "adorei o ambiente! o jardim é lindo e os cocktails são deliciosos. perfeito para um after-work com amigos.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Bruno Silva",
+        "nota": 4,
+        "comentario": "spot trendy em Luanda! os hambúrgueres são muito bons e os cocktails bem preparados. música boa aos fins de semana.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Carolina Mendes",
+        "nota": 4,
+        "comentario": "brunch fantástico! ambiente relaxado, comida boa e mojitos excelentes. recomendo!",
+        "data": "2025-11-09",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento privativo",
+    "informacaoEstacionamento": "estacionamento privativo junto ao espaço com vigilância. capacidade limitada, chegar cedo aos fins de semana.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona com segurança permanente",
+      "estacionamento privativo vigiado",
+      "ambiente controlado na entrada",
+      "bem iluminado até tarde"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o happy hour das 16h às 19h tem cocktails com desconto. boa altura para experimentar vários!",
+      "autor": "Rita Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "aos sábados o brunch é muito concorrido. chegue cedo ou reserve para garantir mesa no jardim.",
+      "autor": "Filipe Santos",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ sets quinta a sábado, música ao vivo ocasional",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true,
+    "valetParking": false,
+    "brunch": true,
+    "happyHour": true,
+    "eventos": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800",
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "The Garden by Moments - Lounge Bar e Restaurante na Baixa de Luanda",
+    "metaDescricao": "lounge bar com jardim na baixa de Luanda. cocktails de autor, hambúrgueres gourmet, brunch aos fins de semana. reservas: 922 642 935",
+    "tags": [
+      "lounge",
+      "cocktails",
+      "jardim",
+      "trendy",
+      "brunch",
+      "hambúrgueres",
+      "after-work",
+      "baixa de luanda",
+      "DJ"
+    ]
+  }
+}

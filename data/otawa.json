@@ -1,0 +1,327 @@
+{
+  "id": "otawa",
+  "nome": "OTAWA - Café | Restaurante | Bar",
+  "descricao": "café e restaurante versátil na baixa de Luanda com ambiente moderno, petiscos variados e bar animado",
+  "descricaoCompleta": "o OTAWA é um espaço multifacetado que combina café, restaurante e bar num conceito único e moderno. localizado numa das zonas mais movimentadas da baixa de Luanda, tornou-se rapidamente num ponto de referência para quem procura versatilidade - desde um café tranquilo pela manhã, um almoço de trabalho ao meio-dia, até drinks e petiscos ao final do dia. o nome OTAWA, inspirado na capital canadiana, reflecte a ambição de trazer um conceito internacional adaptado à realidade angolana. a decoração industrial chique mistura elementos de madeira, metal e plantas, criando um ambiente acolhedor e instagramável. a carta é pensada para todas as ocasiões: pequenos-almoços completos com opções saudáveis, almoços rápidos com pratos do dia, e ao final da tarde uma selecção de petiscos e tapas ideais para partilhar. o bar especializa-se em gins premium e cocktails clássicos com twist moderno. ao fim de semana, o OTAWA transforma-se num spot animado com DJ sets e clientela jovem. é frequentado por profissionais, estudantes universitários e expatriados que apreciam um ambiente descontraído mas cuidado. ideal para reuniões informais, trabalho remoto com wifi rápido, ou simplesmente um after-work com amigos.",
+  "localizacao": {
+    "endereco": "Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda",
+    "coordenadas": {
+      "latitude": -8.825738699999999,
+      "longitude": 13.2154558
+    }
+  },
+  "contactos": {
+    "telefone": "+244 925 123 789",
+    "telemovel": "+244 925 123 789",
+    "email": "hello@otawa.ao",
+    "website": "https://www.otawa.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/otawaluanda",
+      "instagram": "https://www.instagram.com/otawaluanda"
+    }
+  },
+  "tipoCozinha": [
+    "café",
+    "internacional",
+    "petiscos",
+    "brunch",
+    "cocktails"
+  ],
+  "especialidades": [
+    "brunch completo",
+    "tostas gourmet",
+    "gin tónicos premium",
+    "tábua de queijos e enchidos",
+    "saladas healthy",
+    "cocktails clássicos"
+  ],
+  "ambiente": [
+    "moderno",
+    "versátil",
+    "café",
+    "bar",
+    "trabalho remoto",
+    "casual"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5500,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para café e almoço. gins premium a partir de 2500 AOA"
+  },
+  "menu": [
+    {
+      "categoria": "pequeno-almoço e brunch",
+      "pratos": [
+        {
+          "nome": "brunch OTAWA",
+          "descricao": "ovos mexidos, bacon, cogumelos, tomate, tosta e sumo natural",
+          "preco": 4500
+        },
+        {
+          "nome": "açaí bowl",
+          "descricao": "açaí com granola, banana, frutos vermelhos e mel",
+          "preco": 3200
+        },
+        {
+          "nome": "tosta abacate",
+          "descricao": "tosta com abacate, ovo pochê e sementes",
+          "preco": 3500
+        },
+        {
+          "nome": "panquecas",
+          "descricao": "panquecas com fruta fresca, mel e chantilly",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "tostas gourmet",
+      "pratos": [
+        {
+          "nome": "tosta caprese",
+          "descricao": "mozzarella, tomate, manjericão e pesto",
+          "preco": 2800
+        },
+        {
+          "nome": "tosta salmão",
+          "descricao": "salmão fumado, cream cheese e alcaparras",
+          "preco": 3500
+        },
+        {
+          "nome": "tosta de atum",
+          "descricao": "atum em lata premium, cebola roxa e rúcula",
+          "preco": 2500
+        },
+        {
+          "nome": "tosta de presunto",
+          "descricao": "presunto serrano, queijo brie e mel",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "saladas e bowls",
+      "pratos": [
+        {
+          "nome": "salada caesar",
+          "descricao": "alface, frango grelhado, parmesão, croutons e molho caesar",
+          "preco": 4200
+        },
+        {
+          "nome": "buddha bowl",
+          "descricao": "quinoa, grão, abacate, cenoura, hummus e sementes",
+          "preco": 4500
+        },
+        {
+          "nome": "salada grega",
+          "descricao": "tomate, pepino, cebola, azeitonas e feta",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos do dia",
+      "pratos": [
+        {
+          "nome": "prato do dia",
+          "descricao": "varia diariamente - pergunte ao staff",
+          "preco": 4500
+        },
+        {
+          "nome": "hamburger OTAWA",
+          "descricao": "hambúrguer artesanal com bacon, queijo e batata frita",
+          "preco": 5200
+        },
+        {
+          "nome": "wrap de frango",
+          "descricao": "wrap com frango grelhado, alface, tomate e molho",
+          "preco": 3800
+        }
+      ]
+    },
+    {
+      "categoria": "petiscos para partilhar",
+      "pratos": [
+        {
+          "nome": "tábua de queijos",
+          "descricao": "selecção de queijos com mel, frutos secos e tostas",
+          "preco": 4500
+        },
+        {
+          "nome": "tábua de enchidos",
+          "descricao": "presunto, chouriço, alheira e pão",
+          "preco": 5000
+        },
+        {
+          "nome": "hummus com pita",
+          "descricao": "hummus caseiro com pão pita tostado",
+          "preco": 2500
+        },
+        {
+          "nome": "nachos supreme",
+          "descricao": "nachos com guacamole, queijo, pico de gallo",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "gin bar",
+      "pratos": [
+        {
+          "nome": "gin tónico clássico",
+          "descricao": "gin premium com tónica e botânicos",
+          "preco": 2500
+        },
+        {
+          "nome": "gin pink",
+          "descricao": "gin de morango com tónica e frutos vermelhos",
+          "preco": 2800
+        },
+        {
+          "nome": "gin mediterrâneo",
+          "descricao": "gin com tónica, alecrim e limão",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "cafetaria",
+      "pratos": [
+        {
+          "nome": "café expresso",
+          "descricao": "café expresso italiano",
+          "preco": 500
+        },
+        {
+          "nome": "cappuccino",
+          "descricao": "café com leite vaporizado e espuma",
+          "preco": 800
+        },
+        {
+          "nome": "latte",
+          "descricao": "café com leite cremoso",
+          "preco": 900
+        },
+        {
+          "nome": "iced coffee",
+          "descricao": "café gelado com leite",
+          "preco": 1200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "08:00-22:00",
+      "terca": "08:00-22:00",
+      "quarta": "08:00-22:00",
+      "quinta": "08:00-23:00",
+      "sexta": "08:00-00:00",
+      "sabado": "09:00-00:00",
+      "domingo": "09:00-18:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "wifi gratuito para clientes. DJ sets sexta e sábado à noite"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.3,
+    "numeroAvaliacoes": 189,
+    "avaliacoes": [
+      {
+        "autor": "Rita Fernandes",
+        "nota": 5,
+        "comentario": "adorei o conceito! perfeito para trabalhar de manhã e tomar drinks à noite. wifi excelente e ambiente super cool!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Pedro Santos",
+        "nota": 4,
+        "comentario": "ótimo para brunch de domingo. as tostas gourmet são deliciosas e o café é muito bom.",
+        "data": "2025-11-14",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carla Dias",
+        "nota": 4,
+        "comentario": "espaço versátil e moderno. os gin tónicos são dos melhores de Luanda. recomendo!",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": false,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento na rua. pode ser difícil encontrar lugar em hora de ponta.",
+    "capacidadeEstacionamento": 0,
+    "custoEstacionamento": "na rua"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada durante o dia",
+      "boa iluminação",
+      "táxi recomendado à noite",
+      "área frequentada"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": false
+  },
+  "dicasViajantes": [
+    {
+      "dica": "venha de manhã para trabalhar - wifi rápido e ambiente tranquilo. à noite fica mais animado!",
+      "autor": "Joana Ribeiro",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimentem o brunch de sábado - é completo e vale muito a pena!",
+      "autor": "Miguel Costa",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "trabalhoRemoto": true,
+    "brunch": true,
+    "ginBar": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800",
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "OTAWA - Café, Restaurante e Bar na Baixa de Luanda",
+    "metaDescricao": "otawa é café, restaurante e bar em luanda. brunch, tostas gourmet, gin premium e wifi rápido. perfeito para trabalhar ou relaxar. contacto: 925 123 789",
+    "tags": [
+      "OTAWA",
+      "café",
+      "brunch",
+      "gin bar",
+      "baixa de luanda",
+      "trabalho remoto",
+      "petiscos",
+      "moderno"
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "id": "barbarico",
+  "nome": "Restaurante Barbarico",
+  "descricao": "churrasqueira popular na Avenida Che Guevara com carnes grelhadas, ambiente animado e boa relação qualidade-preço",
+  "descricaoCompleta": "o Restaurante Barbarico é uma churrasqueira tradicional muito popular entre os luandenses, localizada na Avenida Comandante Che Guevara, uma das principais artérias da baixa de Luanda. o conceito é simples mas eficaz: carnes de qualidade grelhadas na brasa com acompanhamentos generosos e preços acessíveis. a especialidade são os frangos grelhados, as costelinhas de porco e os espetadas mistas que saem fumegantes do grelhador directamente para a mesa. o ambiente é descontraído e informal, com mesas tanto no interior como numa animada esplanada que ganha vida especialmente ao fim de tarde e noites de fim de semana. a clientela é diversificada - trabalhadores da zona que procuram um almoço rápido e satisfatório, famílias que vêm jantar ao fim de semana e grupos de amigos que se juntam para uma cerveja gelada com petiscos. o serviço é rápido e simpático, típico das boas churrasqueiras onde se come bem sem cerimónias. o Barbarico representa a essência da cozinha popular luandense: porções generosas, sabor intenso da grelha e preços que cabem em qualquer orçamento. um lugar autêntico onde a comida simples mas bem feita é a estrela.",
+  "localizacao": {
+    "endereco": "Avenida Comandante Che Guevara, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Che Guevara",
+    "coordenadas": {
+      "latitude": -8.8192025,
+      "longitude": 13.2386006
+    }
+  },
+  "contactos": {
+    "telefone": "+244 923 567 890",
+    "telemovel": "+244 923 567 890",
+    "email": "barbarico.luanda@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/barbaricorestaurante",
+      "instagram": "https://www.instagram.com/barbaricorestaurante"
+    }
+  },
+  "tipoCozinha": [
+    "churrasqueira",
+    "grelhados",
+    "portuguesa",
+    "angolana",
+    "casual"
+  ],
+  "especialidades": [
+    "frango grelhado",
+    "costelinhas de porco",
+    "espetada mista",
+    "picanha na brasa",
+    "febras grelhadas",
+    "bifanas"
+  ],
+  "ambiente": [
+    "casual",
+    "animado",
+    "esplanada",
+    "popular",
+    "familiar",
+    "descontraído"
+  ],
+  "precos": {
+    "faixaPreco": 1,
+    "faixaPrecoTexto": "$",
+    "precoMedio": 4500,
+    "moeda": "AOA",
+    "observacao": "preços muito acessíveis. excelente relação qualidade-preço"
+  },
+  "menu": [
+    {
+      "categoria": "frangos",
+      "pratos": [
+        {
+          "nome": "frango inteiro grelhado",
+          "descricao": "frango inteiro grelhado com batata frita e salada",
+          "preco": 4500
+        },
+        {
+          "nome": "meio frango grelhado",
+          "descricao": "meio frango com batata frita ou arroz",
+          "preco": 2800
+        },
+        {
+          "nome": "frango piri-piri",
+          "descricao": "frango grelhado com molho piri-piri picante",
+          "preco": 5000
+        },
+        {
+          "nome": "asas de frango",
+          "descricao": "porção de asas grelhadas com molho à escolha",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes grelhadas",
+      "pratos": [
+        {
+          "nome": "costelinhas de porco",
+          "descricao": "costelinhas grelhadas com batata frita e arroz",
+          "preco": 5500
+        },
+        {
+          "nome": "espetada mista",
+          "descricao": "espetada com frango, porco e vaca com batata",
+          "preco": 5000
+        },
+        {
+          "nome": "picanha na brasa",
+          "descricao": "picanha grelhada com farofa e vinagrete",
+          "preco": 8500
+        },
+        {
+          "nome": "febras grelhadas",
+          "descricao": "febras de porco marinadas com arroz e salada",
+          "preco": 4200
+        },
+        {
+          "nome": "bifana",
+          "descricao": "bifana no pão com batata frita",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "arroz branco",
+          "descricao": "porção de arroz",
+          "preco": 600
+        },
+        {
+          "nome": "batata frita",
+          "descricao": "porção de batatas fritas",
+          "preco": 800
+        },
+        {
+          "nome": "salada mista",
+          "descricao": "alface, tomate e cebola",
+          "preco": 1000
+        },
+        {
+          "nome": "feijão tropeiro",
+          "descricao": "feijão com farinha e torresmos",
+          "preco": 1500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "cerveja Cuca",
+          "descricao": "cerveja angolana gelada",
+          "preco": 800
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "sumo de fruta fresca",
+          "preco": 1200
+        },
+        {
+          "nome": "refrigerante",
+          "descricao": "Coca-Cola, Fanta ou Sprite",
+          "preco": 600
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-22:00",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-22:00",
+      "sexta": "11:00-23:00",
+      "sabado": "11:00-23:00",
+      "domingo": "11:00-21:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "não aceita reservas. sistema de senhas nos dias mais movimentados"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.0,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "Paulo Costa",
+        "nota": 4,
+        "comentario": "frango sempre bom e bem temperado! preços honestos e ambiente descontraído. ponto de encontro clássico.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Carla Rodrigues",
+        "nota": 4,
+        "comentario": "as costelinhas são excelentes! porções generosas e cerveja sempre gelada. muito bom!",
+        "data": "2025-11-11",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "António Neves",
+        "nota": 4,
+        "comentario": "churrasqueira clássica de Luanda. nada de fancy mas a comida é boa e os preços são acessíveis.",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": false,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento na avenida pode ser complicado nas horas de ponta.",
+    "capacidadeEstacionamento": 0,
+    "custoEstacionamento": "na rua"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada da baixa",
+      "bem iluminado à noite",
+      "esplanada vigiada",
+      "rua com muito movimento"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "evite as horas de ponta do almoço (12h-14h) se não quiser esperar. o frango piri-piri é o melhor!",
+      "autor": "Sandra Ferreira",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça a espetada mista com feijão tropeiro - é a combinação perfeita!",
+      "autor": "Tiago Santos",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=800",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Barbarico - Churrasqueira na Baixa de Luanda",
+    "metaDescricao": "churrasqueira barbarico na baixa de luanda. frango grelhado, costelinhas, espetadas e carnes na brasa. preços acessíveis. contacto: 923 567 890",
+    "tags": [
+      "Barbarico",
+      "churrasqueira",
+      "frango grelhado",
+      "carnes",
+      "popular",
+      "baixa de luanda",
+      "barato",
+      "esplanada"
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "id": "la-vigia",
+  "nome": "Restaurante La Vigia",
+  "descricao": "restaurante de churrasco e marisco na baixa de Luanda com terraço e ambiente descontraído",
+  "descricaoCompleta": "o La Vigia é um restaurante de referência na baixa de Luanda, especializado em churrasco de qualidade e marisco fresco. localizado na Rua Nicolau Gomes Spencer, o restaurante oferece um ambiente descontraído e acolhedor, perfeito para almoços de negócios ou jantares em família. a cozinha combina técnicas de churrasco sul-americano com a tradição portuguesa e angolana, resultando em carnes suculentas e cheias de sabor. as especialidades incluem o picanha na brasa, o entrecosto BBQ, a costela de porco fumada e os espetos variados. o marisco é sempre fresco e preparado de forma simples para realçar os sabores naturais - camarões grelhados, lavagante e caranguejo são os favoritos. o espaço conta com um salão interior climatizado e um terraço agradável para os dias de bom tempo. a decoração é rústica e moderna, com elementos de madeira e pedra que criam uma atmosfera aconchegante. a carta de vinhos inclui rótulos portugueses, sul-africanos e argentinos que harmonizam perfeitamente com as carnes grelhadas. o serviço é eficiente e os funcionários conhecem bem a carta e sabem aconselhar sobre os melhores cortes e preparações.",
+  "localizacao": {
+    "endereco": "Rua Nicolau Gomes Spencer, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda",
+    "coordenadas": {
+      "latitude": -8.8221194,
+      "longitude": 13.2399423
+    }
+  },
+  "contactos": {
+    "telefone": "+244 923 456 789",
+    "telemovel": "+244 923 456 789",
+    "email": "lavigia@restaurante.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/lavigialuanda",
+      "instagram": "https://www.instagram.com/lavigialuanda"
+    }
+  },
+  "tipoCozinha": [
+    "churrasco",
+    "BBQ",
+    "marisco",
+    "carnes",
+    "grelhados"
+  ],
+  "especialidades": [
+    "picanha na brasa",
+    "entrecosto BBQ",
+    "costela de porco fumada",
+    "espetos mistos",
+    "camarão tigre grelhado",
+    "lavagante grelhado"
+  ],
+  "ambiente": [
+    "rústico",
+    "descontraído",
+    "terraço",
+    "familiar",
+    "casual chic"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 11000,
+    "moeda": "AOA",
+    "observacao": "preços justos para carnes de qualidade e marisco fresco"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "asas de frango BBQ",
+          "descricao": "asas marinadas e grelhadas com molho BBQ da casa",
+          "preco": 3200
+        },
+        {
+          "nome": "chouriço flambado",
+          "descricao": "chouriço artesanal flambado à mesa",
+          "preco": 2800
+        },
+        {
+          "nome": "camarão com alho",
+          "descricao": "camarões salteados com alho e piri-piri",
+          "preco": 4800
+        },
+        {
+          "nome": "nachos com guacamole",
+          "descricao": "nachos crocantes com guacamole, pico de gallo e queijo",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes na brasa",
+      "pratos": [
+        {
+          "nome": "picanha na brasa",
+          "descricao": "picanha 400g grelhada no ponto pedido com farofa e vinagrete",
+          "preco": 12500
+        },
+        {
+          "nome": "entrecosto BBQ",
+          "descricao": "entrecosto marinado e fumado com molho BBQ e coleslaw",
+          "preco": 10500
+        },
+        {
+          "nome": "costela de porco fumada",
+          "descricao": "costela fumada 12h com molho de mel e mostarda",
+          "preco": 11500
+        },
+        {
+          "nome": "espeto misto",
+          "descricao": "espeto com picanha, frango, linguiça e legumes grelhados",
+          "preco": 9500
+        },
+        {
+          "nome": "t-bone steak",
+          "descricao": "t-bone 500g grelhado com batata assada e manteiga de ervas",
+          "preco": 16500
+        }
+      ]
+    },
+    {
+      "categoria": "marisco",
+      "pratos": [
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões tigre grelhados com manteiga de alho e limão",
+          "preco": 14500
+        },
+        {
+          "nome": "lavagante grelhado",
+          "descricao": "lavagante inteiro grelhado com manteiga de ervas",
+          "preco": 22000
+        },
+        {
+          "nome": "caranguejo santola",
+          "descricao": "caranguejo santola cozido com molho de manteiga",
+          "preco": 18500
+        },
+        {
+          "nome": "mix de marisco grelhado",
+          "descricao": "selecção de camarão, lulas e mexilhões grelhados",
+          "preco": 16000
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "batatas fritas rústicas",
+          "descricao": "batatas cortadas à mão e fritas",
+          "preco": 1800
+        },
+        {
+          "nome": "farofa especial",
+          "descricao": "farofa com bacon e ovos",
+          "preco": 1500
+        },
+        {
+          "nome": "coleslaw",
+          "descricao": "salada de couve americana",
+          "preco": 1200
+        },
+        {
+          "nome": "feijão tropeiro",
+          "descricao": "feijão com farinha, bacon e linguiça",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie de chocolate com gelado de baunilha e caramelo",
+          "preco": 2500
+        },
+        {
+          "nome": "cheesecake de frutos vermelhos",
+          "descricao": "cheesecake cremosa com coulis de frutos vermelhos",
+          "preco": 2200
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-22:30",
+      "terca": "12:00-22:30",
+      "quarta": "12:00-22:30",
+      "quinta": "12:00-22:30",
+      "sexta": "12:00-23:30",
+      "sabado": "12:00-23:30",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. reservas recomendadas aos fins de semana"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 178,
+    "avaliacoes": [
+      {
+        "autor": "Ricardo Alves",
+        "nota": 5,
+        "comentario": "melhor churrasco da baixa! a picanha estava no ponto perfeito e o molho BBQ é delicioso. muito recomendado!",
+        "data": "2025-11-19",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Fernanda Costa",
+        "nota": 4,
+        "comentario": "carnes de excelente qualidade. o entrecosto BBQ é generoso e saboroso. ambiente agradável.",
+        "data": "2025-11-11",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Miguel Santos",
+        "nota": 4,
+        "comentario": "bom restaurante para comer carne e marisco. o terraço é agradável e o serviço eficiente.",
+        "data": "2025-11-02",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento na rua",
+    "informacaoEstacionamento": "estacionamento disponível nas ruas adjacentes. zona relativamente tranquila para estacionar.",
+    "capacidadeEstacionamento": 15,
+    "custoEstacionamento": "gratuito"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da baixa com movimento comercial",
+      "segurança presente no restaurante",
+      "estacionar em locais iluminados",
+      "evitar carregar objectos de valor visíveis"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "a picanha é o prato estrela! peça no ponto mal passado para melhor sabor e suculência.",
+      "autor": "Pedro Ramos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa no terraço se o tempo estiver agradável. ambiente muito bom!",
+      "autor": "Catarina Silva",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1558030006-450675393462?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "La Vigia - Restaurante de Churrasco e Marisco na Baixa de Luanda",
+    "metaDescricao": "restaurante de churrasco BBQ e marisco fresco na baixa de Luanda. picanha, costela fumada, camarão tigre. reservas: 923 456 789",
+    "tags": [
+      "churrasco",
+      "BBQ",
+      "marisco",
+      "carnes",
+      "picanha",
+      "grelhados",
+      "baixa de luanda",
+      "terraço"
+    ]
+  }
+}

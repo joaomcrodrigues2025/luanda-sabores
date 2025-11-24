@@ -1,0 +1,276 @@
+{
+  "id": "hotel-tropico",
+  "nome": "Restaurante Hotel Trópico",
+  "descricao": "restaurante internacional do Hotel Trópico na baixa de Luanda com buffet variado e cozinha de qualidade",
+  "descricaoCompleta": "o Restaurante do Hotel Trópico é um espaço gastronómico versátil localizado num dos hotéis mais conhecidos da baixa de Luanda. situado na Rua da Missão, o hotel oferece uma experiência gastronómica que combina conforto, qualidade e variedade. o restaurante serve pequenos-almoços em formato buffet com ampla selecção de pratos quentes e frios, frutas frescas e especialidades locais. ao almoço e jantar, a carta apresenta uma mistura de cozinha internacional com influências portuguesas e angolanas, satisfazendo gostos variados dos hóspedes de negócios e turistas que frequentam o estabelecimento. o ambiente é confortável e funcional, com decoração moderna e acolhedora. o espaço é amplo e bem iluminado, criando uma atmosfera agradável para as refeições. o serviço é eficiente e simpático, com funcionários atentos às necessidades dos clientes. o restaurante é particularmente popular entre a comunidade empresarial que aprecia a localização central, a consistência da qualidade e os preços razoáveis. também é uma opção prática para quem procura uma refeição sólida sem complicações na baixa de Luanda.",
+  "localizacao": {
+    "endereco": "Rua da Missão 103, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Rua da Missão",
+    "coordenadas": {
+      "latitude": -8.815474,
+      "longitude": 13.2368773
+    }
+  },
+  "contactos": {
+    "telefone": "+244 226 570 100",
+    "telemovel": "+244 926 570 100",
+    "email": "restaurante@hoteltropico.ao",
+    "website": "https://www.hoteltropico.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/HotelTropicoLuanda",
+      "instagram": "https://www.instagram.com/hoteltropicoluanda"
+    }
+  },
+  "tipoCozinha": [
+    "internacional",
+    "portuguesa",
+    "angolana",
+    "buffet"
+  ],
+  "especialidades": [
+    "buffet de pequeno-almoço",
+    "feijoada",
+    "frango grelhado",
+    "peixe do dia",
+    "pratos do dia variados",
+    "sobremesas caseiras"
+  ],
+  "ambiente": [
+    "funcional",
+    "confortável",
+    "hotel",
+    "negócios",
+    "prático",
+    "casual"
+  ],
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 8000,
+    "moeda": "AOA",
+    "observacao": "preços acessíveis para qualidade de hotel. menu executivo ao almoço com bom valor"
+  },
+  "menu": [
+    {
+      "categoria": "pequeno-almoço",
+      "pratos": [
+        {
+          "nome": "buffet completo",
+          "descricao": "buffet com pães, queijos, frios, ovos, frutas e pratos quentes",
+          "preco": 5500
+        }
+      ]
+    },
+    {
+      "categoria": "sopas e entradas",
+      "pratos": [
+        {
+          "nome": "sopa do dia",
+          "descricao": "sopa fresca preparada diariamente",
+          "preco": 1500
+        },
+        {
+          "nome": "salada mista",
+          "descricao": "salada de alface, tomate, pepino e cenoura",
+          "preco": 2000
+        },
+        {
+          "nome": "croquetes de carne",
+          "descricao": "croquetes caseiros de carne",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "menu executivo",
+          "descricao": "prato do dia com sopa, principal e bebida",
+          "preco": 6500
+        },
+        {
+          "nome": "feijoada",
+          "descricao": "feijoada completa com arroz, couve e farofa (às quartas)",
+          "preco": 7500
+        },
+        {
+          "nome": "frango grelhado",
+          "descricao": "meio frango grelhado com batata frita e salada",
+          "preco": 6000
+        },
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco grelhado com batata cozida e legumes",
+          "preco": 8500
+        },
+        {
+          "nome": "bife grelhado",
+          "descricao": "bife de vaca grelhado com molho à escolha e batata",
+          "preco": 9500
+        },
+        {
+          "nome": "muamba de galinha",
+          "descricao": "prato tradicional angolano com molho de ginguba",
+          "preco": 7000
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "arroz branco",
+          "descricao": "porção de arroz",
+          "preco": 800
+        },
+        {
+          "nome": "batata frita",
+          "descricao": "porção de batatas fritas",
+          "preco": 1000
+        },
+        {
+          "nome": "funge",
+          "descricao": "funge tradicional",
+          "preco": 900
+        },
+        {
+          "nome": "legumes salteados",
+          "descricao": "legumes da época salteados",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de leite",
+          "descricao": "pudim caseiro com caramelo",
+          "preco": 1500
+        },
+        {
+          "nome": "fruta da época",
+          "descricao": "selecção de frutas frescas",
+          "preco": 1200
+        },
+        {
+          "nome": "gelado",
+          "descricao": "duas bolas de gelado à escolha",
+          "preco": 1500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "06:30-10:00, 12:00-22:00",
+      "terca": "06:30-10:00, 12:00-22:00",
+      "quarta": "06:30-10:00, 12:00-22:00",
+      "quinta": "06:30-10:00, 12:00-22:00",
+      "sexta": "06:30-10:00, 12:00-22:00",
+      "sabado": "07:00-10:30, 12:00-22:00",
+      "domingo": "07:00-10:30, 12:00-21:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "menu executivo disponível ao almoço de segunda a sexta. feijoada especial às quartas"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 234,
+    "avaliacoes": [
+      {
+        "autor": "Ricardo Gomes",
+        "nota": 4,
+        "comentario": "bom restaurante de hotel com comida consistente. o menu executivo ao almoço é excelente custo-benefício.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sandra Costa",
+        "nota": 4,
+        "comentario": "prático e com boa comida. a feijoada de quarta-feira é muito boa! ambiente agradável.",
+        "data": "2025-11-11",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "João Martins",
+        "nota": 4,
+        "comentario": "opção sólida na baixa. buffet de pequeno-almoço variado e serviço simpático.",
+        "data": "2025-11-04",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento do hotel",
+    "informacaoEstacionamento": "estacionamento disponível para hóspedes e clientes do restaurante.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "hotel com segurança 24h",
+      "zona da baixa movimentada",
+      "estacionamento vigiado",
+      "bem iluminado"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o menu executivo ao almoço é a melhor opção: sopa, prato e bebida a bom preço.",
+      "autor": "Teresa Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "às quartas-feiras a feijoada é especial - reserve se quiser garantir lugar!",
+      "autor": "Paulo Fernandes",
+      "origem": "São Paulo, Brasil"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "hotelRestaurante": true,
+    "buffet": true,
+    "menuExecutivo": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Hotel Trópico Luanda | Cozinha Internacional e Buffet",
+    "metaDescricao": "restaurante do Hotel Trópico na baixa de Luanda. buffet, menu executivo, feijoada às quartas. reservas: 226 570 100",
+    "tags": [
+      "Hotel Trópico",
+      "buffet",
+      "internacional",
+      "menu executivo",
+      "feijoada",
+      "baixa de luanda",
+      "negócios",
+      "prático"
+    ]
+  }
+}

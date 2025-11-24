@@ -1,0 +1,290 @@
+{
+  "id": "hotel-presidente",
+  "nome": "Restaurante Hotel Presidente",
+  "descricao": "restaurante clássico do histórico Hotel Presidente no coração de Luanda com cozinha portuguesa e internacional",
+  "descricaoCompleta": "o Restaurante do Hotel Presidente é um espaço gastronómico histórico no coração de Luanda, localizado no emblemático edifício que há décadas serve como referência hoteleira na capital angolana. situado no Largo 17 de Setembro, numa das zonas mais nobres da cidade, o restaurante combina a tradição com a qualidade que caracteriza a hospitalidade portuguesa de excelência. a cozinha oferece uma mistura equilibrada de pratos portugueses clássicos e especialidades internacionais, com particular destaque para os pratos de bacalhau, as carnes grelhadas e os mariscos frescos. o ambiente é elegante mas acolhedor, com decoração que evoca a arquitectura clássica portuguesa adaptada ao contexto tropical de Luanda. o espaço amplo permite refeições tranquilas, sendo muito procurado por executivos para almoços de negócios e por famílias ao fim de semana. o buffet de pequeno-almoço é muito apreciado pela variedade e qualidade, incluindo tanto opções internacionais como especialidades locais. o serviço é profissional e atencioso, reflectindo a longa tradição hoteleira do estabelecimento. uma escolha segura para quem procura qualidade consistente num ambiente sofisticado no centro de Luanda.",
+  "localizacao": {
+    "endereco": "Largo 17 de Setembro 4, Centro, Luanda, Angola",
+    "zona": "Centro de Luanda - Largo 17 de Setembro",
+    "coordenadas": {
+      "latitude": -8.8034088,
+      "longitude": 13.2420229
+    }
+  },
+  "contactos": {
+    "telefone": "+244 222 311 717",
+    "telemovel": "+244 924 311 717",
+    "email": "restaurante@hotelpresidente.ao",
+    "website": "https://www.hotelpresidente.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/HotelPresidenteLuanda",
+      "instagram": "https://www.instagram.com/hotelpresidenteluanda"
+    }
+  },
+  "tipoCozinha": [
+    "portuguesa",
+    "internacional",
+    "clássica",
+    "marisco"
+  ],
+  "especialidades": [
+    "bacalhau à brás",
+    "arroz de marisco",
+    "bife à Presidente",
+    "caldeirada de peixe",
+    "secretos de porco preto",
+    "sobremesas tradicionais"
+  ],
+  "ambiente": [
+    "clássico",
+    "elegante",
+    "tradicional",
+    "hotel histórico",
+    "negócios",
+    "familiar"
+  ],
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 12000,
+    "moeda": "AOA",
+    "observacao": "preços justos para a qualidade e localização central"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "caldo verde",
+          "descricao": "sopa tradicional portuguesa com couve, batata e chouriço",
+          "preco": 2000
+        },
+        {
+          "nome": "gambas ao alho",
+          "descricao": "gambas salteadas em azeite com alho e malagueta",
+          "preco": 4500
+        },
+        {
+          "nome": "alheira grelhada",
+          "descricao": "alheira tradicional grelhada com batata frita e ovo estrelado",
+          "preco": 3500
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo cozido com cebola, salsa, azeite e vinagre",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "bacalhau",
+      "pratos": [
+        {
+          "nome": "bacalhau à brás",
+          "descricao": "lascas de bacalhau com ovos mexidos, batata palha e azeitonas",
+          "preco": 9500
+        },
+        {
+          "nome": "bacalhau com natas",
+          "descricao": "bacalhau desfiado gratinado com natas e batata",
+          "preco": 9800
+        },
+        {
+          "nome": "bacalhau à lagareiro",
+          "descricao": "posta de bacalhau assado com batata a murro e azeite",
+          "preco": 10500
+        },
+        {
+          "nome": "bacalhau à Gomes de Sá",
+          "descricao": "bacalhau no forno com batata, cebola e ovo cozido",
+          "preco": 9200
+        }
+      ]
+    },
+    {
+      "categoria": "carnes",
+      "pratos": [
+        {
+          "nome": "bife à Presidente",
+          "descricao": "bife de lombo com molho de pimenta verde, cogumelos e batata frita",
+          "preco": 12500
+        },
+        {
+          "nome": "secretos de porco preto",
+          "descricao": "secretos de porco ibérico grelhados com batata assada",
+          "preco": 11500
+        },
+        {
+          "nome": "costeletas de borrego",
+          "descricao": "costeletas de borrego grelhadas com arroz de legumes",
+          "preco": 10500
+        },
+        {
+          "nome": "prego no prato",
+          "descricao": "bife de vaca com ovo estrelado, presunto e batata frita",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "peixes e mariscos",
+      "pratos": [
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com lavagante, camarão, mexilhões e amêijoas",
+          "preco": 14500
+        },
+        {
+          "nome": "caldeirada de peixe",
+          "descricao": "caldeirada com peixe variado, batatas e molho de tomate",
+          "preco": 11500
+        },
+        {
+          "nome": "robalo grelhado",
+          "descricao": "robalo inteiro grelhado com batata cozida e legumes",
+          "preco": 12500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões tigre grelhados com molho de manteiga e alho",
+          "preco": 15500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim Abade de Priscos",
+          "descricao": "pudim tradicional português com toucinho e especiarias",
+          "preco": 2200
+        },
+        {
+          "nome": "serradura",
+          "descricao": "sobremesa de natas com bolacha maria",
+          "preco": 1800
+        },
+        {
+          "nome": "leite-creme",
+          "descricao": "creme de ovos queimado com canela",
+          "preco": 1800
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse de chocolate negro intenso",
+          "preco": 2000
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "06:30-10:30, 12:00-22:00",
+      "terca": "06:30-10:30, 12:00-22:00",
+      "quarta": "06:30-10:30, 12:00-22:00",
+      "quinta": "06:30-10:30, 12:00-22:00",
+      "sexta": "06:30-10:30, 12:00-22:30",
+      "sabado": "07:00-11:00, 12:00-22:30",
+      "domingo": "07:00-11:00, 12:00-21:30"
+    },
+    "diasEncerrado": [],
+    "observacoes": "pequeno-almoço buffet disponível para hóspedes e externos"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 289,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Pereira",
+        "nota": 4,
+        "comentario": "comida portuguesa de qualidade num hotel histórico. o bacalhau à brás estava excelente. serviço profissional.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Isabel Rodrigues",
+        "nota": 4,
+        "comentario": "ambiente elegante e pratos bem confeccionados. o arroz de marisco é muito bom. localização central e prática.",
+        "data": "2025-11-13",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Paulo Santos",
+        "nota": 5,
+        "comentario": "excelente escolha para almoço de negócios. o bife à Presidente é um clássico que vale sempre a pena!",
+        "data": "2025-11-07",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "estacionamento do hotel",
+    "informacaoEstacionamento": "estacionamento disponível no hotel com vigilância. acesso pela entrada lateral.",
+    "capacidadeEstacionamento": 50,
+    "custoEstacionamento": "gratuito para clientes do restaurante"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "hotel com segurança permanente",
+      "zona central de Luanda bem policiada",
+      "estacionamento vigiado",
+      "Largo 17 de Setembro é zona nobre"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o bacalhau é a especialidade da casa - qualquer das preparações é excelente. não hesite!",
+      "autor": "António Ferreira",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "para almoço de negócios é ideal: ambiente discreto, boa comida e localização central.",
+      "autor": "Carla Mendes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": false,
+    "hotelRestaurante": true,
+    "buffet": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Restaurante Hotel Presidente Luanda | Cozinha Portuguesa Clássica",
+    "metaDescricao": "restaurante do Hotel Presidente em Luanda. bacalhau, carnes, marisco e cozinha portuguesa tradicional. reservas: 222 311 717",
+    "tags": [
+      "Hotel Presidente",
+      "português",
+      "clássico",
+      "bacalhau",
+      "marisco",
+      "negócios",
+      "centro de luanda",
+      "tradicional"
+    ]
+  }
+}

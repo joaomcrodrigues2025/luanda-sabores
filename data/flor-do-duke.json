@@ -1,0 +1,270 @@
+{
+  "id": "flor-do-duke",
+  "nome": "Flor do Duke by Chef Helt Araújo",
+  "descricao": "restaurante de autor na marginal de Luanda comandado pelo chef Helt Araújo com cozinha angolana reinventada",
+  "descricaoCompleta": "Flor do Duke é um projeto gastronómico de autor comandado pelo reconhecido chef Helt Araújo, um dos nomes mais relevantes da nova cozinha angolana. localizado na marginal de Luanda, o restaurante propõe uma viagem pela gastronomia angolana reinventada com técnicas contemporâneas e apresentações sofisticadas. o chef Helt Araújo é conhecido por valorizar ingredientes locais angolanos, muitos deles esquecidos ou subvalorizados, transformando-os em pratos de alta gastronomia que contam histórias do país. a carta muda sazonalmente, acompanhando a disponibilidade dos produtos do mercado e a criatividade do chef. pratos como o calulu reinventado, a muamba desconstruída ou o mufete em versão gourmet são exemplos da filosofia do restaurante: respeitar a tradição enquanto se olha para o futuro. o ambiente é elegante mas informal, refletindo a personalidade do chef que gosta de circular pela sala e explicar pessoalmente os pratos aos clientes. a adega privilegia vinhos portugueses e sul-africanos. Flor do Duke tornou-se referência para quem quer descobrir o potencial da cozinha angolana elevada ao mais alto nível, sendo frequentemente citado como um dos melhores restaurantes de Luanda.",
+  "localizacao": {
+    "endereco": "Marginal de Luanda, Angola",
+    "zona": "Marginal de Luanda",
+    "coordenadas": {
+      "latitude": -8.7955486,
+      "longitude": 13.22498
+    }
+  },
+  "contactos": {
+    "telefone": "+244 927 890 123",
+    "telemovel": "+244 927 890 123",
+    "email": "reservas@flordoduke.ao",
+    "website": "https://www.flordoduke.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/flordoduke",
+      "instagram": "https://www.instagram.com/flordoduke"
+    }
+  },
+  "tipoCozinha": [
+    "angolana contemporânea",
+    "autor",
+    "fine dining",
+    "fusão",
+    "criativa"
+  ],
+  "especialidades": [
+    "calulu reinventado",
+    "muamba desconstruída",
+    "mufete gourmet",
+    "cataplana do chef",
+    "sobremesa de múcua",
+    "menu de degustação"
+  ],
+  "ambiente": [
+    "autor",
+    "sofisticado",
+    "contemporâneo",
+    "cultural",
+    "intimista",
+    "chef's table"
+  ],
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 18000,
+    "moeda": "AOA",
+    "observacao": "menu de degustação 25000 AOA com harmonização de vinhos. experiência gastronómica única"
+  },
+  "menu": [
+    {
+      "categoria": "entradas do chef",
+      "pratos": [
+        {
+          "nome": "kizaka em tempura",
+          "descricao": "folhas de mandioca em tempura leve com maionese de jindungo",
+          "preco": 4500
+        },
+        {
+          "nome": "ginguba em texturas",
+          "descricao": "amendoim angolano em diferentes preparações: praline, espuma e crocante",
+          "preco": 5200
+        },
+        {
+          "nome": "tártaro de corvina",
+          "descricao": "corvina fresca com óleo de palma aromatizado e chips de banana",
+          "preco": 6800
+        },
+        {
+          "nome": "ovo 65°",
+          "descricao": "ovo cozido a baixa temperatura com puré de batata-doce e farofa de morcela",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos do mar",
+      "pratos": [
+        {
+          "nome": "calulu reinventado",
+          "descricao": "peixe em calulu com quiabos grelhados e emulsão de óleo de palma",
+          "preco": 14500
+        },
+        {
+          "nome": "mufete gourmet",
+          "descricao": "cacusso grelhado com feijão de dendém desconstruído e banana caramelizada",
+          "preco": 13500
+        },
+        {
+          "nome": "camarão tigre do chef",
+          "descricao": "camarão tigre com risotto de coco e pimenta rosa",
+          "preco": 16500
+        },
+        {
+          "nome": "cataplana do Duke",
+          "descricao": "cataplana de mariscos angolanos com aromáticos locais (2 pessoas)",
+          "preco": 24000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos da terra",
+      "pratos": [
+        {
+          "nome": "muamba desconstruída",
+          "descricao": "frango em muamba apresentada em diferentes elementos e texturas",
+          "preco": 12500
+        },
+        {
+          "nome": "cabrito do planalto",
+          "descricao": "cabrito assado lentamente com legumes da época e molho de ervas do mato",
+          "preco": 15500
+        },
+        {
+          "nome": "secretos negros",
+          "descricao": "secretos de porco com redução de café angolano e puré de mandioca",
+          "preco": 13500
+        },
+        {
+          "nome": "funge premium",
+          "descricao": "funge artesanal com ragout de cogumelos e trufa negra",
+          "preco": 11500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas de autor",
+      "pratos": [
+        {
+          "nome": "múcua em sobremesa",
+          "descricao": "mousse de múcua com crocante de coco e sorbet de maracujá",
+          "preco": 4500
+        },
+        {
+          "nome": "chocolate e café",
+          "descricao": "texturas de chocolate com espuma de café angolano",
+          "preco": 4200
+        },
+        {
+          "nome": "manga do pomar",
+          "descricao": "manga em várias preparações com gelado de gengibre",
+          "preco": 3800
+        },
+        {
+          "nome": "cocada reinventada",
+          "descricao": "desconstrução do doce tradicional angolano de coco",
+          "preco": 3500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "encerrado",
+      "quarta": "19:30-23:00",
+      "quinta": "19:30-23:00",
+      "sexta": "12:30-15:00, 19:30-23:30",
+      "sabado": "12:30-15:00, 19:30-23:30",
+      "domingo": "12:30-16:00"
+    },
+    "diasEncerrado": [
+      "segunda-feira",
+      "terça-feira"
+    ],
+    "observacoes": "reserva obrigatória. encerrado segunda e terça. menu de degustação requer reserva com 24h de antecedência"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 189,
+    "avaliacoes": [
+      {
+        "autor": "Patrícia Lopes",
+        "nota": 5,
+        "comentario": "uma experiência única! o chef Helt reinventa a cozinha angolana de forma brilhante. cada prato conta uma história.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Jean-Marc Dubois",
+        "nota": 5,
+        "comentario": "extraordinary culinary experience! the tasting menu was a journey through Angolan flavors I never knew existed.",
+        "data": "2025-11-15",
+        "origem": "Paris, França"
+      },
+      {
+        "autor": "Rui Ferreira",
+        "nota": 4,
+        "comentario": "cozinha de autor ao mais alto nível. a muamba desconstruída é genial. obrigatório para foodies!",
+        "data": "2025-11-09",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "valet parking",
+    "informacaoEstacionamento": "serviço de valet parking disponível para todos os clientes.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona da marginal segura",
+      "valet parking disponível",
+      "segurança no restaurante",
+      "táxi ou motorista recomendado"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o menu de degustação é a melhor forma de conhecer a cozinha do chef Helt. reserve com antecedência!",
+      "autor": "Miguel Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça ao chef para explicar os pratos - ele adora contar as histórias por trás de cada criação.",
+      "autor": "Ana Beatriz",
+      "origem": "São Paulo, Brasil"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "fineDining": true,
+    "menuDegustacao": true,
+    "chefsTable": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "https://images.unsplash.com/photo-1481931098730-318b6f776db0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Flor do Duke by Chef Helt Araújo | Cozinha Angolana de Autor em Luanda",
+    "metaDescricao": "flor do duke pelo chef helt araújo. cozinha angolana contemporânea de autor, menu de degustação, ingredientes locais reinventados. reservas: 927 890 123",
+    "tags": [
+      "Flor do Duke",
+      "Chef Helt Araújo",
+      "angolano contemporâneo",
+      "fine dining",
+      "autor",
+      "degustação",
+      "marginal",
+      "premium"
+    ]
+  }
+}

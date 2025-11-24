@@ -1,0 +1,268 @@
+{
+  "id": "bico-do-sapato",
+  "nome": "Restaurante Bico do Sapato",
+  "descricao": "restaurante português contemporâneo junto ao Estádio dos Coqueiros com cozinha de autor e ambiente sofisticado",
+  "descricaoCompleta": "o Bico do Sapato de Luanda é a extensão do conceituado restaurante lisboeta, trazendo para Angola a mesma filosofia de cozinha portuguesa contemporânea num ambiente sofisticado. localizado junto ao Estádio dos Coqueiros, o restaurante oferece uma experiência gastronómica elevada que combina técnicas modernas com ingredientes tradicionais portugueses e locais angolanos. a carta é criada com foco na qualidade e na criatividade, apresentando pratos que reinventam clássicos portugueses com toques contemporâneos. os peixes e mariscos são estrelas da carta, sempre frescos e preparados com mestria. o espaço é amplo e elegante, com decoração contemporânea que mistura elementos industriais com toques de design sofisticado. a iluminação cuidada cria uma atmosfera intimista ideal para jantares especiais ou almoços de negócios. a carta de vinhos é extensa, com foco em produtores portugueses de referência e algumas surpresas internacionais. o serviço é profissional e atencioso, à altura da reputação do nome. o Bico do Sapato em Luanda tornou-se rapidamente num dos endereços mais requisitados da cidade para quem procura uma experiência gastronómica premium.",
+  "localizacao": {
+    "endereco": "Junto ao Estádio dos Coqueiros, Baixa de Luanda, Angola",
+    "zona": "Baixa de Luanda - Coqueiros",
+    "coordenadas": {
+      "latitude": -8.813875099999999,
+      "longitude": 13.2251166
+    }
+  },
+  "contactos": {
+    "telefone": "+244 222 445 678",
+    "telemovel": "+244 925 445 678",
+    "email": "reservas@bicodosapato.ao",
+    "website": "https://www.bicodosapato.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/bicodosapatoluanda",
+      "instagram": "https://www.instagram.com/bicodosapatoluanda"
+    }
+  },
+  "tipoCozinha": [
+    "portuguesa contemporânea",
+    "autor",
+    "marisco",
+    "fine dining",
+    "internacional"
+  ],
+  "especialidades": [
+    "arroz de lavagante",
+    "bacalhau confitado",
+    "secretos de porco ibérico",
+    "tártaro de novilho",
+    "polvo à lagareiro reinventado",
+    "chocolate com texturas"
+  ],
+  "ambiente": [
+    "sofisticado",
+    "contemporâneo",
+    "elegante",
+    "romântico",
+    "negócios",
+    "design"
+  ],
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 15000,
+    "moeda": "AOA",
+    "observacao": "restaurante premium com menu de degustação disponível"
+  },
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "tártaro de novilho",
+          "descricao": "novilho cortado à faca com gema curada, alcaparras e mostarda",
+          "preco": 5800
+        },
+        {
+          "nome": "atum em tataki",
+          "descricao": "atum selado com sésamo, gengibre e molho ponzu",
+          "preco": 6200
+        },
+        {
+          "nome": "vieiras grelhadas",
+          "descricao": "vieiras com puré de couve-flor e bacon crocante",
+          "preco": 7500
+        },
+        {
+          "nome": "caldo verde reinventado",
+          "descricao": "caldo verde com chouriço crocante e azeite novo",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "peixes e mariscos",
+      "pratos": [
+        {
+          "nome": "bacalhau confitado",
+          "descricao": "lombo de bacalhau confitado a baixa temperatura com grão e espinafres",
+          "preco": 13500
+        },
+        {
+          "nome": "arroz de lavagante",
+          "descricao": "arroz cremoso de lavagante inteiro (2 pessoas)",
+          "preco": 28000
+        },
+        {
+          "nome": "polvo à lagareiro reinventado",
+          "descricao": "tentáculo de polvo com batata esmagada e azeite de coentros",
+          "preco": 14500
+        },
+        {
+          "nome": "robalo em crosta de ervas",
+          "descricao": "lombo de robalo com legumes do mercado e molho de champagne",
+          "preco": 15500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes",
+      "pratos": [
+        {
+          "nome": "secretos de porco ibérico",
+          "descricao": "secretos grelhados com puré de maçã e redução de Porto",
+          "preco": 12500
+        },
+        {
+          "nome": "lombo de novilho",
+          "descricao": "lombo 220g com molho de vinho tinto e legumes da época",
+          "preco": 16500
+        },
+        {
+          "nome": "cabrito assado",
+          "descricao": "cabrito assado lentamente com batata e grelos",
+          "preco": 14500
+        },
+        {
+          "nome": "pato confitado",
+          "descricao": "perna de pato confitada com laranja e puré de castanha",
+          "preco": 13500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "chocolate com texturas",
+          "descricao": "sobremesa de chocolate em várias texturas com frutos vermelhos",
+          "preco": 3500
+        },
+        {
+          "nome": "pastel de nata desconstruído",
+          "descricao": "reinterpretação do clássico português",
+          "preco": 2800
+        },
+        {
+          "nome": "tarte de limão",
+          "descricao": "tarte de limão com merengue suíço",
+          "preco": 2500
+        },
+        {
+          "nome": "queijos portugueses",
+          "descricao": "selecção de queijos DOP com compota e mel",
+          "preco": 4500
+        }
+      ]
+    }
+  ],
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:30-15:00, 19:30-23:00",
+      "quarta": "12:30-15:00, 19:30-23:00",
+      "quinta": "12:30-15:00, 19:30-23:00",
+      "sexta": "12:30-15:00, 19:30-23:30",
+      "sabado": "12:30-15:30, 19:30-23:30",
+      "domingo": "12:30-16:00"
+    },
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
+    "observacoes": "reserva obrigatória. encerrado às segundas. menu de degustação com harmonização disponível"
+  },
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 312,
+    "avaliacoes": [
+      {
+        "autor": "Luísa Fonseca",
+        "nota": 5,
+        "comentario": "experiência gastronómica de topo! o arroz de lavagante é divinal. serviço impecável.",
+        "data": "2025-11-20",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Ricardo Almeida",
+        "nota": 5,
+        "comentario": "o melhor restaurante português em Luanda. o bacalhau confitado é perfeito. ambiente sofisticado.",
+        "data": "2025-11-14",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Marina Costa",
+        "nota": 4,
+        "comentario": "excelente escolha para ocasiões especiais. a carta de vinhos é impressionante!",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "valet parking",
+    "informacaoEstacionamento": "serviço de valet parking disponível. estacionamento junto ao Estádio dos Coqueiros.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona dos Coqueiros bem policiada",
+      "valet parking disponível",
+      "segurança no restaurante",
+      "área frequentada e segura"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+  "dicasViajantes": [
+    {
+      "dica": "o menu de degustação com harmonização de vinhos é uma experiência completa que vale muito a pena!",
+      "autor": "António Magalhães",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "reserve com antecedência, especialmente aos fins de semana. peça mesa junto à janela!",
+      "autor": "Clara Rodrigues",
+      "origem": "Luanda, Angola"
+    }
+  ],
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "fineDining": true,
+    "menuDegustacao": true
+  },
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+  "seo": {
+    "metaTitulo": "Bico do Sapato Luanda | Restaurante Português Contemporâneo Fine Dining",
+    "metaDescricao": "bico do sapato em luanda. cozinha portuguesa contemporânea de autor, marisco, bacalhau e carnes premium. reservas obrigatórias: 222 445 678",
+    "tags": [
+      "Bico do Sapato",
+      "fine dining",
+      "português contemporâneo",
+      "autor",
+      "marisco",
+      "bacalhau",
+      "premium",
+      "Luanda"
+    ]
+  }
+}
