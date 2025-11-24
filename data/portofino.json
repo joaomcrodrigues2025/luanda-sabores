@@ -3,16 +3,14 @@
   "nome": "Restaurante Portofino",
   "descricao": "restaurante italiano sofisticado com vista mar, especializado em massas artesanais, risottos e frutos do mar num ambiente elegante",
   "descricaoCompleta": "o Restaurante Portofino é um dos estabelecimentos mais refinados da Ilha de Luanda, oferecendo alta gastronomia italiana com influências mediterrânicas. inspirado na elegante cidade costeira italiana de Portofino, o restaurante recria a sofisticação da Riviera Italiana nas margens do Atlântico angolano. a decoração é um equilíbrio perfeito entre o clássico e o contemporâneo, com tons de azul e branco que remetem para o mar, candelabros elegantes, mobiliário de qualidade e uma impressionante garrafeira climatizada à vista. o chef executivo, com formação em Itália, comanda uma cozinha que prima pela excelência técnica e pela selecção criteriosa de ingredientes, muitos deles importados diretamente de Itália. as massas são feitas diariamente na cozinha, os risottos são preparados na perfeição cremosa al dente, e o marisco é seleccionado pessoalmente no mercado. o Portofino destaca-se também pela sua extensa carta de vinhos italianos e internacionais, com particular ênfase nos tintos da Toscana e brancos do Piemonte. o serviço é refinado e atencioso, com sommelier disponível para harmonizações. a esplanada panorâmica oferece vistas deslumbrantes sobre a baía de Luanda, tornando-se o cenário perfeito para jantares românticos e celebrações especiais. o restaurante atrai uma clientela exigente, incluindo diplomatas, empresários e amantes de boa gastronomia.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Edifício Premium, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul premium",
     "coordenadas": {
-      "latitude": -8.8075,
-      "longitude": 13.2340
+      "latitude": -8.8035,
+      "longitude": 13.2235
     }
   },
-
   "contactos": {
     "telefone": "+244 222 310 890",
     "telemovel": "+244 927 345 678",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/portofino-luanda"
     }
   },
-
-  "tipoCozinha": ["italiana", "mediterrânica", "frutos do mar", "alta cozinha", "contemporânea"],
+  "tipoCozinha": [
+    "italiana",
+    "mediterrânica",
+    "frutos do mar",
+    "alta cozinha",
+    "contemporânea"
+  ],
   "especialidades": [
     "risotto ai frutti di mare",
     "linguine ao lavagante",
@@ -35,15 +38,20 @@
     "tagliatelle al tartufo nero",
     "scaloppine al limone"
   ],
-  "ambiente": ["elegante", "sofisticado", "vista mar", "romântico", "esplanada panorâmica", "luxo"],
-
+  "ambiente": [
+    "elegante",
+    "sofisticado",
+    "vista mar",
+    "romântico",
+    "esplanada panorâmica",
+    "luxo"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
     "precoMedio": 16500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "antipasti",
@@ -251,7 +259,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -262,10 +269,11 @@
       "sabado": "12:30-15:30, 19:30-00:00",
       "domingo": "12:30-15:30, 19:30-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas obrigatórias. dress code smart casual. sommelier disponível para harmonizações"
   },
-
   "avaliacoes": {
     "avaliacao": 4.8,
     "numeroAvaliacoes": 243,
@@ -307,7 +315,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -315,7 +322,6 @@
     "capacidadeEstacionamento": 35,
     "custoEstacionamento": "gratuito com valet parking incluído"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada 24h no edifício",
@@ -327,7 +333,6 @@
     "nivelSeguranca": "muito alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com pelo menos 48h de antecedência, especialmente aos fins de semana. peça mesa na esplanada para vista privilegiada",
@@ -355,7 +360,6 @@
       "origem": "São Paulo, Brasil"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -377,7 +381,6 @@
     "dresscode": "smart casual obrigatório",
     "salaPrivadaCapacidade": 20
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
     "galeria": [
@@ -390,10 +393,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Portofino - Alta Gastronomia Italiana na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante italiano sofisticado na Ilha de Luanda com vista panorâmica. risottos, massas artesanais, frutos do mar e carta de vinhos premium. reservas obrigatórias.",
-    "tags": ["italiana", "alta cozinha", "elegante", "vista mar", "risotto", "massas artesanais", "frutos do mar", "ilha de luanda", "romântico", "luxo", "sommelier", "valet parking"]
+    "tags": [
+      "italiana",
+      "alta cozinha",
+      "elegante",
+      "vista mar",
+      "risotto",
+      "massas artesanais",
+      "frutos do mar",
+      "ilha de luanda",
+      "romântico",
+      "luxo",
+      "sommelier",
+      "valet parking"
+    ]
   }
 }

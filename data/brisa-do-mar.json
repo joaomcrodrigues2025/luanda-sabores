@@ -3,16 +3,14 @@
   "nome": "Brisa do Mar",
   "descricao": "bar e restaurante à beira-mar com ambiente descontraído, cocktails tropicais, petiscos angolanos e música ao vivo aos fins de semana",
   "descricaoCompleta": "o Brisa do Mar é muito mais do que um restaurante, é uma experiência completa da vida na Ilha de Luanda. este estabelecimento combina perfeitamente a função de bar, restaurante e espaço de lazer, criando um ambiente único onde os visitantes podem passar horas a desfrutar da brisa do oceano, boa música e comida saborosa. localizado numa posição privilegiada junto à praia, o Brisa do Mar oferece uma atmosfera descontraída e bohemia, com mesas na areia, redes para relaxar e uma decoração colorida que evoca o espírito tropical de Angola. o menu foca-se em petiscos angolanos, grelhados simples e deliciosos, e uma carta de cocktails tropicais que são a especialidade da casa. aos fins de semana, o espaço ganha vida com música ao vivo, desde kizomba e semba até reggae e música acústica, transformando-se num ponto de encontro para jovens, famílias e turistas. o Brisa do Mar é perfeito para quem procura uma experiência autêntica e relaxada, longe da formalidade de restaurantes mais sofisticados. é o lugar ideal para uma tarde de cerveja gelada, um jantar casual com amigos ou simplesmente para aproveitar o pôr do sol com os pés na areia.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Praia Central, Zona Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7945,
-      "longitude": 13.2305
+      "latitude": -8.7768,
+      "longitude": 13.245
     }
   },
-
   "contactos": {
     "telefone": "+244 222 388 976",
     "telemovel": "+244 928 456 731",
@@ -24,8 +22,13 @@
       "twitter": "https://twitter.com/brisadomar"
     }
   },
-
-  "tipoCozinha": ["petiscos", "angolana", "grelhados", "bar", "casual"],
+  "tipoCozinha": [
+    "petiscos",
+    "angolana",
+    "grelhados",
+    "bar",
+    "casual"
+  ],
   "especialidades": [
     "camarão grelhado ao alho",
     "espetadas de carne e peixe",
@@ -35,15 +38,20 @@
     "batata-doce assada",
     "cocktails tropicais da casa"
   ],
-  "ambiente": ["descontraído", "pé na areia", "bohemio", "tropical", "animado", "música ao vivo"],
-
+  "ambiente": [
+    "descontraído",
+    "pé na areia",
+    "bohemio",
+    "tropical",
+    "animado",
+    "música ao vivo"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 4500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -186,7 +194,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "14:00-22:00",
@@ -200,7 +207,6 @@
     "diasEncerrado": [],
     "observacoes": "horário alargado aos fins de semana. música ao vivo sexta, sábado e domingo a partir das 16h. happy hour de segunda a quinta das 17h às 19h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.3,
     "numeroAvaliacoes": 521,
@@ -242,7 +248,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público na rua",
@@ -250,7 +255,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "gratuito"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o dia e noite nos fins de semana",
@@ -263,7 +267,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao fim da tarde para apanhar o pôr do sol, é simplesmente mágico com cocktail na mão",
@@ -296,7 +299,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -313,7 +315,6 @@
     "servicoTakeaway": false,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -325,10 +326,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Brisa do Mar - Bar e Restaurante na Ilha de Luanda | Cocktails",
     "metaDescricao": "bar e restaurante descontraído à beira-mar na Ilha de Luanda. cocktails tropicais, petiscos angolanos, música ao vivo e pôr do sol com os pés na areia.",
-    "tags": ["bar", "cocktails", "pé na areia", "música ao vivo", "descontraído", "ilha de luanda", "petiscos", "grelhados", "tropical", "bohemio", "pôr do sol", "praia"]
+    "tags": [
+      "bar",
+      "cocktails",
+      "pé na areia",
+      "música ao vivo",
+      "descontraído",
+      "ilha de luanda",
+      "petiscos",
+      "grelhados",
+      "tropical",
+      "bohemio",
+      "pôr do sol",
+      "praia"
+    ]
   }
 }

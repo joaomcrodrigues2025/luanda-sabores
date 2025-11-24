@@ -3,16 +3,14 @@
   "nome": "Toca do Manel",
   "descricao": "restaurante português tradicional com pratos típicos lusitanos, bacalhau em todas as formas e ambiente acolhedor",
   "descricaoCompleta": "a Toca do Manel é um restaurante português autêntico que trouxe os sabores tradicionais de Portugal para a Ilha de Luanda. fundado em 2016 pelo Sr. Manuel, natural de Trás-os-Montes, o restaurante recria a atmosfera de uma tasca portuguesa tradicional, com azulejos nas paredes, toalhas de xadrez e um ambiente familiar e acolhedor. a especialidade da casa é o bacalhau, preparado de mais de 20 formas diferentes, desde o clássico bacalhau à Brás, passando pelo bacalhau com natas, até ao famoso bacalhau à Lagareiro. mas a carta não se resume ao fiel amigo: encontra também alheira de Mirandela, cozido à portuguesa, rojões à minhota, carne de porco à alentejana e os tradicionais petiscos como ameijoas à bulhão pato e pica-pau. aos domingos, o prato do dia é sempre o cozido à portuguesa, servido em panela de barro e partilhado à mesa. a carta de vinhos é exclusivamente portuguesa, com rótulos cuidadosamente seleccionados das principais regiões vinícolas. o Sr. Manel circula pelas mesas, conversando com os clientes e recomendando pratos, criando um ambiente familiar que faz qualquer português sentir-se em casa. a Toca do Manel é ponto de encontro da comunidade portuguesa em Luanda, mas também atrai angolanos e outros visitantes que apreciam a genuína cozinha lusitana.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua dos Navegadores n.º 56, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8055,
-      "longitude": 13.2348
+      "latitude": -8.795,
+      "longitude": 13.225
     }
   },
-
   "contactos": {
     "telefone": "+244 222 387 890",
     "telemovel": "+244 925 678 234",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/tocadomanel"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "tradicional", "bacalhau", "petiscos"],
+  "tipoCozinha": [
+    "portuguesa",
+    "tradicional",
+    "bacalhau",
+    "petiscos"
+  ],
   "especialidades": [
     "bacalhau à Brás",
     "bacalhau à Lagareiro",
@@ -38,15 +40,19 @@
     "arroz de pato",
     "pastéis de bacalhau"
   ],
-  "ambiente": ["tradicional", "acolhedor", "português", "familiar", "tasca"],
-
+  "ambiente": [
+    "tradicional",
+    "acolhedor",
+    "português",
+    "familiar",
+    "tasca"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 8500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -239,7 +245,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -250,10 +255,11 @@
       "sabado": "12:00-15:00, 19:00-23:30",
       "domingo": "12:00-16:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "aos domingos apenas almoço com cozido à portuguesa. reservas altamente recomendadas"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 521,
@@ -302,7 +308,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua e parque privativo pequeno",
@@ -310,7 +315,6 @@
     "capacidadeEstacionamento": 15,
     "custoEstacionamento": "gratuito no parque privativo"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona residencial tranquila e segura",
@@ -322,7 +326,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve sempre com antecedência, especialmente aos fins de semana e domingos para o cozido",
@@ -355,7 +358,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -372,7 +374,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -384,10 +385,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Toca do Manel - Restaurante Português Tradicional na Ilha de Luanda | Bacalhau",
     "metaDescricao": "restaurante português autêntico na Ilha de Luanda. bacalhau em 20 formas, cozido à portuguesa, alheira e pratos tradicionais lusitanos. ambiente familiar e acolhedor.",
-    "tags": ["portuguesa", "bacalhau", "tradicional", "tasca", "cozido", "alheira", "petiscos", "ilha de luanda", "familiar", "acolhedor", "polvo", "pastel de nata"]
+    "tags": [
+      "portuguesa",
+      "bacalhau",
+      "tradicional",
+      "tasca",
+      "cozido",
+      "alheira",
+      "petiscos",
+      "ilha de luanda",
+      "familiar",
+      "acolhedor",
+      "polvo",
+      "pastel de nata"
+    ]
   }
 }

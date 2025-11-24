@@ -3,16 +3,14 @@
   "nome": "Bar Restaurante Atlântico",
   "descricao": "bar restaurante com ambiente descontraído à beira-mar, conhecido pelos grelhados de peixe e petiscos tradicionais angolanos",
   "descricaoCompleta": "o Bar Restaurante Atlântico é um dos locais mais autênticos da Ilha de Luanda, onde a simplicidade e a qualidade da comida angolana se encontram. com uma decoração simples mas acolhedora, este estabelecimento é muito procurado tanto por locais como por turistas que procuram uma experiência genuína. o Atlântico é famoso pelos seus grelhados de peixe fresco, preparados na hora numa grelha a carvão visível aos clientes. o cheiro irresistível do peixe a grelhar atrai visitantes ao longo de todo o dia. além dos grelhados, o restaurante serve petiscos tradicionais angolanos, cervejas bem geladas e uma variedade de sumos naturais. o ambiente descontraído, com mesas espalhadas pela areia e sob toldos coloridos, cria uma atmosfera informal perfeita para longas conversas ao som do mar. aos fins de semana, o espaço ganha vida com música ambiente e é ponto de encontro de grupos de amigos e famílias que procuram um dia relaxante na praia.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Marginal Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7935,
-      "longitude": 13.2315
+      "latitude": -8.7965,
+      "longitude": 13.224
     }
   },
-
   "contactos": {
     "telefone": "+244 222 391 456",
     "telemovel": "+244 926 789 012",
@@ -23,8 +21,12 @@
       "instagram": "https://www.instagram.com/atlantico_ilha"
     }
   },
-
-  "tipoCozinha": ["angolana", "grelhados", "petiscos", "peixe fresco"],
+  "tipoCozinha": [
+    "angolana",
+    "grelhados",
+    "petiscos",
+    "peixe fresco"
+  ],
   "especialidades": [
     "peixe serra grelhado",
     "cacusso na brasa",
@@ -33,15 +35,20 @@
     "mandioca frita com peixe",
     "mufete tradicional"
   ],
-  "ambiente": ["informal", "descontraído", "praia", "vista mar", "familiar", "pé na areia"],
-
+  "ambiente": [
+    "informal",
+    "descontraído",
+    "praia",
+    "vista mar",
+    "familiar",
+    "pé na areia"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5800,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -154,7 +161,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "11:00-22:00",
@@ -168,7 +174,6 @@
     "diasEncerrado": [],
     "observacoes": "funciona todos os dias, horário alargado aos fins de semana"
   },
-
   "avaliacoes": {
     "avaliacao": 4.2,
     "numeroAvaliacoes": 328,
@@ -203,7 +208,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua com vigilância informal",
@@ -211,7 +215,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "500 AOA (propina ao vigilante)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o dia",
@@ -224,7 +227,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "experimente o peixe do dia grelhado na brasa, é sempre fresco e bem preparado",
@@ -252,7 +254,6 @@
       "origem": "Huambo, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -271,7 +272,6 @@
     "peNaAreia": true,
     "idealParaFamilias": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -282,10 +282,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Bar Restaurante Atlântico - Grelhados de Peixe na Ilha de Luanda",
     "metaDescricao": "bar restaurante descontraído na Ilha de Luanda. peixe grelhado na brasa, mufete tradicional e petiscos angolanos à beira-mar. ambiente familiar e preços acessíveis.",
-    "tags": ["peixe grelhado", "grelhados", "pé na areia", "descontraído", "familiar", "ilha de luanda", "mufete", "petiscos", "angolana", "praia", "informal"]
+    "tags": [
+      "peixe grelhado",
+      "grelhados",
+      "pé na areia",
+      "descontraído",
+      "familiar",
+      "ilha de luanda",
+      "mufete",
+      "petiscos",
+      "angolana",
+      "praia",
+      "informal"
+    ]
   }
 }

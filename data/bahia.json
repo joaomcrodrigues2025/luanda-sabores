@@ -3,16 +3,14 @@
   "nome": "Restaurante Bahia",
   "descricao": "restaurante com ambiente tropical e cozinha internacional, especializado em grelhados premium e cocktails exóticos à beira-mar",
   "descricaoCompleta": "o Restaurante Bahia transporta-o para uma atmosfera tropical única na Ilha de Luanda. com uma decoração inspirada nas praias brasileiras, este restaurante destaca-se pela sua fusão de sabores internacionais com toques locais. o espaço amplo e colorido conta com uma área coberta com ar condicionado e uma esplanada vibrante com vista directa para o oceano. o Bahia é conhecido pela qualidade dos seus grelhados premium, incluindo carnes nobres importadas, peixe fresco e marisco seleccionado. o bar de cocktails é um dos melhores da Ilha, com mixologistas experientes que preparam criações autorais e clássicos tropicais. aos fins de semana, o restaurante oferece brunch especial e música ao vivo, criando um ambiente festivo que atrai tanto famílias durante o dia como grupos de amigos à noite. a carta de vinhos é cuidadosamente seleccionada com rótulos portugueses, sul-africanos e sul-americanos. o Bahia combina sofisticação com descontracção, sendo ideal tanto para jantares românticos como para celebrações em grupo.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Sul, Marginal da Praia, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8095,
-      "longitude": 13.2342
+      "latitude": -8.8116738,
+      "longitude": 13.2296048
     }
   },
-
   "contactos": {
     "telefone": "+244 222 387 900",
     "telemovel": "+244 923 456 123",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/bahia-ilha-luanda"
     }
   },
-
-  "tipoCozinha": ["internacional", "brasileira", "grelhados premium", "fusão", "marisco"],
+  "tipoCozinha": [
+    "internacional",
+    "brasileira",
+    "grelhados premium",
+    "fusão",
+    "marisco"
+  ],
   "especialidades": [
     "picanha argentina grelhada",
     "lagosta na manteiga de alho e ervas",
@@ -34,15 +37,21 @@
     "robalo ao sal com legumes mediterrânicos",
     "tábua de carnes premium para partilhar"
   ],
-  "ambiente": ["tropical", "moderno", "vista mar", "esplanada", "romântico", "festivo", "música ao vivo"],
-
+  "ambiente": [
+    "tropical",
+    "moderno",
+    "vista mar",
+    "esplanada",
+    "romântico",
+    "festivo",
+    "música ao vivo"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 11500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -180,7 +189,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -191,10 +199,11 @@
       "sabado": "11:00-01:00",
       "domingo": "11:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "brunch especial aos domingos das 11:00 às 16:00. música ao vivo sexta e sábado a partir das 20:00"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 289,
@@ -229,7 +238,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -237,7 +245,6 @@
     "capacidadeEstacionamento": 35,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "restaurante com segurança privada no local",
@@ -250,7 +257,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência aos fins de semana, especialmente para o brunch de domingo",
@@ -278,7 +284,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -298,7 +303,6 @@
     "brunch": true,
     "cartaVinhos": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
     "galeria": [
@@ -310,10 +314,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Bahia - Cozinha Internacional e Grelhados Premium na Ilha de Luanda",
     "metaDescricao": "restaurante tropical na Ilha de Luanda com grelhados premium, moqueca brasileira, lagosta e cocktails exóticos. música ao vivo aos fins de semana. reserve já!",
-    "tags": ["internacional", "brasileiro", "grelhados premium", "lagosta", "cocktails", "música ao vivo", "brunch", "tropical", "ilha de luanda", "romântico", "esplanada", "vista mar"]
+    "tags": [
+      "internacional",
+      "brasileiro",
+      "grelhados premium",
+      "lagosta",
+      "cocktails",
+      "música ao vivo",
+      "brunch",
+      "tropical",
+      "ilha de luanda",
+      "romântico",
+      "esplanada",
+      "vista mar"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Coconuts",
   "descricao": "restaurante de praia descontraído e animado, famoso pelo ambiente tropical, petiscos de marisco e música ao vivo aos fins de semana",
   "descricaoCompleta": "o Coconuts é um dos restaurantes mais icónicos e animados da Ilha de Luanda, conhecido pelo seu ambiente tropical e descontraído que atrai tanto residentes como turistas. localizado na zona central da Ilha, directamente na praia, o espaço oferece uma experiência gastronómica informal com os pés na areia, onde se pode desfrutar de petiscos de marisco fresco, grelhados e pratos típicos angolanos enquanto se aprecia a brisa do mar. o restaurante destaca-se pela sua decoração com temática de coqueiros e elementos tropicais, criando um ambiente de férias permanente. aos fins de semana, o Coconuts transforma-se num ponto de encontro vibrante com música ao vivo, dj e uma atmosfera festiva que se prolonga até tarde. a carta de bebidas inclui cocktails tropicais, cervejas geladas e caipirinhas que são a cara da casa. é o local ideal para almoços de grupo, celebrações com amigos ou simplesmente para relaxar à beira-mar num ambiente descontraído e acolhedor.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, zona central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8000,
-      "longitude": 13.2325
+      "latitude": -8.7662,
+      "longitude": 13.2568
     }
   },
-
   "contactos": {
     "telefone": "+244 222 395 812",
     "telemovel": "+244 924 567 890",
@@ -24,8 +22,14 @@
       "tiktok": "https://www.tiktok.com/@coconutsluanda"
     }
   },
-
-  "tipoCozinha": ["angolana", "marisco", "grelhados", "petiscos", "tropical", "internacional"],
+  "tipoCozinha": [
+    "angolana",
+    "marisco",
+    "grelhados",
+    "petiscos",
+    "tropical",
+    "internacional"
+  ],
   "especialidades": [
     "espetadas de camarão grelhado",
     "peixe grelhado do dia",
@@ -36,15 +40,22 @@
     "feijoada de marisco",
     "espetadas de frango piri-piri"
   ],
-  "ambiente": ["descontraído", "tropical", "praia", "pé na areia", "animado", "música ao vivo", "familiar", "festivo"],
-
+  "ambiente": [
+    "descontraído",
+    "tropical",
+    "praia",
+    "pé na areia",
+    "animado",
+    "música ao vivo",
+    "familiar",
+    "festivo"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 6000,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -197,7 +208,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -208,10 +218,11 @@
       "sabado": "10:00-02:00",
       "domingo": "10:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "horário alargado aos fins de semana com música ao vivo. domingos com ambiente mais familiar"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 523,
@@ -253,7 +264,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -261,7 +271,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona muito movimentada e segura durante o dia e noite",
@@ -274,7 +283,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao sábado à tarde para aproveitar a música ao vivo e o ambiente mais animado. chega a ficar muito cheio!",
@@ -302,7 +310,6 @@
       "origem": "Lisboa, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": false,
@@ -321,7 +328,6 @@
     "peNaAreia": true,
     "idealParaFamilias": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -333,10 +339,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Coconuts - Restaurante de Praia na Ilha de Luanda | Música ao Vivo",
     "metaDescricao": "restaurante descontraído e animado na praia da Ilha de Luanda. marisco fresco, petiscos, cocktails tropicais e música ao vivo aos fins de semana. ambiente tropical!",
-    "tags": ["pé na areia", "praia", "tropical", "música ao vivo", "descontraído", "familiar", "ilha de luanda", "marisco", "petiscos", "cocktails", "animado", "dj"]
+    "tags": [
+      "pé na areia",
+      "praia",
+      "tropical",
+      "música ao vivo",
+      "descontraído",
+      "familiar",
+      "ilha de luanda",
+      "marisco",
+      "petiscos",
+      "cocktails",
+      "animado",
+      "dj"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Bar do Zé",
   "descricao": "bar de praia descontraído e popular com petiscos angolanos, cerveja gelada e ambiente animado à beira-mar",
   "descricaoCompleta": "o Bar do Zé é uma instituição na Ilha de Luanda, conhecido por ser o bar de praia mais autêntico e descontraído da zona. fundado há mais de 15 anos pelo Sr. Zé, um antigo pescador que decidiu abrir um bar simples à beira-mar, o espaço mantém a essência original: pé na areia, cerveja bem gelada, petiscos angolanos saborosos e muita animação. não é um restaurante sofisticado, mas sim um local onde locais e turistas se misturam para desfrutar de uma experiência genuína da Ilha. a especialidade são os petiscos de peixe frito, camarão grelhado, mandioca frita e a famosa ginguba torrada do Zé. aos fins de semana, o bar enche-se de famílias, jovens e grupos de amigos que vêm para passar o dia na praia, jogar futebol na areia e conviver num ambiente informal e descontraído. a música kuduro e semba toca alto, criando uma atmosfera festiva e tipicamente angolana. o Bar do Zé é perfeito para quem procura a verdadeira experiência local da Ilha de Luanda, longe dos restaurantes turísticos. os preços são acessíveis e as porções são generosas.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Praia Norte, sem número, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7895,
-      "longitude": 13.2298
+      "latitude": -8.7935,
+      "longitude": 13.2265
     }
   },
-
   "contactos": {
     "telefone": "+244 222 398 456",
     "telemovel": "+244 923 456 123",
@@ -23,8 +21,12 @@
       "instagram": "https://www.instagram.com/bardoze_ilha"
     }
   },
-
-  "tipoCozinha": ["angolana", "petiscos", "bar de praia", "grelhados"],
+  "tipoCozinha": [
+    "angolana",
+    "petiscos",
+    "bar de praia",
+    "grelhados"
+  ],
   "especialidades": [
     "peixe frito à angolana",
     "camarão grelhado com piri-piri",
@@ -35,15 +37,20 @@
     "batata-doce frita",
     "mufete simples"
   ],
-  "ambiente": ["informal", "pé na areia", "local", "animado", "praia", "popular"],
-
+  "ambiente": [
+    "informal",
+    "pé na areia",
+    "local",
+    "animado",
+    "praia",
+    "popular"
+  ],
   "precos": {
     "faixaPreco": 1,
     "faixaPrecoTexto": "$",
     "precoMedio": 3500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -156,7 +163,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "10:00-20:00",
@@ -170,7 +176,6 @@
     "diasEncerrado": [],
     "observacoes": "aberto todos os dias. horário pode variar conforme movimento e condições meteorológicas"
   },
-
   "avaliacoes": {
     "avaliacao": 4.2,
     "numeroAvaliacoes": 624,
@@ -219,7 +224,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "na areia e rua próxima",
@@ -227,7 +231,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "gratuito"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona popular e movimentada durante o dia, muito segura",
@@ -239,7 +242,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao domingo para apanhar o verdadeiro ambiente local com famílias e música",
@@ -272,7 +274,6 @@
       "origem": "Paris, França"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -292,7 +293,6 @@
     "idealParaFamilias": true,
     "experienciaLocal": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -303,10 +303,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Bar do Zé - Bar de Praia Autêntico na Ilha de Luanda | Petiscos Angolanos",
     "metaDescricao": "bar de praia descontraído e popular na Ilha de Luanda. petiscos angolanos, peixe frito, cerveja gelada e pé na areia. experiência local autêntica.",
-    "tags": ["bar de praia", "pé na areia", "angolana", "petiscos", "local", "autêntico", "ilha de luanda", "descontraído", "familiar", "barato", "ginguba", "peixe frito"]
+    "tags": [
+      "bar de praia",
+      "pé na areia",
+      "angolana",
+      "petiscos",
+      "local",
+      "autêntico",
+      "ilha de luanda",
+      "descontraído",
+      "familiar",
+      "barato",
+      "ginguba",
+      "peixe frito"
+    ]
   }
 }

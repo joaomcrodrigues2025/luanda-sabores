@@ -3,16 +3,14 @@
   "nome": "Restaurante Pescador",
   "descricao": "restaurante tradicional de marisco com vista panorâmica sobre o oceano, especializado em peixe fresco e frutos do mar da costa angolana",
   "descricaoCompleta": "situado numa posição privilegiada na Ilha de Luanda, o Restaurante Pescador é uma instituição entre os amantes de marisco e peixe fresco. com mais de 20 anos de história, este restaurante familiar conquistou a confiança dos luandenses pela qualidade consistente do seu marisco, trazido diariamente pelos pescadores locais. a decoração náutica e o ambiente descontraído criam uma atmosfera acolhedora onde pode saborear autênticos pratos de marisco angolano. o restaurante destaca-se pelos generosos pratos de lagosta, camarão gigante e peixe grelhado, sempre acompanhados de molhos tradicionais e guarnições locais como funge, mandioca e batata-doce. ideal para almoços em família ou jantares com amigos, o Pescador oferece uma experiência gastronómica genuína com vista directa para o mar, onde o som das ondas completa a experiência sensorial.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Praia, Zona Central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8010,
-      "longitude": 13.2325
+      "latitude": -8.7795,
+      "longitude": 13.241
     }
   },
-
   "contactos": {
     "telefone": "+244 222 390 123",
     "telemovel": "+244 924 567 890",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/pescador-luanda"
     }
   },
-
-  "tipoCozinha": ["angolana", "marisco", "portuguesa", "peixe fresco"],
+  "tipoCozinha": [
+    "angolana",
+    "marisco",
+    "portuguesa",
+    "peixe fresco"
+  ],
   "especialidades": [
     "lagosta grelhada na brasa",
     "caldeirada de peixe à pescador",
@@ -34,15 +36,19 @@
     "arroz de marisco tradicional",
     "santola recheada"
   ],
-  "ambiente": ["tradicional", "vista mar", "familiar", "descontraído", "náutico"],
-
+  "ambiente": [
+    "tradicional",
+    "vista mar",
+    "familiar",
+    "descontraído",
+    "náutico"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 9500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -145,7 +151,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -156,10 +161,11 @@
       "sabado": "11:00-23:00",
       "domingo": "11:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "recomendável reservar aos fins de semana e feriados"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 412,
@@ -194,7 +200,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público próximo",
@@ -202,7 +207,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o horário de funcionamento",
@@ -215,7 +219,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "chegue cedo aos fins de semana ou faça reserva, pois enche rapidamente",
@@ -238,7 +241,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -255,7 +257,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -266,10 +267,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Pescador - Marisco Fresco na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante tradicional na Ilha de Luanda especializado em marisco fresco e peixe grelhado. lagosta, camarão tigre e caldeirada à pescador. reserve já!",
-    "tags": ["marisco", "peixe fresco", "lagosta", "camarão", "caldeirada", "vista mar", "tradicional", "familiar", "ilha de luanda", "angolana", "portuguesa"]
+    "tags": [
+      "marisco",
+      "peixe fresco",
+      "lagosta",
+      "camarão",
+      "caldeirada",
+      "vista mar",
+      "tradicional",
+      "familiar",
+      "ilha de luanda",
+      "angolana",
+      "portuguesa"
+    ]
   }
 }

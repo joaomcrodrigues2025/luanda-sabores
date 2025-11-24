@@ -3,16 +3,14 @@
   "nome": "Restaurante Afrika",
   "descricao": "restaurante especializado em cozinha africana contemporânea na Ilha de Luanda, celebrando os sabores autênticos de Angola e do continente",
   "descricaoCompleta": "o Restaurante Afrika é uma celebração vibrante da rica diversidade gastronómica africana, com especial destaque para a culinária angolana tradicional reinterpretada de forma contemporânea. situado num edifício de arquitectura moderna na Ilha de Luanda, o espaço combina elementos de design africano com conforto contemporâneo, criando um ambiente acolhedor e sofisticado. a decoração apresenta arte africana, tecidos tradicionais, máscaras tribais e mobiliário artesanal que contam histórias do continente. o menu é uma jornada pelos sabores de Angola e África, desde os clássicos muamba de galinha, calulu de peixe e feijão de óleo de palma, até pratos menos conhecidos de outras regiões africanas. o chef angolano, formado internacionalmente, respeita as receitas ancestrais enquanto adiciona toques modernos na apresentação e técnicas culinárias. utiliza ingredientes locais de qualidade, trabalhando directamente com produtores angolanos para garantir autenticidade e frescura. o Restaurante Afrika não é apenas um lugar para comer, mas uma experiência cultural que educa e celebra a herança gastronómica africana. regularmente, o espaço acolhe eventos culturais com música africana ao vivo, exposições de arte e workshops de culinária tradicional. ideal para quem procura uma experiência gastronómica autêntica e significativa, onde cada prato conta uma história e cada refeição é uma celebração da identidade africana.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua Central da Ilha, Edifício África Plaza, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8025,
-      "longitude": 13.2335
+      "latitude": -8.786,
+      "longitude": 13.233
     }
   },
-
   "contactos": {
     "telefone": "+244 222 394 567",
     "telemovel": "+244 925 678 901",
@@ -25,8 +23,13 @@
       "tripadvisor": "https://www.tripadvisor.com/restaurante-afrika-luanda"
     }
   },
-
-  "tipoCozinha": ["angolana", "africana", "tradicional", "contemporânea", "fusão africana"],
+  "tipoCozinha": [
+    "angolana",
+    "africana",
+    "tradicional",
+    "contemporânea",
+    "fusão africana"
+  ],
   "especialidades": [
     "muamba de galinha com funge",
     "calulu de peixe seco",
@@ -39,15 +42,20 @@
     "bobotie sul-africano",
     "tagine marroquino de cordeiro"
   ],
-  "ambiente": ["cultural", "autêntico", "moderno", "africano", "acolhedor", "educativo"],
-
+  "ambiente": [
+    "cultural",
+    "autêntico",
+    "moderno",
+    "africano",
+    "acolhedor",
+    "educativo"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 8500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas angolanas",
@@ -230,7 +238,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "12:00-15:00, 19:00-22:00",
@@ -244,7 +251,6 @@
     "diasEncerrado": [],
     "observacoes": "eventos culturais às quintas e sábados a partir das 20h. workshops de culinária angolana mensais mediante reserva"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 358,
@@ -286,7 +292,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo coberto",
@@ -294,7 +299,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "restaurante em edifício moderno com segurança 24h",
@@ -307,7 +311,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "experimente a muamba de galinha, é o prato mais emblemático de Angola e está excepcional aqui",
@@ -335,7 +338,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -352,7 +354,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
     "galeria": [
@@ -364,10 +365,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Afrika - Cozinha Angolana e Africana Contemporânea na Ilha de Luanda",
     "metaDescricao": "restaurante especializado em cozinha angolana tradicional e africana contemporânea. muamba de galinha, calulu, mufete e sabores de todo o continente. experiência cultural única.",
-    "tags": ["angolana", "africana", "muamba", "calulu", "tradicional", "cultural", "contemporânea", "ilha de luanda", "autêntica", "funge", "música africana"]
+    "tags": [
+      "angolana",
+      "africana",
+      "muamba",
+      "calulu",
+      "tradicional",
+      "cultural",
+      "contemporânea",
+      "ilha de luanda",
+      "autêntica",
+      "funge",
+      "música africana"
+    ]
   }
 }

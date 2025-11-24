@@ -3,16 +3,14 @@
   "nome": "Restaurante Casanova",
   "descricao": "restaurante italiano autêntico na Ilha de Luanda, famoso pelas suas pizzas artesanais e massas frescas num ambiente acolhedor",
   "descricaoCompleta": "o Restaurante Casanova é uma verdadeira fatia de Itália no coração da Ilha de Luanda. com mais de duas décadas de tradição, este restaurante familiar conquistou o paladar dos luandenses e visitantes através da sua cozinha italiana genuína e acolhedora atmosfera mediterrânica. o chef italiano traz receitas tradicionais da Toscana e da Campânia, utilizando ingredientes importados e produtos locais frescos. as pizzas são preparadas em forno a lenha tradicional, com massa fermentada lentamente, enquanto as massas são feitas diariamente à mão. o espaço interior é decorado com elementos italianos autênticos, criando um ambiente romântico e familiar. a esplanada oferece vista parcial para o mar, sendo ideal para jantares ao ar livre. o Casanova é conhecido pelo seu excelente atendimento familiar e pela consistência da qualidade ao longo dos anos.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Ilha, n.º 45, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8010,
-      "longitude": 13.2328
+      "latitude": -8.806,
+      "longitude": 13.225
     }
   },
-
   "contactos": {
     "telefone": "+244 222 397 125",
     "telemovel": "+244 924 567 123",
@@ -23,8 +21,12 @@
       "instagram": "https://www.instagram.com/casanova_ilha"
     }
   },
-
-  "tipoCozinha": ["italiana", "mediterrânica", "pizza", "massas"],
+  "tipoCozinha": [
+    "italiana",
+    "mediterrânica",
+    "pizza",
+    "massas"
+  ],
   "especialidades": [
     "pizza margherita no forno a lenha",
     "spaghetti alla carbonara",
@@ -34,15 +36,19 @@
     "tiramisù tradicional",
     "panna cotta"
   ],
-  "ambiente": ["familiar", "romântico", "italiano", "acolhedor", "esplanada"],
-
+  "ambiente": [
+    "familiar",
+    "romântico",
+    "italiano",
+    "acolhedor",
+    "esplanada"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 8500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -215,7 +221,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -226,10 +231,11 @@
       "sabado": "12:00-23:30",
       "domingo": "12:00-22:30"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "recomenda-se reserva aos fins de semana e feriados"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 412,
@@ -271,7 +277,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua com vigilância",
@@ -279,7 +284,6 @@
     "capacidadeEstacionamento": 15,
     "custoEstacionamento": "500 AOA (pago ao vigilante)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante horário de funcionamento",
@@ -291,7 +295,6 @@
     "nivelSeguranca": "médio-alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve mesa na esplanada para desfrutar do ar fresco e vista parcial do mar",
@@ -314,7 +317,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -331,7 +333,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=1200",
     "galeria": [
@@ -343,10 +344,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Casanova - Pizza Italiana Autêntica na Ilha de Luanda",
     "metaDescricao": "restaurante italiano na Ilha de Luanda com pizzas no forno a lenha, massas frescas e cozinha tradicional. ambiente familiar e romântico. reserve já!",
-    "tags": ["italiana", "pizza", "massas", "forno a lenha", "romântico", "familiar", "ilha de luanda", "mediterrânica", "esplanada", "tiramisù", "autêntica"]
+    "tags": [
+      "italiana",
+      "pizza",
+      "massas",
+      "forno a lenha",
+      "romântico",
+      "familiar",
+      "ilha de luanda",
+      "mediterrânica",
+      "esplanada",
+      "tiramisù",
+      "autêntica"
+    ]
   }
 }

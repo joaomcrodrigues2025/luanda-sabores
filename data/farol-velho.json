@@ -3,16 +3,14 @@
   "nome": "Farol Velho",
   "descricao": "restaurante histórico com vista privilegiada, especializado em cozinha tradicional portuguesa e angolana, ambiente familiar e acolhedor",
   "descricaoCompleta": "o Farol Velho é um dos restaurantes mais tradicionais e queridos da Ilha de Luanda, com uma história que remonta a décadas de serviço à comunidade luandense. localizado numa posição privilegiada próxima ao antigo farol da Ilha, o restaurante oferece vistas panorâmicas sobre o oceano Atlântico e a baía de Luanda, proporcionando um cenário único para refeições memoráveis. o espaço destaca-se pela sua autenticidade e ambiente familiar, mantendo a decoração clássica com elementos náuticos que remetem para a tradição marítima da região. a carta gastronómica celebra o melhor da cozinha tradicional portuguesa e angolana, com especial destaque para pratos de peixe fresco e marisco preparados de forma tradicional, seguindo receitas transmitidas através de gerações. o Farol Velho é conhecido pela consistência da sua cozinha, pela generosidade das doses e pelos preços justos, tornando-se um favorito tanto de residentes como de visitantes que procuram autenticidade e sabor caseiro. aos domingos, o restaurante oferece um menu especial de almoço familiar que atrai famílias inteiras. o staff, muitos com décadas de casa, oferece um serviço atencioso e caloroso, fazendo com que cada cliente se sinta como parte da família. o Farol Velho é mais do que um restaurante, é uma instituição da Ilha de Luanda que preserva tradições culinárias e oferece uma experiência gastronómica genuína e acolhedora.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua do Farol, zona norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7925,
-      "longitude": 13.2315
+      "latitude": -8.8072,
+      "longitude": 13.2233
     }
   },
-
   "contactos": {
     "telefone": "+244 222 395 234",
     "telemovel": "+244 923 789 456",
@@ -23,8 +21,14 @@
       "instagram": "https://www.instagram.com/farolvelholuanda"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "angolana", "marisco", "tradicional", "peixe fresco", "caseira"],
+  "tipoCozinha": [
+    "portuguesa",
+    "angolana",
+    "marisco",
+    "tradicional",
+    "peixe fresco",
+    "caseira"
+  ],
   "especialidades": [
     "caldeirada à pescador tradicional",
     "bacalhau à Gomes de Sá",
@@ -35,15 +39,21 @@
     "cabidela de frango",
     "feijoada angolana"
   ],
-  "ambiente": ["tradicional", "familiar", "acolhedor", "vista mar", "histórico", "autêntico", "descontraído"],
-
+  "ambiente": [
+    "tradicional",
+    "familiar",
+    "acolhedor",
+    "vista mar",
+    "histórico",
+    "autêntico",
+    "descontraído"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 8500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas tradicionais",
@@ -256,7 +266,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -267,10 +276,11 @@
       "sabado": "12:00-23:00",
       "domingo": "12:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "menu especial de almoço familiar aos domingos. reservas recomendadas aos fins de semana"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 628,
@@ -319,7 +329,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua e parque público próximo",
@@ -327,7 +336,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "500 AOA no parque público"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona tradicional e segura da Ilha de Luanda",
@@ -340,7 +348,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "experimente a caldeirada à pescador, é a especialidade da casa há décadas. as doses são muito generosas, podem partilhar",
@@ -373,7 +380,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -393,7 +399,6 @@
     "tradicionalPortugues": true,
     "cozinhaCaseira": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
     "galeria": [
@@ -405,10 +410,23 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Farol Velho - Restaurante Tradicional na Ilha de Luanda | Cozinha Portuguesa e Angolana",
     "metaDescricao": "restaurante tradicional e familiar na Ilha de Luanda. especializado em cozinha portuguesa e angolana autêntica, peixe fresco, marisco e vista privilegiada sobre o mar.",
-    "tags": ["tradicional", "português", "angolana", "familiar", "vista mar", "ilha de luanda", "peixe fresco", "marisco", "bacalhau", "caldeirada", "autêntico", "acolhedor", "caseiro"]
+    "tags": [
+      "tradicional",
+      "português",
+      "angolana",
+      "familiar",
+      "vista mar",
+      "ilha de luanda",
+      "peixe fresco",
+      "marisco",
+      "bacalhau",
+      "caldeirada",
+      "autêntico",
+      "acolhedor",
+      "caseiro"
+    ]
   }
 }

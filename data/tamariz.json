@@ -3,16 +3,14 @@
   "nome": "Restaurante Tamariz",
   "descricao": "restaurante elegante com cozinha portuguesa refinada, marisco premium e ambiente romântico com vista privilegiada sobre o oceano",
   "descricaoCompleta": "o Restaurante Tamariz é uma referência de elegância e requinte gastronómico na Ilha de Luanda há mais de 20 anos. inspirado no famoso casino do Estoril em Portugal, o Tamariz reproduz a sofisticação e charme da costa portuguesa em pleno coração de Luanda. o restaurante destaca-se pela sua decoração clássica e elegante, com azulejos portugueses nas paredes, candeeiros de cristal e uma esplanada ampla com vista deslumbrante sobre o oceano Atlântico. a carta gastronómica é assinada pelo chef português António Rodrigues, que traz mais de 30 anos de experiência em restaurantes premiados de Lisboa e Porto. especializado em cozinha portuguesa tradicional com toques contemporâneos, o Tamariz é famoso pelo seu marisco fresco de excelência, incluindo percebes, santola, sapateira, lagosta e carabineiros vindos directamente de Portugal e das águas angolanas. os pratos icónicos incluem o arroz de marisco à Tamariz, o bacalhau à Brás revisitado, a cataplana de marisco e os filetes de pescada com arroz de tomate. o restaurante oferece também uma extensa carta de vinhos portugueses, cuidadosamente seleccionados para harmonizar com cada prato. o Tamariz é o local ideal para jantares românticos, celebrações especiais, reuniões de negócios e eventos corporativos. o serviço impecável, a atenção aos detalhes e a qualidade consistente fazem do Tamariz um dos restaurantes mais conceituados de Luanda. reservas antecipadas são essenciais, especialmente aos fins de semana e para a cobiçada mesa na varanda com vista para o pôr do sol.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida da Marginal, Edifício Tamariz, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8012,
-      "longitude": 13.2340
+      "latitude": -8.7866923,
+      "longitude": 13.2321684
     }
   },
-
   "contactos": {
     "telefone": "+244 222 398 900",
     "telemovel": "+244 924 567 890",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/restaurante_tamariz"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "marisco", "peixe", "tradicional", "refinada"],
+  "tipoCozinha": [
+    "portuguesa",
+    "marisco",
+    "peixe",
+    "tradicional",
+    "refinada"
+  ],
   "especialidades": [
     "arroz de marisco à Tamariz",
     "cataplana de marisco",
@@ -37,15 +40,21 @@
     "açorda de marisco",
     "lagosta à termidor"
   ],
-  "ambiente": ["elegante", "refinado", "romântico", "vista mar", "clássico", "sofisticado", "varanda"],
-
+  "ambiente": [
+    "elegante",
+    "refinado",
+    "romântico",
+    "vista mar",
+    "clássico",
+    "sofisticado",
+    "varanda"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
     "precoMedio": 17500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -273,7 +282,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -284,10 +292,11 @@
       "sabado": "12:00-15:30, 19:00-00:00",
       "domingo": "12:00-16:00, 19:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas obrigatórias aos fins de semana. pratos de arroz e cataplana requerem pedido para mínimo 2 pessoas e 30 minutos de confecção"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 521,
@@ -329,7 +338,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -337,7 +345,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "gratuito com valet parking"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona premium com segurança privada rigorosa 24h",
@@ -351,7 +358,6 @@
     "nivelSeguranca": "muito alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com pelo menos 1 semana de antecedência, especialmente para jantar aos fins de semana. o restaurante lota rapidamente",
@@ -384,7 +390,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -411,7 +416,6 @@
     "idealNegocios": true,
     "reservasObrigatorias": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
     "galeria": [
@@ -423,10 +427,24 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Tamariz - Cozinha Portuguesa Premium na Ilha de Luanda | Marisco Fresco",
     "metaDescricao": "restaurante português elegante na Ilha de Luanda especializado em marisco premium. arroz de marisco, cataplana, percebes frescos e vista mar. reservas essenciais.",
-    "tags": ["portuguesa", "elegante", "marisco premium", "romântico", "ilha de luanda", "vista mar", "percebes", "cataplana", "arroz de marisco", "sofisticado", "refinado", "bacalhau", "valet parking", "varanda"]
+    "tags": [
+      "portuguesa",
+      "elegante",
+      "marisco premium",
+      "romântico",
+      "ilha de luanda",
+      "vista mar",
+      "percebes",
+      "cataplana",
+      "arroz de marisco",
+      "sofisticado",
+      "refinado",
+      "bacalhau",
+      "valet parking",
+      "varanda"
+    ]
   }
 }

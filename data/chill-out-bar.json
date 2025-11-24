@@ -3,16 +3,14 @@
   "nome": "Chill Out Bar",
   "descricao": "bar de praia descontraído com cocktails tropicais, petiscos ligeiros e música lounge num ambiente relaxado à beira-mar",
   "descricaoCompleta": "o Chill Out Bar é o refúgio perfeito para quem procura momentos de relaxamento genuíno na Ilha de Luanda. inaugurado em 2019, este bar de praia rapidamente conquistou uma base fiel de frequentadores que apreciam a sua atmosfera descontraída e autêntica, longe da agitação dos beach clubs mais movimentados. localizado numa zona tranquila da ilha, o Chill Out Bar oferece um ambiente intimista com decoração boémia, almofadas coloridas, redes suspensas e iluminação suave com lanternas. o espaço é ideal para tardes relaxadas a ler um livro, conversas prolongadas com amigos ou simplesmente para apreciar o som das ondas com um cocktail na mão. a carta de bebidas é o grande destaque, com uma selecção criativa de cocktails tropicais, smoothies naturais, cervejas artesanais e vinhos cuidadosamente escolhidos. os bartenders são especializados em cocktails clássicos e criações próprias, usando frutas frescas locais como múcua, maracujá e manga. a oferta gastronómica é propositadamente simples, focada em petiscos ligeiros, tapas para partilhar, saladas frescas e algumas opções de sanduíches gourmet. o Chill Out Bar é conhecido pelos seus eventos temáticos mensais, incluindo noites de poesia, sessões acústicas de música ao vivo, workshops de cocktails e aulas de yoga ao nascer do sol. aos fins de semana, DJ's convidados tocam música chill out, house suave e bossa nova, criando uma banda sonora perfeita para o ambiente relaxado. o bar atrai um público variado, desde jovens profissionais em busca de descompressão após o trabalho, casais que procuram um local tranquilo para um encontro, até turistas que querem experimentar o lado mais autêntico e descontraído da Ilha de Luanda. os preços são moderados e o serviço é amigável e informal, fazendo do Chill Out Bar um dos segredos mais bem guardados da ilha.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Sul, próximo à Praia do Cruzeiro, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul tranquila",
     "coordenadas": {
-      "latitude": -8.8090,
-      "longitude": 13.2360
+      "latitude": -8.77,
+      "longitude": 13.253
     }
   },
-
   "contactos": {
     "telefone": "+244 222 399 123",
     "telemovel": "+244 926 345 678",
@@ -24,8 +22,13 @@
       "spotify": "https://open.spotify.com/user/chilloutbar"
     }
   },
-
-  "tipoCozinha": ["petiscos", "tapas", "snacks", "saladas", "sanduíches"],
+  "tipoCozinha": [
+    "petiscos",
+    "tapas",
+    "snacks",
+    "saladas",
+    "sanduíches"
+  ],
   "especialidades": [
     "cocktails tropicais autorais",
     "mojito de múcua especial",
@@ -36,15 +39,22 @@
     "wraps de frango grelhado",
     "smoothies de frutas tropicais"
   ],
-  "ambiente": ["descontraído", "relaxado", "boémio", "praia", "chill", "intimista", "lounge", "tranquilo"],
-
+  "ambiente": [
+    "descontraído",
+    "relaxado",
+    "boémio",
+    "praia",
+    "chill",
+    "intimista",
+    "lounge",
+    "tranquilo"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 4500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "cocktails autorais",
@@ -262,7 +272,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -273,10 +282,11 @@
       "sabado": "12:00-02:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "happy hour de terça a quinta das 17h às 19h (20% desconto em cocktails). yoga ao nascer do sol aos sábados às 6h30 (inscrição prévia)"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 384,
@@ -318,7 +328,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público próximo",
@@ -326,7 +335,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "500 AOA (parque público)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona tranquila e segura, especialmente durante o dia",
@@ -339,7 +347,6 @@
     "nivelSeguranca": "médio-alto",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao happy hour entre terça e quinta (17h-19h) para aproveitar 20% de desconto nos cocktails. vale muito a pena!",
@@ -372,7 +379,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": false,
@@ -402,7 +408,6 @@
     "idealAmigos": true,
     "petFriendly": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
     "galeria": [
@@ -414,10 +419,25 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Chill Out Bar - Bar de Praia Descontraído na Ilha de Luanda | Cocktails & Lounge",
     "metaDescricao": "bar de praia tranquilo e boémio na Ilha de Luanda com cocktails tropicais autorais, petiscos, música lounge e eventos alternativos. happy hour e yoga ao nascer do sol.",
-    "tags": ["bar de praia", "descontraído", "chill", "cocktails", "ilha de luanda", "lounge", "boémio", "tranquilo", "happy hour", "yoga", "música ao vivo", "eventos alternativos", "mojito", "relaxado", "intimista"]
+    "tags": [
+      "bar de praia",
+      "descontraído",
+      "chill",
+      "cocktails",
+      "ilha de luanda",
+      "lounge",
+      "boémio",
+      "tranquilo",
+      "happy hour",
+      "yoga",
+      "música ao vivo",
+      "eventos alternativos",
+      "mojito",
+      "relaxado",
+      "intimista"
+    ]
   }
 }

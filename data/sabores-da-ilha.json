@@ -3,16 +3,14 @@
   "nome": "Sabores da Ilha",
   "descricao": "restaurante familiar de praia especializado em grelhados, peixe fresco e cozinha angolana tradicional num ambiente descontraído",
   "descricaoCompleta": "o Sabores da Ilha é um restaurante familiar que captura a essência da vida na Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e descontraída à beira-mar. fundado há mais de uma década por uma família angolana apaixonada pela culinária local, o restaurante tornou-se um ponto de referência tanto para residentes como para visitantes que procuram sabores genuínos num ambiente acolhedor. a localização privilegiada permite desfrutar de refeições com vista para o oceano, com mesas na areia e sob chapéus de sol coloridos. a carta é uma celebração da riqueza gastronómica angolana, destacando-se os pratos de peixe fresco grelhado, o mufete tradicional, o caril de camarão e as espetadas mistas. aos domingos, o restaurante é especialmente movimentado com famílias inteiras que vêm desfrutar de almoços prolongados ao som das ondas. o ambiente é genuinamente angolano, com música kuduro e semba a tocar ao fundo, criando uma atmosfera festiva e descontraída. o serviço é caloroso e atencioso, com os proprietários frequentemente a circular entre as mesas para garantir que todos se sentem em casa. perfeito para quem procura uma experiência autêntica da Ilha sem pretensões.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Norte, Praia da Ilha, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7928,
-      "longitude": 13.2305
+      "latitude": -8.7835,
+      "longitude": 13.2365
     }
   },
-
   "contactos": {
     "telefone": "+244 222 389 456",
     "telemovel": "+244 922 456 789",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/saboresdailha"
     }
   },
-
-  "tipoCozinha": ["angolana", "grelhados", "peixe fresco", "marisco", "tradicional"],
+  "tipoCozinha": [
+    "angolana",
+    "grelhados",
+    "peixe fresco",
+    "marisco",
+    "tradicional"
+  ],
   "especialidades": [
     "mufete de cacusso tradicional",
     "peixe serra grelhado",
@@ -34,15 +37,19 @@
     "espetadas mistas",
     "funge com molho de peixe"
   ],
-  "ambiente": ["descontraído", "familiar", "praia", "pé na areia", "tradicional"],
-
+  "ambiente": [
+    "descontraído",
+    "familiar",
+    "praia",
+    "pé na areia",
+    "tradicional"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -175,7 +182,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "11:00-21:00",
@@ -189,7 +195,6 @@
     "diasEncerrado": [],
     "observacoes": "horário contínuo. ideal para almoços de domingo em família"
   },
-
   "avaliacoes": {
     "avaliacao": 4.2,
     "numeroAvaliacoes": 498,
@@ -231,7 +236,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público próximo",
@@ -239,7 +243,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "500 AOA (opcional gorjeta ao vigilante)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o dia",
@@ -251,7 +254,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao domingo para viver a experiência completa da Ilha com famílias angolanas",
@@ -284,7 +286,6 @@
       "origem": "Lobito, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -304,7 +305,6 @@
     "musicaAmbiente": true,
     "precoAcessivel": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -315,10 +315,20 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Sabores da Ilha - Restaurante de Praia na Ilha de Luanda | Mufete Tradicional",
     "metaDescricao": "restaurante familiar de praia na Ilha de Luanda. mufete de cacusso, peixe grelhado, cozinha angolana tradicional. ambiente descontraído com pé na areia e vista mar.",
-    "tags": ["pé na areia", "praia", "angolana", "mufete", "familiar", "descontraído", "ilha de luanda", "peixe fresco", "tradicional", "acessível"]
+    "tags": [
+      "pé na areia",
+      "praia",
+      "angolana",
+      "mufete",
+      "familiar",
+      "descontraído",
+      "ilha de luanda",
+      "peixe fresco",
+      "tradicional",
+      "acessível"
+    ]
   }
 }

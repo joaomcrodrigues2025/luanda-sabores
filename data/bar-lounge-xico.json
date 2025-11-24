@@ -3,16 +3,14 @@
   "nome": "Bar Lounge Xico",
   "descricao": "bar lounge sofisticado com ambiente chique, cocktails autorais, petiscos gourmet e vista panorâmica sobre o oceano Atlântico",
   "descricaoCompleta": "o Bar Lounge Xico é um dos espaços mais elegantes e sofisticados da Ilha de Luanda, conhecido pelo seu ambiente chique e cosmopolita que atrai a elite luandense e visitantes internacionais. localizado numa posição privilegiada com vista panorâmica sobre o oceano Atlântico, o espaço oferece uma experiência premium de bar lounge com decoração moderna e minimalista, iluminação ambiente cuidada e música lounge de qualidade. o Xico destaca-se pela sua carta de cocktails autorais, criados por mixologistas experientes que combinam ingredientes premium com toques locais, resultando em bebidas únicas e surpreendentes. a carta de petiscos gourmet complementa perfeitamente as bebidas, com opções que vão desde sushi e ceviches a tábuas de queijos e enchidos premium. o espaço conta com uma área interior climatizada e um terraço exterior com espreguiçadeiras e sofás confortáveis, ideal para apreciar o pôr do sol. aos fins de semana, o Bar Lounge Xico acolhe sessões de DJ com música electrónica, house e deep house, criando uma atmosfera vibrante mas sofisticada. é o local perfeito para after-work, encontros entre amigos ou noites especiais num ambiente refinado.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua Lateral Sul, zona premium, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8095,
-      "longitude": 13.2358
+      "latitude": -8.774,
+      "longitude": 13.2475
     }
   },
-
   "contactos": {
     "telefone": "+244 222 448 755",
     "telemovel": "+244 926 789 123",
@@ -24,8 +22,13 @@
       "twitter": "https://twitter.com/loungexico"
     }
   },
-
-  "tipoCozinha": ["petiscos gourmet", "sushi", "tapas", "internacional", "fusão"],
+  "tipoCozinha": [
+    "petiscos gourmet",
+    "sushi",
+    "tapas",
+    "internacional",
+    "fusão"
+  ],
   "especialidades": [
     "cocktails autorais premium",
     "sushi selection",
@@ -36,8 +39,16 @@
     "croquetes de presunto ibérico",
     "tempura de camarão"
   ],
-  "ambiente": ["sofisticado", "chique", "lounge", "vista mar", "terraço", "moderno", "romântico", "noite"],
-
+  "ambiente": [
+    "sofisticado",
+    "chique",
+    "lounge",
+    "vista mar",
+    "terraço",
+    "moderno",
+    "romântico",
+    "noite"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
@@ -45,7 +56,6 @@
     "moeda": "AOA",
     "observacao": "consumo mínimo de 3000 AOA por pessoa aos fins de semana após as 21h"
   },
-
   "menu": [
     {
       "categoria": "petiscos gourmet",
@@ -218,7 +228,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -229,10 +238,11 @@
       "sabado": "15:00-03:00",
       "domingo": "15:00-00:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "happy hour de terça a quinta das 17h às 20h com 20% desconto em cocktails. sessões de DJ às sextas e sábados a partir das 22h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 312,
@@ -274,7 +284,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -282,7 +291,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "gratuito com valet parking"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada rigorosa na entrada com controlo de acesso",
@@ -295,7 +303,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "aproveite o happy hour de terça a quinta das 17h às 20h para experimentar os cocktails com 20% de desconto",
@@ -323,7 +330,6 @@
       "origem": "Lisboa, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -344,7 +350,6 @@
     "dresscode": "smart casual",
     "consumoMinimo": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=1200",
     "galeria": [
@@ -357,10 +362,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Bar Lounge Xico - Cocktails Premium na Ilha de Luanda | Vista Mar",
     "metaDescricao": "bar lounge sofisticado na Ilha de Luanda com cocktails autorais, petiscos gourmet, vista panorâmica e DJ aos fins de semana. happy hour disponível. ambiente chique!",
-    "tags": ["bar lounge", "cocktails", "sofisticado", "chique", "vista mar", "terraço", "ilha de luanda", "noite", "dj", "happy hour", "petiscos gourmet", "sushi"]
+    "tags": [
+      "bar lounge",
+      "cocktails",
+      "sofisticado",
+      "chique",
+      "vista mar",
+      "terraço",
+      "ilha de luanda",
+      "noite",
+      "dj",
+      "happy hour",
+      "petiscos gourmet",
+      "sushi"
+    ]
   }
 }

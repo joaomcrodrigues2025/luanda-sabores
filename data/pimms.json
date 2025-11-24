@@ -3,16 +3,14 @@
   "nome": "Pimm's",
   "descricao": "restaurante e beach club premium com gastronomia internacional, piscina à beira-mar, eventos especiais e ambiente cosmopolita",
   "descricaoCompleta": "o Pimm's é um dos estabelecimentos mais emblemáticos e sofisticados da Ilha de Luanda, combinando restaurante de alta gastronomia com beach club premium numa experiência única à beira-mar. inaugurado há mais de uma década, o Pimm's rapidamente se tornou referência em Luanda pela qualidade da sua cozinha internacional, ambiente cosmopolita e eventos especiais que atraem a elite angolana e visitantes internacionais. o espaço conta com diversas áreas distintas: restaurante interior climatizado com decoração elegante, terraço coberto com vista para o mar, área de piscina com espreguiçadeiras e cabanas privadas, e uma zona de bar com cocktails premium. a carta gastronómica é extensa e variada, destacando-se os pratos de marisco fresco, carnes premium, sushi de qualidade superior e uma selecção de vinhos cuidadosamente escolhida. aos fins de semana, o Pimm's organiza eventos especiais com DJ's, festas temáticas e sunset sessions que criam uma atmosfera vibrante e exclusiva. o brunch de domingo é um dos mais conceituados de Luanda, com buffet variado, champagne à descrição e música ao vivo. o Pimm's é sinónimo de exclusividade, qualidade e sofisticação na Ilha de Luanda, sendo escolha obrigatória para quem procura uma experiência gastronómica e social de alto nível.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Principal, zona premium central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central premium",
     "coordenadas": {
-      "latitude": -8.8005,
-      "longitude": 13.2335
+      "latitude": -8.818,
+      "longitude": 13.235
     }
   },
-
   "contactos": {
     "telefone": "+244 222 310 888",
     "telemovel": "+244 927 123 456",
@@ -25,8 +23,14 @@
       "tiktok": "https://www.tiktok.com/@pimmsluanda"
     }
   },
-
-  "tipoCozinha": ["internacional", "mediterrânica", "marisco", "sushi", "carnes premium", "fusão"],
+  "tipoCozinha": [
+    "internacional",
+    "mediterrânica",
+    "marisco",
+    "sushi",
+    "carnes premium",
+    "fusão"
+  ],
   "especialidades": [
     "lagosta thermidor",
     "chateaubriand para dois",
@@ -37,8 +41,16 @@
     "polvo à lagareiro gourmet",
     "arroz de marisco especial"
   ],
-  "ambiente": ["luxo", "beach club", "piscina", "elegante", "cosmopolita", "vista mar", "eventos especiais", "brunch"],
-
+  "ambiente": [
+    "luxo",
+    "beach club",
+    "piscina",
+    "elegante",
+    "cosmopolita",
+    "vista mar",
+    "eventos especiais",
+    "brunch"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
@@ -46,7 +58,6 @@
     "moeda": "AOA",
     "observacao": "entrada mínima de 8000 AOA por pessoa aos fins de semana. brunch de domingo 12000 AOA por pessoa com champagne incluído"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -249,7 +260,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -260,10 +270,11 @@
       "sabado": "11:00-03:00",
       "domingo": "11:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "brunch de domingo das 11h às 16h. eventos especiais aos sábados com DJ a partir das 20h. reserva obrigatória"
   },
-
   "avaliacoes": {
     "avaliacao": 4.8,
     "numeroAvaliacoes": 456,
@@ -312,7 +323,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking premium",
@@ -320,7 +330,6 @@
     "capacidadeEstacionamento": 60,
     "custoEstacionamento": "gratuito com valet parking"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada rigorosa e profissional 24h",
@@ -335,7 +344,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com pelo menos uma semana de antecedência, especialmente para fins de semana e brunch de domingo. enche rapidamente!",
@@ -368,7 +376,6 @@
       "origem": "Maputo, Moçambique"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -395,7 +402,6 @@
     "eventosSunset": true,
     "beachClub": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
     "galeria": [
@@ -408,10 +414,23 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Pimm's - Restaurante Premium e Beach Club na Ilha de Luanda | Gastronomia de Luxo",
     "metaDescricao": "restaurante e beach club premium na Ilha de Luanda. gastronomia internacional de alto nível, piscina, eventos especiais e brunch de domingo. experiência exclusiva!",
-    "tags": ["luxo", "beach club", "premium", "alta gastronomia", "piscina", "brunch", "ilha de luanda", "marisco", "carnes premium", "sushi", "eventos especiais", "elegante", "cosmopolita"]
+    "tags": [
+      "luxo",
+      "beach club",
+      "premium",
+      "alta gastronomia",
+      "piscina",
+      "brunch",
+      "ilha de luanda",
+      "marisco",
+      "carnes premium",
+      "sushi",
+      "eventos especiais",
+      "elegante",
+      "cosmopolita"
+    ]
   }
 }

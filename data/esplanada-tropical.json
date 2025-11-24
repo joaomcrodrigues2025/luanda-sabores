@@ -3,16 +3,14 @@
   "nome": "Esplanada Tropical",
   "descricao": "restaurante descontraído à beira-mar com especialidades em grelhados de peixe fresco, culinária angolana tradicional e petiscos num ambiente familiar",
   "descricaoCompleta": "a Esplanada Tropical é um verdadeiro tesouro da Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e descontraída numa localização privilegiada junto ao mar. este restaurante familiar é conhecido pela sua atmosfera acolhedora e informal, onde os clientes podem desfrutar de refeições deliciosas com os pés quase na areia. a carta celebra o melhor da culinária angolana tradicional, com destaque para o peixe fresco grelhado na brasa, caldeiradas generosas e os famosos petiscos locais. o espaço amplo, com mesas sob chapéus de sol coloridos e palmeiras balançando à brisa do oceano, transporta os visitantes para uma atmosfera verdadeiramente tropical. aos fins de semana, a Esplanada Tropical ganha vida com música ao vivo, tornando-se um ponto de encontro popular entre famílias, grupos de amigos e turistas que procuram a autenticidade da Ilha. os preços acessíveis e a generosidade das doses fazem deste restaurante uma escolha popular para quem quer saborear a verdadeira essência da gastronomia angolana num ambiente relaxado e festivo.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Marginal, Zona Central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8015,
-      "longitude": 13.2325
+      "latitude": -8.7755,
+      "longitude": 13.2465
     }
   },
-
   "contactos": {
     "telefone": "+244 222 391 845",
     "telemovel": "+244 923 781 456",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/esplanada_tropical"
     }
   },
-
-  "tipoCozinha": ["angolana", "grelhados", "marisco", "peixe fresco", "petiscos"],
+  "tipoCozinha": [
+    "angolana",
+    "grelhados",
+    "marisco",
+    "peixe fresco",
+    "petiscos"
+  ],
   "especialidades": [
     "peixe serra grelhado com funge",
     "caldeirada de peixe à angolana",
@@ -34,15 +37,20 @@
     "camarão tigre ao alho",
     "espetadas de peixe e camarão"
   ],
-  "ambiente": ["descontraído", "familiar", "vista mar", "tropical", "pé na areia", "animado"],
-
+  "ambiente": [
+    "descontraído",
+    "familiar",
+    "vista mar",
+    "tropical",
+    "pé na areia",
+    "animado"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5800,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -155,7 +163,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "11:00-22:00",
@@ -169,7 +176,6 @@
     "diasEncerrado": [],
     "observacoes": "horário alargado aos fins de semana. música ao vivo aos sábados e domingos a partir das 14h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 487,
@@ -211,7 +217,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -219,7 +224,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o dia e início da noite",
@@ -232,7 +236,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao domingo para aproveitar a música ao vivo e o ambiente mais animado com famílias angolanas",
@@ -260,7 +263,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": false,
@@ -277,7 +279,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -289,10 +290,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Esplanada Tropical - Restaurante na Ilha de Luanda | Peixe Grelhado",
     "metaDescricao": "restaurante descontraído à beira-mar na Ilha de Luanda. especialidades angolanas, peixe fresco grelhado, mufete tradicional e música ao vivo aos fins de semana.",
-    "tags": ["angolana", "peixe grelhado", "mufete", "familiar", "vista mar", "descontraído", "ilha de luanda", "caldeirada", "música ao vivo", "tropical", "pé na areia"]
+    "tags": [
+      "angolana",
+      "peixe grelhado",
+      "mufete",
+      "familiar",
+      "vista mar",
+      "descontraído",
+      "ilha de luanda",
+      "caldeirada",
+      "música ao vivo",
+      "tropical",
+      "pé na areia"
+    ]
   }
 }

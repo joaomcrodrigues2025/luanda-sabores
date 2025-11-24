@@ -3,16 +3,14 @@
   "nome": "Restaurante Biker",
   "descricao": "restaurante descontraído com temática de motociclismo, especializado em grelhados, hambúrgueres gourmet e ambiente rock n' roll",
   "descricaoCompleta": "o Restaurante Biker é um conceito único na Ilha de Luanda que combina a paixão pelas motos com excelente gastronomia. decorado com memorabilia de motociclismo, capacetes vintage, placas de matrícula antigas e uma impressionante Harley Davidson suspensa, o espaço atrai tanto entusiastas de duas rodas como apreciadores de boa comida num ambiente descontraído. a carta foca-se em grelhados suculentos, hambúrgueres gourmet de dimensões generosas e petiscos ideais para partilhar. o ambiente rock com música ao vivo aos fins de semana cria uma atmosfera vibrante e informal. o espaço exterior com mesas na varanda é perfeito para grupos de amigos e encontros de motociclistas que acontecem regularmente. a Biker nasceu da paixão do proprietário angolano pelo motociclismo e pela cozinha americana, resultando num restaurante que se tornou ponto de encontro da comunidade biker de Luanda e de quem procura uma experiência gastronómica diferente e animada na Ilha.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, n.º 78, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7945,
-      "longitude": 13.2315
+      "latitude": -8.7902,
+      "longitude": 13.2288
     }
   },
-
   "contactos": {
     "telefone": "+244 222 394 567",
     "telemovel": "+244 926 789 234",
@@ -24,8 +22,13 @@
       "twitter": "https://twitter.com/bikerluanda"
     }
   },
-
-  "tipoCozinha": ["americana", "grelhados", "hambúrgueres", "petiscos", "barbecue"],
+  "tipoCozinha": [
+    "americana",
+    "grelhados",
+    "hambúrgueres",
+    "petiscos",
+    "barbecue"
+  ],
   "especialidades": [
     "monster burger triplo",
     "costelas BBQ ao molho Jack Daniel's",
@@ -35,15 +38,20 @@
     "batatas rústicas com queijo e bacon",
     "nachos supreme"
   ],
-  "ambiente": ["descontraído", "rock", "motociclismo", "animado", "varanda", "música ao vivo"],
-
+  "ambiente": [
+    "descontraído",
+    "rock",
+    "motociclismo",
+    "animado",
+    "varanda",
+    "música ao vivo"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 7200,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -206,7 +214,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -217,10 +224,11 @@
       "sabado": "12:00-02:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "música ao vivo às sextas e sábados a partir das 21h. encontros de motociclistas aos domingos"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 368,
@@ -262,7 +270,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque privativo",
@@ -270,7 +277,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "gratuito"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "parque de estacionamento privativo com vigilância",
@@ -282,7 +288,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "experimente o monster burger se tiver coragem! é enorme mas delicioso. ideal para partilhar",
@@ -305,7 +310,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -322,7 +326,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=1200",
     "galeria": [
@@ -334,10 +337,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Biker - Hambúrgueres Gourmet e Grelhados na Ilha de Luanda",
     "metaDescricao": "restaurante temático de motociclismo na Ilha de Luanda com hambúrgueres gourmet, grelhados e costelas BBQ. ambiente rock com música ao vivo aos fins de semana.",
-    "tags": ["hambúrgueres", "grelhados", "americana", "rock", "música ao vivo", "descontraído", "ilha de luanda", "BBQ", "motociclismo", "petiscos", "animado"]
+    "tags": [
+      "hambúrgueres",
+      "grelhados",
+      "americana",
+      "rock",
+      "música ao vivo",
+      "descontraído",
+      "ilha de luanda",
+      "BBQ",
+      "motociclismo",
+      "petiscos",
+      "animado"
+    ]
   }
 }

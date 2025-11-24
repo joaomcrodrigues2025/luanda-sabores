@@ -3,16 +3,14 @@
   "nome": "Restaurante Kero",
   "descricao": "restaurante angolano contemporâneo que celebra os sabores tradicionais com apresentação moderna e ingredientes locais",
   "descricaoCompleta": "o Restaurante Kero representa a nova geração da gastronomia angolana, combinando tradição e inovação numa proposta única na Ilha de Luanda. fundado por um chef angolano formado internacionalmente, o Kero tem como missão valorizar os ingredientes e receitas locais através de técnicas contemporâneas de cozinha. o nome 'Kero' significa 'quero' em kimbundu, reflectindo o desejo de partilhar a riqueza culinária de Angola com o mundo. o espaço é moderno e acolhedor, com uma decoração que mistura elementos africanos tradicionais com design contemporâneo. a carta é cuidadosamente construída em torno dos produtos angolanos: desde o peixe fresco da costa, passando pela mandioca, jindungo, óleo de palma, até às múcuas e outras frutas tropicais. os pratos mais emblemáticos incluem reinterpretações de clássicos como o mufete, a muamba de galinha e o calulu, apresentados com uma estética refinada mas mantendo a essência dos sabores. o Kero também se destaca pela carta de bebidas, que inclui cocktails inspirados em ingredientes angolanos. perfeito para quem quer descobrir a autêntica cozinha angolana numa versão sofisticada.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Zona Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7935,
-      "longitude": 13.2315
+      "latitude": -8.8155,
+      "longitude": 13.233
     }
   },
-
   "contactos": {
     "telefone": "+244 222 447 890",
     "telemovel": "+244 928 654 321",
@@ -24,8 +22,12 @@
       "twitter": "https://twitter.com/kerongola"
     }
   },
-
-  "tipoCozinha": ["angolana", "contemporânea", "fusão africana", "moderna"],
+  "tipoCozinha": [
+    "angolana",
+    "contemporânea",
+    "fusão africana",
+    "moderna"
+  ],
   "especialidades": [
     "mufete contemporâneo",
     "muamba de galinha premium",
@@ -35,15 +37,18 @@
     "peixe com molho de óleo de palma",
     "tártaro de peixe local"
   ],
-  "ambiente": ["moderno", "sofisticado", "afro-contemporâneo", "elegante"],
-
+  "ambiente": [
+    "moderno",
+    "sofisticado",
+    "afro-contemporâneo",
+    "elegante"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 11500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -166,7 +171,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -177,10 +181,11 @@
       "sabado": "12:00-23:00",
       "domingo": "12:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "menu degustação disponível mediante reserva prévia (mínimo 2 pessoas)"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 215,
@@ -222,7 +227,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -230,7 +234,6 @@
     "capacidadeEstacionamento": 20,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona segura com vigilância privada",
@@ -242,7 +245,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve o menu degustação se quiser experimentar o melhor da cozinha angolana contemporânea",
@@ -270,7 +272,6 @@
       "origem": "Maputo, Moçambique"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -289,7 +290,6 @@
     "chefAVista": false,
     "idealParaCasais": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
     "galeria": [
@@ -301,10 +301,20 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Kero - Cozinha Angolana Contemporânea na Ilha de Luanda",
     "metaDescricao": "restaurante angolano contemporâneo na Ilha de Luanda. mufete, muamba, calulu revisitados com técnicas modernas. celebre os sabores tradicionais de Angola.",
-    "tags": ["angolana", "contemporânea", "mufete", "muamba", "calulu", "moderna", "ilha de luanda", "fusão africana", "ingredientes locais", "sofisticada"]
+    "tags": [
+      "angolana",
+      "contemporânea",
+      "mufete",
+      "muamba",
+      "calulu",
+      "moderna",
+      "ilha de luanda",
+      "fusão africana",
+      "ingredientes locais",
+      "sofisticada"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Bar Santa Maria",
   "descricao": "bar de praia descontraído e tradicional na Ilha de Luanda, famoso pelos petiscos de marisco, cervejas geladas e ambiente popular",
   "descricaoCompleta": "o Bar Santa Maria é uma instituição da Ilha de Luanda há mais de três décadas. este bar de praia tradicional conquistou gerações de luandenses pela sua autenticidade, preços acessíveis e ambiente genuinamente angolano. localizado numa posição privilegiada à beira-mar, o Santa Maria oferece a experiência clássica de pé na areia, com mesas simples de plástico, chapéus de sol coloridos e o som constante das ondas. é o lugar perfeito para quem procura a verdadeira essência da Ilha, longe dos estabelecimentos mais sofisticados. o bar especializou-se em petiscos de marisco fresco - camarão grelhado, peixe frito, lagosta - sempre acompanhados por cervejas Cuca bem geladas. aos fins de semana, o ambiente torna-se particularmente animado com música angolana ao vivo, kizomba e semba, atraindo famílias, grupos de amigos e turistas que procuram uma experiência autêntica. o serviço é simples mas eficiente, e os preços são dos mais acessíveis da Ilha, tornando o Santa Maria num favorito local que resistiu às mudanças e mantém o seu carácter popular.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Praia da Ilha, Zona Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte (praia)",
     "coordenadas": {
-      "latitude": -8.7935,
-      "longitude": 13.2305
+      "latitude": -8.8125,
+      "longitude": 13.23
     }
   },
-
   "contactos": {
     "telefone": "+244 222 392 445",
     "telemovel": "+244 923 445 678",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/santamaria_ilha"
     }
   },
-
-  "tipoCozinha": ["angolana", "marisco", "petiscos", "peixe fresco", "tradicional"],
+  "tipoCozinha": [
+    "angolana",
+    "marisco",
+    "petiscos",
+    "peixe fresco",
+    "tradicional"
+  ],
   "especialidades": [
     "camarão grelhado gigante",
     "peixe frito com funge",
@@ -34,15 +37,21 @@
     "ginguba torrada",
     "batata-doce frita"
   ],
-  "ambiente": ["pé na areia", "tradicional", "popular", "descontraído", "praia", "familiar", "animado"],
-
+  "ambiente": [
+    "pé na areia",
+    "tradicional",
+    "popular",
+    "descontraído",
+    "praia",
+    "familiar",
+    "animado"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5000,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -185,7 +194,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "10:00-20:00",
@@ -199,7 +207,6 @@
     "diasEncerrado": [],
     "observacoes": "aberto todos os dias. horário alargado aos fins de semana com música ao vivo"
   },
-
   "avaliacoes": {
     "avaliacao": 4.2,
     "numeroAvaliacoes": 654,
@@ -241,7 +248,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua com vigilância informal",
@@ -249,7 +255,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "300-500 AOA (pago aos vigilantes informais)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada durante o dia, segura pela presença de muitas pessoas",
@@ -261,7 +266,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "venha aos domingos para aproveitar a música ao vivo e o ambiente mais animado com famílias angolanas",
@@ -289,7 +293,6 @@
       "origem": "Paris, França"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -309,7 +312,6 @@
     "idealParaFamilias": true,
     "ambientePopular": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
     "galeria": [
@@ -320,10 +322,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Bar Santa Maria - Bar de Praia Tradicional na Ilha de Luanda | Marisco Fresco",
     "metaDescricao": "bar de praia autêntico na Ilha de Luanda com pé na areia, marisco fresco, petiscos angolanos e música ao vivo. preços acessíveis e ambiente popular.",
-    "tags": ["pé na areia", "praia", "marisco", "tradicional", "angolana", "popular", "ilha de luanda", "camarão", "peixe fresco", "música ao vivo", "familiar", "autêntico"]
+    "tags": [
+      "pé na areia",
+      "praia",
+      "marisco",
+      "tradicional",
+      "angolana",
+      "popular",
+      "ilha de luanda",
+      "camarão",
+      "peixe fresco",
+      "música ao vivo",
+      "familiar",
+      "autêntico"
+    ]
   }
 }

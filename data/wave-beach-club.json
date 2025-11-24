@@ -3,16 +3,14 @@
   "nome": "Wave Beach Club",
   "descricao": "beach club premium na Ilha de Luanda com piscina, gastronomia internacional e eventos ao pôr do sol com DJ",
   "descricaoCompleta": "o Wave Beach Club é um dos espaços mais modernos e sofisticados da Ilha de Luanda, combinando gastronomia de qualidade com uma atmosfera vibrante à beira-mar. com uma piscina ampla, espreguiçadeiras confortáveis e várias áreas lounge, o espaço oferece uma experiência completa de beach club. a carta gastronómica destaca-se pela fusão entre cozinha internacional e ingredientes locais, com especial destaque para os pratos de marisco fresco, sushi e grelhados premium. aos fins de semana, o Wave Beach Club transforma-se num dos pontos mais animados da cidade com sessões de DJ, eventos sunset e uma energia contagiante. o serviço atencioso, a decoração moderna e a vista deslumbrante sobre o oceano Atlântico fazem deste espaço uma escolha perfeita tanto para almoços relaxados como para noites festivas. ideal para grupos de amigos, casais e famílias que procuram uma experiência premium na Ilha.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.7995,
-      "longitude": 13.2328
+      "latitude": -8.767,
+      "longitude": 13.256
     }
   },
-
   "contactos": {
     "telefone": "+244 222 445 780",
     "telemovel": "+244 926 345 678",
@@ -24,8 +22,13 @@
       "tiktok": "https://www.tiktok.com/@wavebeachclub"
     }
   },
-
-  "tipoCozinha": ["internacional", "fusão", "marisco", "sushi", "grelhados"],
+  "tipoCozinha": [
+    "internacional",
+    "fusão",
+    "marisco",
+    "sushi",
+    "grelhados"
+  ],
   "especialidades": [
     "sushi premium selection",
     "camarão tigre grelhado",
@@ -35,8 +38,15 @@
     "hambúrguer wave signature",
     "cocktails tropicais autorais"
   ],
-  "ambiente": ["moderno", "beach club", "vista mar", "piscina", "animado", "dj", "sunset"],
-
+  "ambiente": [
+    "moderno",
+    "beach club",
+    "vista mar",
+    "piscina",
+    "animado",
+    "dj",
+    "sunset"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
@@ -44,7 +54,6 @@
     "moeda": "AOA",
     "observacao": "entrada mínima de 4000 AOA consumível aos sábados e domingos"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -182,7 +191,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -193,10 +201,11 @@
       "sabado": "10:00-03:00",
       "domingo": "10:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "eventos sunset às sextas e sábados a partir das 18h. brunch aos domingos das 10h às 14h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 324,
@@ -231,7 +240,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -239,7 +247,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "gratuito com valet parking"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada rigorosa na entrada",
@@ -251,7 +258,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência para os eventos sunset de sexta e sábado, enche muito rápido",
@@ -279,7 +285,6 @@
       "origem": "Maputo, Moçambique"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -302,7 +307,6 @@
     "eventosSunset": true,
     "brunch": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
     "galeria": [
@@ -314,10 +318,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Wave Beach Club - Beach Club Premium Ilha de Luanda | Piscina & Sunset",
     "metaDescricao": "beach club moderno na Ilha de Luanda com piscina, gastronomia internacional, sushi, eventos sunset com DJ e brunch aos domingos. experiência premium à beira-mar.",
-    "tags": ["beach club", "piscina", "sunset", "dj", "moderno", "ilha de luanda", "sushi", "cocktails", "eventos", "brunch", "valet parking", "vista mar"]
+    "tags": [
+      "beach club",
+      "piscina",
+      "sunset",
+      "dj",
+      "moderno",
+      "ilha de luanda",
+      "sushi",
+      "cocktails",
+      "eventos",
+      "brunch",
+      "valet parking",
+      "vista mar"
+    ]
   }
 }

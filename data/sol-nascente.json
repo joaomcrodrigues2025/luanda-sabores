@@ -3,16 +3,14 @@
   "nome": "Restaurante Sol Nascente",
   "descricao": "restaurante com vista espectacular sobre o oceano, especializado em culinária de fusão afro-portuguesa e peixe fresco num ambiente moderno e relaxante",
   "descricaoCompleta": "o Restaurante Sol Nascente é um dos estabelecimentos mais recentes e promissores da Ilha de Luanda, rapidamente conquistando o coração dos luandenses e visitantes. o nome é uma homenagem ao espectáculo diário que o oceano Atlântico proporciona ao amanhecer, visível das amplas janelas panorâmicas do restaurante. o conceito do Sol Nascente é inovador, propondo uma fusão criativa entre a tradição culinária angolana e as técnicas da cozinha portuguesa contemporânea. o chef, formado em Lisboa e com experiência em restaurantes de renome, voltou a Angola com a missão de elevar a gastronomia local sem perder as raízes. o menu muda sazonalmente, mas mantém sempre favoritos como o peixe do dia em crosta de coco, o arroz de marisco com toque de óleo de palma e o famoso bife de atum com puré de banana-pão. o ambiente é moderno mas acolhedor, com uma paleta de cores que remete ao mar e ao sol, mobiliário contemporâneo e uma esplanada coberta onde se pode jantar ao som das ondas. o Sol Nascente tornou-se também popular pelos seus brunches de domingo, que oferecem um buffet variado com opções angolanas e internacionais.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Atlântico, Zona Sul, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8075,
-      "longitude": 13.2350
+      "latitude": -8.7875,
+      "longitude": 13.2315
     }
   },
-
   "contactos": {
     "telefone": "+244 222 447 823",
     "telemovel": "+244 927 654 321",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/solnascente"
     }
   },
-
-  "tipoCozinha": ["fusão", "afro-portuguesa", "contemporânea", "marisco", "internacional"],
+  "tipoCozinha": [
+    "fusão",
+    "afro-portuguesa",
+    "contemporânea",
+    "marisco",
+    "internacional"
+  ],
   "especialidades": [
     "peixe em crosta de coco com molho de maracujá",
     "arroz de marisco com óleo de palma",
@@ -35,8 +38,13 @@
     "camarão em caril de múcua",
     "lombo de peixe com funge cremoso"
   ],
-  "ambiente": ["moderno", "vista mar", "relaxante", "contemporâneo", "elegante casual"],
-
+  "ambiente": [
+    "moderno",
+    "vista mar",
+    "relaxante",
+    "contemporâneo",
+    "elegante casual"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
@@ -44,7 +52,6 @@
     "moeda": "AOA",
     "observacao": "brunch de domingo: 8500 AOA por pessoa (buffet livre)"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -162,7 +169,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -173,10 +179,11 @@
       "sabado": "12:00-23:30",
       "domingo": "10:00-16:00, 19:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "brunch aos domingos das 10:00 às 15:00 (reserva obrigatória). menu degustação disponível mediante reserva prévia"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 156,
@@ -218,7 +225,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -226,7 +232,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona segura com vigilância privada",
@@ -239,7 +244,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência para o brunch de domingo, é muito concorrido e vale muito a pena",
@@ -267,7 +271,6 @@
       "origem": "São Paulo, Brasil"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -284,7 +287,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -296,10 +298,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Sol Nascente - Restaurante Fusão na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante de fusão afro-portuguesa na Ilha de Luanda. culinária contemporânea, peixe fresco, brunch aos domingos e vista espectacular sobre o oceano.",
-    "tags": ["fusão", "contemporânea", "afro-portuguesa", "vista mar", "brunch", "ilha de luanda", "peixe fresco", "moderno", "elegante", "marisco", "internacional"]
+    "tags": [
+      "fusão",
+      "contemporânea",
+      "afro-portuguesa",
+      "vista mar",
+      "brunch",
+      "ilha de luanda",
+      "peixe fresco",
+      "moderno",
+      "elegante",
+      "marisco",
+      "internacional"
+    ]
   }
 }

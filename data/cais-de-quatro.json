@@ -3,16 +3,14 @@
   "nome": "Cais de Quatro",
   "descricao": "restaurante elegante com vista panorâmica sobre a baía de Luanda, especializado em marisco fresco e pratos de fusão internacional",
   "descricaoCompleta": "situado numa localização privilegiada na Ilha de Luanda, o Cais de Quatro oferece uma experiência gastronómica sofisticada com vista deslumbrante sobre a baía. com uma decoração contemporânea e ambiente elegante, o restaurante destaca-se pela qualidade do seu marisco fresco, trazido diariamente dos mercados locais. a carta combina técnicas culinárias internacionais com ingredientes angolanos, criando pratos únicos que celebram a riqueza gastronómica de Angola. o espaço conta com uma esplanada ampla à beira-mar, ideal para jantares românticos ao pôr do sol ou reuniões de negócios durante o almoço. a adega de vinhos é cuidadosamente seleccionada, com rótulos portugueses e internacionais que harmonizam perfeitamente com os pratos de marisco. o Cais de Quatro é sinónimo de refinamento e qualidade na Ilha de Luanda, sendo uma escolha obrigatória para quem procura alta gastronomia em Angola.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Ilha, zona sul, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8085,
-      "longitude": 13.2345
+      "latitude": -8.792,
+      "longitude": 13.228
     }
   },
-
   "contactos": {
     "telefone": "+244 222 310 450",
     "telemovel": "+244 923 456 789",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g293763-d8524156-Reviews-Cais_de_Quatro-Luanda_Luanda_Province.html"
     }
   },
-
-  "tipoCozinha": ["internacional", "marisco", "fusão", "portuguesa", "mediterrânica"],
+  "tipoCozinha": [
+    "internacional",
+    "marisco",
+    "fusão",
+    "portuguesa",
+    "mediterrânica"
+  ],
   "especialidades": [
     "lagosta grelhada à Ilha",
     "caldeirada de peixe do dia",
@@ -36,15 +39,20 @@
     "polvo à lagareiro",
     "cataplana de marisco"
   ],
-  "ambiente": ["elegante", "vista mar", "romântico", "terraço", "jantar de negócios", "sofisticado"],
-
+  "ambiente": [
+    "elegante",
+    "vista mar",
+    "romântico",
+    "terraço",
+    "jantar de negócios",
+    "sofisticado"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
     "precoMedio": 15000,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -192,7 +200,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "12:00-15:00, 19:00-23:00",
@@ -206,7 +213,6 @@
     "diasEncerrado": [],
     "observacoes": "reservas fortemente recomendadas aos fins de semana e feriados. aceita reservas com 24h de antecedência"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 287,
@@ -248,7 +254,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -256,7 +261,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "o restaurante possui segurança privada 24h no local e no estacionamento",
@@ -269,7 +273,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve mesa na esplanada com antecedência para desfrutar do espectacular pôr do sol sobre a baía de Luanda",
@@ -297,7 +300,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -314,7 +316,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -327,10 +328,23 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Cais de Quatro - Restaurante de Marisco na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante elegante na Ilha de Luanda especializado em marisco fresco. vista panorâmica sobre a baía, ambiente sofisticado e cozinha de excelência. reserve já!",
-    "tags": ["marisco", "vista mar", "elegante", "romântico", "ilha de luanda", "lagosta", "peixe fresco", "internacional", "fusão", "terraço", "jantar de negócios", "música ao vivo", "alta gastronomia"]
+    "tags": [
+      "marisco",
+      "vista mar",
+      "elegante",
+      "romântico",
+      "ilha de luanda",
+      "lagosta",
+      "peixe fresco",
+      "internacional",
+      "fusão",
+      "terraço",
+      "jantar de negócios",
+      "música ao vivo",
+      "alta gastronomia"
+    ]
   }
 }

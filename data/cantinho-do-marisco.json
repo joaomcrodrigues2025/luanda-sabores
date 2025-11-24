@@ -3,16 +3,14 @@
   "nome": "Cantinho do Marisco",
   "descricao": "restaurante especializado em marisco fresco e lagosta, com ambiente acolhedor e tradição familiar na preparação de pratos do mar",
   "descricaoCompleta": "o Cantinho do Marisco é uma instituição na Ilha de Luanda quando o assunto é marisco fresco e de qualidade. fundado por uma família de pescadores há mais de 15 anos, este restaurante mantém a tradição de servir apenas o marisco mais fresco, trazido diariamente das águas angolanas. a especialidade da casa é, sem dúvida, a lagosta preparada de diversas formas, mas o menu também oferece uma variedade impressionante de camarão, caranguejo, amêijoas e outros frutos do mar. o ambiente é acolhedor e familiar, com decoração náutica que remete às raízes piscatórias do estabelecimento. as paredes exibem fotografias antigas de pescadores e redes de pesca, criando uma atmosfera autêntica e nostálgica. o que diferencia o Cantinho do Marisco é o cuidado na selecção e preparação de cada ingrediente, respeitando os sabores naturais do mar sem excessos de temperos. as doses são generosas e os preços, embora reflitam a qualidade premium do marisco, são considerados justos pelos clientes habituais. ideal para amantes de marisco que procuram autenticidade e sabor num ambiente descontraído mas refinado.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Praia, Zona Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7935,
-      "longitude": 13.2315
+      "latitude": -8.781,
+      "longitude": 13.2395
     }
   },
-
   "contactos": {
     "telefone": "+244 222 394 567",
     "telemovel": "+244 926 834 192",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/cantinhodommarisco"
     }
   },
-
-  "tipoCozinha": ["marisco", "portuguesa", "angolana", "peixe fresco"],
+  "tipoCozinha": [
+    "marisco",
+    "portuguesa",
+    "angolana",
+    "peixe fresco"
+  ],
   "especialidades": [
     "lagosta à Cantinho (grelhada com manteiga especial)",
     "arroz de marisco cremoso",
@@ -35,15 +37,19 @@
     "amêijoas na cataplana",
     "caldeirada de lagosta"
   ],
-  "ambiente": ["acolhedor", "familiar", "náutico", "tradicional", "vista mar"],
-
+  "ambiente": [
+    "acolhedor",
+    "familiar",
+    "náutico",
+    "tradicional",
+    "vista mar"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 11500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -156,7 +162,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -167,10 +172,11 @@
       "sabado": "12:00-23:30",
       "domingo": "12:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas recomendadas, especialmente aos fins de semana. confirmar disponibilidade de lagosta"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 268,
@@ -212,7 +218,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -220,7 +225,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona segura e movimentada durante o horário de funcionamento",
@@ -233,7 +237,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência e confirme a disponibilidade de lagosta, pois depende da pesca do dia",
@@ -261,7 +264,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -278,7 +280,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -289,10 +290,20 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Cantinho do Marisco - Restaurante de Lagosta na Ilha de Luanda",
     "metaDescricao": "restaurante especializado em marisco fresco e lagosta na Ilha de Luanda. tradição familiar, arroz de marisco, cataplana e lagosta grelhada. reserve já!",
-    "tags": ["marisco", "lagosta", "camarão", "cataplana", "arroz de marisco", "ilha de luanda", "tradicional", "familiar", "peixe fresco", "portuguesa"]
+    "tags": [
+      "marisco",
+      "lagosta",
+      "camarão",
+      "cataplana",
+      "arroz de marisco",
+      "ilha de luanda",
+      "tradicional",
+      "familiar",
+      "peixe fresco",
+      "portuguesa"
+    ]
   }
 }

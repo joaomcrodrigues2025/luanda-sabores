@@ -3,16 +3,14 @@
   "nome": "Pizza na Ilha",
   "descricao": "pizzaria italiana autêntica com forno a lenha, massas frescas artesanais e vista para o oceano Atlântico",
   "descricaoCompleta": "a Pizza na Ilha é uma pizzaria italiana autêntica localizada no coração da Ilha de Luanda, conhecida pelas suas pizzas napolitanas cozinhadas em forno a lenha tradicional. fundada em 2018 por um chef italiano apaixonado pela gastronomia, o restaurante orgulha-se de utilizar ingredientes importados de Itália combinados com produtos locais frescos. a massa é preparada diariamente de forma artesanal, fermentada durante 48 horas para garantir a textura perfeita. o espaço oferece um ambiente casual e acolhedor, com uma esplanada virada para o mar onde pode desfrutar de pizzas crocantes, massas frescas e saladas mediterrânicas. aos fins de semana, o restaurante enche-se de famílias e grupos de amigos que procuram a autenticidade da cozinha italiana num ambiente descontraído à beira-mar. a carta de vinhos inclui selecções italianas e portuguesas cuidadosamente escolhidas para harmonizar com os pratos.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Praia n.º 45, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8015,
-      "longitude": 13.2328
+      "latitude": -8.7815,
+      "longitude": 13.238
     }
   },
-
   "contactos": {
     "telefone": "+244 222 387 654",
     "telemovel": "+244 924 567 890",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/pizzanailha"
     }
   },
-
-  "tipoCozinha": ["italiana", "pizzaria", "massas", "mediterrânica"],
+  "tipoCozinha": [
+    "italiana",
+    "pizzaria",
+    "massas",
+    "mediterrânica"
+  ],
   "especialidades": [
     "pizza margherita napolitana",
     "pizza quattro formaggi",
@@ -36,15 +38,19 @@
     "calzone recheado",
     "tiramisu caseiro"
   ],
-  "ambiente": ["casual", "familiar", "vista mar", "esplanada", "italiano"],
-
+  "ambiente": [
+    "casual",
+    "familiar",
+    "vista mar",
+    "esplanada",
+    "italiano"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 7500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -202,7 +208,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -213,10 +218,11 @@
       "sabado": "12:00-00:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas recomendadas aos fins de semana e feriados. aceita encomendas para take-away"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 412,
@@ -258,7 +264,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua e parque público próximo",
@@ -266,7 +271,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "500 AOA no parque público"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e relativamente segura durante o dia e noite",
@@ -278,7 +282,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve mesa com antecedência aos fins de semana, enche muito rapidamente",
@@ -306,7 +309,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -323,7 +325,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1200",
     "galeria": [
@@ -335,10 +336,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Pizza na Ilha - Pizzaria Italiana Autêntica na Ilha de Luanda | Forno a Lenha",
     "metaDescricao": "pizzaria italiana autêntica na Ilha de Luanda com forno a lenha, massas artesanais e vista para o mar. pizzas napolitanas, massas frescas e gelados. reserve já!",
-    "tags": ["pizza", "italiana", "forno a lenha", "napolitana", "massas", "vista mar", "familiar", "ilha de luanda", "esplanada", "autêntica", "tiramisu", "take-away"]
+    "tags": [
+      "pizza",
+      "italiana",
+      "forno a lenha",
+      "napolitana",
+      "massas",
+      "vista mar",
+      "familiar",
+      "ilha de luanda",
+      "esplanada",
+      "autêntica",
+      "tiramisu",
+      "take-away"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Miami Beach",
   "descricao": "restaurante de praia icónico com especialidades em peixe grelhado, marisco fresco e ambiente familiar descontraído à beira-mar",
   "descricaoCompleta": "o Miami Beach é um dos restaurantes mais emblemáticos da Ilha de Luanda, com mais de 15 anos de história. localizado na zona norte da ilha, oferece uma experiência gastronómica autêntica com os pés na areia. este espaço familiar destaca-se pela qualidade do seu peixe fresco diário, trazido pelos pescadores locais todas as manhãs. a especialidade da casa é o mufete de cacusso, preparado de forma tradicional com banana-pão, batata-doce e o famoso molho cru angolano. o restaurante tem capacidade para mais de 200 pessoas, com mesas directamente na areia e uma zona coberta para dias de maior calor. aos fins de semana, o Miami Beach ganha vida com música ao vivo, tornando-se um ponto de encontro imperdível para famílias, grupos de amigos e turistas que procuram a verdadeira essência da cultura gastronómica angolana junto ao mar. o ambiente descontraído e os preços acessíveis fazem deste restaurante uma escolha popular entre locais e visitantes.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Norte, próximo ao Clube Naval, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7925,
-      "longitude": 13.2315
+      "latitude": -8.7655407,
+      "longitude": 13.2574381
     }
   },
-
   "contactos": {
     "telefone": "+244 222 396 785",
     "telemovel": "+244 923 456 123",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/miamibeach_luanda"
     }
   },
-
-  "tipoCozinha": ["angolana", "marisco", "grelhados", "peixe", "tradicional"],
+  "tipoCozinha": [
+    "angolana",
+    "marisco",
+    "grelhados",
+    "peixe",
+    "tradicional"
+  ],
   "especialidades": [
     "mufete de cacusso tradicional",
     "peixe serra grelhado",
@@ -35,15 +38,21 @@
     "cabidela de frango angolana",
     "espetadas de peixe e carne"
   ],
-  "ambiente": ["informal", "familiar", "praia", "vista mar", "pé na areia", "animado", "tradicional"],
-
+  "ambiente": [
+    "informal",
+    "familiar",
+    "praia",
+    "vista mar",
+    "pé na areia",
+    "animado",
+    "tradicional"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 7000,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -171,7 +180,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -182,10 +190,11 @@
       "sabado": "10:00-02:00",
       "domingo": "10:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "horário alargado aos fins de semana com música ao vivo a partir das 15h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 628,
@@ -227,7 +236,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -235,7 +243,6 @@
     "capacidadeEstacionamento": 60,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o dia e noite",
@@ -248,7 +255,6 @@
     "nivelSeguranca": "médio-alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao domingo para aproveitar a música ao vivo e o ambiente mais festivo. chegue antes das 13h para garantir boa mesa",
@@ -276,7 +282,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -298,7 +303,6 @@
     "zonaFumadores": true,
     "permiteCriancas": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -310,10 +314,23 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Miami Beach - Restaurante Tradicional na Ilha de Luanda | Mufete e Marisco",
     "metaDescricao": "restaurante icónico na Ilha de Luanda com pé na areia. especialidades em mufete de cacusso, peixe grelhado e marisco fresco. música ao vivo aos fins de semana.",
-    "tags": ["pé na areia", "praia", "angolana", "mufete", "familiar", "música ao vivo", "descontraído", "ilha de luanda", "peixe grelhado", "marisco", "tradicional", "cacusso", "molho cru"]
+    "tags": [
+      "pé na areia",
+      "praia",
+      "angolana",
+      "mufete",
+      "familiar",
+      "música ao vivo",
+      "descontraído",
+      "ilha de luanda",
+      "peixe grelhado",
+      "marisco",
+      "tradicional",
+      "cacusso",
+      "molho cru"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Restaurante Lua Cheia",
   "descricao": "restaurante elegante à beira-mar especializado em culinária portuguesa contemporânea e marisco fresco, com ambiente romântico e vista panorâmica",
   "descricaoCompleta": "o Restaurante Lua Cheia é uma referência na Ilha de Luanda para quem procura uma experiência gastronómica refinada com vista privilegiada sobre o oceano Atlântico. situado numa localização privilegiada na zona sul da Ilha, o restaurante oferece um ambiente elegante e romântico, perfeito para ocasiões especiais, jantares a dois ou celebrações familiares. a carta é uma celebração da culinária portuguesa contemporânea, com forte ênfase em marisco fresco e peixe trazido diariamente dos mercados locais. o chef combina técnicas tradicionais com apresentações modernas, criando pratos que encantam tanto visualmente como no paladar. o nome Lua Cheia evoca as noites mágicas em que a lua reflete sobre as águas da baía, criando uma atmosfera única. com uma decoração sofisticada em tons neutros, iluminação suave e uma esplanada ampla virada para o mar, o restaurante tornou-se um dos destinos preferidos da elite luandense e de visitantes internacionais que procuram qualidade e sofisticação num ambiente relaxado.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Zona Sul, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8095,
-      "longitude": 13.2340
+      "latitude": -8.7888,
+      "longitude": 13.23
     }
   },
-
   "contactos": {
     "telefone": "+244 222 338 412",
     "telemovel": "+244 924 567 823",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/luacheia"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "marisco", "mediterrânica", "internacional", "contemporânea"],
+  "tipoCozinha": [
+    "portuguesa",
+    "marisco",
+    "mediterrânica",
+    "internacional",
+    "contemporânea"
+  ],
   "especialidades": [
     "arroz de lagosta à Lua Cheia",
     "robalo ao sal com legumes grelhados",
@@ -35,15 +38,20 @@
     "bacalhau à Brás premium",
     "lombo de atum com crosta de sésamo"
   ],
-  "ambiente": ["elegante", "romântico", "vista mar", "terraço", "sofisticado", "jantar de negócios"],
-
+  "ambiente": [
+    "elegante",
+    "romântico",
+    "vista mar",
+    "terraço",
+    "sofisticado",
+    "jantar de negócios"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
     "precoMedio": 16500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -156,7 +164,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -167,10 +174,11 @@
       "sabado": "12:00-00:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas obrigatórias aos fins de semana e feriados. horário alargado para eventos especiais"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 312,
@@ -212,7 +220,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -220,7 +227,6 @@
     "capacidadeEstacionamento": 35,
     "custoEstacionamento": "gratuito com valet parking"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "o restaurante possui segurança privada 24h na entrada e no estacionamento",
@@ -233,7 +239,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve mesa na esplanada para desfrutar do pôr do sol sobre o oceano, é simplesmente mágico",
@@ -261,7 +266,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -278,7 +282,6 @@
     "servicoTakeaway": false,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -290,10 +293,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Lua Cheia - Restaurante de Marisco na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante elegante na Ilha de Luanda especializado em culinária portuguesa e marisco fresco. vista panorâmica, ambiente romântico e serviço de excelência.",
-    "tags": ["marisco", "portuguesa", "vista mar", "romântico", "elegante", "ilha de luanda", "lagosta", "cataplana", "polvo", "terraço", "valet parking", "música ao vivo"]
+    "tags": [
+      "marisco",
+      "portuguesa",
+      "vista mar",
+      "romântico",
+      "elegante",
+      "ilha de luanda",
+      "lagosta",
+      "cataplana",
+      "polvo",
+      "terraço",
+      "valet parking",
+      "música ao vivo"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Sushi na Ilha",
   "descricao": "restaurante japonês moderno na Ilha de Luanda, especializado em sushi fresco e cozinha nikkei com influências angolanas",
   "descricaoCompleta": "localizado numa posição privilegiada na Ilha de Luanda, o Sushi na Ilha é o destino preferido para os amantes de cozinha japonesa em Angola. com uma proposta gastronómica que combina a tradição japonesa com ingredientes locais frescos, o restaurante oferece uma experiência única de sabores orientais à beira-mar. o chef especializado prepara diariamente sushi, sashimi e pratos quentes com peixe capturado nas águas angolanas, garantindo frescura e qualidade excepcionais. o ambiente é moderno e minimalista, com decoração japonesa contemporânea, música ambiente suave e uma vista magnífica sobre o oceano Atlântico. ideal para jantares românticos, encontros de negócios ou celebrações especiais, o Sushi na Ilha destaca-se pela atenção ao detalhe, apresentação impecável dos pratos e serviço profissional. aos fins de semana, o restaurante oferece menu degustação exclusivo com harmonização de sakés premium.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Murtala Mohammed, Zona Central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8015,
-      "longitude": 13.2328
+      "latitude": -8.7828,
+      "longitude": 13.2372
     }
   },
-
   "contactos": {
     "telefone": "+244 222 391 245",
     "telemovel": "+244 924 567 890",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/sushinailha"
     }
   },
-
-  "tipoCozinha": ["japonesa", "sushi", "nikkei", "asiática", "fusão"],
+  "tipoCozinha": [
+    "japonesa",
+    "sushi",
+    "nikkei",
+    "asiática",
+    "fusão"
+  ],
   "especialidades": [
     "sushi mix premium com peixe local",
     "sashimi de atum rabilho",
@@ -36,15 +39,20 @@
     "teppanyaki de vaca black angus",
     "ceviche nikkei"
   ],
-  "ambiente": ["moderno", "minimalista", "elegante", "vista mar", "romântico", "intimista"],
-
+  "ambiente": [
+    "moderno",
+    "minimalista",
+    "elegante",
+    "vista mar",
+    "romântico",
+    "intimista"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 12000,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -187,7 +195,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -198,10 +205,11 @@
       "sabado": "12:00-00:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas obrigatórias aos fins de semana. menu degustação disponível com reserva prévia de 48h"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 324,
@@ -236,7 +244,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -244,7 +251,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "restaurante com segurança privada presente 24h",
@@ -257,7 +263,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência, especialmente aos fins de semana. o restaurante enche rapidamente",
@@ -285,7 +290,6 @@
       "origem": "Londres, UK"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -302,7 +306,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1200",
     "galeria": [
@@ -314,10 +317,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Sushi na Ilha - Restaurante Japonês na Ilha de Luanda | Sushi Fresco",
     "metaDescricao": "o melhor sushi de Luanda! restaurante japonês especializado em sushi fresco, sashimi e cozinha nikkei. vista mar, ambiente elegante e chef especializado.",
-    "tags": ["sushi", "japonesa", "nikkei", "sashimi", "marisco", "elegante", "vista mar", "ilha de luanda", "asiática", "fusão", "moderno"]
+    "tags": [
+      "sushi",
+      "japonesa",
+      "nikkei",
+      "sashimi",
+      "marisco",
+      "elegante",
+      "vista mar",
+      "ilha de luanda",
+      "asiática",
+      "fusão",
+      "moderno"
+    ]
   }
 }

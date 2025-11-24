@@ -3,16 +3,14 @@
   "nome": "Restaurante Ponto Final",
   "descricao": "restaurante familiar com cozinha tradicional angolana e portuguesa, conhecido pela autenticidade dos pratos e ambiente acolhedor à beira-mar",
   "descricaoCompleta": "o Restaurante Ponto Final é uma referência de autenticidade na Ilha de Luanda. com mais de 15 anos de história, este restaurante familiar conquistou uma clientela fiel graças à qualidade consistente da sua cozinha tradicional angolana e portuguesa. gerido pela família Machado, o Ponto Final mantém as receitas tradicionais transmitidas de geração em geração, preparando pratos caseiros com ingredientes frescos e técnicas culinárias autênticas. o espaço é simples mas acolhedor, com uma decoração que mistura elementos náuticos e fotografias antigas de Luanda. a especialidade da casa é o mufete de cacusso, preparado segundo a receita tradicional, mas o restaurante também é conhecido pelos caldos de peixe, cabidela de frango e bacalhau à Zé do Pipo. as porções são generosas e os preços justos, reflectindo o espírito familiar do estabelecimento. o atendimento personalizado e caloroso faz com que os clientes se sintam em casa. ideal para quem procura sabores autênticos num ambiente genuíno, longe das modas passageiras. aos domingos, o restaurante serve um almoço especial com música tradicional angolana ao vivo.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua dos Pescadores, Zona Norte, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7945,
-      "longitude": 13.2318
+      "latitude": -8.7782,
+      "longitude": 13.2428
     }
   },
-
   "contactos": {
     "telefone": "+244 222 392 345",
     "telemovel": "+244 925 678 234",
@@ -23,8 +21,12 @@
       "instagram": "https://www.instagram.com/ponto_final_lda"
     }
   },
-
-  "tipoCozinha": ["angolana tradicional", "portuguesa", "caseira", "peixe fresco"],
+  "tipoCozinha": [
+    "angolana tradicional",
+    "portuguesa",
+    "caseira",
+    "peixe fresco"
+  ],
   "especialidades": [
     "mufete de cacusso tradicional",
     "caldeirada de peixe à pescador",
@@ -33,15 +35,20 @@
     "feijoada de marisco",
     "caldo de peixe com pirão"
   ],
-  "ambiente": ["tradicional", "familiar", "acolhedor", "caseiro", "vista mar", "autêntico"],
-
+  "ambiente": [
+    "tradicional",
+    "familiar",
+    "acolhedor",
+    "caseiro",
+    "vista mar",
+    "autêntico"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -169,7 +176,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -180,10 +186,11 @@
       "sabado": "12:00-22:00",
       "domingo": "12:00-21:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "almoço especial aos domingos com música tradicional ao vivo a partir das 13:00. reservas recomendadas aos fins de semana"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 378,
@@ -225,7 +232,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "rua com vigilância informal",
@@ -233,7 +239,6 @@
     "capacidadeEstacionamento": 20,
     "custoEstacionamento": "500 AOA (propina ao vigilante)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona residencial tranquila e segura",
@@ -246,7 +251,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com antecedência aos domingos para garantir lugar no almoço especial",
@@ -279,7 +283,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": true,
@@ -299,7 +302,6 @@
     "gestaoFamiliar": true,
     "receitasTradiconais": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
     "galeria": [
@@ -310,10 +312,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Ponto Final - Cozinha Tradicional Angolana na Ilha de Luanda",
     "metaDescricao": "restaurante familiar na Ilha de Luanda especializado em mufete tradicional, caldeirada, cabidela e bacalhau. comida caseira autêntica com música ao vivo aos domingos.",
-    "tags": ["tradicional", "angolana", "portuguesa", "familiar", "mufete", "cabidela", "caldeirada", "bacalhau", "caseiro", "autêntico", "ilha de luanda", "música tradicional"]
+    "tags": [
+      "tradicional",
+      "angolana",
+      "portuguesa",
+      "familiar",
+      "mufete",
+      "cabidela",
+      "caldeirada",
+      "bacalhau",
+      "caseiro",
+      "autêntico",
+      "ilha de luanda",
+      "música tradicional"
+    ]
   }
 }

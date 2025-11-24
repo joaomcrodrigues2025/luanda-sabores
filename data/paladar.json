@@ -3,16 +3,14 @@
   "nome": "Restaurante Paladar",
   "descricao": "restaurante de culinária angolana contemporânea que celebra os sabores tradicionais com apresentação moderna e ambiente acolhedor",
   "descricaoCompleta": "o Restaurante Paladar representa a nova geração da gastronomia angolana, mantendo as raízes tradicionais enquanto abraça técnicas contemporâneas de apresentação e preparação. fundado por um chef angolano formado internacionalmente, o Paladar nasceu com a missão de elevar a cozinha angolana ao reconhecimento que merece, celebrando a riqueza dos ingredientes locais e a herança culinária do país. o restaurante ocupa um espaço moderno e luminoso na Ilha de Luanda, com decoração que mistura elementos tradicionais angolanos - cestaria, tecidos africanos, arte local - com um design clean e contemporâneo. a carta é uma viagem pelas diferentes regiões de Angola: desde o mufete da costa, passando pela muamba de galinha do interior, até ao calulu tradicional. cada prato é cuidadosamente executado com ingredientes frescos do mercado, respeitando as receitas tradicionais mas com toques de modernidade na apresentação. o Paladar orgulha-se de trabalhar com pequenos produtores angolanos, promovendo produtos locais como o dendém de primeira qualidade, a ginguba da região, os peixes frescos do mar angolano e as hortaliças das quintas periféricas de Luanda. o ambiente é simultaneamente sofisticado e acolhedor, tornando-se popular entre famílias angolanas que procuram conforto alimentar com qualidade, empresários em almoços de trabalho, e turistas curiosos que querem descobrir a verdadeira cozinha de Angola. aos fins de semana, o restaurante organiza brunches tradicionais angolanos que se tornaram bastante populares.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Ilha, Edifício Miramar, n.º 34, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8020,
-      "longitude": 13.2332
+      "latitude": -8.8095,
+      "longitude": 13.227
     }
   },
-
   "contactos": {
     "telefone": "+244 222 396 234",
     "telemovel": "+244 925 678 345",
@@ -25,8 +23,12 @@
       "tiktok": "https://www.tiktok.com/@paladarangola"
     }
   },
-
-  "tipoCozinha": ["angolana contemporânea", "tradicional", "africana", "fusão angolana"],
+  "tipoCozinha": [
+    "angolana contemporânea",
+    "tradicional",
+    "africana",
+    "fusão angolana"
+  ],
   "especialidades": [
     "muamba de galinha premium",
     "calulu de peixe seco revisitado",
@@ -36,15 +38,20 @@
     "kizaca com peixe fumado",
     "cocada de ananás e coco fresco"
   ],
-  "ambiente": ["contemporâneo", "acolhedor", "angolano", "familiar", "sofisticado", "cultural"],
-
+  "ambiente": [
+    "contemporâneo",
+    "acolhedor",
+    "angolano",
+    "familiar",
+    "sofisticado",
+    "cultural"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 9500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -262,7 +269,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -273,10 +279,11 @@
       "sabado": "11:00-16:00, 19:00-23:00",
       "domingo": "11:00-16:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "brunch tradicional angolano aos sábados e domingos das 11h às 16h. reservas recomendadas"
   },
-
   "avaliacoes": {
     "avaliacao": 4.7,
     "numeroAvaliacoes": 387,
@@ -325,7 +332,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque privativo vigiado",
@@ -333,7 +339,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "edifício com segurança 24h e controlo de acesso",
@@ -345,7 +350,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "se é a primeira vez a experimentar comida angolana, peça ao staff para recomendar. são muito conhecedores e prestáveis",
@@ -373,7 +377,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -394,7 +397,6 @@
     "ingredientesLocais": true,
     "chefAngolano": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
     "galeria": [
@@ -406,10 +408,22 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Paladar - Culinária Angolana Contemporânea na Ilha de Luanda",
     "metaDescricao": "restaurante de cozinha angolana contemporânea na Ilha de Luanda. muamba de galinha, mufete, calulu e pratos tradicionais com apresentação moderna. brunch aos fins de semana.",
-    "tags": ["angolana", "tradicional", "contemporânea", "muamba", "mufete", "calulu", "ilha de luanda", "familiar", "brunch", "ingredientes locais", "cultural", "africana"]
+    "tags": [
+      "angolana",
+      "tradicional",
+      "contemporânea",
+      "muamba",
+      "mufete",
+      "calulu",
+      "ilha de luanda",
+      "familiar",
+      "brunch",
+      "ingredientes locais",
+      "cultural",
+      "africana"
+    ]
   }
 }

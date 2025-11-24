@@ -3,16 +3,14 @@
   "nome": "Quiosque da Ilha",
   "descricao": "quiosque descontraído na praia da Ilha de Luanda, ideal para petiscos rápidos, cerveja gelada e ambiente informal à beira-mar",
   "descricaoCompleta": "o Quiosque da Ilha é o local perfeito para quem procura uma experiência autêntica e descontraída na praia da Ilha de Luanda. este quiosque tradicional, estrategicamente localizado mesmo junto à areia, é um ponto de encontro popular entre locais e turistas que desejam desfrutar do sol, mar e boa companhia num ambiente informal e familiar. sem grandes pretensões, o Quiosque da Ilha oferece exactamente o que se espera de um dia perfeito na praia: petiscos saborosos, cerveja bem gelada, sumos naturais e uma vista deslumbrante sobre o oceano Atlântico. a carta é simples mas eficaz, focada em grelhados de peixe fresco capturado pela manhã, espetadas de carne, batatas fritas crocantes e os tradicionais petiscos angolanos. o ambiente é barulhento no melhor sentido da palavra, com música alta, conversas animadas, crianças a brincar na areia e amigos a conviver em torno de mesas de plástico coloridas sob chapéus de sol. aos fins de semana, o Quiosque da Ilha transforma-se num dos pontos mais movimentados da Ilha, atraindo grupos grandes que ocupam as mesas desde o almoço até ao final da tarde. não há reservas, não há formalidades, apenas comida honesta, bebidas geladas e a alegria contagiante de estar na praia. ideal para famílias com crianças que podem brincar na areia enquanto os adultos relaxam, grupos de amigos que querem passar o dia na praia ou qualquer pessoa que procure a verdadeira essência da vida na Ilha de Luanda.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Norte, Praia Principal, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte (praia)",
     "coordenadas": {
-      "latitude": -8.7945,
-      "longitude": 13.2318
+      "latitude": -8.7848,
+      "longitude": 13.2345
     }
   },
-
   "contactos": {
     "telefone": "+244 222 398 123",
     "telemovel": "+244 924 234 567",
@@ -23,8 +21,13 @@
       "instagram": "https://www.instagram.com/quiosquedailha"
     }
   },
-
-  "tipoCozinha": ["petiscos", "grelhados", "praia", "angolana", "informal"],
+  "tipoCozinha": [
+    "petiscos",
+    "grelhados",
+    "praia",
+    "angolana",
+    "informal"
+  ],
   "especialidades": [
     "peixe fresco grelhado",
     "espetadas de carne na brasa",
@@ -36,15 +39,20 @@
     "cerveja Cuca gelada",
     "sumo natural de maracujá"
   ],
-  "ambiente": ["informal", "praia", "descontraído", "familiar", "animado", "pé na areia"],
-
+  "ambiente": [
+    "informal",
+    "praia",
+    "descontraído",
+    "familiar",
+    "animado",
+    "pé na areia"
+  ],
   "precos": {
     "faixaPreco": 1,
     "faixaPrecoTexto": "$",
     "precoMedio": 3500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -177,7 +185,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "09:00-20:00",
@@ -191,7 +198,6 @@
     "diasEncerrado": [],
     "observacoes": "horário pode variar conforme o movimento e condições meteorológicas. mais movimentado aos fins de semana"
   },
-
   "avaliacoes": {
     "avaliacao": 4.2,
     "numeroAvaliacoes": 628,
@@ -240,7 +246,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "informal na rua",
@@ -248,7 +253,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "300-500 AOA (gorjeta ao vigilante)"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona muito movimentada especialmente aos fins de semana",
@@ -261,7 +265,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "chegue cedo aos fins de semana para garantir mesa e estacionamento. depois das 11h fica muito cheio",
@@ -294,7 +297,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": false,
     "arCondicionado": false,
@@ -311,7 +313,6 @@
     "servicoTakeaway": false,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
     "galeria": [
@@ -322,10 +323,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Quiosque da Ilha - Petiscos e Cerveja na Praia da Ilha de Luanda | Ambiente Informal",
     "metaDescricao": "quiosque descontraído na praia da Ilha de Luanda. peixe fresco grelhado, espetadas, petiscos e cerveja gelada. ambiente informal e familiar à beira-mar. preços acessíveis.",
-    "tags": ["praia", "informal", "petiscos", "grelhados", "peixe fresco", "cerveja", "familiar", "ilha de luanda", "descontraído", "pé na areia", "barato"]
+    "tags": [
+      "praia",
+      "informal",
+      "petiscos",
+      "grelhados",
+      "peixe fresco",
+      "cerveja",
+      "familiar",
+      "ilha de luanda",
+      "descontraído",
+      "pé na areia",
+      "barato"
+    ]
   }
 }

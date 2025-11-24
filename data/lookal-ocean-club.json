@@ -3,16 +3,14 @@
   "nome": "Lookal Ocean Club",
   "descricao": "beach club moderno e sofisticado com piscina infinity, gastronomia internacional de fusão e eventos exclusivos ao pôr do sol",
   "descricaoCompleta": "o Lookal Ocean Club é o beach club mais moderno e sofisticado da Ilha de Luanda, inaugurado em 2023. com uma arquitectura contemporânea impressionante que mistura elementos industriais com toques tropicais, o espaço rapidamente se tornou o destino preferido da elite luandense e visitantes internacionais em busca de uma experiência premium à beira-mar. o clube oferece uma piscina infinity espectacular com vista para o oceano Atlântico, espreguiçadeiras confortáveis, cabanas VIP com serviço personalizado e diversas áreas de lounge. a carta gastronómica é assinada pelo chef internacional Miguel Tavares e combina técnicas culinárias contemporâneas com ingredientes angolanos de primeira qualidade, destacando-se os ceviches frescos, sushi premium, grelhados nobres e cocktails autorais preparados por mixologistas experientes. o Lookal Ocean Club é também famoso pelos seus eventos sunset às sextas e sábados, com DJ's residentes e convidados internacionais que criam uma atmosfera única e vibrante. aos domingos, o brunch é um dos mais concorridos de Luanda, com buffet internacional e entretenimento ao vivo. o espaço oferece ainda serviços de spa, massagens e uma boutique de praia com marcas exclusivas. o dress code smart casual e a entrada mínima consumível aos fins de semana garantem um ambiente selecto e sofisticado.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua Central da Ilha, Zona Premium, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central premium",
     "coordenadas": {
-      "latitude": -8.8005,
-      "longitude": 13.2335
+      "latitude": -8.7658616,
+      "longitude": 13.2569897
     }
   },
-
   "contactos": {
     "telefone": "+244 222 449 900",
     "telemovel": "+244 927 789 000",
@@ -24,8 +22,14 @@
       "tiktok": "https://www.tiktok.com/@lookaloceanclub"
     }
   },
-
-  "tipoCozinha": ["internacional", "fusão", "sushi", "mediterrânica", "contemporânea", "ceviche"],
+  "tipoCozinha": [
+    "internacional",
+    "fusão",
+    "sushi",
+    "mediterrânica",
+    "contemporânea",
+    "ceviche"
+  ],
   "especialidades": [
     "ceviche de robalo com leche de tigre",
     "sushi premium selection do chef",
@@ -36,8 +40,17 @@
     "camarão tigre em crosta de coco",
     "cocktails autorais sunset"
   ],
-  "ambiente": ["luxo", "moderno", "sofisticado", "vista mar", "piscina", "beach club", "sunset", "dj", "exclusivo"],
-
+  "ambiente": [
+    "luxo",
+    "moderno",
+    "sofisticado",
+    "vista mar",
+    "piscina",
+    "beach club",
+    "sunset",
+    "dj",
+    "exclusivo"
+  ],
   "precos": {
     "faixaPreco": 4,
     "faixaPrecoTexto": "$$$$",
@@ -45,7 +58,6 @@
     "moeda": "AOA",
     "observacao": "entrada mínima de 5000 AOA consumível aos fins de semana e eventos especiais"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -208,7 +220,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -219,10 +230,11 @@
       "sabado": "10:00-04:00",
       "domingo": "10:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "brunch aos domingos das 10:00 às 16:00 (35.000 AOA por pessoa). eventos sunset às sextas e sábados a partir das 18h com entrada mínima consumível"
   },
-
   "avaliacoes": {
     "avaliacao": 4.8,
     "numeroAvaliacoes": 247,
@@ -264,7 +276,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo com valet parking",
@@ -272,7 +283,6 @@
     "capacidadeEstacionamento": 60,
     "custoEstacionamento": "gratuito com valet parking incluído"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada rigorosa na entrada com controlo de acesso",
@@ -286,7 +296,6 @@
     "nivelSeguranca": "muito alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve com pelo menos 1 semana de antecedência, especialmente para o brunch de domingo e eventos sunset. o clube lota rapidamente",
@@ -319,7 +328,6 @@
       "origem": "Lisboa, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -350,7 +358,6 @@
     "zonaLounge": true,
     "barPiscina": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
     "galeria": [
@@ -363,10 +370,25 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Lookal Ocean Club - Beach Club Premium na Ilha de Luanda | Piscina Infinity & Sunset",
     "metaDescricao": "beach club moderno e sofisticado na Ilha de Luanda com piscina infinity, gastronomia internacional premium, eventos sunset com DJ e brunch exclusivo aos domingos.",
-    "tags": ["beach club", "luxo", "piscina infinity", "sunset", "dj", "brunch", "moderno", "ilha de luanda", "internacional", "cocktails", "eventos", "sofisticado", "premium", "exclusivo", "valet parking"]
+    "tags": [
+      "beach club",
+      "luxo",
+      "piscina infinity",
+      "sunset",
+      "dj",
+      "brunch",
+      "moderno",
+      "ilha de luanda",
+      "internacional",
+      "cocktails",
+      "eventos",
+      "sofisticado",
+      "premium",
+      "exclusivo",
+      "valet parking"
+    ]
   }
 }

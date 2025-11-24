@@ -3,16 +3,14 @@
   "nome": "Sunset Beach Bar",
   "descricao": "beach bar moderno com ambiente descontraído, especializado em cocktails, petiscos e eventos ao pôr do sol com DJ",
   "descricaoCompleta": "o Sunset Beach Bar é o destino preferido dos jovens e amantes de boa música na Ilha de Luanda. com uma atmosfera moderna e descontraída, este beach bar rapidamente se tornou referência para quem procura diversão à beira-mar. o espaço conta com espreguiçadeiras na areia, mesas sob chapéus de sol coloridos e uma área lounge com sofás confortáveis. o bar é famoso pelos seus cocktails criativos e refrescantes, preparados por mixologistas experientes que usam frutas tropicais locais. a carta de petiscos inclui hambúrguers gourmet, tacos, nachos, asas de frango e opções vegetarianas. o grande atrativo do Sunset são as sessões ao pôr do sol com DJ's nacionais e internacionais, que transformam as tardes de sexta, sábado e domingo em verdadeiras festas na praia. o ambiente jovem e vibrante atrai tanto locais como turistas que procuram uma experiência mais informal e festiva. durante o dia, o espaço é perfeito para relaxar na praia com amigos, enquanto à noite se transforma num dos pontos mais animados da Ilha de Luanda.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Central, Frente à Praia, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8020,
-      "longitude": 13.2328
+      "latitude": -8.7678,
+      "longitude": 13.2555
     }
   },
-
   "contactos": {
     "telefone": "+244 222 394 567",
     "telemovel": "+244 927 654 321",
@@ -25,8 +23,13 @@
       "twitter": "https://twitter.com/sunsetbarlda"
     }
   },
-
-  "tipoCozinha": ["petiscos", "hambúrguers gourmet", "internacional", "fusion", "finger food"],
+  "tipoCozinha": [
+    "petiscos",
+    "hambúrguers gourmet",
+    "internacional",
+    "fusion",
+    "finger food"
+  ],
   "especialidades": [
     "sunset burger com bacon e queijo",
     "tacos de peixe fresco",
@@ -35,15 +38,21 @@
     "ceviche de camarão",
     "batata-doce frita com molhos especiais"
   ],
-  "ambiente": ["moderno", "descontraído", "jovem", "praia", "festa", "DJ", "pôr do sol"],
-
+  "ambiente": [
+    "moderno",
+    "descontraído",
+    "jovem",
+    "praia",
+    "festa",
+    "DJ",
+    "pôr do sol"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 4500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -191,7 +200,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -202,10 +210,11 @@
       "sabado": "12:00-03:00",
       "domingo": "12:00-00:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "sessões sunset com DJ sexta, sábado e domingo a partir das 17:00. happy hour terça a quinta das 17:00 às 19:00"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 456,
@@ -240,7 +249,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -248,7 +256,6 @@
     "capacidadeEstacionamento": 60,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e segura durante o funcionamento",
@@ -261,7 +268,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "chegue por volta das 17h nos fins de semana para garantir bom lugar para o sunset",
@@ -289,7 +295,6 @@
       "origem": "Benguela, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": false,
@@ -311,7 +316,6 @@
     "happyHour": true,
     "eventosSunset": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
     "galeria": [
@@ -323,10 +327,23 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Sunset Beach Bar - Beach Bar Moderno na Ilha de Luanda | Cocktails e DJ",
     "metaDescricao": "beach bar descontraído na Ilha de Luanda com cocktails autorais, hambúrguers gourmet e sessões sunset com DJ. ambiente jovem e vibrante. happy hour disponível.",
-    "tags": ["beach bar", "cocktails", "sunset", "DJ", "jovem", "descontraído", "hambúrguers", "petiscos", "ilha de luanda", "música", "festa", "happy hour", "pôr do sol"]
+    "tags": [
+      "beach bar",
+      "cocktails",
+      "sunset",
+      "DJ",
+      "jovem",
+      "descontraído",
+      "hambúrguers",
+      "petiscos",
+      "ilha de luanda",
+      "música",
+      "festa",
+      "happy hour",
+      "pôr do sol"
+    ]
   }
 }

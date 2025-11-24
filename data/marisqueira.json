@@ -3,16 +3,14 @@
   "nome": "Restaurante Marisqueira",
   "descricao": "marisqueira tradicional especializada em marisco fresco do dia, peixe grelhado e pratos de marisco à portuguesa",
   "descricaoCompleta": "o Restaurante Marisqueira é uma referência na Ilha de Luanda para os amantes de marisco fresco e peixe do dia. fundado em 2015, o restaurante mantém uma filosofia simples mas eficaz: marisco fresco trazido diariamente dos mercados locais e preparado de forma tradicional portuguesa. o espaço acolhedor é decorado com elementos náuticos que remetem para a cultura marítima, criando um ambiente descontraído e familiar. a carta destaca-se pela variedade de marisco disponível, desde lagosta, sapateira, camarão gigante, amêijoas à bulhão pato e conquilhas. o peixe grelhado é outro ponto forte, com opções como robalo, dourada, pargo e cherne sempre frescos. aos fins de semana, a Marisqueira enche-se de famílias e grupos que procuram a autenticidade da cozinha portuguesa de marisco num ambiente informal. a equipa é experiente e conhecedora, ajudando os clientes a escolher o melhor marisco do dia e sugerindo vinhos brancos portugueses que harmonizam perfeitamente com os pratos.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Marginal n.º 78, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8072,
-      "longitude": 13.2352
+      "latitude": -8.798,
+      "longitude": 13.2235
     }
   },
-
   "contactos": {
     "telefone": "+244 222 395 123",
     "telemovel": "+244 926 789 012",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/marisqueirailha"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "marisco", "peixe", "grelhados"],
+  "tipoCozinha": [
+    "portuguesa",
+    "marisco",
+    "peixe",
+    "grelhados"
+  ],
   "especialidades": [
     "arroz de marisco",
     "caldeirada de peixe à pescador",
@@ -37,15 +39,19 @@
     "açorda de marisco",
     "polvo à lagareiro"
   ],
-  "ambiente": ["tradicional", "familiar", "náutico", "descontraído", "vista mar"],
-
+  "ambiente": [
+    "tradicional",
+    "familiar",
+    "náutico",
+    "descontraído",
+    "vista mar"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 9500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -223,7 +229,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -234,10 +239,11 @@
       "sabado": "12:00-00:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "reservas altamente recomendadas aos fins de semana. marisco disponível conforme chegada do mercado"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 378,
@@ -279,7 +285,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -287,7 +292,6 @@
     "capacidadeEstacionamento": 20,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona segura com vigilância privada do restaurante",
@@ -299,7 +303,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "chegue cedo ou reserve, especialmente aos fins de semana quando enche muito",
@@ -327,7 +330,6 @@
       "origem": "Faro, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -344,7 +346,6 @@
     "servicoTakeaway": false,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=1200",
     "galeria": [
@@ -356,10 +357,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante Marisqueira - Marisco Fresco na Ilha de Luanda | Peixe Grelhado",
     "metaDescricao": "marisqueira tradicional na Ilha de Luanda especializada em marisco fresco do dia, arroz de marisco, lagosta grelhada e peixe. cozinha portuguesa autêntica.",
-    "tags": ["marisco", "portuguesa", "peixe grelhado", "lagosta", "arroz de marisco", "cataplana", "polvo", "ilha de luanda", "tradicional", "familiar", "fresco"]
+    "tags": [
+      "marisco",
+      "portuguesa",
+      "peixe grelhado",
+      "lagosta",
+      "arroz de marisco",
+      "cataplana",
+      "polvo",
+      "ilha de luanda",
+      "tradicional",
+      "familiar",
+      "fresco"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Restaurante Sal & Brasa",
   "descricao": "churrascaria moderna especializada em carnes grelhadas premium, rodízio brasileiro e buffet variado com vista para o mar",
   "descricaoCompleta": "o Sal & Brasa é uma churrascaria moderna e sofisticada que trouxe o conceito brasileiro de rodízio de carnes para a Ilha de Luanda com grande sucesso. inaugurado em 2020, o restaurante rapidamente se tornou referência para os amantes de carne na capital angolana. o espaço amplo e climatizado dispõe de uma sala principal com capacidade para 120 pessoas, decorada com elementos contemporâneos e rústicos que remetem para a tradição do churrasco. o grande destaque é o rodízio de carnes premium, onde passadores circulam pelas mesas oferecendo mais de 15 tipos de carnes nobres grelhadas na brasa, incluindo picanha, costela bovina, frango, cordeiro e porco. complementando o rodízio, um buffet variado oferece saladas frescas, acompanhamentos quentes, sushi, pratos quentes e sobremesas. aos domingos, o Sal & Brasa é especialmente popular com famílias que vêm desfrutar do almoço de rodízio. a carta de vinhos é extensa, com rótulos sul-americanos, portugueses e franceses cuidadosamente seleccionados. o serviço é profissional e atencioso, garantindo uma experiência gastronómica de qualidade superior.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Atlântica n.º 120, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8025,
-      "longitude": 13.2335
+      "latitude": -8.811,
+      "longitude": 13.2285
     }
   },
-
   "contactos": {
     "telefone": "+244 222 445 678",
     "telemovel": "+244 927 654 321",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/salebrasa"
     }
   },
-
-  "tipoCozinha": ["churrascaria", "brasileira", "carnes", "rodízio", "buffet"],
+  "tipoCozinha": [
+    "churrascaria",
+    "brasileira",
+    "carnes",
+    "rodízio",
+    "buffet"
+  ],
   "especialidades": [
     "rodízio de carnes premium",
     "picanha angus",
@@ -37,8 +40,13 @@
     "cupim assado",
     "buffet de saladas e acompanhamentos"
   ],
-  "ambiente": ["moderno", "espaçoso", "familiar", "vista mar", "elegante casual"],
-
+  "ambiente": [
+    "moderno",
+    "espaçoso",
+    "familiar",
+    "vista mar",
+    "elegante casual"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
@@ -46,7 +54,6 @@
     "moeda": "AOA",
     "observacao": "rodízio completo inclui todas as carnes e buffet livre"
   },
-
   "menu": [
     {
       "categoria": "rodízio",
@@ -214,7 +221,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -225,10 +231,11 @@
       "sabado": "12:00-00:00",
       "domingo": "12:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "rodízio disponível ao almoço e jantar. domingos muito concorridos, recomenda-se reserva"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 456,
@@ -277,7 +284,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -285,7 +291,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "segurança privada rigorosa na entrada e estacionamento",
@@ -297,7 +302,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "chegue com fome! o rodízio é farto e tem muita variedade de carnes",
@@ -330,7 +334,6 @@
       "origem": "Brasília, Brasil"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -351,7 +354,6 @@
     "valetParking": true,
     "valetParkingInfo": "disponível aos fins de semana"
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
     "galeria": [
@@ -363,10 +365,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Sal & Brasa - Churrascaria Rodízio na Ilha de Luanda | Carnes Premium",
     "metaDescricao": "churrascaria moderna na Ilha de Luanda com rodízio de carnes premium, buffet variado e vista para o mar. picanha, costela e carnes nobres grelhadas na brasa.",
-    "tags": ["churrascaria", "rodízio", "carnes", "brasileira", "picanha", "buffet", "ilha de luanda", "moderno", "familiar", "vista mar", "premium"]
+    "tags": [
+      "churrascaria",
+      "rodízio",
+      "carnes",
+      "brasileira",
+      "picanha",
+      "buffet",
+      "ilha de luanda",
+      "moderno",
+      "familiar",
+      "vista mar",
+      "premium"
+    ]
   }
 }

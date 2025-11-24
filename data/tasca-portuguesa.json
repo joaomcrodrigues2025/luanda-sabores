@@ -3,16 +3,14 @@
   "nome": "Tasca Portuguesa",
   "descricao": "tasca tradicional portuguesa na Ilha de Luanda com petiscos autênticos, vinhos portugueses e ambiente caseiro",
   "descricaoCompleta": "a Tasca Portuguesa é um pedacinho de Portugal no coração da Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e acolhedora. este restaurante familiar destaca-se pela dedicação em manter vivas as tradições culinárias portuguesas, desde os famosos petiscos até aos pratos principais mais icónicos da cozinha lusitana. o ambiente é descontraído e genuinamente português, com decoração típica que inclui azulejos tradicionais, objectos antigos e uma atmosfera que transporta os visitantes para uma tasca do bairro alto em Lisboa. a carta de vinhos é cuidadosamente seleccionada, apresentando os melhores rótulos de Portugal, do Douro ao Alentejo. os proprietários, um casal português radicado em Angola há décadas, supervisionam pessoalmente a cozinha e o atendimento, garantindo que cada cliente se sinta em casa. aos fins de semana, é comum ouvir fado ao vivo, criando momentos emocionantes e memoráveis. a Tasca Portuguesa é o local ideal para quem procura sabores genuínos, doses generosas e um serviço caloroso.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua dos Pescadores, Zona Central, Luanda, Angola",
     "zona": "Ilha de Luanda - zona central",
     "coordenadas": {
-      "latitude": -8.8015,
-      "longitude": 13.2335
+      "latitude": -8.814,
+      "longitude": 13.2315
     }
   },
-
   "contactos": {
     "telefone": "+244 222 392 145",
     "telemovel": "+244 923 789 456",
@@ -24,8 +22,12 @@
       "tripadvisor": "https://www.tripadvisor.com/tascaportuguesa"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "petiscos", "tradicional", "caseira"],
+  "tipoCozinha": [
+    "portuguesa",
+    "petiscos",
+    "tradicional",
+    "caseira"
+  ],
   "especialidades": [
     "bacalhau à brás",
     "cozido à portuguesa",
@@ -36,15 +38,19 @@
     "chouriço assado",
     "queijos e enchidos portugueses"
   ],
-  "ambiente": ["tradicional", "acolhedor", "caseiro", "português", "fado ao vivo"],
-
+  "ambiente": [
+    "tradicional",
+    "acolhedor",
+    "caseiro",
+    "português",
+    "fado ao vivo"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 6800,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos",
@@ -177,7 +183,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -188,10 +193,11 @@
       "sabado": "12:00-23:00",
       "domingo": "12:00-22:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "fado ao vivo às sextas e sábados a partir das 20h. cozido à portuguesa disponível às quintas-feiras (reserva obrigatória)"
   },
-
   "avaliacoes": {
     "avaliacao": 4.6,
     "numeroAvaliacoes": 387,
@@ -233,7 +239,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público próximo",
@@ -241,7 +246,6 @@
     "capacidadeEstacionamento": 30,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona central movimentada e segura",
@@ -253,7 +257,6 @@
     "nivelSeguranca": "médio-alto",
     "temVigilancia": false
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve para as noites de fado, são muito concorridas e o espaço é pequeno",
@@ -281,7 +284,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -300,7 +302,6 @@
     "idealParaFamilias": true,
     "ambiente_tradicional": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
     "galeria": [
@@ -311,10 +312,20 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Tasca Portuguesa - Restaurante Português na Ilha de Luanda | Fado Ao Vivo",
     "metaDescricao": "tasca tradicional portuguesa na Ilha de Luanda com petiscos autênticos, bacalhau, vinhos portugueses e fado ao vivo. ambiente caseiro e doses generosas.",
-    "tags": ["portuguesa", "tasca", "petiscos", "bacalhau", "fado", "tradicional", "ilha de luanda", "vinhos", "cozido", "caseira"]
+    "tags": [
+      "portuguesa",
+      "tasca",
+      "petiscos",
+      "bacalhau",
+      "fado",
+      "tradicional",
+      "ilha de luanda",
+      "vinhos",
+      "cozido",
+      "caseira"
+    ]
   }
 }

@@ -3,16 +3,14 @@
   "nome": "Restaurante O Mar",
   "descricao": "restaurante tradicional especializado em marisco fresco e peixe grelhado, com vista privilegiada sobre o oceano Atlântico",
   "descricaoCompleta": "o Restaurante O Mar é uma referência na Ilha de Luanda para quem procura autenticidade e qualidade em pratos de marisco e peixe. com mais de 15 anos de história, este estabelecimento familiar conquistou a confiança dos luandenses e visitantes pela consistência na qualidade dos ingredientes e no preparo tradicional dos pratos. a localização privilegiada oferece uma vista deslumbrante sobre o mar, criando o cenário perfeito para refeições memoráveis. o menu destaca-se pelas receitas tradicionais portuguesas e angolanas, com especial atenção à caldeirada de peixe, arroz de marisco e lagosta à O Mar. o ambiente é acolhedor e familiar, com uma esplanada ampla onde se pode desfrutar da brisa marítima. o serviço atencioso e a relação qualidade-preço fazem do O Mar uma escolha segura tanto para almoços de negócios como para jantares em família. a casa orgulha-se de trabalhar apenas com peixe e marisco frescos, trazidos diariamente dos mercados locais.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Rua da Marginal, Zona Sul, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8072,
-      "longitude": 13.2352
+      "latitude": -8.8005,
+      "longitude": 13.223
     }
   },
-
   "contactos": {
     "telefone": "+244 222 338 920",
     "telemovel": "+244 924 567 890",
@@ -24,8 +22,13 @@
       "tripadvisor": "https://www.tripadvisor.com/omare"
     }
   },
-
-  "tipoCozinha": ["portuguesa", "marisco", "peixe fresco", "angolana", "tradicional"],
+  "tipoCozinha": [
+    "portuguesa",
+    "marisco",
+    "peixe fresco",
+    "angolana",
+    "tradicional"
+  ],
   "especialidades": [
     "caldeirada de peixe à pescador",
     "arroz de marisco",
@@ -35,15 +38,19 @@
     "peixe serra grelhado",
     "açorda de marisco"
   ],
-  "ambiente": ["tradicional", "familiar", "vista mar", "esplanada", "acolhedor"],
-
+  "ambiente": [
+    "tradicional",
+    "familiar",
+    "vista mar",
+    "esplanada",
+    "acolhedor"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 9500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas",
@@ -166,7 +173,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "12:00-15:00, 19:00-22:00",
@@ -180,7 +186,6 @@
     "diasEncerrado": [],
     "observacoes": "reservas recomendadas aos fins de semana e feriados"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 456,
@@ -222,7 +227,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "privativo vigiado",
@@ -230,7 +234,6 @@
     "capacidadeEstacionamento": 25,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "restaurante com vigilância privada",
@@ -242,7 +245,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "reserve mesa na esplanada para desfrutar da vista sobre o mar, especialmente ao pôr do sol",
@@ -270,7 +272,6 @@
       "origem": "Luanda, Angola"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -288,7 +289,6 @@
     "idealParaFamilias": true,
     "petFriendly": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
     "galeria": [
@@ -300,10 +300,20 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Restaurante O Mar - Marisco Fresco na Ilha de Luanda | Vista Mar",
     "metaDescricao": "restaurante tradicional na Ilha de Luanda especializado em marisco fresco e peixe grelhado. caldeirada, arroz de marisco, lagosta. vista privilegiada sobre o oceano.",
-    "tags": ["marisco", "peixe fresco", "vista mar", "tradicional", "caldeirada", "lagosta", "ilha de luanda", "portuguesa", "familiar", "esplanada"]
+    "tags": [
+      "marisco",
+      "peixe fresco",
+      "vista mar",
+      "tradicional",
+      "caldeirada",
+      "lagosta",
+      "ilha de luanda",
+      "portuguesa",
+      "familiar",
+      "esplanada"
+    ]
   }
 }

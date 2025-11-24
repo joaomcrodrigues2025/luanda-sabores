@@ -3,16 +3,14 @@
   "nome": "Ilha Mar Beach Club",
   "descricao": "beach club descontraído com ambiente jovem, gastronomia mediterrânica e eventos temáticos à beira-mar",
   "descricaoCompleta": "o Ilha Mar Beach Club é um espaço vibrante e descontraído que se tornou um dos pontos de encontro preferidos dos jovens adultos e famílias modernas de Luanda. inaugurado em 2021, o clube combina a descontração de um beach bar com a qualidade gastronómica de um restaurante contemporâneo. localizado numa das zonas mais bonitas da Ilha de Luanda, o espaço oferece uma atmosfera relaxada durante o dia, perfeita para almoços prolongados à beira-mar, e transforma-se num ambiente mais animado ao final da tarde e noite, especialmente aos fins de semana. a carta gastronómica é inspirada na cozinha mediterrânica com influências angolanas, destacando-se os peixes grelhados, saladas frescas, petiscos para partilhar e pizzas artesanais cozinhadas em forno a lenha. o Ilha Mar é conhecido pelos seus eventos temáticos mensais, como noites de cinema na praia, festas brancas de verão e sessões de yoga ao nascer do sol. o clube dispõe de uma zona de praia privativa com espreguiçadeiras e chapéus-de-sol, zona de jogos para crianças, bar de praia e uma esplanada coberta com vista privilegiada sobre o oceano. aos domingos, o sunset session com música chill out e DJ's é um dos momentos mais procurados. o ambiente descontraído, preços moderados e boa relação qualidade-preço fazem do Ilha Mar Beach Club uma excelente opção para quem procura uma experiência de praia completa sem o peso da formalidade.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Avenida Marginal, Zona Sul, Luanda, Angola",
     "zona": "Ilha de Luanda - zona sul",
     "coordenadas": {
-      "latitude": -8.8070,
-      "longitude": 13.2350
+      "latitude": -8.7685,
+      "longitude": 13.2548
     }
   },
-
   "contactos": {
     "telefone": "+244 222 397 654",
     "telemovel": "+244 925 678 910",
@@ -24,8 +22,14 @@
       "tiktok": "https://www.tiktok.com/@ilhamarclub"
     }
   },
-
-  "tipoCozinha": ["mediterrânica", "internacional", "pizza", "peixe grelhado", "petiscos", "saladas"],
+  "tipoCozinha": [
+    "mediterrânica",
+    "internacional",
+    "pizza",
+    "peixe grelhado",
+    "petiscos",
+    "saladas"
+  ],
   "especialidades": [
     "pizza artesanal em forno a lenha",
     "peixe do dia grelhado com legumes",
@@ -36,15 +40,22 @@
     "espetadas de camarão e vegetais",
     "tábua de queijos e enchidos"
   ],
-  "ambiente": ["descontraído", "jovem", "praia", "vista mar", "familiar", "animado", "casual", "eventos temáticos"],
-
+  "ambiente": [
+    "descontraído",
+    "jovem",
+    "praia",
+    "vista mar",
+    "familiar",
+    "animado",
+    "casual",
+    "eventos temáticos"
+  ],
   "precos": {
     "faixaPreco": 3,
     "faixaPrecoTexto": "$$$",
     "precoMedio": 9500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "entradas e petiscos",
@@ -217,7 +228,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -228,10 +238,11 @@
       "sabado": "10:00-02:00",
       "domingo": "10:00-23:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "sunset session aos domingos a partir das 17h com DJ. eventos temáticos mensais (consultar redes sociais)"
   },
-
   "avaliacoes": {
     "avaliacao": 4.5,
     "numeroAvaliacoes": 412,
@@ -273,7 +284,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque privativo vigiado",
@@ -281,7 +291,6 @@
     "capacidadeEstacionamento": 45,
     "custoEstacionamento": "gratuito para clientes"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona segura com vigilância privada durante todo o horário de funcionamento",
@@ -294,7 +303,6 @@
     "nivelSeguranca": "alto",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "vá ao domingo para o sunset session. a música é excelente e o ambiente é super descontraído. chegue por volta das 16h para garantir boa mesa",
@@ -322,7 +330,6 @@
       "origem": "Lisboa, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": true,
@@ -349,7 +356,6 @@
     "yogaNascerSol": true,
     "cinemaPraia": true
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
     "galeria": [
@@ -361,10 +367,24 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Ilha Mar Beach Club - Restaurante e Beach Club na Ilha de Luanda | Pizza e Marisco",
     "metaDescricao": "beach club descontraído na Ilha de Luanda com gastronomia mediterrânica, pizzas artesanais, peixe grelhado e eventos temáticos. sunset session aos domingos com DJ.",
-    "tags": ["beach club", "descontraído", "mediterrânica", "pizza", "ilha de luanda", "jovem", "eventos", "sunset", "dj", "familiar", "praia privativa", "vista mar", "marisco", "peixe grelhado"]
+    "tags": [
+      "beach club",
+      "descontraído",
+      "mediterrânica",
+      "pizza",
+      "ilha de luanda",
+      "jovem",
+      "eventos",
+      "sunset",
+      "dj",
+      "familiar",
+      "praia privativa",
+      "vista mar",
+      "marisco",
+      "peixe grelhado"
+    ]
   }
 }

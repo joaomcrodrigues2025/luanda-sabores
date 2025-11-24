@@ -3,16 +3,14 @@
   "nome": "Bar Cubano",
   "descricao": "bar e restaurante tropical na Ilha de Luanda com gastronomia caribenha, cocktails exóticos e música latina ao vivo",
   "descricaoCompleta": "o Bar Cubano traz a energia vibrante e os sabores tropicais de Cuba para a Ilha de Luanda. este espaço único combina a atmosfera descontraída de um beach bar caribenho com uma proposta gastronómica autêntica que celebra a cozinha cubana e latino-americana. a decoração colorida e tropical, com bandeiras cubanas, posters vintage de Havana e cadeiras de praia, cria um ambiente festivo e acolhedor onde cada visitante se sente transportado para as praias do Caribe. especializado em cocktails tropicais preparados por barmen experientes, o Bar Cubano oferece os melhores mojitos, daiquiris e piñas coladas de Luanda, utilizando rum premium e frutas frescas. a carta gastronómica apresenta clássicos cubanos como ropa vieja, arroz congri, tostones e o famoso sandwich cubano, todos preparados segundo receitas tradicionais. aos fins de semana, o espaço ganha vida com música latina ao vivo, incluindo salsa, merengue e reggaeton, transformando-se num dos pontos mais animados da Ilha. ideal para grupos de amigos, after-work descontraído ou noites festivas à beira-mar, o Bar Cubano é o destino perfeito para quem procura boa comida, cocktails deliciosos e muita diversão num ambiente tropical único.",
-
   "localizacao": {
     "endereco": "Ilha de Luanda, Zona Norte, Avenida Beira-Mar, Luanda, Angola",
     "zona": "Ilha de Luanda - zona norte",
     "coordenadas": {
-      "latitude": -8.7935,
-      "longitude": 13.2315
+      "latitude": -8.7725,
+      "longitude": 13.249
     }
   },
-
   "contactos": {
     "telefone": "+244 222 397 234",
     "telemovel": "+244 926 789 012",
@@ -25,8 +23,13 @@
       "twitter": "https://twitter.com/barcubanolda"
     }
   },
-
-  "tipoCozinha": ["cubana", "caribenha", "latina", "tropical", "petiscos"],
+  "tipoCozinha": [
+    "cubana",
+    "caribenha",
+    "latina",
+    "tropical",
+    "petiscos"
+  ],
   "especialidades": [
     "mojito tradicional cubano",
     "daiquiri de morango",
@@ -39,15 +42,21 @@
     "yuca frita com molho picante",
     "cocktails tropicais variados"
   ],
-  "ambiente": ["descontraído", "tropical", "animado", "praia", "festivo", "colorido", "música latina"],
-
+  "ambiente": [
+    "descontraído",
+    "tropical",
+    "animado",
+    "praia",
+    "festivo",
+    "colorido",
+    "música latina"
+  ],
   "precos": {
     "faixaPreco": 2,
     "faixaPrecoTexto": "$$",
     "precoMedio": 5500,
     "moeda": "AOA"
   },
-
   "menu": [
     {
       "categoria": "petiscos & entradas",
@@ -200,7 +209,6 @@
       ]
     }
   ],
-
   "horario": {
     "horarioFuncionamento": {
       "segunda": "encerrado",
@@ -211,10 +219,11 @@
       "sabado": "12:00-03:00",
       "domingo": "12:00-00:00"
     },
-    "diasEncerrado": ["segunda-feira"],
+    "diasEncerrado": [
+      "segunda-feira"
+    ],
     "observacoes": "música latina ao vivo às sextas e sábados a partir das 21h. happy hour de terça a quinta das 17h às 19h com desconto em cocktails"
   },
-
   "avaliacoes": {
     "avaliacao": 4.4,
     "numeroAvaliacoes": 412,
@@ -256,7 +265,6 @@
       }
     ]
   },
-
   "estacionamento": {
     "temEstacionamento": true,
     "tipoEstacionamento": "parque público vigiado",
@@ -264,7 +272,6 @@
     "capacidadeEstacionamento": 40,
     "custoEstacionamento": "500 AOA"
   },
-
   "seguranca": {
     "dicasSeguranca": [
       "zona movimentada e animada, especialmente aos fins de semana",
@@ -277,7 +284,6 @@
     "nivelSeguranca": "médio",
     "temVigilancia": true
   },
-
   "dicasViajantes": [
     {
       "dica": "vá na sexta ou sábado à noite para aproveitar a música latina ao vivo e a atmosfera mais festiva",
@@ -305,7 +311,6 @@
       "origem": "Porto, Portugal"
     }
   ],
-
   "caracteristicas": {
     "wifi": true,
     "arCondicionado": false,
@@ -322,7 +327,6 @@
     "servicoTakeaway": true,
     "servicoDelivery": false
   },
-
   "imagens": {
     "imagemPrincipal": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200",
     "galeria": [
@@ -334,10 +338,21 @@
     ],
     "creditoImagens": "Unsplash"
   },
-
   "seo": {
     "metaTitulo": "Bar Cubano - Bar e Restaurante Caribenho na Ilha de Luanda | Cocktails e Música Latina",
     "metaDescricao": "bar tropical na Ilha de Luanda com gastronomia cubana autêntica, mojitos, daiquiris e música latina ao vivo. ambiente descontraído à beira-mar. happy hour!",
-    "tags": ["cubana", "cocktails", "mojito", "música latina", "praia", "tropical", "animado", "ilha de luanda", "caribenha", "descontraído", "happy hour"]
+    "tags": [
+      "cubana",
+      "cocktails",
+      "mojito",
+      "música latina",
+      "praia",
+      "tropical",
+      "animado",
+      "ilha de luanda",
+      "caribenha",
+      "descontraído",
+      "happy hour"
+    ]
   }
 }
