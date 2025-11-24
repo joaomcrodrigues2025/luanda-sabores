@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useSearchParams } from 'next/navigation';
 import RestaurantCard from '@/components/RestaurantCard';
 import SearchBar from '@/components/SearchBar';
@@ -14,12 +14,31 @@ export default function RestaurantesPageClient() {
   const [allCategories, setAllCategories] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
 
+  const applyFilters = useCallback((data: Restaurant[], categories: string[], query: string | null) => {
+    let filtered = [...data];
+
+    if (query) {
+      filtered = filtered.filter((r) =>
+        r.nome.toLowerCase().includes(query.toLowerCase()) ||
+        r.descricao.toLowerCase().includes(query.toLowerCase()) ||
+        r.tipoCozinha.some((c) => c.toLowerCase().includes(query.toLowerCase()))
+      );
+    } else if (categories.length > 0) {
+      filtered = filtered.filter((r) =>
+        r.tipoCozinha.some((c) => categories.includes(c))
+      );
+    }
+
+    return filtered;
+  }, []);
+
   useEffect(() => {
     fetch('/api/restaurants')
       .then((res) => res.json())
       .then((data) => {
         setRestaurants(data);
-        setFilteredRestaurants(data);
+        const query = searchParams?.get('q') || null;
+        setFilteredRestaurants(applyFilters(data, selectedCategories, query));
 
         const categories = new Set<string>();
         data.forEach((r: Restaurant) => {
@@ -27,34 +46,19 @@ export default function RestaurantesPageClient() {
         });
         setAllCategories(Array.from(categories).sort());
         setLoading(false);
+      })
+      .catch((err) => {
+        console.error('Erro ao carregar restaurantes:', err);
+        setLoading(false);
       });
-  }, []);
+  }, [searchParams, applyFilters, selectedCategories]);
 
   useEffect(() => {
-    const query = searchParams.get('q');
-    if (query) {
-      const filtered = restaurants.filter((r) =>
-        r.nome.toLowerCase().includes(query.toLowerCase()) ||
-        r.descricao.toLowerCase().includes(query.toLowerCase()) ||
-        r.tipoCozinha.some((c) => c.toLowerCase().includes(query.toLowerCase()))
-      );
-      setFilteredRestaurants(filtered);
-    } else {
-      applyFilters();
+    if (restaurants.length > 0) {
+      const query = searchParams?.get('q') || null;
+      setFilteredRestaurants(applyFilters(restaurants, selectedCategories, query));
     }
-  }, [searchParams, restaurants, selectedCategories]);
-
-  const applyFilters = () => {
-    let filtered = [...restaurants];
-
-    if (selectedCategories.length > 0) {
-      filtered = filtered.filter((r) =>
-        r.tipoCozinha.some((c) => selectedCategories.includes(c))
-      );
-    }
-
-    setFilteredRestaurants(filtered);
-  };
+  }, [searchParams, restaurants, selectedCategories, applyFilters]);
 
   const toggleCategory = (category: string) => {
     setSelectedCategories((prev) =>
