@@ -43,7 +43,7 @@ export default async function TagPage({ params }: Props) {
   }
 
   return (
-    <div className="min-h-screen bg-white dark:bg-[#1A1A1A]">
+    <div className="min-h-screen bg-white dark:bg-[#1A1A1A] pt-16">
       {/* Header */}
       <div className="bg-gradient-to-b from-[#F4B32A] to-[#E5A528] text-black px-4 py-12">
         <div className="max-w-4xl mx-auto">

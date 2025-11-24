@@ -13,6 +13,7 @@ export default function Header() {
     { href: '/', label: 'início', icon: 'home' },
     { href: '/restaurantes', label: 'restaurantes', icon: 'restaurant' },
     { href: '/mapa', label: 'mapa', icon: 'map' },
+    { href: '/restaurantes?q=', label: 'procura', icon: 'search' },
   ];
 
   const getPageTitle = () => {
@@ -26,7 +27,7 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 ${isHome ? 'bg-transparent absolute w-full' : 'bg-white/95 dark:bg-[#1A1A1A]/95 backdrop-blur-sm border-b border-gray-100 dark:border-gray-800'}`}>
+      <header className={`fixed top-0 left-0 right-0 z-50 ${isHome ? 'bg-transparent' : 'bg-white/95 dark:bg-[#1A1A1A]/95 backdrop-blur-sm border-b border-gray-100 dark:border-gray-800'}`}>
         <div className="flex items-center p-4 justify-between max-w-7xl mx-auto">
           {/* Logo / Voltar */}
           {isHome ? (
@@ -57,7 +58,7 @@ export default function Header() {
                 className={`flex items-center gap-2 font-medium transition-colors ${
                   isHome
                     ? 'text-white hover:text-[#F4B32A]'
-                    : pathname === link.href
+                    : pathname === link.href || (link.href === '/restaurantes?q=' && pathname === '/restaurantes')
                     ? 'text-[#D1302C]'
                     : 'text-gray-700 dark:text-gray-300 hover:text-[#D1302C]'
                 }`}
@@ -113,37 +114,6 @@ export default function Header() {
                     <span className="font-medium text-lg">{link.label}</span>
                   </Link>
                 ))}
-              </div>
-
-              {/* Separador */}
-              <hr className="my-6 border-gray-200 dark:border-gray-700" />
-
-              {/* Links secundários */}
-              <div className="flex flex-col gap-2">
-                <Link
-                  href="/categorias/marisco"
-                  onClick={() => setMenuOpen(false)}
-                  className="flex items-center gap-4 p-3 rounded-lg text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-                >
-                  <span className="material-symbols-outlined">set_meal</span>
-                  <span>marisco</span>
-                </Link>
-                <Link
-                  href="/categorias/angolana"
-                  onClick={() => setMenuOpen(false)}
-                  className="flex items-center gap-4 p-3 rounded-lg text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-                >
-                  <span className="material-symbols-outlined">restaurant_menu</span>
-                  <span>cozinha angolana</span>
-                </Link>
-                <Link
-                  href="/tags/vista-mar"
-                  onClick={() => setMenuOpen(false)}
-                  className="flex items-center gap-4 p-3 rounded-lg text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
-                >
-                  <span className="material-symbols-outlined">waves</span>
-                  <span>vista mar</span>
-                </Link>
               </div>
 
               {/* Footer do menu */}

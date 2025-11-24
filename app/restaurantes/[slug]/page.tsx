@@ -57,7 +57,7 @@ export default async function RestaurantePage({ params }: Props) {
   const relatedRestaurants = getRelatedRestaurants(restaurant.id);
 
   return (
-    <div className="relative flex min-h-screen w-full flex-col bg-white dark:bg-[#1A1A1A] overflow-x-hidden">
+    <div className="relative flex min-h-screen w-full flex-col bg-white dark:bg-[#1A1A1A] overflow-x-hidden pt-16">
       {/* Hero Image Gallery */}
       <div className="@container">
         <div className="@[480px]:px-4 @[480px]:py-3">
@@ -77,17 +77,17 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Restaurant Info */}
-      <div className="px-4">
-        <h1 className="text-gray-900 dark:text-white tracking-tight text-[32px] font-bold leading-tight pt-3">
+      <div className="px-4 pt-6">
+        <h1 className="text-gray-900 dark:text-white tracking-tight text-[32px] font-bold leading-tight">
           {restaurant.nome}
         </h1>
-        <p className="text-gray-700 dark:text-gray-300 text-base font-normal leading-normal pt-1">
+        <p className="text-gray-700 dark:text-gray-300 text-base font-normal leading-normal pt-2">
           {restaurant.descricao}
         </p>
       </div>
 
       {/* Rating */}
-      <div className="flex items-center gap-4 px-4 py-2">
+      <div className="flex items-center gap-4 px-4 py-4">
         <div className="flex items-center gap-1">
           {[...Array(5)].map((_, i) => (
             <span
@@ -124,7 +124,7 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Quick Actions */}
-      <div className="grid grid-cols-4 gap-4 px-4 py-5 text-center">
+      <div className="grid grid-cols-4 gap-4 px-4 py-6 text-center">
         <a className="flex flex-col items-center gap-2" href="#menu">
           <div className="flex items-center justify-center size-12 rounded-full bg-[#D1302C]/20">
             <span className="material-symbols-outlined text-[#D1302C]">menu_book</span>
@@ -156,19 +156,19 @@ export default async function RestaurantePage({ params }: Props) {
       </div>
 
       {/* Full Description */}
-      <div className="px-4 py-4">
+      <div className="px-4 py-6">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">sobre</h2>
         <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed whitespace-pre-line">
           {restaurant.descricaoCompleta}
         </p>
       </div>
 
-      <div className="px-4 py-2">
+      <div className="px-4">
         <hr className="border-gray-200 dark:border-gray-800" />
       </div>
 
       {/* Especialidades */}
-      <div className="px-4 py-4">
+      <div className="px-4 py-6">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">especialidades</h2>
         <div className="flex flex-wrap gap-2">
           {restaurant.especialidades.map((esp, index) => (
@@ -182,14 +182,14 @@ export default async function RestaurantePage({ params }: Props) {
         </div>
       </div>
 
-      <div className="px-4 py-2">
+      <div className="px-4">
         <hr className="border-gray-200 dark:border-gray-800" />
       </div>
 
       {/* Safety Tips */}
       {restaurant.seguranca.dicasSeguranca.length > 0 && (
         <>
-          <div className="px-4 py-4">
+          <div className="px-4 py-6">
             <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">dicas de segurança</h2>
             <div className="space-y-3">
               {restaurant.seguranca.dicasSeguranca.map((dica, index) => (
@@ -202,7 +202,7 @@ export default async function RestaurantePage({ params }: Props) {
               ))}
             </div>
           </div>
-          <div className="px-4 py-2">
+          <div className="px-4">
             <hr className="border-gray-200 dark:border-gray-800" />
           </div>
         </>
@@ -211,7 +211,7 @@ export default async function RestaurantePage({ params }: Props) {
       {/* Parking */}
       {restaurant.estacionamento.temEstacionamento && (
         <>
-          <div className="px-4 py-4">
+          <div className="px-4 py-6">
             <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">estacionamento</h2>
             <div className="space-y-3">
               <div className="flex items-start gap-3">
@@ -230,14 +230,14 @@ export default async function RestaurantePage({ params }: Props) {
               </div>
             </div>
           </div>
-          <div className="px-4 py-2">
+          <div className="px-4">
             <hr className="border-gray-200 dark:border-gray-800" />
           </div>
         </>
       )}
 
       {/* Menu */}
-      <div id="menu" className="px-4 py-4">
+      <div id="menu" className="px-4 py-6">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">menu</h2>
         {restaurant.menu.map((categoria) => (
           <div key={categoria.categoria} className="mb-6">
@@ -261,12 +261,12 @@ export default async function RestaurantePage({ params }: Props) {
         ))}
       </div>
 
-      <div className="px-4 py-2">
+      <div className="px-4">
         <hr className="border-gray-200 dark:border-gray-800" />
       </div>
 
       {/* Contacts */}
-      <div className="px-4 py-4">
+      <div className="px-4 py-6">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">contactos</h2>
         <div className="space-y-3">
           <div className="flex items-center gap-3">
@@ -299,14 +299,14 @@ export default async function RestaurantePage({ params }: Props) {
         </div>
       </div>
 
-      <div className="px-4 py-2">
+      <div className="px-4">
         <hr className="border-gray-200 dark:border-gray-800" />
       </div>
 
       {/* Traveler Tips */}
       {restaurant.dicasViajantes.length > 0 && (
         <>
-          <div className="px-4 py-4">
+          <div className="px-4 py-6">
             <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">dicas de viajantes</h2>
             <div className="space-y-3">
               {restaurant.dicasViajantes.map((dica, index) => (
@@ -319,14 +319,14 @@ export default async function RestaurantePage({ params }: Props) {
               ))}
             </div>
           </div>
-          <div className="px-4 py-2">
+          <div className="px-4">
             <hr className="border-gray-200 dark:border-gray-800" />
           </div>
         </>
       )}
 
       {/* Location and Hours */}
-      <div id="localizacao" className="px-4 py-4">
+      <div id="localizacao" className="px-4 py-6">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">localização e horário</h2>
         <div className="mb-4">
           <Map restaurants={[restaurant]} center={[restaurant.localizacao.coordenadas.latitude, restaurant.localizacao.coordenadas.longitude]} zoom={16} />
@@ -363,12 +363,12 @@ export default async function RestaurantePage({ params }: Props) {
         </div>
       </div>
 
-      <div className="px-4 py-2">
+      <div className="px-4">
         <hr className="border-gray-200 dark:border-gray-800" />
       </div>
 
       {/* Reviews */}
-      <div className="px-4 py-4 pb-28">
+      <div className="px-4 py-6 pb-28">
         <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">avaliações</h2>
         {restaurant.avaliacoes.avaliacoes.map((avaliacao, index) => (
           <div key={index} className="bg-gray-100 dark:bg-gray-800/50 p-4 rounded-lg mb-4">
@@ -403,10 +403,10 @@ export default async function RestaurantePage({ params }: Props) {
       {/* Related Restaurants */}
       {relatedRestaurants.length > 0 && (
         <>
-          <div className="px-4 py-2">
+          <div className="px-4">
             <hr className="border-gray-200 dark:border-gray-800" />
           </div>
-          <div className="px-4 py-8 pb-28">
+          <div className="px-4 py-6 pb-28">
             <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
               restaurantes semelhantes
             </h2>

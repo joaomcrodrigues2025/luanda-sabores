@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   title: "luanda sabores - restaurantes na ilha de luanda",
   description: "descubra os melhores restaurantes da ilha de luanda. marisco fresco, cozinha internacional, angolana e muito mais. o seu guia definitivo para comer bem em luanda.",
   keywords: "restaurantes luanda, ilha de luanda, marisco luanda, cozinha angolana, restaurantes angola, comer em luanda",
+  icons: {
+    icon: [
+      { url: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>", type: "image/svg+xml" },
+    ],
+  },
   openGraph: {
     title: "luanda sabores - restaurantes na ilha de luanda",
     description: "descubra os melhores restaurantes da ilha de luanda",

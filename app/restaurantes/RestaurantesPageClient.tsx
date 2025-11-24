@@ -77,7 +77,7 @@ export default function RestaurantesPageClient() {
   }
 
   return (
-    <div className="min-h-screen bg-white dark:bg-[#1A1A1A]">
+    <div className="min-h-screen bg-white dark:bg-[#1A1A1A] pt-16">
       <SearchBar />
 
       {/* Category Filters */}

@@ -43,7 +43,7 @@ export default async function CategoriaPage({ params }: Props) {
   }
 
   return (
-    <div className="min-h-screen bg-white dark:bg-[#1A1A1A]">
+    <div className="min-h-screen bg-white dark:bg-[#1A1A1A] pt-16">
       {/* Header */}
       <div className="bg-gradient-to-b from-[#D1302C] to-[#B82822] text-white px-4 py-12">
         <div className="max-w-4xl mx-auto">
