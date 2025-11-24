@@ -1,0 +1,324 @@
+{
+  "id": "sabores-da-ilha",
+  "nome": "Sabores da Ilha",
+  "descricao": "restaurante familiar de praia especializado em grelhados, peixe fresco e cozinha angolana tradicional num ambiente descontraído",
+  "descricaoCompleta": "o Sabores da Ilha é um restaurante familiar que captura a essência da vida na Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e descontraída à beira-mar. fundado há mais de uma década por uma família angolana apaixonada pela culinária local, o restaurante tornou-se um ponto de referência tanto para residentes como para visitantes que procuram sabores genuínos num ambiente acolhedor. a localização privilegiada permite desfrutar de refeições com vista para o oceano, com mesas na areia e sob chapéus de sol coloridos. a carta é uma celebração da riqueza gastronómica angolana, destacando-se os pratos de peixe fresco grelhado, o mufete tradicional, o caril de camarão e as espetadas mistas. aos domingos, o restaurante é especialmente movimentado com famílias inteiras que vêm desfrutar de almoços prolongados ao som das ondas. o ambiente é genuinamente angolano, com música kuduro e semba a tocar ao fundo, criando uma atmosfera festiva e descontraída. o serviço é caloroso e atencioso, com os proprietários frequentemente a circular entre as mesas para garantir que todos se sentem em casa. perfeito para quem procura uma experiência autêntica da Ilha sem pretensões.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Norte, Praia da Ilha, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7928,
+      "longitude": 13.2305
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 389 456",
+    "telemovel": "+244 922 456 789",
+    "email": "info@saboresdailha.ao",
+    "website": "https://www.saboresdailha.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/saboresdailhaluanda",
+      "instagram": "https://www.instagram.com/saboresdailha"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "grelhados", "peixe fresco", "marisco", "tradicional"],
+  "especialidades": [
+    "mufete de cacusso tradicional",
+    "peixe serra grelhado",
+    "caril de camarão",
+    "cabidela de frango",
+    "caldeirada à pescador",
+    "espetadas mistas",
+    "funge com molho de peixe"
+  ],
+  "ambiente": ["descontraído", "familiar", "praia", "pé na areia", "tradicional"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca frita crocante servida com molho picante",
+          "preco": 1200
+        },
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal marinho",
+          "preco": 600
+        },
+        {
+          "nome": "pastéis de peixe",
+          "descricao": "pastéis angolanos recheados com peixe fresco",
+          "preco": 1500
+        },
+        {
+          "nome": "salada mista",
+          "descricao": "salada de tomate, cebola, alface e pepino",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "mufete de cacusso tradicional",
+          "descricao": "peixe cacusso grelhado com molho cru, batata-doce, banana-pão e mandioca",
+          "preco": 5200
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado com batatas e arroz",
+          "preco": 4500
+        },
+        {
+          "nome": "caril de camarão",
+          "descricao": "camarão ao caril com arroz basmati",
+          "preco": 7800
+        },
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango tradicional angolano cozinhado no próprio sangue",
+          "preco": 3800
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada mista com peixe, camarão e moluscos do dia",
+          "preco": 6500
+        },
+        {
+          "nome": "espetadas mistas",
+          "descricao": "espetadas de vaca e frango com legumes grelhados",
+          "preco": 4200
+        },
+        {
+          "nome": "funge com molho de peixe",
+          "descricao": "funge de milho com molho de peixe fresco e quiabos",
+          "preco": 3500
+        },
+        {
+          "nome": "peixe frito com pirão",
+          "descricao": "peixe frito crocante com pirão de peixe",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim tradicional de coco com calda de caramelo",
+          "preco": 1400
+        },
+        {
+          "nome": "salada de frutas",
+          "descricao": "frutas frescas da época",
+          "preco": 1200
+        },
+        {
+          "nome": "cocada",
+          "descricao": "cocada angolana tradicional",
+          "preco": 800
+        },
+        {
+          "nome": "gelado tropical",
+          "descricao": "gelado de frutas tropicais",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "cerveja Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 500
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua",
+          "preco": 700
+        },
+        {
+          "nome": "sumo de maracujá",
+          "descricao": "sumo fresco de maracujá",
+          "preco": 700
+        },
+        {
+          "nome": "água de coco",
+          "descricao": "água de coco natural gelada",
+          "preco": 600
+        },
+        {
+          "nome": "caipirinha",
+          "descricao": "caipirinha de limão ou frutas tropicais",
+          "preco": 1500
+        },
+        {
+          "nome": "refrigerante",
+          "descricao": "refrigerantes variados",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-21:00",
+      "terca": "11:00-21:00",
+      "quarta": "11:00-21:00",
+      "quinta": "11:00-21:00",
+      "sexta": "11:00-22:00",
+      "sabado": "10:00-22:00",
+      "domingo": "10:00-21:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "horário contínuo. ideal para almoços de domingo em família"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 498,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Santos",
+        "nota": 5,
+        "comentario": "o melhor mufete da Ilha! autêntico, bem servido e preço justo. ambiente familiar e descontraído, voltarei sempre!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Rosa Ferreira",
+        "nota": 4,
+        "comentario": "adorei! comida caseira angolana de verdade. o caril de camarão estava delicioso e o serviço muito simpático.",
+        "data": "2025-11-20",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Pedro Costa",
+        "nota": 4,
+        "comentario": "excelente para almoços de domingo. o peixe é sempre fresco e as doses são generosas. ambiente genuíno da Ilha.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Luísa Mendes",
+        "nota": 5,
+        "comentario": "restaurante familiar acolhedor. adorei comer com os pés na areia e ouvir kuduro. a cabidela estava perfeita!",
+        "data": "2025-11-15",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "António Silva",
+        "nota": 4,
+        "comentario": "bom restaurante de praia. preços acessíveis, comida boa e vista para o mar. o peixe grelhado é excelente.",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público próximo",
+    "informacaoEstacionamento": "estacionamento na rua e parque público a 30 metros. vigilância informal durante o dia.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "500 AOA (opcional gorjeta ao vigilante)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o dia",
+      "vigilância informal no estacionamento",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "ambiente familiar e tranquilo",
+      "staff atencioso e conhecedor da área"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao domingo para viver a experiência completa da Ilha com famílias angolanas",
+      "autor": "Carla Sousa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o mufete de cacusso é autêntico e muito bem servido, pode ser partilhado",
+      "autor": "Fernando Lopes",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "chegue cedo aos fins de semana para conseguir mesa na areia com boa vista",
+      "autor": "Teresa Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o sumo de múcua, é uma bebida tradicional angolana deliciosa",
+      "autor": "Miguel Andrade",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "os preços são justos, é um dos restaurantes mais acessíveis da Ilha sem perder qualidade",
+      "autor": "Sofia Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se gosta de música, aos sábados há sempre kuduro e semba a tocar",
+      "autor": "João Rodrigues",
+      "origem": "Lobito, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true,
+    "musicaAmbiente": true,
+    "precoAcessivel": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Sabores da Ilha - Restaurante de Praia na Ilha de Luanda | Mufete Tradicional",
+    "metaDescricao": "restaurante familiar de praia na Ilha de Luanda. mufete de cacusso, peixe grelhado, cozinha angolana tradicional. ambiente descontraído com pé na areia e vista mar.",
+    "tags": ["pé na areia", "praia", "angolana", "mufete", "familiar", "descontraído", "ilha de luanda", "peixe fresco", "tradicional", "acessível"]
+  }
+}

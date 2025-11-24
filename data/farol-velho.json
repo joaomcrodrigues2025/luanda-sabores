@@ -1,0 +1,414 @@
+{
+  "id": "farol-velho",
+  "nome": "Farol Velho",
+  "descricao": "restaurante histórico com vista privilegiada, especializado em cozinha tradicional portuguesa e angolana, ambiente familiar e acolhedor",
+  "descricaoCompleta": "o Farol Velho é um dos restaurantes mais tradicionais e queridos da Ilha de Luanda, com uma história que remonta a décadas de serviço à comunidade luandense. localizado numa posição privilegiada próxima ao antigo farol da Ilha, o restaurante oferece vistas panorâmicas sobre o oceano Atlântico e a baía de Luanda, proporcionando um cenário único para refeições memoráveis. o espaço destaca-se pela sua autenticidade e ambiente familiar, mantendo a decoração clássica com elementos náuticos que remetem para a tradição marítima da região. a carta gastronómica celebra o melhor da cozinha tradicional portuguesa e angolana, com especial destaque para pratos de peixe fresco e marisco preparados de forma tradicional, seguindo receitas transmitidas através de gerações. o Farol Velho é conhecido pela consistência da sua cozinha, pela generosidade das doses e pelos preços justos, tornando-se um favorito tanto de residentes como de visitantes que procuram autenticidade e sabor caseiro. aos domingos, o restaurante oferece um menu especial de almoço familiar que atrai famílias inteiras. o staff, muitos com décadas de casa, oferece um serviço atencioso e caloroso, fazendo com que cada cliente se sinta como parte da família. o Farol Velho é mais do que um restaurante, é uma instituição da Ilha de Luanda que preserva tradições culinárias e oferece uma experiência gastronómica genuína e acolhedora.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua do Farol, zona norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7925,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 395 234",
+    "telemovel": "+244 923 789 456",
+    "email": "reservas@farolvelho.ao",
+    "website": "https://www.farolvelho.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/farolvelholuanda",
+      "instagram": "https://www.instagram.com/farolvelholuanda"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "angolana", "marisco", "tradicional", "peixe fresco", "caseira"],
+  "especialidades": [
+    "caldeirada à pescador tradicional",
+    "bacalhau à Gomes de Sá",
+    "arroz de marisco à moda da casa",
+    "mufete tradicional angolano",
+    "polvo à lagareiro",
+    "açorda de marisco",
+    "cabidela de frango",
+    "feijoada angolana"
+  ],
+  "ambiente": ["tradicional", "familiar", "acolhedor", "vista mar", "histórico", "autêntico", "descontraído"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 8500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas tradicionais",
+      "pratos": [
+        {
+          "nome": "caldo verde",
+          "descricao": "caldo verde tradicional com couve galega, batata e chouriço",
+          "preco": 1200
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas salteadas com alho, azeite, coentros e vinho branco",
+          "preco": 2800
+        },
+        {
+          "nome": "pastéis de bacalhau caseiros",
+          "descricao": "pastéis de bacalhau feitos na hora, crocantes e saborosos",
+          "preco": 1600
+        },
+        {
+          "nome": "chouriço assado",
+          "descricao": "chouriço português assado com pão caseiro",
+          "preco": 1800
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo cozido com batata, cebola, pimento, coentros e azeite",
+          "preco": 2500
+        },
+        {
+          "nome": "queijo da serra com doce",
+          "descricao": "queijo da serra português com doce de abóbora caseiro",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de peixe",
+      "pratos": [
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada tradicional com peixe fresco, camarão, mexilhão e batata em molho de tomate aromático",
+          "preco": 9500
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado servido com batata cozida, legumes e arroz",
+          "preco": 5800
+        },
+        {
+          "nome": "bacalhau à Gomes de Sá",
+          "descricao": "bacalhau demolhado com batata, cebola, ovo cozido e azeitonas gratinado",
+          "preco": 7200
+        },
+        {
+          "nome": "bacalhau à Brás",
+          "descricao": "bacalhau desfiado com batata palha, ovo e cebola",
+          "preco": 6800
+        },
+        {
+          "nome": "peixe cacusso grelhado",
+          "descricao": "cacusso fresco grelhado com molho cru, mandioca e banana-pão",
+          "preco": 6200
+        },
+        {
+          "nome": "dourada grelhada",
+          "descricao": "dourada fresca grelhada com batata cozida e legumes",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de marisco",
+      "pratos": [
+        {
+          "nome": "arroz de marisco à moda da casa",
+          "descricao": "arroz de marisco com camarão, mexilhão, amêijoas e lulas, receita tradicional",
+          "preco": 8800
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo cozido e assado com batatas esmagadas, alho e azeite generoso",
+          "preco": 10500
+        },
+        {
+          "nome": "açorda de marisco",
+          "descricao": "açorda tradicional de marisco com pão, alho, coentros e ovo pochê",
+          "preco": 9200
+        },
+        {
+          "nome": "camarão à guilho",
+          "descricao": "camarão salteado em azeite com muito alho, piri-piri e coentros",
+          "preco": 7500
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho, azeite e limão",
+          "preco": 6500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana tradicional portuguesa com marisco variado e batata",
+          "preco": 11500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de carne",
+      "pratos": [
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango tradicional angolano cozinhado no próprio sangue com arroz branco",
+          "preco": 4200
+        },
+        {
+          "nome": "feijoada angolana",
+          "descricao": "feijoada tradicional com carne de vaca, porco, enchidos e feijão",
+          "preco": 5500
+        },
+        {
+          "nome": "costeletas de porco grelhadas",
+          "descricao": "costeletas de porco grelhadas com batata frita e arroz",
+          "preco": 4800
+        },
+        {
+          "nome": "bife à casa",
+          "descricao": "bife de vaca com molho especial, batata frita e arroz",
+          "preco": 6200
+        },
+        {
+          "nome": "frango no churrasco",
+          "descricao": "frango inteiro grelhado com molho piri-piri, batata e salada",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas caseiras",
+      "pratos": [
+        {
+          "nome": "pudim flan caseiro",
+          "descricao": "pudim flan tradicional feito na casa com caramelo",
+          "preco": 1200
+        },
+        {
+          "nome": "arroz doce",
+          "descricao": "arroz doce cremoso com canela e casca de limão",
+          "preco": 1100
+        },
+        {
+          "nome": "baba de camelo",
+          "descricao": "sobremesa tradicional angolana com ovos e leite condensado",
+          "preco": 1300
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse de chocolate cremosa feita na casa",
+          "preco": 1200
+        },
+        {
+          "nome": "tarte de amêndoa",
+          "descricao": "tarte tradicional portuguesa de amêndoa",
+          "preco": 1400
+        },
+        {
+          "nome": "salada de frutas frescas",
+          "descricao": "frutas frescas da época cortadas na hora",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde português",
+          "descricao": "vinho verde fresco e leve - garrafa",
+          "preco": 4500
+        },
+        {
+          "nome": "vinho tinto Dão",
+          "descricao": "vinho tinto da região do Dão - garrafa",
+          "preco": 5500
+        },
+        {
+          "nome": "vinho branco Alentejo",
+          "descricao": "vinho branco do Alentejo - garrafa",
+          "preco": 5000
+        },
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Sagres gelada",
+          "descricao": "cerveja portuguesa Sagres bem gelada",
+          "preco": 700
+        },
+        {
+          "nome": "sumo natural de laranja",
+          "descricao": "sumo de laranja espremido na hora",
+          "preco": 700
+        },
+        {
+          "nome": "água de coco",
+          "descricao": "água de coco natural",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-22:00",
+      "quarta": "12:00-22:00",
+      "quinta": "12:00-22:00",
+      "sexta": "12:00-23:00",
+      "sabado": "12:00-23:00",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "menu especial de almoço familiar aos domingos. reservas recomendadas aos fins de semana"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 628,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Silva",
+        "nota": 5,
+        "comentario": "restaurante tradicional que vale muito a pena! o bacalhau à Gomes de Sá é igual ao de Portugal. ambiente familiar e acolhedor. staff muito simpático!",
+        "data": "2025-11-22",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Ana Costa",
+        "nota": 5,
+        "comentario": "um dos meus restaurantes favoritos em Luanda! a caldeirada à pescador é divinal e as doses são muito generosas. preços justos e comida autêntica.",
+        "data": "2025-11-19",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Pedro Gomes",
+        "nota": 4,
+        "comentario": "excelente comida tradicional! o polvo à lagareiro estava perfeito. ambiente descontraído e familiar. ideal para almoços de domingo com a família.",
+        "data": "2025-11-15",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Carla Santos",
+        "nota": 5,
+        "comentario": "comida caseira deliciosa! o arroz de marisco é maravilhoso e o staff é muito atencioso. preços acessíveis para a qualidade. recomendo vivamente!",
+        "data": "2025-11-12",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Ricardo Fernandes",
+        "nota": 4,
+        "comentario": "restaurante tradicional com vista linda! a cabidela de frango é autêntica e saborosa. ambiente tranquilo e acolhedor. voltarei certamente!",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Isabel Martins",
+        "nota": 5,
+        "comentario": "adoro este restaurante! mantém a qualidade há anos. as sobremesas caseiras são deliciosas, especialmente o arroz doce. um clássico da Ilha!",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua e parque público próximo",
+    "informacaoEstacionamento": "estacionamento na rua em frente ao restaurante e parque público a 50 metros com vigilância. geralmente há lugares disponíveis.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "500 AOA no parque público"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona tradicional e segura da Ilha de Luanda",
+      "movimento constante de pessoas durante horário de funcionamento",
+      "vigilância informal pelos comerciantes locais",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "staff conhece bem a zona e pode dar indicações",
+      "boa iluminação pública na rua principal"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "experimente a caldeirada à pescador, é a especialidade da casa há décadas. as doses são muito generosas, podem partilhar",
+      "autor": "Carlos Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "vá ao domingo para o menu especial de almoço familiar. ambiente muito agradável e comida ainda melhor!",
+      "autor": "Patricia Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça mesa junto às janelas para apreciar a vista sobre o mar. chegue um pouco mais cedo aos fins de semana",
+      "autor": "Miguel Santos",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "se gosta de bacalhau, tem de experimentar o bacalhau à Gomes de Sá. é confeccionado da forma tradicional portuguesa",
+      "autor": "Fernando Costa",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "as sobremesas caseiras são excelentes! não saiam sem experimentar o pudim flan ou o arroz doce",
+      "autor": "Sofia Rodrigues",
+      "origem": "Benguela, Angola"
+    },
+    {
+      "dica": "o staff é muito experiente e prestável. peçam recomendações sobre o peixe do dia, nunca falham!",
+      "autor": "João Almeida",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "idealParaFamilias": true,
+    "tradicionalPortugues": true,
+    "cozinhaCaseira": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Farol Velho - Restaurante Tradicional na Ilha de Luanda | Cozinha Portuguesa e Angolana",
+    "metaDescricao": "restaurante tradicional e familiar na Ilha de Luanda. especializado em cozinha portuguesa e angolana autêntica, peixe fresco, marisco e vista privilegiada sobre o mar.",
+    "tags": ["tradicional", "português", "angolana", "familiar", "vista mar", "ilha de luanda", "peixe fresco", "marisco", "bacalhau", "caldeirada", "autêntico", "acolhedor", "caseiro"]
+  }
+}

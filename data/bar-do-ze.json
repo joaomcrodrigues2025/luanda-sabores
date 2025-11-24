@@ -1,0 +1,312 @@
+{
+  "id": "bar-do-ze",
+  "nome": "Bar do Zé",
+  "descricao": "bar de praia descontraído e popular com petiscos angolanos, cerveja gelada e ambiente animado à beira-mar",
+  "descricaoCompleta": "o Bar do Zé é uma instituição na Ilha de Luanda, conhecido por ser o bar de praia mais autêntico e descontraído da zona. fundado há mais de 15 anos pelo Sr. Zé, um antigo pescador que decidiu abrir um bar simples à beira-mar, o espaço mantém a essência original: pé na areia, cerveja bem gelada, petiscos angolanos saborosos e muita animação. não é um restaurante sofisticado, mas sim um local onde locais e turistas se misturam para desfrutar de uma experiência genuína da Ilha. a especialidade são os petiscos de peixe frito, camarão grelhado, mandioca frita e a famosa ginguba torrada do Zé. aos fins de semana, o bar enche-se de famílias, jovens e grupos de amigos que vêm para passar o dia na praia, jogar futebol na areia e conviver num ambiente informal e descontraído. a música kuduro e semba toca alto, criando uma atmosfera festiva e tipicamente angolana. o Bar do Zé é perfeito para quem procura a verdadeira experiência local da Ilha de Luanda, longe dos restaurantes turísticos. os preços são acessíveis e as porções são generosas.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Praia Norte, sem número, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7895,
+      "longitude": 13.2298
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 398 456",
+    "telemovel": "+244 923 456 123",
+    "email": "bardoze@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/bardozeilha",
+      "instagram": "https://www.instagram.com/bardoze_ilha"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "petiscos", "bar de praia", "grelhados"],
+  "especialidades": [
+    "peixe frito à angolana",
+    "camarão grelhado com piri-piri",
+    "mandioca frita crocante",
+    "ginguba torrada do Zé",
+    "espetada de peixe",
+    "feijão de óleo de palma",
+    "batata-doce frita",
+    "mufete simples"
+  ],
+  "ambiente": ["informal", "pé na areia", "local", "animado", "praia", "popular"],
+
+  "precos": {
+    "faixaPreco": 1,
+    "faixaPrecoTexto": "$",
+    "precoMedio": 3500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal, a especialidade da casa",
+          "preco": 600
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca frita crocante servida com molho picante",
+          "preco": 1000
+        },
+        {
+          "nome": "batata-doce frita",
+          "descricao": "batata-doce frita às rodelas",
+          "preco": 900
+        },
+        {
+          "nome": "banana-pão frita",
+          "descricao": "banana-pão frita, acompanhamento tradicional",
+          "preco": 800
+        }
+      ]
+    },
+    {
+      "categoria": "peixe e marisco",
+      "pratos": [
+        {
+          "nome": "peixe frito à angolana",
+          "descricao": "peixe fresco frito com alho e limão, servido com funge",
+          "preco": 3500
+        },
+        {
+          "nome": "camarão grelhado",
+          "descricao": "camarão grelhado com piri-piri e limão",
+          "preco": 5500
+        },
+        {
+          "nome": "espetada de peixe",
+          "descricao": "espetada de peixe fresco grelhado com pimentos",
+          "preco": 4200
+        },
+        {
+          "nome": "lulas grelhadas simples",
+          "descricao": "lulas grelhadas com alho e azeite",
+          "preco": 4800
+        },
+        {
+          "nome": "mufete simples",
+          "descricao": "peixe grelhado com molho cru, servido com acompanhamentos",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos angolanos",
+      "pratos": [
+        {
+          "nome": "feijão de óleo de palma",
+          "descricao": "feijão cozinhado em óleo de palma com peixe seco",
+          "preco": 2800
+        },
+        {
+          "nome": "calulu de peixe",
+          "descricao": "calulu tradicional angolano de peixe com quiabo e gindungo",
+          "preco": 3200
+        },
+        {
+          "nome": "muamba de galinha",
+          "descricao": "frango em molho de óleo de palma com quiabos",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 500
+        },
+        {
+          "nome": "Eka gelada",
+          "descricao": "cerveja angolana Eka bem gelada",
+          "preco": 500
+        },
+        {
+          "nome": "caipirinha de limão",
+          "descricao": "caipirinha tradicional feita na hora",
+          "preco": 1200
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua fresco",
+          "preco": 700
+        },
+        {
+          "nome": "água de coco natural",
+          "descricao": "água de coco gelada servida no próprio coco",
+          "preco": 800
+        },
+        {
+          "nome": "refrigerante",
+          "descricao": "refrigerantes variados gelados",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "10:00-20:00",
+      "terca": "10:00-20:00",
+      "quarta": "10:00-20:00",
+      "quinta": "10:00-20:00",
+      "sexta": "10:00-22:00",
+      "sabado": "09:00-23:00",
+      "domingo": "09:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. horário pode variar conforme movimento e condições meteorológicas"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 624,
+    "avaliacoes": [
+      {
+        "autor": "Mário Andrade",
+        "nota": 5,
+        "comentario": "autêntico bar de praia angolano! preços acessíveis, ambiente descontraído e a ginguba do Zé é viciante. adoro vir aqui aos domingos.",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Pedro Santos",
+        "nota": 4,
+        "comentario": "experiência muito local e genuína. o peixe frito é simples mas saboroso. cerveja sempre gelada. ideal para quem quer conhecer a Ilha autêntica.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Joana Costa",
+        "nota": 5,
+        "comentario": "este é o verdadeiro espírito da Ilha! ambiente familiar, toda a gente conhece toda a gente. o camarão grelhado é óptimo e barato.",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Fernando Lopes",
+        "nota": 4,
+        "comentario": "não é chique mas é genuíno. pé na areia, boa música e petiscos saborosos. o Sr. Zé é uma personagem!",
+        "data": "2025-11-12",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Cristina Alves",
+        "nota": 4,
+        "comentario": "adoro a descontração deste lugar. é simples, é popular, é barato e é autêntico. perfeito para um almoço informal à beira-mar.",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Miguel Tavares",
+        "nota": 3,
+        "comentario": "ambiente muito local e animado. a comida é boa mas básica. bom para quem procura experiência autêntica e não luxo.",
+        "data": "2025-11-03",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "na areia e rua próxima",
+    "informacaoEstacionamento": "pode estacionar na areia próximo ao bar ou na rua. sem vigilância oficial mas zona movimentada. cuidado com areia fofa.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona popular e movimentada durante o dia, muito segura",
+      "à noite recomenda-se cautela adicional",
+      "não deixar objectos de valor visíveis no carro",
+      "o Sr. Zé e staff conhecem bem a zona e ajudam visitantes",
+      "ambiente familiar durante o dia com famílias e locais"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao domingo para apanhar o verdadeiro ambiente local com famílias e música",
+      "autor": "Armando Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente a ginguba torrada do Zé, é a melhor da Ilha!",
+      "autor": "Beatriz Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "leve dinheiro em cash, não aceitam cartão",
+      "autor": "Thomas Weber",
+      "origem": "Berlim, Alemanha"
+    },
+    {
+      "dica": "peça ao Zé para escolher o peixe mais fresco do dia, ele sabe sempre",
+      "autor": "Carla Mendes",
+      "origem": "Benguela, Angola"
+    },
+    {
+      "dica": "traga fato de banho, pode dar um mergulho enquanto espera pela comida",
+      "autor": "Rafael Sousa",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "não espere luxo, mas espere autenticidade e simpatia genuína",
+      "autor": "Sophie Martin",
+      "origem": "Paris, França"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": false,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "música ambiente kuduro e semba",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true,
+    "experienciaLocal": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1575936123452-b67c3203c357?w=800",
+      "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Bar do Zé - Bar de Praia Autêntico na Ilha de Luanda | Petiscos Angolanos",
+    "metaDescricao": "bar de praia descontraído e popular na Ilha de Luanda. petiscos angolanos, peixe frito, cerveja gelada e pé na areia. experiência local autêntica.",
+    "tags": ["bar de praia", "pé na areia", "angolana", "petiscos", "local", "autêntico", "ilha de luanda", "descontraído", "familiar", "barato", "ginguba", "peixe frito"]
+  }
+}

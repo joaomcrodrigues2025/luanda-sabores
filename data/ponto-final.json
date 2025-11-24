@@ -1,0 +1,319 @@
+{
+  "id": "ponto-final",
+  "nome": "Restaurante Ponto Final",
+  "descricao": "restaurante familiar com cozinha tradicional angolana e portuguesa, conhecido pela autenticidade dos pratos e ambiente acolhedor à beira-mar",
+  "descricaoCompleta": "o Restaurante Ponto Final é uma referência de autenticidade na Ilha de Luanda. com mais de 15 anos de história, este restaurante familiar conquistou uma clientela fiel graças à qualidade consistente da sua cozinha tradicional angolana e portuguesa. gerido pela família Machado, o Ponto Final mantém as receitas tradicionais transmitidas de geração em geração, preparando pratos caseiros com ingredientes frescos e técnicas culinárias autênticas. o espaço é simples mas acolhedor, com uma decoração que mistura elementos náuticos e fotografias antigas de Luanda. a especialidade da casa é o mufete de cacusso, preparado segundo a receita tradicional, mas o restaurante também é conhecido pelos caldos de peixe, cabidela de frango e bacalhau à Zé do Pipo. as porções são generosas e os preços justos, reflectindo o espírito familiar do estabelecimento. o atendimento personalizado e caloroso faz com que os clientes se sintam em casa. ideal para quem procura sabores autênticos num ambiente genuíno, longe das modas passageiras. aos domingos, o restaurante serve um almoço especial com música tradicional angolana ao vivo.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua dos Pescadores, Zona Norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7945,
+      "longitude": 13.2318
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 392 345",
+    "telemovel": "+244 925 678 234",
+    "email": "reservas@pontofinallda.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/pontofinailha",
+      "instagram": "https://www.instagram.com/ponto_final_lda"
+    }
+  },
+
+  "tipoCozinha": ["angolana tradicional", "portuguesa", "caseira", "peixe fresco"],
+  "especialidades": [
+    "mufete de cacusso tradicional",
+    "caldeirada de peixe à pescador",
+    "cabidela de frango caseira",
+    "bacalhau à Zé do Pipo",
+    "feijoada de marisco",
+    "caldo de peixe com pirão"
+  ],
+  "ambiente": ["tradicional", "familiar", "acolhedor", "caseiro", "vista mar", "autêntico"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "caldinho de peixe",
+          "descricao": "caldo quente de peixe com legumes e coentros",
+          "preco": 1500
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas tradicionais de bacalhau com arroz de feijão",
+          "preco": 1800
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo cozido com cebola, pimento, coentros e azeite",
+          "preco": 2200
+        },
+        {
+          "nome": "ameijoas na cataplana",
+          "descricao": "ameijoas frescas com chouriço e coentros",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "mufete de cacusso",
+          "descricao": "peixe cacusso grelhado com molho cru tradicional, funge, batata-doce, banana-pão e feijão de óleo de palma",
+          "preco": 5800
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada tradicional com peixe, camarão, lulas e legumes",
+          "preco": 6500
+        },
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango tradicional angolano cozinhado no sangue com arroz branco",
+          "preco": 4200
+        },
+        {
+          "nome": "bacalhau à Zé do Pipo",
+          "descricao": "bacalhau gratinado com puré de batata, maionese e azeitonas",
+          "preco": 6200
+        },
+        {
+          "nome": "feijoada de marisco",
+          "descricao": "feijoada rica com camarão, amêijoas, mexilhões e lulas",
+          "preco": 7800
+        },
+        {
+          "nome": "caldo de peixe com pirão",
+          "descricao": "caldo fumegante de peixe com pirão de farinha de mandioca",
+          "preco": 5200
+        },
+        {
+          "nome": "arroz de pato",
+          "descricao": "arroz de pato tradicional português gratinado",
+          "preco": 5500
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo assado com batatas a murro, alho e azeite",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de coco caseiro",
+          "descricao": "pudim tradicional de coco com calda de caramelo",
+          "preco": 1200
+        },
+        {
+          "nome": "arroz doce",
+          "descricao": "arroz doce cremoso com canela",
+          "preco": 1000
+        },
+        {
+          "nome": "bolo de chocolate",
+          "descricao": "bolo caseiro de chocolate húmido",
+          "preco": 1100
+        },
+        {
+          "nome": "cocada angolana",
+          "descricao": "cocada tradicional feita com coco fresco",
+          "preco": 800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca 330ml",
+          "descricao": "cerveja angolana gelada",
+          "preco": 600
+        },
+        {
+          "nome": "vinho tinto da casa",
+          "descricao": "vinho tinto português seleccionado",
+          "preco": 6500
+        },
+        {
+          "nome": "sumo de múcua natural",
+          "descricao": "sumo fresco de múcua (imbondeiro)",
+          "preco": 700
+        },
+        {
+          "nome": "kissangua",
+          "descricao": "bebida tradicional angolana de milho fermentado",
+          "preco": 500
+        },
+        {
+          "nome": "refrigerante nacional",
+          "descricao": "refrigerante angolano variados",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-21:00",
+      "quarta": "12:00-21:00",
+      "quinta": "12:00-21:00",
+      "sexta": "12:00-22:00",
+      "sabado": "12:00-22:00",
+      "domingo": "12:00-21:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "almoço especial aos domingos com música tradicional ao vivo a partir das 13:00. reservas recomendadas aos fins de semana"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 378,
+    "avaliacoes": [
+      {
+        "autor": "Joaquim Santos",
+        "nota": 5,
+        "comentario": "o melhor mufete que já comi! receita autêntica, preparado com carinho. ambiente familiar e acolhedor. vale muito a pena!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Helena Rodrigues",
+        "nota": 5,
+        "comentario": "restaurante tradicional maravilhoso! comida caseira de excelente qualidade. a cabidela estava perfeita. atendimento muito simpático.",
+        "data": "2025-11-14",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Francisco Neto",
+        "nota": 5,
+        "comentario": "autêntica comida angolana! o caldo de peixe é divinal e as porções são generosas. preços justos. ambiente genuíno.",
+        "data": "2025-11-11",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Catarina Alves",
+        "nota": 4,
+        "comentario": "adorei a experiência! o bacalhau à Zé do Pipo estava óptimo. atendimento familiar, fazem-nos sentir em casa. recomendo vivamente.",
+        "data": "2025-11-06",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Alberto Costa",
+        "nota": 5,
+        "comentario": "restaurante familiar com alma! comida tradicional de verdade, bem temperada. a caldeirada é espectacular. ambiente acolhedor.",
+        "data": "2025-11-01",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua com vigilância informal",
+    "informacaoEstacionamento": "estacionamento disponível na rua em frente ao restaurante. vigilância informal. zona tranquila com pouco trânsito.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "500 AOA (propina ao vigilante)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona residencial tranquila e segura",
+      "vigilância informal no estacionamento",
+      "ambiente familiar durante todo o horário",
+      "proprietários e staff conhecem bem a zona",
+      "boa iluminação na rua",
+      "recomenda-se não deixar valores à vista no veículo"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência aos domingos para garantir lugar no almoço especial",
+      "autor": "Rosa Mendes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o mufete de cacusso, é preparado segundo a receita tradicional e é o melhor da Ilha",
+      "autor": "António Ferreira",
+      "origem": "Huambo, Angola"
+    },
+    {
+      "dica": "se gosta de comida portuguesa autêntica, peça o bacalhau à Zé do Pipo",
+      "autor": "Maria Silva",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "vá ao domingo para aproveitar a música tradicional ao vivo",
+      "autor": "Paulo Gomes",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "as porções são muito generosas, podem ser partilhadas",
+      "autor": "Susana Costa",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente o kissangua, bebida tradicional angolana que acompanha bem as refeições",
+      "autor": "Eduardo Lopes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música tradicional angolana aos domingos a partir das 13:00",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "cozinhaCaseira": true,
+    "gestaoFamiliar": true,
+    "receitasTradiconais": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Ponto Final - Cozinha Tradicional Angolana na Ilha de Luanda",
+    "metaDescricao": "restaurante familiar na Ilha de Luanda especializado em mufete tradicional, caldeirada, cabidela e bacalhau. comida caseira autêntica com música ao vivo aos domingos.",
+    "tags": ["tradicional", "angolana", "portuguesa", "familiar", "mufete", "cabidela", "caldeirada", "bacalhau", "caseiro", "autêntico", "ilha de luanda", "música tradicional"]
+  }
+}

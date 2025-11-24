@@ -1,0 +1,372 @@
+{
+  "id": "lookal-ocean-club",
+  "nome": "Lookal Ocean Club",
+  "descricao": "beach club moderno e sofisticado com piscina infinity, gastronomia internacional de fusão e eventos exclusivos ao pôr do sol",
+  "descricaoCompleta": "o Lookal Ocean Club é o beach club mais moderno e sofisticado da Ilha de Luanda, inaugurado em 2023. com uma arquitectura contemporânea impressionante que mistura elementos industriais com toques tropicais, o espaço rapidamente se tornou o destino preferido da elite luandense e visitantes internacionais em busca de uma experiência premium à beira-mar. o clube oferece uma piscina infinity espectacular com vista para o oceano Atlântico, espreguiçadeiras confortáveis, cabanas VIP com serviço personalizado e diversas áreas de lounge. a carta gastronómica é assinada pelo chef internacional Miguel Tavares e combina técnicas culinárias contemporâneas com ingredientes angolanos de primeira qualidade, destacando-se os ceviches frescos, sushi premium, grelhados nobres e cocktails autorais preparados por mixologistas experientes. o Lookal Ocean Club é também famoso pelos seus eventos sunset às sextas e sábados, com DJ's residentes e convidados internacionais que criam uma atmosfera única e vibrante. aos domingos, o brunch é um dos mais concorridos de Luanda, com buffet internacional e entretenimento ao vivo. o espaço oferece ainda serviços de spa, massagens e uma boutique de praia com marcas exclusivas. o dress code smart casual e a entrada mínima consumível aos fins de semana garantem um ambiente selecto e sofisticado.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua Central da Ilha, Zona Premium, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central premium",
+    "coordenadas": {
+      "latitude": -8.8005,
+      "longitude": 13.2335
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 449 900",
+    "telemovel": "+244 927 789 000",
+    "email": "reservas@lookaloceanclub.ao",
+    "website": "https://www.lookaloceanclub.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/lookaloceanclub",
+      "instagram": "https://www.instagram.com/lookaloceanclub",
+      "tiktok": "https://www.tiktok.com/@lookaloceanclub"
+    }
+  },
+
+  "tipoCozinha": ["internacional", "fusão", "sushi", "mediterrânica", "contemporânea", "ceviche"],
+  "especialidades": [
+    "ceviche de robalo com leche de tigre",
+    "sushi premium selection do chef",
+    "polvo à lagareiro contemporâneo",
+    "wagyu burger com foie gras e trufa",
+    "tártaro de atum com abacate e wasabi",
+    "lombo de vaca black angus grelhado",
+    "camarão tigre em crosta de coco",
+    "cocktails autorais sunset"
+  ],
+  "ambiente": ["luxo", "moderno", "sofisticado", "vista mar", "piscina", "beach club", "sunset", "dj", "exclusivo"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 19000,
+    "moeda": "AOA",
+    "observacao": "entrada mínima de 5000 AOA consumível aos fins de semana e eventos especiais"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "tártaro de atum premium",
+          "descricao": "atum vermelho fresco em tártaro com abacate, wakame, wasabi e chips de tapioca",
+          "preco": 5200
+        },
+        {
+          "nome": "ceviche de robalo",
+          "descricao": "robalo fresco marinado em leche de tigre, lima, coentros e pimenta dedo-de-moça",
+          "preco": 4800
+        },
+        {
+          "nome": "burrata com tomate heritage",
+          "descricao": "burrata cremosa italiana com tomates coloridos, manjericão fresco e azeite trufado",
+          "preco": 4200
+        },
+        {
+          "nome": "carpaccio de polvo",
+          "descricao": "polvo fresco em carpaccio fino com azeite de limão siciliano e crocante de alho",
+          "preco": 3900
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & sashimi",
+      "pratos": [
+        {
+          "nome": "lookal signature roll",
+          "descricao": "salmão, atum, camarão tigre, abacate e cream cheese com molho especial flamejado",
+          "preco": 7200
+        },
+        {
+          "nome": "sashimi premium selection",
+          "descricao": "selecção premium de atum, salmão, robalo, peixe-manteiga e vieira",
+          "preco": 9800
+        },
+        {
+          "nome": "temaki de lagosta",
+          "descricao": "temaki de lagosta fresca com maionese de wasabi e ovas tobiko",
+          "preco": 5800
+        },
+        {
+          "nome": "nigiri omakase",
+          "descricao": "selecção do chef de 8 peças de nigiri premium",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "lombo de vaca black angus",
+          "descricao": "lombo de vaca black angus 350g com puré trufado e legumes grelhados ao azeite",
+          "preco": 18000
+        },
+        {
+          "nome": "polvo à lagareiro contemporâneo",
+          "descricao": "polvo confitado em azeite com batatas a murro, azeite de coentros e pimento assado",
+          "preco": 14500
+        },
+        {
+          "nome": "robalo ao sal com crosta de ervas",
+          "descricao": "robalo inteiro assado em crosta de sal com ervas aromáticas e legumes salteados",
+          "preco": 16000
+        },
+        {
+          "nome": "wagyu burger premium",
+          "descricao": "hambúrguer de wagyu com foie gras, queijo brie, cebola caramelizada e batatas trufadas",
+          "preco": 11500
+        },
+        {
+          "nome": "camarão tigre em crosta",
+          "descricao": "camarões gigantes em crosta de coco com molho agridoce de maracujá",
+          "preco": 13800
+        },
+        {
+          "nome": "risotto de marisco negro",
+          "descricao": "risotto cremoso com tinta de lula, camarão, mexilhão e lula fresca",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pavlova tropical",
+          "descricao": "merengue crocante com creme chantilly, maracujá, manga e frutos vermelhos",
+          "preco": 2800
+        },
+        {
+          "nome": "petit gateau de chocolate belga",
+          "descricao": "bolo de chocolate belga quente com coração fundente e gelado de baunilha de Madagascar",
+          "preco": 3200
+        },
+        {
+          "nome": "cheesecake de múcua",
+          "descricao": "cheesecake cremoso com coulis de múcua e crocante de macadâmia",
+          "preco": 2900
+        },
+        {
+          "nome": "tarte tatin de ananás",
+          "descricao": "tarte tatin caramelizada de ananás com gelado de coco",
+          "preco": 2600
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "lookal sunset",
+          "descricao": "cocktail autoral com rum angolano envelhecido, maracujá, lima e espuma de coco",
+          "preco": 2800
+        },
+        {
+          "nome": "aperol spritz premium",
+          "descricao": "aperol, prosecco italiano, água com gás e laranja fresca",
+          "preco": 2500
+        },
+        {
+          "nome": "mojito de múcua",
+          "descricao": "mojito especial com polpa de múcua, rum branco, hortelã fresca e lima",
+          "preco": 2600
+        },
+        {
+          "nome": "espresso martini",
+          "descricao": "vodka premium, licor de café, espresso fresco e grãos de café",
+          "preco": 2700
+        },
+        {
+          "nome": "caipirinha de frutas tropicais",
+          "descricao": "cachaça premium com maracujá, manga ou ananás",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "vinhos",
+      "pratos": [
+        {
+          "nome": "vinho branco Quinta da Gaivosa",
+          "descricao": "vinho branco português seco, ideal para marisco e peixe (garrafa)",
+          "preco": 12000
+        },
+        {
+          "nome": "vinho tinto Herdade do Esporão",
+          "descricao": "vinho tinto alentejano encorpado (garrafa)",
+          "preco": 14500
+        },
+        {
+          "nome": "champagne Moët & Chandon",
+          "descricao": "champagne francês premium (garrafa)",
+          "preco": 35000
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-22:00",
+      "quarta": "12:00-22:00",
+      "quinta": "12:00-23:00",
+      "sexta": "12:00-03:00",
+      "sabado": "10:00-04:00",
+      "domingo": "10:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "brunch aos domingos das 10:00 às 16:00 (35.000 AOA por pessoa). eventos sunset às sextas e sábados a partir das 18h com entrada mínima consumível"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.8,
+    "numeroAvaliacoes": 247,
+    "avaliacoes": [
+      {
+        "autor": "Catarina Lopes",
+        "nota": 5,
+        "comentario": "experiência absolutamente incrível! o espaço é deslumbrante, moderno e muito bem decorado. a comida é de altíssima qualidade e os cocktails ao pôr do sol são imperdíveis. vale cada kwanza!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "André Carvalho",
+        "nota": 5,
+        "comentario": "o melhor beach club de Luanda sem qualquer dúvida! ambiente sofisticado, serviço impecável e a piscina infinity é espectacular. o brunch de domingo é fantástico.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Sofia Mendes",
+        "nota": 5,
+        "comentario": "adorei tudo! desde a recepção até à despedida, tudo foi perfeito. o polvo à lagareiro contemporâneo é uma obra de arte. ambiente muito exclusivo e elegante.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Tavares",
+        "nota": 4,
+        "comentario": "espaço incrível com vista magnífica. comida excelente, especialmente o sushi. preços elevados mas a experiência justifica. recomendo reservar com antecedência.",
+        "data": "2025-11-14",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Marina Silva",
+        "nota": 5,
+        "comentario": "o sunset party de sábado é simplesmente fantástico! DJ excelente, cocktails deliciosos e ambiente único. um dos melhores lugares de Luanda para curtir o fim de semana.",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "serviço de valet parking gratuito para todos os clientes. estacionamento privativo coberto e vigiado 24h com capacidade para 60 viaturas. acesso direto ao club.",
+    "capacidadeEstacionamento": 60,
+    "custoEstacionamento": "gratuito com valet parking incluído"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada rigorosa na entrada com controlo de acesso",
+      "valet parking gratuito disponível para todos os clientes",
+      "zona premium com segurança 24h em todo o perímetro",
+      "excelente iluminação em todas as áreas do clube",
+      "staff de segurança discreto mas sempre presente",
+      "câmaras de vigilância em todo o espaço",
+      "nível de segurança premium comparável a hotéis 5 estrelas"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com pelo menos 1 semana de antecedência, especialmente para o brunch de domingo e eventos sunset. o clube lota rapidamente",
+      "autor": "Diana Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "chegue antes das 17h30 às sextas e sábados para garantir boa posição para o sunset. o pôr do sol visto da piscina infinity é inesquecível",
+      "autor": "Ricardo Santos",
+      "origem": "Maputo, Moçambique"
+    },
+    {
+      "dica": "experimente os cocktails autorais, especialmente o Lookal Sunset. são preparados por mixologistas experientes e valem muito a pena",
+      "autor": "Juliana Barbosa",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "se quiser usar a piscina, traga fato de banho. há balneários modernos com duches e cacifos disponíveis gratuitamente",
+      "autor": "Alex Johnson",
+      "origem": "Londres, Reino Unido"
+    },
+    {
+      "dica": "o brunch de domingo vale muito a pena! buffet internacional com opções de sushi, grelhados, saladas e sobremesas. chegue cedo para aproveitar melhor",
+      "autor": "Carolina Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "dress code é smart casual. evite chinelos de dedo e fatos de banho fora da área da piscina. o ambiente é sofisticado",
+      "autor": "Miguel Pereira",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ residente às sextas e sábados a partir das 18h. eventos especiais com DJ's internacionais mensalmente",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "piscina": true,
+    "piscinaInfinity": true,
+    "spa": true,
+    "cabanas": true,
+    "cabanasVIP": true,
+    "valetParking": true,
+    "dresscode": "smart casual",
+    "entradaMinima": true,
+    "eventosSunset": true,
+    "brunchDomingo": true,
+    "boutiquePraia": true,
+    "servicoMassagens": true,
+    "zonaLounge": true,
+    "barPiscina": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1582610116397-edb318620f90?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Lookal Ocean Club - Beach Club Premium na Ilha de Luanda | Piscina Infinity & Sunset",
+    "metaDescricao": "beach club moderno e sofisticado na Ilha de Luanda com piscina infinity, gastronomia internacional premium, eventos sunset com DJ e brunch exclusivo aos domingos.",
+    "tags": ["beach club", "luxo", "piscina infinity", "sunset", "dj", "brunch", "moderno", "ilha de luanda", "internacional", "cocktails", "eventos", "sofisticado", "premium", "exclusivo", "valet parking"]
+  }
+}

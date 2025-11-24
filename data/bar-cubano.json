@@ -1,0 +1,343 @@
+{
+  "id": "bar-cubano",
+  "nome": "Bar Cubano",
+  "descricao": "bar e restaurante tropical na Ilha de Luanda com gastronomia caribenha, cocktails exóticos e música latina ao vivo",
+  "descricaoCompleta": "o Bar Cubano traz a energia vibrante e os sabores tropicais de Cuba para a Ilha de Luanda. este espaço único combina a atmosfera descontraída de um beach bar caribenho com uma proposta gastronómica autêntica que celebra a cozinha cubana e latino-americana. a decoração colorida e tropical, com bandeiras cubanas, posters vintage de Havana e cadeiras de praia, cria um ambiente festivo e acolhedor onde cada visitante se sente transportado para as praias do Caribe. especializado em cocktails tropicais preparados por barmen experientes, o Bar Cubano oferece os melhores mojitos, daiquiris e piñas coladas de Luanda, utilizando rum premium e frutas frescas. a carta gastronómica apresenta clássicos cubanos como ropa vieja, arroz congri, tostones e o famoso sandwich cubano, todos preparados segundo receitas tradicionais. aos fins de semana, o espaço ganha vida com música latina ao vivo, incluindo salsa, merengue e reggaeton, transformando-se num dos pontos mais animados da Ilha. ideal para grupos de amigos, after-work descontraído ou noites festivas à beira-mar, o Bar Cubano é o destino perfeito para quem procura boa comida, cocktails deliciosos e muita diversão num ambiente tropical único.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Norte, Avenida Beira-Mar, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7935,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 397 234",
+    "telemovel": "+244 926 789 012",
+    "email": "info@barcubano.ao",
+    "website": "https://www.barcubano.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/barcubanoluanda",
+      "instagram": "https://www.instagram.com/barcubanoluanda",
+      "tiktok": "https://www.tiktok.com/@barcubanoluanda",
+      "twitter": "https://twitter.com/barcubanolda"
+    }
+  },
+
+  "tipoCozinha": ["cubana", "caribenha", "latina", "tropical", "petiscos"],
+  "especialidades": [
+    "mojito tradicional cubano",
+    "daiquiri de morango",
+    "ropa vieja com arroz congri",
+    "sandwich cubano autêntico",
+    "tostones com molho mojo",
+    "arroz com feijão preto cubano",
+    "empanadas de carne",
+    "ceviche tropical",
+    "yuca frita com molho picante",
+    "cocktails tropicais variados"
+  ],
+  "ambiente": ["descontraído", "tropical", "animado", "praia", "festivo", "colorido", "música latina"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos & entradas",
+      "pratos": [
+        {
+          "nome": "tostones",
+          "descricao": "banana-da-terra frita achatada servida com molho mojo de alho e limão",
+          "preco": 1500
+        },
+        {
+          "nome": "empanadas cubanas",
+          "descricao": "empanadas recheadas com carne temperada ou queijo",
+          "preco": 1800
+        },
+        {
+          "nome": "yuca frita",
+          "descricao": "mandioca frita crocante com molho picante",
+          "preco": 1200
+        },
+        {
+          "nome": "ceviche tropical",
+          "descricao": "peixe fresco marinado em lima com cebola roxa, coentros e manga",
+          "preco": 3200
+        },
+        {
+          "nome": "nachos cubanos",
+          "descricao": "nachos cobertos com feijão preto, queijo derretido, guacamole e creme azedo",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "ropa vieja",
+          "descricao": "carne de vaca desfiada em molho de tomate com pimentões, servida com arroz congri",
+          "preco": 6800
+        },
+        {
+          "nome": "picadillo cubano",
+          "descricao": "carne moída temperada com azeitonas, passas e alcaparras, acompanhada de arroz e feijão preto",
+          "preco": 5500
+        },
+        {
+          "nome": "pollo a la plancha",
+          "descricao": "frango grelhado marinado em especiarias cubanas com arroz amarelo e feijão",
+          "preco": 4800
+        },
+        {
+          "nome": "pescado caribenho",
+          "descricao": "peixe grelhado com molho tropical de coco e manga, arroz e legumes",
+          "preco": 7200
+        },
+        {
+          "nome": "sandwich cubano",
+          "descricao": "pão prensado com pernil, presunto, queijo suíço, pickles e mostarda, servido com batatas fritas",
+          "preco": 4200
+        },
+        {
+          "nome": "arroz congri completo",
+          "descricao": "arroz com feijão preto, carne de porco desfiada, banana-da-terra frita e salada",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "mojito clássico",
+          "descricao": "rum branco, hortelã fresca, lima, açúcar e soda",
+          "preco": 1500
+        },
+        {
+          "nome": "mojito de morango",
+          "descricao": "mojito com morangos frescos macerados",
+          "preco": 1800
+        },
+        {
+          "nome": "daiquiri de morango",
+          "descricao": "rum, morangos frescos, lima e gelo picado",
+          "preco": 1800
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "rum, ananás fresco, leite de coco e gelo",
+          "preco": 2000
+        },
+        {
+          "nome": "Cuba Libre",
+          "descricao": "rum, coca-cola, lima fresca e gelo",
+          "preco": 1200
+        },
+        {
+          "nome": "caipirinha tropical",
+          "descricao": "cachaça com maracujá ou manga fresca",
+          "preco": 1500
+        },
+        {
+          "nome": "margarita cubana",
+          "descricao": "tequila, triple sec, lima e sal na borda",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cristal cerveja cubana",
+          "descricao": "cerveja cubana importada bem gelada",
+          "preco": 900
+        },
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana",
+          "preco": 600
+        },
+        {
+          "nome": "sumo natural tropical",
+          "descricao": "sumo de manga, maracujá ou ananás",
+          "preco": 800
+        },
+        {
+          "nome": "limonada cubana",
+          "descricao": "limonada fresca com hortelã",
+          "preco": 700
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "flan cubano",
+          "descricao": "pudim de caramelo tradicional cubano",
+          "preco": 1500
+        },
+        {
+          "nome": "tres leches",
+          "descricao": "bolo embebido em três tipos de leite com chantilly",
+          "preco": 1800
+        },
+        {
+          "nome": "churros com chocolate",
+          "descricao": "churros crocantes servidos com chocolate quente",
+          "preco": 1600
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "17:00-00:00",
+      "quarta": "17:00-00:00",
+      "quinta": "17:00-01:00",
+      "sexta": "15:00-03:00",
+      "sabado": "12:00-03:00",
+      "domingo": "12:00-00:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "música latina ao vivo às sextas e sábados a partir das 21h. happy hour de terça a quinta das 17h às 19h com desconto em cocktails"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 412,
+    "avaliacoes": [
+      {
+        "autor": "Carlos Mendes",
+        "nota": 5,
+        "comentario": "ambiente fantástico! os mojitos são os melhores de Luanda e a música ao vivo aos sábados é imperdível. super animado e descontraído!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Maria Rodriguez",
+        "nota": 5,
+        "comentario": "como cubana, posso confirmar que a comida é autêntica! a ropa vieja estava deliciosa e os cocktails são excelentes. adorei!",
+        "data": "2025-11-20",
+        "origem": "Havana, Cuba"
+      },
+      {
+        "autor": "Pedro Silva",
+        "nota": 4,
+        "comentario": "óptimo para ir com amigos! preços justos, porções generosas e o ambiente é muito divertido. os tostones são viciantes!",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Juliana Costa",
+        "nota": 4,
+        "comentario": "adorei a energia do lugar! fomos na sexta à noite e estava super animado com música ao vivo. cocktails deliciosos!",
+        "data": "2025-11-14",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Ricardo Alves",
+        "nota": 5,
+        "comentario": "melhor bar da Ilha! vou sempre no happy hour para aproveitar os descontos nos cocktails. o sandwich cubano é top!",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público vigiado",
+    "informacaoEstacionamento": "estacionamento na rua e parque público próximo com vigilância. pode ficar mais cheio aos fins de semana devido à música ao vivo.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e animada, especialmente aos fins de semana",
+      "vigilância presente no parque de estacionamento",
+      "bar com boa iluminação e staff atento",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "segurança privada presente em noites de eventos",
+      "ambiente familiar e seguro durante o dia"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá na sexta ou sábado à noite para aproveitar a música latina ao vivo e a atmosfera mais festiva",
+      "autor": "Ana Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "aproveite o happy hour de terça a quinta, os cocktails ficam com óptimo desconto!",
+      "autor": "Miguel Santos",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente a ropa vieja, é o prato mais autêntico e delicioso do menu",
+      "autor": "Carmen Diaz",
+      "origem": "Miami, EUA"
+    },
+    {
+      "dica": "os mojitos são preparados na hora e são incríveis. peça o de morango!",
+      "autor": "Tiago Rodrigues",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "chegue cedo aos fins de semana se quiser mesa boa. enche rapidamente depois das 21h",
+      "autor": "Sofia Lopes",
+      "origem": "Porto, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "sexta e sábado a partir das 21h - salsa, merengue e reggaeton",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800",
+      "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800",
+      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800",
+      "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Bar Cubano - Bar e Restaurante Caribenho na Ilha de Luanda | Cocktails e Música Latina",
+    "metaDescricao": "bar tropical na Ilha de Luanda com gastronomia cubana autêntica, mojitos, daiquiris e música latina ao vivo. ambiente descontraído à beira-mar. happy hour!",
+    "tags": ["cubana", "cocktails", "mojito", "música latina", "praia", "tropical", "animado", "ilha de luanda", "caribenha", "descontraído", "happy hour"]
+  }
+}

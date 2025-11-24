@@ -1,0 +1,331 @@
+{
+  "id": "quiosque-da-ilha",
+  "nome": "Quiosque da Ilha",
+  "descricao": "quiosque descontraído na praia da Ilha de Luanda, ideal para petiscos rápidos, cerveja gelada e ambiente informal à beira-mar",
+  "descricaoCompleta": "o Quiosque da Ilha é o local perfeito para quem procura uma experiência autêntica e descontraída na praia da Ilha de Luanda. este quiosque tradicional, estrategicamente localizado mesmo junto à areia, é um ponto de encontro popular entre locais e turistas que desejam desfrutar do sol, mar e boa companhia num ambiente informal e familiar. sem grandes pretensões, o Quiosque da Ilha oferece exactamente o que se espera de um dia perfeito na praia: petiscos saborosos, cerveja bem gelada, sumos naturais e uma vista deslumbrante sobre o oceano Atlântico. a carta é simples mas eficaz, focada em grelhados de peixe fresco capturado pela manhã, espetadas de carne, batatas fritas crocantes e os tradicionais petiscos angolanos. o ambiente é barulhento no melhor sentido da palavra, com música alta, conversas animadas, crianças a brincar na areia e amigos a conviver em torno de mesas de plástico coloridas sob chapéus de sol. aos fins de semana, o Quiosque da Ilha transforma-se num dos pontos mais movimentados da Ilha, atraindo grupos grandes que ocupam as mesas desde o almoço até ao final da tarde. não há reservas, não há formalidades, apenas comida honesta, bebidas geladas e a alegria contagiante de estar na praia. ideal para famílias com crianças que podem brincar na areia enquanto os adultos relaxam, grupos de amigos que querem passar o dia na praia ou qualquer pessoa que procure a verdadeira essência da vida na Ilha de Luanda.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Norte, Praia Principal, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte (praia)",
+    "coordenadas": {
+      "latitude": -8.7945,
+      "longitude": 13.2318
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 398 123",
+    "telemovel": "+244 924 234 567",
+    "email": "quiosquedailha@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/quiosquedailha",
+      "instagram": "https://www.instagram.com/quiosquedailha"
+    }
+  },
+
+  "tipoCozinha": ["petiscos", "grelhados", "praia", "angolana", "informal"],
+  "especialidades": [
+    "peixe fresco grelhado",
+    "espetadas de carne na brasa",
+    "batata frita crocante",
+    "mandioca frita",
+    "camarão grelhado",
+    "frango assado",
+    "lulas grelhadas",
+    "cerveja Cuca gelada",
+    "sumo natural de maracujá"
+  ],
+  "ambiente": ["informal", "praia", "descontraído", "familiar", "animado", "pé na areia"],
+
+  "precos": {
+    "faixaPreco": 1,
+    "faixaPrecoTexto": "$",
+    "precoMedio": 3500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "batata frita",
+          "descricao": "batata frita crocante e bem temperada",
+          "preco": 1000
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca crocante frita",
+          "preco": 800
+        },
+        {
+          "nome": "banana-pão frita",
+          "descricao": "banana-pão frita crocante",
+          "preco": 600
+        },
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal",
+          "preco": 400
+        },
+        {
+          "nome": "pastéis sortidos",
+          "descricao": "pastéis fritos variados",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "grelhados",
+      "pratos": [
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado servido com batata ou mandioca",
+          "preco": 4500
+        },
+        {
+          "nome": "peixe cacusso grelhado",
+          "descricao": "cacusso fresco na brasa com acompanhamento",
+          "preco": 3800
+        },
+        {
+          "nome": "espetada de carne",
+          "descricao": "espetada de vaca grelhada na brasa com batata frita",
+          "preco": 3500
+        },
+        {
+          "nome": "frango assado",
+          "descricao": "meio frango assado com batata frita",
+          "preco": 2800
+        },
+        {
+          "nome": "camarão grelhado",
+          "descricao": "camarões grelhados temperados (porção 10 unidades)",
+          "preco": 5500
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho",
+          "preco": 4200
+        },
+        {
+          "nome": "costela de porco",
+          "descricao": "costela de porco grelhada com molho barbecue",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos simples",
+      "pratos": [
+        {
+          "nome": "arroz de feijão com peixe",
+          "descricao": "arroz de feijão com peixe frito",
+          "preco": 2500
+        },
+        {
+          "nome": "arroz com frango",
+          "descricao": "arroz branco com frango grelhado",
+          "preco": 2200
+        },
+        {
+          "nome": "cachupa",
+          "descricao": "prato de milho com feijão e carne",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada (garrafa 330ml)",
+          "preco": 500
+        },
+        {
+          "nome": "Cuca gelada (garrafa 1L)",
+          "descricao": "cerveja angolana litro",
+          "preco": 1200
+        },
+        {
+          "nome": "sumo natural de maracujá",
+          "descricao": "sumo fresco de maracujá",
+          "preco": 600
+        },
+        {
+          "nome": "sumo natural de ananás",
+          "descricao": "sumo fresco de ananás",
+          "preco": 600
+        },
+        {
+          "nome": "água mineral",
+          "descricao": "água mineral (garrafa 500ml)",
+          "preco": 300
+        },
+        {
+          "nome": "refrigerante",
+          "descricao": "coca-cola, fanta ou sprite",
+          "preco": 400
+        },
+        {
+          "nome": "caipirinha",
+          "descricao": "caipirinha simples",
+          "preco": 1000
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "09:00-20:00",
+      "terca": "09:00-20:00",
+      "quarta": "09:00-20:00",
+      "quinta": "09:00-20:00",
+      "sexta": "09:00-22:00",
+      "sabado": "08:00-22:00",
+      "domingo": "08:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "horário pode variar conforme o movimento e condições meteorológicas. mais movimentado aos fins de semana"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 628,
+    "avaliacoes": [
+      {
+        "autor": "Fernando Costa",
+        "nota": 5,
+        "comentario": "o verdadeiro espírito da Ilha! ambiente descontraído, peixe fresquíssimo e cerveja sempre gelada. venho aqui há anos e nunca desilude!",
+        "data": "2025-11-23",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sandra Lopes",
+        "nota": 4,
+        "comentario": "óptimo para passar o dia na praia com a família. as crianças adoram brincar na areia enquanto comemos. preços muito acessíveis!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Paulo Ribeiro",
+        "nota": 4,
+        "comentario": "ambiente autêntico de praia! o peixe grelhado estava fresquíssimo e bem temperado. nada fancy, mas exactamente o que se quer numa praia.",
+        "data": "2025-11-18",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Emma Wilson",
+        "nota": 4,
+        "comentario": "loved the authentic local experience! food is simple but fresh and tasty. great place to spend the afternoon at the beach.",
+        "data": "2025-11-15",
+        "origem": "Sydney, Austrália"
+      },
+      {
+        "autor": "Miguel Andrade",
+        "nota": 5,
+        "comentario": "melhor cerveja gelada da Ilha! ambiente sempre animado aos domingos. a espetada de carne é top!",
+        "data": "2025-11-11",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Carla Sousa",
+        "nota": 3,
+        "comentario": "comida boa e preços justos, mas pode demorar bastante quando está cheio. vá com paciência e espírito de praia!",
+        "data": "2025-11-07",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "informal na rua",
+    "informacaoEstacionamento": "estacionamento informal na rua próxima ao quiosque. há sempre alguém a vigiar mas pode ficar muito cheio aos fins de semana. chegar cedo é recomendado.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "300-500 AOA (gorjeta ao vigilante)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona muito movimentada especialmente aos fins de semana",
+      "vigilantes informais cuidam dos carros (dar gorjeta)",
+      "não deixar objectos de valor visíveis no carro",
+      "ambiente familiar e seguro durante o dia",
+      "evitar levar objectos de valor desnecessários para a praia",
+      "atenção a pertences pessoais em dias de grande afluência"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "chegue cedo aos fins de semana para garantir mesa e estacionamento. depois das 11h fica muito cheio",
+      "autor": "Ricardo Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o peixe do dia, é sempre fresco e bem preparado. peça para grelharem com bastante alho!",
+      "autor": "Ana Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "traga dinheiro em notas pequenas, nem sempre há troco para notas grandes",
+      "autor": "João Costa",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "ideal para ir em grupo! quanto mais pessoas, mais pratos diferentes podem partilhar",
+      "autor": "Teresa Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "não espere luxo, mas sim autenticidade! é a verdadeira experiência de praia angolana",
+      "autor": "Mark Johnson",
+      "origem": "Nova Iorque, EUA"
+    },
+    {
+      "dica": "a cerveja está sempre gelada! peça várias de uma vez para não ter que esperar",
+      "autor": "Carlos Mendes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": false,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=800",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Quiosque da Ilha - Petiscos e Cerveja na Praia da Ilha de Luanda | Ambiente Informal",
+    "metaDescricao": "quiosque descontraído na praia da Ilha de Luanda. peixe fresco grelhado, espetadas, petiscos e cerveja gelada. ambiente informal e familiar à beira-mar. preços acessíveis.",
+    "tags": ["praia", "informal", "petiscos", "grelhados", "peixe fresco", "cerveja", "familiar", "ilha de luanda", "descontraído", "pé na areia", "barato"]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "id": "paladar",
+  "nome": "Restaurante Paladar",
+  "descricao": "restaurante de culinária angolana contemporânea que celebra os sabores tradicionais com apresentação moderna e ambiente acolhedor",
+  "descricaoCompleta": "o Restaurante Paladar representa a nova geração da gastronomia angolana, mantendo as raízes tradicionais enquanto abraça técnicas contemporâneas de apresentação e preparação. fundado por um chef angolano formado internacionalmente, o Paladar nasceu com a missão de elevar a cozinha angolana ao reconhecimento que merece, celebrando a riqueza dos ingredientes locais e a herança culinária do país. o restaurante ocupa um espaço moderno e luminoso na Ilha de Luanda, com decoração que mistura elementos tradicionais angolanos - cestaria, tecidos africanos, arte local - com um design clean e contemporâneo. a carta é uma viagem pelas diferentes regiões de Angola: desde o mufete da costa, passando pela muamba de galinha do interior, até ao calulu tradicional. cada prato é cuidadosamente executado com ingredientes frescos do mercado, respeitando as receitas tradicionais mas com toques de modernidade na apresentação. o Paladar orgulha-se de trabalhar com pequenos produtores angolanos, promovendo produtos locais como o dendém de primeira qualidade, a ginguba da região, os peixes frescos do mar angolano e as hortaliças das quintas periféricas de Luanda. o ambiente é simultaneamente sofisticado e acolhedor, tornando-se popular entre famílias angolanas que procuram conforto alimentar com qualidade, empresários em almoços de trabalho, e turistas curiosos que querem descobrir a verdadeira cozinha de Angola. aos fins de semana, o restaurante organiza brunches tradicionais angolanos que se tornaram bastante populares.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Ilha, Edifício Miramar, n.º 34, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8020,
+      "longitude": 13.2332
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 396 234",
+    "telemovel": "+244 925 678 345",
+    "email": "reservas@paladarangola.ao",
+    "website": "https://www.paladarangola.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/paladarangola",
+      "instagram": "https://www.instagram.com/paladar_angola",
+      "tripadvisor": "https://www.tripadvisor.com/paladar-luanda",
+      "tiktok": "https://www.tiktok.com/@paladarangola"
+    }
+  },
+
+  "tipoCozinha": ["angolana contemporânea", "tradicional", "africana", "fusão angolana"],
+  "especialidades": [
+    "muamba de galinha premium",
+    "calulu de peixe seco revisitado",
+    "mufete de cacusso do chef",
+    "cabidela de frango tradicional",
+    "feijoada angolana",
+    "kizaca com peixe fumado",
+    "cocada de ananás e coco fresco"
+  ],
+  "ambiente": ["contemporâneo", "acolhedor", "angolano", "familiar", "sofisticado", "cultural"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ginguba torrada com piri-piri",
+          "descricao": "amendoins torrados com toque de piri-piri e flor de sal",
+          "preco": 1200
+        },
+        {
+          "nome": "pastéis de peixe",
+          "descricao": "pastéis crocantes recheados com peixe fumado e mandioca",
+          "preco": 2200
+        },
+        {
+          "nome": "salada de feijão frade",
+          "descricao": "feijão frade com tomate, cebola roxa, coentros e azeite de dendém",
+          "preco": 1800
+        },
+        {
+          "nome": "rissóis de camarão ao molho cru",
+          "descricao": "rissóis de camarão servidos com molho cru angolano",
+          "preco": 2800
+        },
+        {
+          "nome": "quiabos salteados",
+          "descricao": "quiabos salteados com alho, azeite de dendém e piri-piri",
+          "preco": 1600
+        }
+      ]
+    },
+    {
+      "categoria": "pratos tradicionais",
+      "pratos": [
+        {
+          "nome": "muamba de galinha premium",
+          "descricao": "galinha caipira em molho de dendém, quiabos, beringelas e jindungo, servida com funge e arroz",
+          "preco": 8500
+        },
+        {
+          "nome": "calulu de peixe seco",
+          "descricao": "calulu tradicional com peixe seco, batata-doce, ginguba e folhas de batata-doce",
+          "preco": 7800
+        },
+        {
+          "nome": "mufete de cacusso do chef",
+          "descricao": "peixe cacusso grelhado com molho cru especial, batata-doce assada, banana-pão e pirão de peixe",
+          "preco": 9200
+        },
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango cozinhado no próprio sangue com especiarias e arroz aromático",
+          "preco": 6800
+        },
+        {
+          "nome": "feijoada angolana",
+          "descricao": "feijão com carne de vaca, porco fumado, linguiça e legumes, servida com arroz e farofa",
+          "preco": 7500
+        },
+        {
+          "nome": "kizaca com peixe fumado",
+          "descricao": "folhas de mandioca cozinhadas com peixe fumado, amendoim e azeite de palma",
+          "preco": 7200
+        },
+        {
+          "nome": "kitaba",
+          "descricao": "feijão nhemba com óleo de palma e jindungo, servido com funge",
+          "preco": 6500
+        }
+      ]
+    },
+    {
+      "categoria": "peixes e mariscos",
+      "pratos": [
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra grelhado com molho de limão e ervas, legumes da época",
+          "preco": 8500
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada rica com peixe, camarão, lulas e moluscos",
+          "preco": 10500
+        },
+        {
+          "nome": "camarão à angolana",
+          "descricao": "camarões gigantes salteados com alho, jindungo e azeite de palma",
+          "preco": 12000
+        },
+        {
+          "nome": "bacalhau à angolana",
+          "descricao": "bacalhau desfiado com batata-doce, cebola caramelizada e ovo",
+          "preco": 9800
+        }
+      ]
+    },
+    {
+      "categoria": "carnes",
+      "pratos": [
+        {
+          "nome": "cachupa angolana",
+          "descricao": "cozido de milho, feijão, carne de vaca, porco e legumes",
+          "preco": 7800
+        },
+        {
+          "nome": "cabrito assado",
+          "descricao": "cabrito jovem assado lentamente com ervas aromáticas",
+          "preco": 11500
+        },
+        {
+          "nome": "costelas de porco ao molho tamarindo",
+          "descricao": "costelas confitadas ao molho de tamarindo com batata rústica",
+          "preco": 9500
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "funge de bombó",
+          "descricao": "funge tradicional de farinha de mandioca",
+          "preco": 1000
+        },
+        {
+          "nome": "funge de milho",
+          "descricao": "funge de farinha de milho",
+          "preco": 1000
+        },
+        {
+          "nome": "pirão de peixe",
+          "descricao": "pirão cremoso feito com caldo de peixe",
+          "preco": 1200
+        },
+        {
+          "nome": "arroz de coco",
+          "descricao": "arroz aromático cozinhado em leite de coco",
+          "preco": 1500
+        },
+        {
+          "nome": "farofa de dendém",
+          "descricao": "farofa crocante com azeite de dendém",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cocada de ananás",
+          "descricao": "cocada tradicional com ananás fresco e coco ralado",
+          "preco": 1800
+        },
+        {
+          "nome": "doce de ginguba",
+          "descricao": "doce cremoso de amendoim com raspas de limão",
+          "preco": 1600
+        },
+        {
+          "nome": "pudim de múcua",
+          "descricao": "pudim suave de múcua (fruto do imbondeiro) com calda",
+          "preco": 2000
+        },
+        {
+          "nome": "bolo de mandioca",
+          "descricao": "bolo húmido de mandioca com coco e canela",
+          "preco": 1700
+        },
+        {
+          "nome": "gelado de tamarindo",
+          "descricao": "gelado artesanal de tamarindo angolano",
+          "preco": 1500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana tradicional",
+          "preco": 600
+        },
+        {
+          "nome": "Nocal",
+          "descricao": "cerveja angolana artesanal",
+          "preco": 800
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua gelado",
+          "preco": 900
+        },
+        {
+          "nome": "sumo de tamarindo",
+          "descricao": "sumo natural de tamarindo",
+          "preco": 900
+        },
+        {
+          "nome": "caipirinha de maracujá",
+          "descricao": "caipirinha com maracujá angolano",
+          "preco": 1500
+        },
+        {
+          "nome": "vinho tinto angolano",
+          "descricao": "vinho tinto da região do Cuanza",
+          "preco": 6500
+        },
+        {
+          "nome": "café angolano",
+          "descricao": "café do Uíge, cultivado nas montanhas angolanas",
+          "preco": 500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-22:30",
+      "quarta": "12:00-15:00, 19:00-22:30",
+      "quinta": "12:00-15:00, 19:00-22:30",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "11:00-16:00, 19:00-23:00",
+      "domingo": "11:00-16:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "brunch tradicional angolano aos sábados e domingos das 11h às 16h. reservas recomendadas"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 387,
+    "avaliacoes": [
+      {
+        "autor": "Isabel Martins",
+        "nota": 5,
+        "comentario": "finalmente um restaurante que eleva a cozinha angolana ao nível que merece! a muamba de galinha é a melhor que já comi. ambiente lindo e serviço impecável.",
+        "data": "2025-11-23",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "João Fernandes",
+        "nota": 5,
+        "comentario": "como angolano, fiquei emocionado ao comer aqui. é a comida da minha avó mas com uma apresentação moderna. o mufete do chef é espectacular!",
+        "data": "2025-11-20",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Claire Thompson",
+        "nota": 5,
+        "comentario": "amazing introduction to Angolan cuisine! the staff explained every dish with passion. loved the muamba de galinha and the atmosphere.",
+        "data": "2025-11-17",
+        "origem": "Londres, Reino Unido"
+      },
+      {
+        "autor": "Miguel Santos",
+        "nota": 5,
+        "comentario": "o melhor restaurante de comida angolana em Luanda! ingredientes de qualidade, pratos bem executados e ambiente acolhedor. recomendo vivamente!",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ana Costa",
+        "nota": 4,
+        "comentario": "experiência maravilhosa! o calulu estava delicioso e o staff foi muito atencioso a explicar os pratos. preços justos para a qualidade.",
+        "data": "2025-11-08",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Mendes",
+        "nota": 5,
+        "comentario": "o brunch de domingo é obrigatório! variedade incrível de pratos tradicionais, tudo fresquinho e saboroso. ambiente familiar e acolhedor.",
+        "data": "2025-11-03",
+        "origem": "Lubango, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo do edifício com segurança. acesso direto ao restaurante. disponibilidade garantida para clientes com reserva.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "edifício com segurança 24h e controlo de acesso",
+      "estacionamento vigiado e bem iluminado",
+      "zona segura da Ilha de Luanda",
+      "staff atencioso e prestável",
+      "ambiente familiar e acolhedor"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "se é a primeira vez a experimentar comida angolana, peça ao staff para recomendar. são muito conhecedores e prestáveis",
+      "autor": "Sofia Almeida",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "o brunch de domingo é fantástico e uma óptima forma de provar vários pratos tradicionais. chegue cedo!",
+      "autor": "Ricardo Fonseca",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "não saiam sem provar a muamba de galinha premium e o funge. é a essência de Angola num prato",
+      "autor": "Teresa Santos",
+      "origem": "Benguela, Angola"
+    },
+    {
+      "dica": "experimentem o sumo de múcua, é uma fruta típica angolana e o sabor é único",
+      "autor": "André Silva",
+      "origem": "Huambo, Angola"
+    },
+    {
+      "dica": "reserve com antecedência aos fins de semana, especialmente para o brunch que é muito concorrido",
+      "autor": "Carla Gomes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": true,
+    "idealParaFamilias": true,
+    "brunchFimDeSemana": true,
+    "ingredientesLocais": true,
+    "chefAngolano": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1555244162-803834f70033?w=800",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Paladar - Culinária Angolana Contemporânea na Ilha de Luanda",
+    "metaDescricao": "restaurante de cozinha angolana contemporânea na Ilha de Luanda. muamba de galinha, mufete, calulu e pratos tradicionais com apresentação moderna. brunch aos fins de semana.",
+    "tags": ["angolana", "tradicional", "contemporânea", "muamba", "mufete", "calulu", "ilha de luanda", "familiar", "brunch", "ingredientes locais", "cultural", "africana"]
+  }
+}

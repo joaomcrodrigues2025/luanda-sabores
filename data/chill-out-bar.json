@@ -1,0 +1,423 @@
+{
+  "id": "chill-out-bar",
+  "nome": "Chill Out Bar",
+  "descricao": "bar de praia descontraído com cocktails tropicais, petiscos ligeiros e música lounge num ambiente relaxado à beira-mar",
+  "descricaoCompleta": "o Chill Out Bar é o refúgio perfeito para quem procura momentos de relaxamento genuíno na Ilha de Luanda. inaugurado em 2019, este bar de praia rapidamente conquistou uma base fiel de frequentadores que apreciam a sua atmosfera descontraída e autêntica, longe da agitação dos beach clubs mais movimentados. localizado numa zona tranquila da ilha, o Chill Out Bar oferece um ambiente intimista com decoração boémia, almofadas coloridas, redes suspensas e iluminação suave com lanternas. o espaço é ideal para tardes relaxadas a ler um livro, conversas prolongadas com amigos ou simplesmente para apreciar o som das ondas com um cocktail na mão. a carta de bebidas é o grande destaque, com uma selecção criativa de cocktails tropicais, smoothies naturais, cervejas artesanais e vinhos cuidadosamente escolhidos. os bartenders são especializados em cocktails clássicos e criações próprias, usando frutas frescas locais como múcua, maracujá e manga. a oferta gastronómica é propositadamente simples, focada em petiscos ligeiros, tapas para partilhar, saladas frescas e algumas opções de sanduíches gourmet. o Chill Out Bar é conhecido pelos seus eventos temáticos mensais, incluindo noites de poesia, sessões acústicas de música ao vivo, workshops de cocktails e aulas de yoga ao nascer do sol. aos fins de semana, DJ's convidados tocam música chill out, house suave e bossa nova, criando uma banda sonora perfeita para o ambiente relaxado. o bar atrai um público variado, desde jovens profissionais em busca de descompressão após o trabalho, casais que procuram um local tranquilo para um encontro, até turistas que querem experimentar o lado mais autêntico e descontraído da Ilha de Luanda. os preços são moderados e o serviço é amigável e informal, fazendo do Chill Out Bar um dos segredos mais bem guardados da ilha.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Sul, próximo à Praia do Cruzeiro, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul tranquila",
+    "coordenadas": {
+      "latitude": -8.8090,
+      "longitude": 13.2360
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 399 123",
+    "telemovel": "+244 926 345 678",
+    "email": "info@chilloutbar.ao",
+    "website": "https://www.chilloutbar.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/chilloutbarluanda",
+      "instagram": "https://www.instagram.com/chillout_ilha",
+      "spotify": "https://open.spotify.com/user/chilloutbar"
+    }
+  },
+
+  "tipoCozinha": ["petiscos", "tapas", "snacks", "saladas", "sanduíches"],
+  "especialidades": [
+    "cocktails tropicais autorais",
+    "mojito de múcua especial",
+    "tábua de queijos e frutos secos",
+    "guacamole com nachos",
+    "bruschetta variada",
+    "hambúrguer vegano",
+    "wraps de frango grelhado",
+    "smoothies de frutas tropicais"
+  ],
+  "ambiente": ["descontraído", "relaxado", "boémio", "praia", "chill", "intimista", "lounge", "tranquilo"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 4500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "cocktails autorais",
+      "pratos": [
+        {
+          "nome": "chill sunset",
+          "descricao": "rum dourado, maracujá, manga, gengibre e sprite com toque de hortelã",
+          "preco": 2200
+        },
+        {
+          "nome": "mojito de múcua",
+          "descricao": "mojito especial com polpa de múcua, rum branco, hortelã e lima",
+          "preco": 2000
+        },
+        {
+          "nome": "ilha paradise",
+          "descricao": "vodka de coco, ananás, leite de coco e sumo de lima",
+          "preco": 2100
+        },
+        {
+          "nome": "maracujá dream",
+          "descricao": "cachaça, maracujá fresco, mel e água tónica",
+          "preco": 1900
+        },
+        {
+          "nome": "tropical breeze",
+          "descricao": "gin, manga, manjericão, lima e tónica premium",
+          "preco": 2300
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails clássicos",
+      "pratos": [
+        {
+          "nome": "caipirinha tradicional",
+          "descricao": "cachaça, lima, açúcar e gelo",
+          "preco": 1600
+        },
+        {
+          "nome": "mojito clássico",
+          "descricao": "rum branco, hortelã, lima, açúcar e soda",
+          "preco": 1700
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "rum branco, ananás, leite de coco e gelo",
+          "preco": 1800
+        },
+        {
+          "nome": "aperol spritz",
+          "descricao": "aperol, prosecco, soda e laranja",
+          "preco": 2000
+        },
+        {
+          "nome": "margarita",
+          "descricao": "tequila, triple sec, sumo de lima e sal",
+          "preco": 1900
+        }
+      ]
+    },
+    {
+      "categoria": "smoothies e sumos",
+      "pratos": [
+        {
+          "nome": "smoothie tropical",
+          "descricao": "manga, ananás, maracujá, banana e iogurte natural",
+          "preco": 1200
+        },
+        {
+          "nome": "smoothie verde detox",
+          "descricao": "espinafres, pepino, maçã verde, gengibre e lima",
+          "preco": 1300
+        },
+        {
+          "nome": "smoothie de múcua",
+          "descricao": "polpa de múcua, banana, mel e leite de coco",
+          "preco": 1400
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "laranja, maracujá, ananás ou melancia (fresco)",
+          "preco": 800
+        }
+      ]
+    },
+    {
+      "categoria": "petiscos e tapas",
+      "pratos": [
+        {
+          "nome": "tábua de queijos e frutos secos",
+          "descricao": "selecção de queijos, nozes, amêndoas, figos secos e mel",
+          "preco": 3800
+        },
+        {
+          "nome": "guacamole caseiro com nachos",
+          "descricao": "guacamole fresco com nachos crocantes e pico de gallo",
+          "preco": 2500
+        },
+        {
+          "nome": "bruschetta variada",
+          "descricao": "pão italiano com tomate, salmão fumado e queijo de cabra (6 unidades)",
+          "preco": 2800
+        },
+        {
+          "nome": "hummus mediterrânico",
+          "descricao": "hummus cremoso com azeite, paprika e pão pita quente",
+          "preco": 2200
+        },
+        {
+          "nome": "azeitonas marinadas",
+          "descricao": "azeitonas portuguesas marinadas com ervas e alho",
+          "preco": 1500
+        },
+        {
+          "nome": "batata-doce frita",
+          "descricao": "batata-doce crocante com molho de iogurte e ervas",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "sanduíches e wraps",
+      "pratos": [
+        {
+          "nome": "wrap de frango grelhado",
+          "descricao": "frango grelhado, alface, tomate, abacate e molho de iogurte",
+          "preco": 3200
+        },
+        {
+          "nome": "hambúrguer vegano",
+          "descricao": "hambúrguer de grão-de-bico, alface, tomate, cebola roxa e hummus",
+          "preco": 3500
+        },
+        {
+          "nome": "sanduíche de atum",
+          "descricao": "atum, ovo, alface, tomate e maionese em pão integral",
+          "preco": 2900
+        },
+        {
+          "nome": "club sandwich",
+          "descricao": "frango, bacon, ovo, alface, tomate e maionese (três andares)",
+          "preco": 3800
+        }
+      ]
+    },
+    {
+      "categoria": "saladas",
+      "pratos": [
+        {
+          "nome": "salada tropical",
+          "descricao": "rúcula, manga, abacate, tomate cherry, quinoa e vinagrete de maracujá",
+          "preco": 3200
+        },
+        {
+          "nome": "salada caesar vegetariana",
+          "descricao": "alface romana, croutons, parmesão, ovo e molho caesar",
+          "preco": 2800
+        },
+        {
+          "nome": "salada de camarão",
+          "descricao": "camarão grelhado, alface, abacate, manga e molho de lima",
+          "preco": 4200
+        }
+      ]
+    },
+    {
+      "categoria": "cervejas e vinhos",
+      "pratos": [
+        {
+          "nome": "Cuca ou Eka gelada",
+          "descricao": "cerveja angolana (600ml)",
+          "preco": 700
+        },
+        {
+          "nome": "cerveja artesanal",
+          "descricao": "selecção rotativa de cervejas artesanais (garrafa 330ml)",
+          "preco": 1200
+        },
+        {
+          "nome": "vinho branco ou tinto",
+          "descricao": "selecção de vinhos portugueses (copo 150ml)",
+          "preco": 1500
+        },
+        {
+          "nome": "sangria de frutas",
+          "descricao": "vinho tinto ou branco com frutas frescas (jarro 1L)",
+          "preco": 4000
+        }
+      ]
+    },
+    {
+      "categoria": "cafés e chás",
+      "pratos": [
+        {
+          "nome": "café expresso",
+          "descricao": "café angolano de altitude",
+          "preco": 600
+        },
+        {
+          "nome": "cappuccino",
+          "descricao": "café expresso com leite espumado e canela",
+          "preco": 900
+        },
+        {
+          "nome": "chá gelado",
+          "descricao": "chá verde, pêssego ou limão com hortelã",
+          "preco": 700
+        },
+        {
+          "nome": "chá quente",
+          "descricao": "variedade de chás: verde, preto, camomila, hortelã",
+          "preco": 600
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "15:00-23:00",
+      "quarta": "15:00-23:00",
+      "quinta": "15:00-00:00",
+      "sexta": "15:00-02:00",
+      "sabado": "12:00-02:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "happy hour de terça a quinta das 17h às 19h (20% desconto em cocktails). yoga ao nascer do sol aos sábados às 6h30 (inscrição prévia)"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 384,
+    "avaliacoes": [
+      {
+        "autor": "Daniela Sousa",
+        "nota": 5,
+        "comentario": "o meu lugar favorito para relaxar em Luanda! ambiente super descontraído, cocktails deliciosos e música perfeita. adorei o mojito de múcua!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Miguel Costa",
+        "nota": 5,
+        "comentario": "lugar mágico! fui à sessão de yoga ao nascer do sol e depois tomei um smoothie tropical. experiência inesquecível. super recomendo!",
+        "data": "2025-11-20",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Patrícia Alves",
+        "nota": 4,
+        "comentario": "ambiente tranquilo e acolhedor. ideal para ir com amigos ou para um encontro mais intimista. os cocktails são muito bem feitos e criativos.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Tavares",
+        "nota": 5,
+        "comentario": "adorei a atmosfera boémia! decoração linda, música excelente e staff muito simpático. o guacamole é delicioso. voltarei com certeza!",
+        "data": "2025-11-15",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Sara Mendes",
+        "nota": 4,
+        "comentario": "perfeito para tardes relaxadas. fui ler um livro e acabei por ficar horas a apreciar a vista e os cocktails. preços justos e bom atendimento.",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público próximo",
+    "informacaoEstacionamento": "estacionamento na rua e parque público a 50 metros com vigilância informal. zona tranquila com pouco movimento.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "500 AOA (parque público)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona tranquila e segura, especialmente durante o dia",
+      "vigilância informal no estacionamento próximo",
+      "staff atencioso e disponível",
+      "boa iluminação na área do bar",
+      "público tranquilo e respeitador",
+      "recomenda-se cautela com pertences pessoais como em qualquer local público"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao happy hour entre terça e quinta (17h-19h) para aproveitar 20% de desconto nos cocktails. vale muito a pena!",
+      "autor": "André Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o mojito de múcua, é uma criação única e deliciosa. perfeito para o clima tropical de Luanda",
+      "autor": "Laura Ferreira",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "se gosta de yoga, participe na sessão de sábado ao nascer do sol. é uma experiência mágica à beira-mar",
+      "autor": "Carolina Lopes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "chegue antes das 18h aos fins de semana para garantir boa posição nas redes e almofadas junto ao mar",
+      "autor": "Tiago Martins",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "ideal para um encontro tranquilo ou para ir com amigos conversar. não é um local para festa, mas sim para relaxar genuinamente",
+      "autor": "Joana Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "siga o Instagram do bar para ficar a par dos eventos mensais: noites de poesia, música acústica e workshops de cocktails",
+      "autor": "Paulo Rodrigues",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música acústica aos sábados a partir das 18h. DJ com música chill out/lounge aos domingos a partir das 16h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "redesSuspensas": true,
+    "almofadasChao": true,
+    "decoracaoBohemia": true,
+    "happyHour": true,
+    "yogaNascerSol": true,
+    "eventosTematicos": true,
+    "workshopsCocktails": true,
+    "noitesPoesia": true,
+    "playlistSpotify": true,
+    "ambienteIntimo": true,
+    "idealCasais": true,
+    "idealAmigos": true,
+    "petFriendly": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Chill Out Bar - Bar de Praia Descontraído na Ilha de Luanda | Cocktails & Lounge",
+    "metaDescricao": "bar de praia tranquilo e boémio na Ilha de Luanda com cocktails tropicais autorais, petiscos, música lounge e eventos alternativos. happy hour e yoga ao nascer do sol.",
+    "tags": ["bar de praia", "descontraído", "chill", "cocktails", "ilha de luanda", "lounge", "boémio", "tranquilo", "happy hour", "yoga", "música ao vivo", "eventos alternativos", "mojito", "relaxado", "intimista"]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "id": "bar-lounge-xico",
+  "nome": "Bar Lounge Xico",
+  "descricao": "bar lounge sofisticado com ambiente chique, cocktails autorais, petiscos gourmet e vista panorâmica sobre o oceano Atlântico",
+  "descricaoCompleta": "o Bar Lounge Xico é um dos espaços mais elegantes e sofisticados da Ilha de Luanda, conhecido pelo seu ambiente chique e cosmopolita que atrai a elite luandense e visitantes internacionais. localizado numa posição privilegiada com vista panorâmica sobre o oceano Atlântico, o espaço oferece uma experiência premium de bar lounge com decoração moderna e minimalista, iluminação ambiente cuidada e música lounge de qualidade. o Xico destaca-se pela sua carta de cocktails autorais, criados por mixologistas experientes que combinam ingredientes premium com toques locais, resultando em bebidas únicas e surpreendentes. a carta de petiscos gourmet complementa perfeitamente as bebidas, com opções que vão desde sushi e ceviches a tábuas de queijos e enchidos premium. o espaço conta com uma área interior climatizada e um terraço exterior com espreguiçadeiras e sofás confortáveis, ideal para apreciar o pôr do sol. aos fins de semana, o Bar Lounge Xico acolhe sessões de DJ com música electrónica, house e deep house, criando uma atmosfera vibrante mas sofisticada. é o local perfeito para after-work, encontros entre amigos ou noites especiais num ambiente refinado.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua Lateral Sul, zona premium, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8095,
+      "longitude": 13.2358
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 448 755",
+    "telemovel": "+244 926 789 123",
+    "email": "reservas@barloungexico.ao",
+    "website": "https://www.barloungexico.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/barloungexico",
+      "instagram": "https://www.instagram.com/barloungexico",
+      "twitter": "https://twitter.com/loungexico"
+    }
+  },
+
+  "tipoCozinha": ["petiscos gourmet", "sushi", "tapas", "internacional", "fusão"],
+  "especialidades": [
+    "cocktails autorais premium",
+    "sushi selection",
+    "ceviche de peixe branco",
+    "tábua de queijos e enchidos",
+    "carpaccio de vaca",
+    "tartare de salmão",
+    "croquetes de presunto ibérico",
+    "tempura de camarão"
+  ],
+  "ambiente": ["sofisticado", "chique", "lounge", "vista mar", "terraço", "moderno", "romântico", "noite"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 12000,
+    "moeda": "AOA",
+    "observacao": "consumo mínimo de 3000 AOA por pessoa aos fins de semana após as 21h"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos gourmet",
+      "pratos": [
+        {
+          "nome": "tábua de queijos e enchidos",
+          "descricao": "selecção de queijos portugueses e internacionais com enchidos ibéricos, compotas e crackers",
+          "preco": 4500
+        },
+        {
+          "nome": "carpaccio de vaca",
+          "descricao": "carpaccio de vaca com rúcula, parmesão, alcaparras e azeite trufado",
+          "preco": 3800
+        },
+        {
+          "nome": "croquetes de presunto ibérico",
+          "descricao": "croquetes cremosos de presunto ibérico com maionese de mostarda",
+          "preco": 3200
+        },
+        {
+          "nome": "tempura de camarão",
+          "descricao": "camarão tigre em tempura crocante com molho agridoce",
+          "preco": 4200
+        },
+        {
+          "nome": "bruschetta trio",
+          "descricao": "trio de bruschettas: tomate e manjericão, salmão e cream cheese, cogumelos trufados",
+          "preco": 2800
+        },
+        {
+          "nome": "edamame com flor de sal",
+          "descricao": "edamame salteado com alho, pimenta e flor de sal",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & ceviches",
+      "pratos": [
+        {
+          "nome": "sushi selection premium",
+          "descricao": "selecção de nigiri e sashimi: salmão, atum, robalo e peixe-manteiga",
+          "preco": 7500
+        },
+        {
+          "nome": "xico signature roll",
+          "descricao": "roll especial com salmão flamejado, cream cheese, abacate e molho especial",
+          "preco": 5800
+        },
+        {
+          "nome": "ceviche de robalo",
+          "descricao": "robalo fresco marinado em lima, coentros, cebola roxa e pimenta",
+          "preco": 4800
+        },
+        {
+          "nome": "tartare de salmão",
+          "descricao": "salmão fresco em tartare com abacate, wakame e molho ponzu",
+          "preco": 5200
+        },
+        {
+          "nome": "california roll",
+          "descricao": "roll clássico com caranguejo, abacate e pepino",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "hambúrguer angus premium",
+          "descricao": "hambúrguer de angus 200g com queijo cheddar, bacon crocante e batatas trufadas",
+          "preco": 6800
+        },
+        {
+          "nome": "espetada de novilho",
+          "descricao": "espetada de novilho com pimentos e cebola, servida com arroz de alho",
+          "preco": 7500
+        },
+        {
+          "nome": "risotto de cogumelos",
+          "descricao": "risotto cremoso de cogumelos variados com parmesão e azeite trufado",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails autorais",
+      "pratos": [
+        {
+          "nome": "xico signature",
+          "descricao": "cocktail exclusivo com gin botanical, pepino, lima, gengibre e espuma de maracujá",
+          "preco": 2800
+        },
+        {
+          "nome": "atlantic sunset",
+          "descricao": "rum angolano, ananás grelhado, lima, xarope de coco e bitters",
+          "preco": 2600
+        },
+        {
+          "nome": "passion martini",
+          "descricao": "vodka premium, licor de maracujá, ananás e champagne",
+          "preco": 2700
+        },
+        {
+          "nome": "mojito de múcua",
+          "descricao": "mojito especial com polpa de múcua, rum envelhecido e hortelã",
+          "preco": 2500
+        },
+        {
+          "nome": "espresso martini",
+          "descricao": "vodka, licor de café, café expresso e xarope de baunilha",
+          "preco": 2600
+        },
+        {
+          "nome": "negroni classico",
+          "descricao": "gin, campari e vermelho doce com casca de laranja",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "champagne & vinhos",
+      "pratos": [
+        {
+          "nome": "champagne Moët & Chandon",
+          "descricao": "champagne francês brut - garrafa",
+          "preco": 25000
+        },
+        {
+          "nome": "champagne Veuve Clicquot",
+          "descricao": "champagne francês brut - garrafa",
+          "preco": 28000
+        },
+        {
+          "nome": "prosecco italiano",
+          "descricao": "prosecco DOC - garrafa",
+          "preco": 8500
+        },
+        {
+          "nome": "vinho branco Quinta do Crasto",
+          "descricao": "vinho branco português do Douro - garrafa",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho tinto Herdade do Esporão",
+          "descricao": "vinho tinto português do Alentejo - garrafa",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas sem álcool",
+      "pratos": [
+        {
+          "nome": "mocktail tropical",
+          "descricao": "mocktail sem álcool com ananás, coco, maracujá e hortelã",
+          "preco": 1500
+        },
+        {
+          "nome": "limonada de gengibre",
+          "descricao": "limonada caseira com gengibre fresco e hortelã",
+          "preco": 1200
+        },
+        {
+          "nome": "sumo natural detox",
+          "descricao": "sumo de laranja, cenoura, gengibre e cúrcuma",
+          "preco": 1400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "17:00-00:00",
+      "quarta": "17:00-00:00",
+      "quinta": "17:00-01:00",
+      "sexta": "17:00-03:00",
+      "sabado": "15:00-03:00",
+      "domingo": "15:00-00:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "happy hour de terça a quinta das 17h às 20h com 20% desconto em cocktails. sessões de DJ às sextas e sábados a partir das 22h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 312,
+    "avaliacoes": [
+      {
+        "autor": "Sofia Mendes",
+        "nota": 5,
+        "comentario": "ambiente sofisticado e muito elegante! os cocktails autorais são incríveis, especialmente o xico signature. a vista ao pôr do sol é espectacular. adorei!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "André Carvalho",
+        "nota": 5,
+        "comentario": "o melhor bar lounge de Luanda sem dúvida! serviço impecável, cocktails de alta qualidade e ambiente muito chique. perfeito para uma noite especial.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Catarina Lopes",
+        "nota": 4,
+        "comentario": "adorei o espaço e a decoração moderna. os petiscos gourmet são deliciosos, especialmente a tábua de queijos. preços elevados mas a experiência vale a pena.",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Santos",
+        "nota": 5,
+        "comentario": "excelente para after-work! happy hour com bons descontos. os mixologistas são muito profissionais e criativos. recomendo vivamente!",
+        "data": "2025-11-14",
+        "origem": "Maputo, Moçambique"
+      },
+      {
+        "autor": "Diana Costa",
+        "nota": 4,
+        "comentario": "ambiente muito agradável e sofisticado. a música é excelente, não fica muito alta. perfeito para conversar e apreciar bons cocktails. voltarei!",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "serviço de valet parking gratuito disponível. estacionamento privativo com segurança 24h. capacidade para 25 viaturas.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "gratuito com valet parking"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada rigorosa na entrada com controlo de acesso",
+      "valet parking disponível para maior segurança",
+      "zona premium com vigilância constante",
+      "excelente iluminação em todo o espaço e áreas exteriores",
+      "staff de segurança discreto mas sempre presente",
+      "sistema de videovigilância em funcionamento"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "aproveite o happy hour de terça a quinta das 17h às 20h para experimentar os cocktails com 20% de desconto",
+      "autor": "Carlos Andrade",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa no terraço para apreciar o pôr do sol, é simplesmente deslumbrante. chegue antes das 18h",
+      "autor": "Juliana Barbosa",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "experimente o xico signature, é o cocktail autoral mais pedido e realmente especial",
+      "autor": "Alex Johnson",
+      "origem": "Londres, UK"
+    },
+    {
+      "dica": "aos fins de semana é obrigatório reservar. o espaço enche rapidamente após as 21h",
+      "autor": "Patricia Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o dress code é smart casual. evite roupa muito desportiva ou chinelos",
+      "autor": "Miguel Santos",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "DJ às sextas e sábados a partir das 22h - house, deep house e electrónica",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "happyHour": true,
+    "dresscode": "smart casual",
+    "consumoMinimo": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800",
+      "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
+      "https://images.unsplash.com/photo-1560624052-449f5ddf0c31?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Bar Lounge Xico - Cocktails Premium na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "bar lounge sofisticado na Ilha de Luanda com cocktails autorais, petiscos gourmet, vista panorâmica e DJ aos fins de semana. happy hour disponível. ambiente chique!",
+    "tags": ["bar lounge", "cocktails", "sofisticado", "chique", "vista mar", "terraço", "ilha de luanda", "noite", "dj", "happy hour", "petiscos gourmet", "sushi"]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "id": "portofino",
+  "nome": "Restaurante Portofino",
+  "descricao": "restaurante italiano sofisticado com vista mar, especializado em massas artesanais, risottos e frutos do mar num ambiente elegante",
+  "descricaoCompleta": "o Restaurante Portofino é um dos estabelecimentos mais refinados da Ilha de Luanda, oferecendo alta gastronomia italiana com influências mediterrânicas. inspirado na elegante cidade costeira italiana de Portofino, o restaurante recria a sofisticação da Riviera Italiana nas margens do Atlântico angolano. a decoração é um equilíbrio perfeito entre o clássico e o contemporâneo, com tons de azul e branco que remetem para o mar, candelabros elegantes, mobiliário de qualidade e uma impressionante garrafeira climatizada à vista. o chef executivo, com formação em Itália, comanda uma cozinha que prima pela excelência técnica e pela selecção criteriosa de ingredientes, muitos deles importados diretamente de Itália. as massas são feitas diariamente na cozinha, os risottos são preparados na perfeição cremosa al dente, e o marisco é seleccionado pessoalmente no mercado. o Portofino destaca-se também pela sua extensa carta de vinhos italianos e internacionais, com particular ênfase nos tintos da Toscana e brancos do Piemonte. o serviço é refinado e atencioso, com sommelier disponível para harmonizações. a esplanada panorâmica oferece vistas deslumbrantes sobre a baía de Luanda, tornando-se o cenário perfeito para jantares românticos e celebrações especiais. o restaurante atrai uma clientela exigente, incluindo diplomatas, empresários e amantes de boa gastronomia.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Edifício Premium, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul premium",
+    "coordenadas": {
+      "latitude": -8.8075,
+      "longitude": 13.2340
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 310 890",
+    "telemovel": "+244 927 345 678",
+    "email": "reservas@portofino-luanda.ao",
+    "website": "https://www.portofino-luanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/portofinoluanda",
+      "instagram": "https://www.instagram.com/portofino_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/portofino-luanda"
+    }
+  },
+
+  "tipoCozinha": ["italiana", "mediterrânica", "frutos do mar", "alta cozinha", "contemporânea"],
+  "especialidades": [
+    "risotto ai frutti di mare",
+    "linguine ao lavagante",
+    "ravioli de lagosta",
+    "ossobuco alla milanese",
+    "branzino al sale (robalo ao sal)",
+    "tagliatelle al tartufo nero",
+    "scaloppine al limone"
+  ],
+  "ambiente": ["elegante", "sofisticado", "vista mar", "romântico", "esplanada panorâmica", "luxo"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 16500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "antipasti",
+      "pratos": [
+        {
+          "nome": "carpaccio di manzo con rucola",
+          "descricao": "carpaccio de vaca com rúcula, parmigiano reggiano e azeite trufado",
+          "preco": 4200
+        },
+        {
+          "nome": "insalata di polpo",
+          "descricao": "salada de polvo com batatas, azeitonas e vinagrete de limão",
+          "preco": 4800
+        },
+        {
+          "nome": "burrata pugliese",
+          "descricao": "burrata importada com tomates heritage, manjericão e pesto",
+          "preco": 4500
+        },
+        {
+          "nome": "carpaccio di tonno",
+          "descricao": "carpaccio de atum fresco com abacate e molho ponzu",
+          "preco": 5200
+        },
+        {
+          "nome": "antipasto misto di mare",
+          "descricao": "selecção de marisco marinado, polvo, camarão e lulas",
+          "preco": 6800
+        }
+      ]
+    },
+    {
+      "categoria": "primi piatti - pasta",
+      "pratos": [
+        {
+          "nome": "linguine al lavagante",
+          "descricao": "linguine frescos com lagostim inteiro ao molho de tomate fresco",
+          "preco": 14500
+        },
+        {
+          "nome": "ravioli di aragosta",
+          "descricao": "ravioli artesanais recheados com lagosta em molho de bisque",
+          "preco": 12800
+        },
+        {
+          "nome": "tagliatelle al tartufo nero",
+          "descricao": "tagliatelle com trufa negra italiana, manteiga e parmesão",
+          "preco": 11500
+        },
+        {
+          "nome": "spaghetti alle vongole",
+          "descricao": "esparguete com amêijoas frescas, alho, vinho branco e salsa",
+          "preco": 8900
+        },
+        {
+          "nome": "paccheri ai frutti di mare",
+          "descricao": "paccheri com marisco misto em molho de tomate fresco",
+          "preco": 10500
+        },
+        {
+          "nome": "pappardelle al ragù di cinghiale",
+          "descricao": "pappardelle com ragù de javali cozinhado lentamente",
+          "preco": 9800
+        }
+      ]
+    },
+    {
+      "categoria": "primi piatti - risotto",
+      "pratos": [
+        {
+          "nome": "risotto ai frutti di mare",
+          "descricao": "risotto cremoso com camarão, lulas, mexilhão e vieiras",
+          "preco": 11800
+        },
+        {
+          "nome": "risotto al tartufo bianco",
+          "descricao": "risotto com trufa branca italiana (em temporada)",
+          "preco": 15500
+        },
+        {
+          "nome": "risotto alla milanese",
+          "descricao": "risotto tradicional milanês com açafrão e tutano",
+          "preco": 8500
+        },
+        {
+          "nome": "risotto ai funghi porcini",
+          "descricao": "risotto com cogumelos porcini e parmesão",
+          "preco": 9800
+        }
+      ]
+    },
+    {
+      "categoria": "secondi piatti - carne",
+      "pratos": [
+        {
+          "nome": "ossobuco alla milanese",
+          "descricao": "ossobuco de vitela cozinhado lentamente com gremolata e risotto",
+          "preco": 16800
+        },
+        {
+          "nome": "scaloppine al limone",
+          "descricao": "escalopes de vitela ao molho de limão com alcaparras",
+          "preco": 13500
+        },
+        {
+          "nome": "tagliata di manzo",
+          "descricao": "lombo de vaca grelhado fatiado com rúcula, parmesão e balsâmico",
+          "preco": 15500
+        },
+        {
+          "nome": "costoletta alla milanese",
+          "descricao": "costoleta de vitela empanada ao estilo milanês",
+          "preco": 14800
+        }
+      ]
+    },
+    {
+      "categoria": "secondi piatti - pesce",
+      "pratos": [
+        {
+          "nome": "branzino al sale",
+          "descricao": "robalo inteiro ao sal com legumes grelhados",
+          "preco": 17500
+        },
+        {
+          "nome": "grigliata mista di mare",
+          "descricao": "selecção de peixes e marisco grelhados",
+          "preco": 19800
+        },
+        {
+          "nome": "tonno in crosta di sesamo",
+          "descricao": "lombo de atum com crosta de sésamo, legumes salteados",
+          "preco": 14500
+        },
+        {
+          "nome": "gamberoni alla griglia",
+          "descricao": "camarões gigantes grelhados com alho, limão e ervas",
+          "preco": 16500
+        }
+      ]
+    },
+    {
+      "categoria": "dolci",
+      "pratos": [
+        {
+          "nome": "tiramisù classico",
+          "descricao": "tiramisù tradicional com savoiardi, café e mascarpone",
+          "preco": 2800
+        },
+        {
+          "nome": "panna cotta ai frutti di bosco",
+          "descricao": "panna cotta com coulis de frutos vermelhos",
+          "preco": 2500
+        },
+        {
+          "nome": "semifreddo al pistacchio",
+          "descricao": "semifreddo de pistácio siciliano",
+          "preco": 3000
+        },
+        {
+          "nome": "torta caprese",
+          "descricao": "bolo de chocolate e amêndoa sem farinha",
+          "preco": 2600
+        },
+        {
+          "nome": "selezione di formaggi italiani",
+          "descricao": "selecção de queijos italianos com compotas e mel",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "vini e bevande",
+      "pratos": [
+        {
+          "nome": "Brunello di Montalcino",
+          "descricao": "vinho tinto toscano premium",
+          "preco": 28500
+        },
+        {
+          "nome": "Barolo DOCG",
+          "descricao": "vinho tinto do Piemonte",
+          "preco": 32000
+        },
+        {
+          "nome": "Gavi di Gavi DOCG",
+          "descricao": "vinho branco do Piemonte, ideal para marisco",
+          "preco": 15500
+        },
+        {
+          "nome": "Prosecco Superiore DOCG",
+          "descricao": "espumante de Valdobbiadene",
+          "preco": 9800
+        },
+        {
+          "nome": "Negroni",
+          "descricao": "cocktail italiano clássico",
+          "preco": 2200
+        },
+        {
+          "nome": "espresso illy",
+          "descricao": "café expresso italiano premium",
+          "preco": 600
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:30-15:00, 19:30-23:00",
+      "quarta": "12:30-15:00, 19:30-23:00",
+      "quinta": "12:30-15:00, 19:30-23:00",
+      "sexta": "12:30-15:00, 19:30-23:30",
+      "sabado": "12:30-15:30, 19:30-00:00",
+      "domingo": "12:30-15:30, 19:30-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas obrigatórias. dress code smart casual. sommelier disponível para harmonizações"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.8,
+    "numeroAvaliacoes": 243,
+    "avaliacoes": [
+      {
+        "autor": "Catarina Mendes",
+        "nota": 5,
+        "comentario": "simplesmente perfeito! o risotto ai frutti di mare é dos melhores que já comi. vista deslumbrante, serviço impecável e ambiente muito elegante.",
+        "data": "2025-11-21",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Giuseppe Bianchi",
+        "nota": 5,
+        "comentario": "come italiano, posso dire che questo è uno dei migliori ristoranti italiani in Africa. cucina autentica e di alta qualità. complimenti allo chef!",
+        "data": "2025-11-18",
+        "origem": "Roma, Itália"
+      },
+      {
+        "autor": "André Carvalho",
+        "nota": 5,
+        "comentario": "experiência gastronómica excepcional! cada prato é uma obra de arte. a harmonização de vinhos sugerida pelo sommelier foi perfeita.",
+        "data": "2025-11-14",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sophie Laurent",
+        "nota": 5,
+        "comentario": "magnifique! l'ossobuco était divin et la vue sur la baie est spectaculaire. service raffiné et attention aux détails.",
+        "data": "2025-11-10",
+        "origem": "Paris, França"
+      },
+      {
+        "autor": "Ricardo Santos",
+        "nota": 4,
+        "comentario": "restaurante de excelência em Luanda. preços elevados mas justificados pela qualidade. ideal para ocasiões especiais.",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "serviço de valet parking gratuito para clientes. estacionamento privativo seguro com capacidade para 35 viaturas.",
+    "capacidadeEstacionamento": 35,
+    "custoEstacionamento": "gratuito com valet parking incluído"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada 24h no edifício",
+      "valet parking disponível",
+      "zona premium com controlo rigoroso de acesso",
+      "excelente iluminação em todo o perímetro",
+      "staff de segurança discreto e profissional"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com pelo menos 48h de antecedência, especialmente aos fins de semana. peça mesa na esplanada para vista privilegiada",
+      "autor": "Diana Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "não deixe de experimentar o risotto ai frutti di mare e peça ao sommelier para sugerir harmonização de vinho",
+      "autor": "Filipe Rodrigues",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "o branzino al sale é preparado para duas pessoas e vale muito a pena. espectacular!",
+      "autor": "Marco Rossi",
+      "origem": "Milão, Itália"
+    },
+    {
+      "dica": "chegue 15 minutos antes da reserva para apreciar um aperitivo no bar com vista",
+      "autor": "Carla Almeida",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "dress code smart casual é levado a sério. vista-se adequadamente para a ocasião",
+      "autor": "Patricia Silva",
+      "origem": "São Paulo, Brasil"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "sommelier": true,
+    "garrafeiraClimatizada": true,
+    "dresscode": "smart casual obrigatório",
+    "salaPrivadaCapacidade": 20
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?w=800",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1587899897387-091ebd01a6b2?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Portofino - Alta Gastronomia Italiana na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante italiano sofisticado na Ilha de Luanda com vista panorâmica. risottos, massas artesanais, frutos do mar e carta de vinhos premium. reservas obrigatórias.",
+    "tags": ["italiana", "alta cozinha", "elegante", "vista mar", "risotto", "massas artesanais", "frutos do mar", "ilha de luanda", "romântico", "luxo", "sommelier", "valet parking"]
+  }
+}

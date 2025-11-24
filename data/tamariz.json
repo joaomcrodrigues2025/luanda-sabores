@@ -1,0 +1,432 @@
+{
+  "id": "tamariz",
+  "nome": "Restaurante Tamariz",
+  "descricao": "restaurante elegante com cozinha portuguesa refinada, marisco premium e ambiente romântico com vista privilegiada sobre o oceano",
+  "descricaoCompleta": "o Restaurante Tamariz é uma referência de elegância e requinte gastronómico na Ilha de Luanda há mais de 20 anos. inspirado no famoso casino do Estoril em Portugal, o Tamariz reproduz a sofisticação e charme da costa portuguesa em pleno coração de Luanda. o restaurante destaca-se pela sua decoração clássica e elegante, com azulejos portugueses nas paredes, candeeiros de cristal e uma esplanada ampla com vista deslumbrante sobre o oceano Atlântico. a carta gastronómica é assinada pelo chef português António Rodrigues, que traz mais de 30 anos de experiência em restaurantes premiados de Lisboa e Porto. especializado em cozinha portuguesa tradicional com toques contemporâneos, o Tamariz é famoso pelo seu marisco fresco de excelência, incluindo percebes, santola, sapateira, lagosta e carabineiros vindos directamente de Portugal e das águas angolanas. os pratos icónicos incluem o arroz de marisco à Tamariz, o bacalhau à Brás revisitado, a cataplana de marisco e os filetes de pescada com arroz de tomate. o restaurante oferece também uma extensa carta de vinhos portugueses, cuidadosamente seleccionados para harmonizar com cada prato. o Tamariz é o local ideal para jantares românticos, celebrações especiais, reuniões de negócios e eventos corporativos. o serviço impecável, a atenção aos detalhes e a qualidade consistente fazem do Tamariz um dos restaurantes mais conceituados de Luanda. reservas antecipadas são essenciais, especialmente aos fins de semana e para a cobiçada mesa na varanda com vista para o pôr do sol.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida da Marginal, Edifício Tamariz, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8012,
+      "longitude": 13.2340
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 398 900",
+    "telemovel": "+244 924 567 890",
+    "email": "reservas@tamarizluanda.ao",
+    "website": "https://www.tamarizluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/tamarizluanda",
+      "instagram": "https://www.instagram.com/restaurante_tamariz"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "marisco", "peixe", "tradicional", "refinada"],
+  "especialidades": [
+    "arroz de marisco à Tamariz",
+    "cataplana de marisco",
+    "percebes frescos de Portugal",
+    "bacalhau à Brás revisitado",
+    "sapateira recheada",
+    "santola gratinada",
+    "carabineiros grelhados",
+    "filetes de pescada com arroz de tomate",
+    "açorda de marisco",
+    "lagosta à termidor"
+  ],
+  "ambiente": ["elegante", "refinado", "romântico", "vista mar", "clássico", "sofisticado", "varanda"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 17500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "percebes frescos",
+          "descricao": "percebes frescos vindos directamente da costa portuguesa (porção 250g)",
+          "preco": 8500
+        },
+        {
+          "nome": "sapateira recheada",
+          "descricao": "sapateira fresca com recheio tradicional servida fria",
+          "preco": 6800
+        },
+        {
+          "nome": "santola gratinada",
+          "descricao": "santola fresca gratinada com queijo e ervas aromáticas",
+          "preco": 7200
+        },
+        {
+          "nome": "ameijoas à Bulhão Pato",
+          "descricao": "ameijoas frescas salteadas com alho, coentros e azeite",
+          "preco": 4500
+        },
+        {
+          "nome": "pastéis de bacalhau premium",
+          "descricao": "pastéis de bacalhau do Porto com batata e salsa (4 unidades)",
+          "preco": 2800
+        },
+        {
+          "nome": "queijo da serra amanteigado",
+          "descricao": "queijo da serra português com doce de abóbora e nozes",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "sopas",
+      "pratos": [
+        {
+          "nome": "caldo verde tradicional",
+          "descricao": "caldo verde português com chouriço e azeite",
+          "preco": 1800
+        },
+        {
+          "nome": "sopa de peixe à Tamariz",
+          "descricao": "sopa cremosa de peixe fresco com camarão e batata",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "arroz e cataplana",
+      "pratos": [
+        {
+          "nome": "arroz de marisco à Tamariz",
+          "descricao": "arroz cremoso com lagosta, camarão, mexilhão, amêijoas e lula (2 pessoas, mínimo)",
+          "preco": 16500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana tradicional com marisco variado, batata e coentros (2 pessoas, mínimo)",
+          "preco": 18000
+        },
+        {
+          "nome": "arroz de pato à antiga",
+          "descricao": "arroz de pato confitado com chouriço e laranja (2 pessoas, mínimo)",
+          "preco": 12500
+        },
+        {
+          "nome": "açorda de marisco",
+          "descricao": "açorda alentejana com camarão, conquilhas e coentros",
+          "preco": 8900
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de peixe",
+      "pratos": [
+        {
+          "nome": "filetes de pescada com arroz de tomate",
+          "descricao": "filetes de pescada panados com arroz de tomate tradicional",
+          "preco": 9800
+        },
+        {
+          "nome": "bacalhau à Brás revisitado",
+          "descricao": "bacalhau desfiado com batata palha fina, cebola, ovo e azeitonas pretas",
+          "preco": 10500
+        },
+        {
+          "nome": "bacalhau com natas",
+          "descricao": "bacalhau gratinado com natas, cebola e batata laminada",
+          "preco": 11000
+        },
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco do dia grelhado com legumes e batata cozida",
+          "preco": 13500
+        },
+        {
+          "nome": "robalo ao sal",
+          "descricao": "robalo inteiro assado em crosta de sal com legumes",
+          "preco": 15500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos de marisco",
+      "pratos": [
+        {
+          "nome": "lagosta à termidor",
+          "descricao": "lagosta gratinada com molho bechamel, mostarda e queijo",
+          "preco": 22000
+        },
+        {
+          "nome": "carabineiros grelhados",
+          "descricao": "carabineiros gigantes grelhados com molho de alho e limão (250g)",
+          "preco": 18500
+        },
+        {
+          "nome": "caldeirada à pescador Tamariz",
+          "descricao": "caldeirada rica com peixe e marisco variado ao estilo da casa",
+          "preco": 14800
+        },
+        {
+          "nome": "gambas à guilho",
+          "descricao": "gambas tigre salteadas com muito alho e pimenta",
+          "preco": 12500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes",
+      "pratos": [
+        {
+          "nome": "bife à café",
+          "descricao": "bife de vaca com molho de café, ovo, batatas fritas e arroz",
+          "preco": 9500
+        },
+        {
+          "nome": "costeletas de borrego grelhadas",
+          "descricao": "costeletas de borrego com puré de batata-doce e legumes",
+          "preco": 11800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pastel de nata tradicional",
+          "descricao": "pastel de nata português servido morno com canela (3 unidades)",
+          "preco": 2000
+        },
+        {
+          "nome": "tarte de amêndoa algarvia",
+          "descricao": "tarte de amêndoa tradicional do Algarve",
+          "preco": 2400
+        },
+        {
+          "nome": "pudim abade de Priscos",
+          "descricao": "pudim tradicional português com toucinho do céu",
+          "preco": 2200
+        },
+        {
+          "nome": "mousse de chocolate belga",
+          "descricao": "mousse cremosa de chocolate belga 70% cacau",
+          "preco": 2300
+        },
+        {
+          "nome": "queijadas de Sintra",
+          "descricao": "queijadas tradicionais de Sintra (3 unidades)",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "vinhos",
+      "pratos": [
+        {
+          "nome": "vinho verde Quinta da Aveleda",
+          "descricao": "vinho verde português fresco e leve (garrafa)",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho branco Alvarinho",
+          "descricao": "vinho branco Alvarinho do Minho, ideal para marisco (garrafa)",
+          "preco": 13500
+        },
+        {
+          "nome": "vinho tinto Douro DOC",
+          "descricao": "vinho tinto do Douro encorpado (garrafa)",
+          "preco": 15000
+        },
+        {
+          "nome": "vinho do Porto LBV",
+          "descricao": "vinho do Porto Late Bottled Vintage (garrafa)",
+          "preco": 18000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "cerveja Super Bock",
+          "descricao": "cerveja portuguesa Super Bock (330ml)",
+          "preco": 800
+        },
+        {
+          "nome": "água mineral Serra da Estrela",
+          "descricao": "água mineral portuguesa natural (500ml)",
+          "preco": 500
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "laranja, maracujá ou ananás (fresco)",
+          "preco": 900
+        },
+        {
+          "nome": "digestivo",
+          "descricao": "bagaço, medronho ou ginjinha (dose)",
+          "preco": 1500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-15:30, 19:00-00:00",
+      "domingo": "12:00-16:00, 19:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas obrigatórias aos fins de semana. pratos de arroz e cataplana requerem pedido para mínimo 2 pessoas e 30 minutos de confecção"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 521,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Pereira",
+        "nota": 5,
+        "comentario": "simplesmente perfeito! o melhor marisco que já comi em Luanda. o arroz de marisco é divinal e a vista é magnífica. serviço impecável.",
+        "data": "2025-11-21",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Isabel Rodrigues",
+        "nota": 5,
+        "comentario": "restaurante de excelência! celebrámos o nosso aniversário de casamento e foi inesquecível. os percebes frescos são uma delícia. altamente recomendado!",
+        "data": "2025-11-18",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Fernando Costa",
+        "nota": 4,
+        "comentario": "ambiente muito elegante e comida de alta qualidade. o bacalhau à Brás está perfeito. preços elevados mas justificados pela qualidade.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Cristina Alves",
+        "nota": 5,
+        "comentario": "o meu restaurante preferido em Luanda! a cataplana de marisco é espectacular e o staff é muito atencioso. vale cada kwanza.",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "José Santos",
+        "nota": 5,
+        "comentario": "experiência gastronómica de alto nível! a lagosta à termidor é uma obra-prima. ambiente romântico e sofisticado. perfeito para ocasiões especiais.",
+        "data": "2025-11-08",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "serviço de valet parking gratuito para todos os clientes. estacionamento privativo coberto e vigiado 24h com capacidade para 40 viaturas.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito com valet parking"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona premium com segurança privada rigorosa 24h",
+      "valet parking disponível para todos os clientes",
+      "controlo de acesso na entrada do edifício",
+      "vigilância constante em todo o perímetro",
+      "excelente iluminação em todas as áreas",
+      "staff de segurança discreto e profissional",
+      "nível de segurança comparável aos melhores hotéis de Luanda"
+    ],
+    "nivelSeguranca": "muito alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com pelo menos 1 semana de antecedência, especialmente para jantar aos fins de semana. o restaurante lota rapidamente",
+      "autor": "António Silva",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "peça mesa na varanda com vista para o mar. o pôr do sol visto dali é inesquecível. chegue antes das 18h para aproveitar melhor",
+      "autor": "Maria Sousa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se gosta de marisco, experimente o arroz de marisco à Tamariz. é a especialidade da casa e serve bem 2 pessoas",
+      "autor": "Paulo Martins",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "os percebes são trazidos directamente de Portugal e estão sempre fresquíssimos. vale muito a pena experimentar!",
+      "autor": "Teresa Lopes",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "termine a refeição com um vinho do Porto e pastel de nata. é a combinação perfeita!",
+      "autor": "Carlos Mendes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "ideal para jantares românticos e celebrações especiais. o ambiente é muito elegante e o serviço é de classe mundial",
+      "autor": "Joana Ferreira",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "valetParking": true,
+    "varanda": true,
+    "decoracaoClassica": true,
+    "azulejosPortugueses": true,
+    "cartaVinhosExtensa": true,
+    "mariscoFrescoDiario": true,
+    "chef": "Chef António Rodrigues",
+    "idealRomantico": true,
+    "idealCelebracoes": true,
+    "idealNegocios": true,
+    "reservasObrigatorias": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Tamariz - Cozinha Portuguesa Premium na Ilha de Luanda | Marisco Fresco",
+    "metaDescricao": "restaurante português elegante na Ilha de Luanda especializado em marisco premium. arroz de marisco, cataplana, percebes frescos e vista mar. reservas essenciais.",
+    "tags": ["portuguesa", "elegante", "marisco premium", "romântico", "ilha de luanda", "vista mar", "percebes", "cataplana", "arroz de marisco", "sofisticado", "refinado", "bacalhau", "valet parking", "varanda"]
+  }
+}

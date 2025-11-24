@@ -1,0 +1,352 @@
+{
+  "id": "casanova",
+  "nome": "Restaurante Casanova",
+  "descricao": "restaurante italiano autêntico na Ilha de Luanda, famoso pelas suas pizzas artesanais e massas frescas num ambiente acolhedor",
+  "descricaoCompleta": "o Restaurante Casanova é uma verdadeira fatia de Itália no coração da Ilha de Luanda. com mais de duas décadas de tradição, este restaurante familiar conquistou o paladar dos luandenses e visitantes através da sua cozinha italiana genuína e acolhedora atmosfera mediterrânica. o chef italiano traz receitas tradicionais da Toscana e da Campânia, utilizando ingredientes importados e produtos locais frescos. as pizzas são preparadas em forno a lenha tradicional, com massa fermentada lentamente, enquanto as massas são feitas diariamente à mão. o espaço interior é decorado com elementos italianos autênticos, criando um ambiente romântico e familiar. a esplanada oferece vista parcial para o mar, sendo ideal para jantares ao ar livre. o Casanova é conhecido pelo seu excelente atendimento familiar e pela consistência da qualidade ao longo dos anos.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Ilha, n.º 45, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8010,
+      "longitude": 13.2328
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 397 125",
+    "telemovel": "+244 924 567 123",
+    "email": "reservas@casanovaiha.ao",
+    "website": "https://www.casanovaluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/casanovaluanda",
+      "instagram": "https://www.instagram.com/casanova_ilha"
+    }
+  },
+
+  "tipoCozinha": ["italiana", "mediterrânica", "pizza", "massas"],
+  "especialidades": [
+    "pizza margherita no forno a lenha",
+    "spaghetti alla carbonara",
+    "lasanha bolonhesa caseira",
+    "ossobuco alla milanese",
+    "risotto ai funghi porcini",
+    "tiramisù tradicional",
+    "panna cotta"
+  ],
+  "ambiente": ["familiar", "romântico", "italiano", "acolhedor", "esplanada"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 8500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "bruschetta al pomodoro",
+          "descricao": "pão italiano torrado com tomate fresco, manjericão, alho e azeite extra virgem",
+          "preco": 1800
+        },
+        {
+          "nome": "carpaccio di manzo",
+          "descricao": "carpaccio de vaca com rúcula, parmesão e azeite trufado",
+          "preco": 3200
+        },
+        {
+          "nome": "antipasto misto",
+          "descricao": "selecção de enchidos italianos, queijos, azeitonas e pimentos assados",
+          "preco": 2800
+        },
+        {
+          "nome": "insalata caprese",
+          "descricao": "mozzarella di bufala, tomate fresco, manjericão e azeite",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pizzas",
+      "pratos": [
+        {
+          "nome": "pizza margherita",
+          "descricao": "molho de tomate, mozzarella, manjericão fresco e azeite",
+          "preco": 3500
+        },
+        {
+          "nome": "pizza quattro stagioni",
+          "descricao": "molho de tomate, mozzarella, cogumelos, presunto, alcachofras e azeitonas",
+          "preco": 4200
+        },
+        {
+          "nome": "pizza diavola",
+          "descricao": "molho de tomate, mozzarella, salame picante e pimentos",
+          "preco": 3800
+        },
+        {
+          "nome": "pizza prosciutto e funghi",
+          "descricao": "molho de tomate, mozzarella, presunto e cogumelos frescos",
+          "preco": 4000
+        },
+        {
+          "nome": "pizza capricciosa",
+          "descricao": "molho de tomate, mozzarella, presunto, cogumelos, alcachofras e ovo",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "massas",
+      "pratos": [
+        {
+          "nome": "spaghetti alla carbonara",
+          "descricao": "esparguete com bacon, ovos, queijo pecorino e pimenta preta",
+          "preco": 4800
+        },
+        {
+          "nome": "penne all'arrabbiata",
+          "descricao": "penne com molho de tomate picante, alho e coentros",
+          "preco": 4200
+        },
+        {
+          "nome": "lasanha bolonhesa",
+          "descricao": "lasanha caseira com molho bolonhesa, bechamel e queijo gratinado",
+          "preco": 5500
+        },
+        {
+          "nome": "tagliatelle ai funghi",
+          "descricao": "tagliatelle frescos com cogumelos porcini, natas e parmesão",
+          "preco": 5200
+        },
+        {
+          "nome": "ravioli di ricotta e spinaci",
+          "descricao": "ravioli caseiros recheados com ricotta e espinafres em molho de manteiga e sálvia",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "ossobuco alla milanese",
+          "descricao": "ossobuco de vitela cozinhado lentamente com risotto alla milanese",
+          "preco": 12500
+        },
+        {
+          "nome": "saltimbocca alla romana",
+          "descricao": "escalopes de vitela com presunto de Parma e sálvia",
+          "preco": 10800
+        },
+        {
+          "nome": "pesce alla griglia",
+          "descricao": "peixe do dia grelhado com legumes mediterrânicos e azeite de limão",
+          "preco": 9500
+        },
+        {
+          "nome": "pollo alla parmigiana",
+          "descricao": "peito de frango empanado com molho de tomate e queijo gratinado",
+          "preco": 7800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "tiramisù",
+          "descricao": "sobremesa italiana clássica com café, mascarpone e cacau",
+          "preco": 2200
+        },
+        {
+          "nome": "panna cotta",
+          "descricao": "panna cotta tradicional com coulis de frutos vermelhos",
+          "preco": 2000
+        },
+        {
+          "nome": "cannoli siciliani",
+          "descricao": "cannoli crocantes recheados com ricotta doce e pepitas de chocolate",
+          "preco": 2400
+        },
+        {
+          "nome": "gelato italiano",
+          "descricao": "selecção de gelados artesanais italianos (3 bolas)",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho tinto Chianti",
+          "descricao": "vinho tinto toscano Chianti Classico",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho branco Pinot Grigio",
+          "descricao": "vinho branco italiano leve e fresco",
+          "preco": 8500
+        },
+        {
+          "nome": "Prosecco",
+          "descricao": "espumante italiano gelado",
+          "preco": 7800
+        },
+        {
+          "nome": "Aperol Spritz",
+          "descricao": "cocktail italiano com Aperol, Prosecco e água com gás",
+          "preco": 1800
+        },
+        {
+          "nome": "espresso italiano",
+          "descricao": "café expresso italiano autêntico",
+          "preco": 500
+        },
+        {
+          "nome": "limonada caseira",
+          "descricao": "limonada fresca feita na hora",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-23:30",
+      "sabado": "12:00-23:30",
+      "domingo": "12:00-22:30"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "recomenda-se reserva aos fins de semana e feriados"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 412,
+    "avaliacoes": [
+      {
+        "autor": "Filipe Rodrigues",
+        "nota": 5,
+        "comentario": "a melhor pizza de Luanda, sem dúvida! o forno a lenha faz toda a diferença. ambiente acolhedor e staff simpático. voltarei com certeza!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Teresa Almeida",
+        "nota": 5,
+        "comentario": "experiência fantástica! a carbonara estava divinal e o tiramisù é o melhor que já comi fora de Itália. serviço impecável.",
+        "data": "2025-11-18",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Marco Rossi",
+        "nota": 5,
+        "comentario": "como italiano, posso confirmar que a comida é autêntica e de excelente qualidade. sinto-me em casa quando venho aqui.",
+        "data": "2025-11-15",
+        "origem": "Milão, Itália"
+      },
+      {
+        "autor": "Carla Santos",
+        "nota": 4,
+        "comentario": "restaurante muito bom! as massas são frescas e saborosas. preços razoáveis para a qualidade. recomendo!",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Paulo Mendes",
+        "nota": 4,
+        "comentario": "óptimo restaurante italiano na Ilha. o ossobuco estava delicioso e bem servido. ambiente romântico, ideal para jantares a dois.",
+        "data": "2025-11-05",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua com vigilância",
+    "informacaoEstacionamento": "estacionamento na rua em frente ao restaurante com vigilância privada. disponibilidade variável aos fins de semana.",
+    "capacidadeEstacionamento": 15,
+    "custoEstacionamento": "500 AOA (pago ao vigilante)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante horário de funcionamento",
+      "vigilância privada no estacionamento",
+      "boa iluminação na área do restaurante",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "staff atencioso e prestável"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve mesa na esplanada para desfrutar do ar fresco e vista parcial do mar",
+      "autor": "Sofia Costa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "experimente a pizza margherita no forno a lenha - é a especialidade da casa",
+      "autor": "André Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o tiramisù é obrigatório! não saiam sem provar esta sobremesa",
+      "autor": "Isabella Martini",
+      "origem": "Roma, Itália"
+    },
+    {
+      "dica": "chegue cedo aos fins de semana pois enche rapidamente, ou reserve com antecedência",
+      "autor": "Ricardo Fonseca",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=800",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800",
+      "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=800",
+      "https://images.unsplash.com/photo-1555992336-fb0af7488d90?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Casanova - Pizza Italiana Autêntica na Ilha de Luanda",
+    "metaDescricao": "restaurante italiano na Ilha de Luanda com pizzas no forno a lenha, massas frescas e cozinha tradicional. ambiente familiar e romântico. reserve já!",
+    "tags": ["italiana", "pizza", "massas", "forno a lenha", "romântico", "familiar", "ilha de luanda", "mediterrânica", "esplanada", "tiramisù", "autêntica"]
+  }
+}

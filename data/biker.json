@@ -1,0 +1,343 @@
+{
+  "id": "biker",
+  "nome": "Restaurante Biker",
+  "descricao": "restaurante descontraído com temática de motociclismo, especializado em grelhados, hambúrgueres gourmet e ambiente rock n' roll",
+  "descricaoCompleta": "o Restaurante Biker é um conceito único na Ilha de Luanda que combina a paixão pelas motos com excelente gastronomia. decorado com memorabilia de motociclismo, capacetes vintage, placas de matrícula antigas e uma impressionante Harley Davidson suspensa, o espaço atrai tanto entusiastas de duas rodas como apreciadores de boa comida num ambiente descontraído. a carta foca-se em grelhados suculentos, hambúrgueres gourmet de dimensões generosas e petiscos ideais para partilhar. o ambiente rock com música ao vivo aos fins de semana cria uma atmosfera vibrante e informal. o espaço exterior com mesas na varanda é perfeito para grupos de amigos e encontros de motociclistas que acontecem regularmente. a Biker nasceu da paixão do proprietário angolano pelo motociclismo e pela cozinha americana, resultando num restaurante que se tornou ponto de encontro da comunidade biker de Luanda e de quem procura uma experiência gastronómica diferente e animada na Ilha.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, n.º 78, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7945,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 394 567",
+    "telemovel": "+244 926 789 234",
+    "email": "info@bikerrestaurante.ao",
+    "website": "https://www.bikerluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/bikerluanda",
+      "instagram": "https://www.instagram.com/biker_ilha",
+      "twitter": "https://twitter.com/bikerluanda"
+    }
+  },
+
+  "tipoCozinha": ["americana", "grelhados", "hambúrgueres", "petiscos", "barbecue"],
+  "especialidades": [
+    "monster burger triplo",
+    "costelas BBQ ao molho Jack Daniel's",
+    "T-bone steak na brasa",
+    "pulled pork sandwich",
+    "buffalo wings picantes",
+    "batatas rústicas com queijo e bacon",
+    "nachos supreme"
+  ],
+  "ambiente": ["descontraído", "rock", "motociclismo", "animado", "varanda", "música ao vivo"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 7200,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "buffalo wings",
+          "descricao": "12 asinhas de frango picantes com molho blue cheese",
+          "preco": 2800
+        },
+        {
+          "nome": "nachos supreme",
+          "descricao": "nachos com queijo derretido, guacamole, jalapeños, carne moída e natas",
+          "preco": 3200
+        },
+        {
+          "nome": "onion rings",
+          "descricao": "argolas de cebola empanadas e fritas crocantes",
+          "preco": 1800
+        },
+        {
+          "nome": "batatas rústicas supreme",
+          "descricao": "batatas rústicas com queijo cheddar derretido, bacon e cebolinho",
+          "preco": 2500
+        },
+        {
+          "nome": "jalapeño poppers",
+          "descricao": "pimentos jalapeño recheados com cream cheese e empanados",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "hambúrgueres",
+      "pratos": [
+        {
+          "nome": "classic burger",
+          "descricao": "hambúrguer de vaca 200g, queijo, alface, tomate, pickles e molho biker",
+          "preco": 4500
+        },
+        {
+          "nome": "monster burger",
+          "descricao": "três hambúrgueres de vaca 200g cada, queijo triplo, bacon, ovo e molho especial",
+          "preco": 8500
+        },
+        {
+          "nome": "bacon cheese burger",
+          "descricao": "hambúrguer de vaca 250g, queijo cheddar, bacon crocante e cebola caramelizada",
+          "preco": 5800
+        },
+        {
+          "nome": "pulled pork burger",
+          "descricao": "porco desfiado lentamente cozinhado em molho BBQ com coleslaw",
+          "preco": 5500
+        },
+        {
+          "nome": "chicken burger",
+          "descricao": "peito de frango grelhado, queijo, alface, tomate e maionese de alho",
+          "preco": 4200
+        }
+      ]
+    },
+    {
+      "categoria": "grelhados",
+      "pratos": [
+        {
+          "nome": "costelas BBQ",
+          "descricao": "costelas de porco ao molho Jack Daniel's BBQ com batatas rústicas",
+          "preco": 9800
+        },
+        {
+          "nome": "T-bone steak 500g",
+          "descricao": "T-bone de vaca maturado 500g grelhado na brasa com legumes",
+          "preco": 15500
+        },
+        {
+          "nome": "picanha grelhada 400g",
+          "descricao": "picanha grelhada na brasa com batatas fritas e arroz",
+          "preco": 12000
+        },
+        {
+          "nome": "frango grelhado completo",
+          "descricao": "meio frango grelhado com molho piri-piri e batatas",
+          "preco": 6500
+        },
+        {
+          "nome": "espetadas mistas",
+          "descricao": "espetadas de vaca, frango e linguiça com pimentos e cebola",
+          "preco": 7800
+        }
+      ]
+    },
+    {
+      "categoria": "sanduíches",
+      "pratos": [
+        {
+          "nome": "pulled pork sandwich",
+          "descricao": "porco desfiado em molho BBQ com coleslaw em pão brioche",
+          "preco": 4800
+        },
+        {
+          "nome": "philly cheese steak",
+          "descricao": "bife fatiado com queijo derretido, pimentos e cebola",
+          "preco": 5200
+        },
+        {
+          "nome": "club sandwich",
+          "descricao": "sanduíche tripla com frango, bacon, ovo, alface e tomate",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie de chocolate quente com gelado de baunilha",
+          "preco": 2000
+        },
+        {
+          "nome": "cheesecake de Oreo",
+          "descricao": "cheesecake cremosa com base de Oreo",
+          "preco": 2200
+        },
+        {
+          "nome": "apple pie",
+          "descricao": "tarte de maçã americana com gelado",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Heineken",
+          "descricao": "cerveja Heineken gelada",
+          "preco": 800
+        },
+        {
+          "nome": "milkshake",
+          "descricao": "milkshake de chocolate, baunilha ou morango",
+          "preco": 1500
+        },
+        {
+          "nome": "coca-cola",
+          "descricao": "coca-cola gelada",
+          "preco": 500
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "sumo natural de laranja, ananás ou maracujá",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "18:00-23:00",
+      "quarta": "18:00-23:00",
+      "quinta": "18:00-23:30",
+      "sexta": "12:00-01:00",
+      "sabado": "12:00-02:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "música ao vivo às sextas e sábados a partir das 21h. encontros de motociclistas aos domingos"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 368,
+    "avaliacoes": [
+      {
+        "autor": "Miguel Andrade",
+        "nota": 5,
+        "comentario": "ambiente fantástico! como motociclista, adoro este lugar. as costelas BBQ são as melhores de Luanda e as doses são generosas!",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sandra Oliveira",
+        "nota": 4,
+        "comentario": "restaurante muito fixe e diferente! o monster burger é um desafio delicioso. música ao vivo aos sábados é top!",
+        "data": "2025-11-19",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Carlos Pereira",
+        "nota": 5,
+        "comentario": "excelente para ir com amigos! ambiente descontraído, comida saborosa e preços justos. recomendo as buffalo wings!",
+        "data": "2025-11-14",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "John Smith",
+        "nota": 4,
+        "comentario": "great atmosphere and excellent burgers! loved the rock music and the biker theme. will definitely come back!",
+        "data": "2025-11-08",
+        "origem": "Houston, USA"
+      },
+      {
+        "autor": "Patrícia Gomes",
+        "nota": 4,
+        "comentario": "adorei a experiência! o T-bone estava no ponto perfeito e o staff é super simpático. ambiente rock é muito animado!",
+        "data": "2025-11-02",
+        "origem": "Lisboa, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque privativo",
+    "informacaoEstacionamento": "parque de estacionamento próprio para carros e motos. área especial reservada para motocicletas com segurança.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "parque de estacionamento privativo com vigilância",
+      "zona segura e bem iluminada",
+      "segurança discreta no local aos fins de semana",
+      "comunidade biker cria ambiente de camaradagem e segurança",
+      "staff atento e prestável"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "experimente o monster burger se tiver coragem! é enorme mas delicioso. ideal para partilhar",
+      "autor": "Fernando Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "vá aos domingos para ver os encontros de motociclistas, é um espectáculo à parte!",
+      "autor": "Rui Martins",
+      "origem": "Lubango, Angola"
+    },
+    {
+      "dica": "as costelas BBQ são obrigatórias! molho incrível e carne que se desfaz",
+      "autor": "Ana Silva",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "reserve aos sábados se quiser garantir lugar durante a música ao vivo",
+      "autor": "Pedro Santos",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "bandas de rock ao vivo sextas e sábados a partir das 21h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=800",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+      "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "https://images.unsplash.com/photo-1585238341710-4a98f0382a12?w=800",
+      "https://images.unsplash.com/photo-1598182198871-d3f4ab4fd181?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Biker - Hambúrgueres Gourmet e Grelhados na Ilha de Luanda",
+    "metaDescricao": "restaurante temático de motociclismo na Ilha de Luanda com hambúrgueres gourmet, grelhados e costelas BBQ. ambiente rock com música ao vivo aos fins de semana.",
+    "tags": ["hambúrgueres", "grelhados", "americana", "rock", "música ao vivo", "descontraído", "ilha de luanda", "BBQ", "motociclismo", "petiscos", "animado"]
+  }
+}

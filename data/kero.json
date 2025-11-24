@@ -1,0 +1,310 @@
+{
+  "id": "kero",
+  "nome": "Restaurante Kero",
+  "descricao": "restaurante angolano contemporâneo que celebra os sabores tradicionais com apresentação moderna e ingredientes locais",
+  "descricaoCompleta": "o Restaurante Kero representa a nova geração da gastronomia angolana, combinando tradição e inovação numa proposta única na Ilha de Luanda. fundado por um chef angolano formado internacionalmente, o Kero tem como missão valorizar os ingredientes e receitas locais através de técnicas contemporâneas de cozinha. o nome 'Kero' significa 'quero' em kimbundu, reflectindo o desejo de partilhar a riqueza culinária de Angola com o mundo. o espaço é moderno e acolhedor, com uma decoração que mistura elementos africanos tradicionais com design contemporâneo. a carta é cuidadosamente construída em torno dos produtos angolanos: desde o peixe fresco da costa, passando pela mandioca, jindungo, óleo de palma, até às múcuas e outras frutas tropicais. os pratos mais emblemáticos incluem reinterpretações de clássicos como o mufete, a muamba de galinha e o calulu, apresentados com uma estética refinada mas mantendo a essência dos sabores. o Kero também se destaca pela carta de bebidas, que inclui cocktails inspirados em ingredientes angolanos. perfeito para quem quer descobrir a autêntica cozinha angolana numa versão sofisticada.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Zona Norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7935,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 447 890",
+    "telemovel": "+244 928 654 321",
+    "email": "reservas@restaurantekero.ao",
+    "website": "https://www.restaurantekero.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restaurantekero",
+      "instagram": "https://www.instagram.com/kero_angola",
+      "twitter": "https://twitter.com/kerongola"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "contemporânea", "fusão africana", "moderna"],
+  "especialidades": [
+    "mufete contemporâneo",
+    "muamba de galinha premium",
+    "calulu de peixe revisitado",
+    "cabrito assado com jindungo",
+    "funge com molho de ginguba",
+    "peixe com molho de óleo de palma",
+    "tártaro de peixe local"
+  ],
+  "ambiente": ["moderno", "sofisticado", "afro-contemporâneo", "elegante"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 11500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "tártaro de peixe local",
+          "descricao": "peixe fresco em tártaro com abacate, jindungo e azeite de palma",
+          "preco": 3800
+        },
+        {
+          "nome": "croquetes de mandioca",
+          "descricao": "croquetes crocantes de mandioca com queijo de cabra e mel de Angola",
+          "preco": 2800
+        },
+        {
+          "nome": "carpaccio de polvo",
+          "descricao": "polvo em carpaccio com óleo de jindungo e coentros",
+          "preco": 4200
+        },
+        {
+          "nome": "salada de ginguba",
+          "descricao": "salada mista com ginguba torrada e vinagrete de múcua",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "mufete contemporâneo",
+          "descricao": "peixe cacusso grelhado com molho cru moderno, banana-pão caramelizada e mandioca crocante",
+          "preco": 10500
+        },
+        {
+          "nome": "muamba de galinha premium",
+          "descricao": "galinha angolana em molho de óleo de palma, gindungo e quiabos, servida com funge de milho",
+          "preco": 9800
+        },
+        {
+          "nome": "calulu de peixe revisitado",
+          "descricao": "calulu de peixe fresco com mandioca, batata-doce e folhas de gindungo",
+          "preco": 8900
+        },
+        {
+          "nome": "cabrito assado com jindungo",
+          "descricao": "cabrito assado lentamente com molho de jindungo e batatas rústicas",
+          "preco": 13500
+        },
+        {
+          "nome": "peixe com óleo de palma",
+          "descricao": "peixe do dia grelhado com molho de óleo de palma, alho e coentros",
+          "preco": 9200
+        },
+        {
+          "nome": "lombo de vaca com funge",
+          "descricao": "lombo de vaca angolana grelhado com funge de bombo e molho de ginguba",
+          "preco": 12800
+        },
+        {
+          "nome": "lagosta à angolana",
+          "descricao": "lagosta grelhada com molho de jindungo, limão e manteiga",
+          "preco": 16500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "mousse de múcua",
+          "descricao": "mousse cremosa de múcua com crumble de ginguba",
+          "preco": 2200
+        },
+        {
+          "nome": "tarte de banana-pão",
+          "descricao": "tarte de banana-pão caramelizada com gelado de coco",
+          "preco": 2400
+        },
+        {
+          "nome": "pudim de ananás",
+          "descricao": "pudim tradicional de ananás com calda de caramelo",
+          "preco": 1900
+        },
+        {
+          "nome": "salada de frutas tropicais",
+          "descricao": "frutas frescas angolanas com sorbet de maracujá",
+          "preco": 2100
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "cocktail Kero",
+          "descricao": "cocktail autoral com rum angolano, múcua e gengibre",
+          "preco": 2300
+        },
+        {
+          "nome": "caipirinha de maracujá",
+          "descricao": "caipirinha com maracujá fresco de Angola",
+          "preco": 1800
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua (fruto do imbondeiro)",
+          "preco": 900
+        },
+        {
+          "nome": "cerveja Cuca",
+          "descricao": "cerveja angolana gelada",
+          "preco": 600
+        },
+        {
+          "nome": "vinho português",
+          "descricao": "selecção de vinhos portugueses (garrafa)",
+          "preco": 9500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-22:00",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "12:00-23:00",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "menu degustação disponível mediante reserva prévia (mínimo 2 pessoas)"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 215,
+    "avaliacoes": [
+      {
+        "autor": "Daniela Monteiro",
+        "nota": 5,
+        "comentario": "experiência gastronómica incrível! a muamba de galinha estava perfeita e a apresentação dos pratos é impecável. finalmente um restaurante que valoriza a cozinha angolana!",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "André Silva",
+        "nota": 5,
+        "comentario": "adorei a proposta do Kero! comida angolana autêntica mas com um toque moderno. o mufete contemporâneo é surpreendente.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Catarina Santos",
+        "nota": 4,
+        "comentario": "excelente! sabores genuínos de Angola com apresentação sofisticada. o calulu de peixe estava delicioso. recomendo!",
+        "data": "2025-11-17",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Ricardo Lopes",
+        "nota": 5,
+        "comentario": "o melhor restaurante de comida angolana que já visitei. o chef conseguiu elevar os pratos tradicionais sem perder a essência.",
+        "data": "2025-11-14",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Isabel Ferreira",
+        "nota": 4,
+        "comentario": "adorei a experiência! ambiente moderno, staff simpático e a comida é excelente. o cocktail Kero é obrigatório!",
+        "data": "2025-11-11",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com vigilância 24h. capacidade para 20 viaturas. acesso direto ao restaurante.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona segura com vigilância privada",
+      "estacionamento vigiado 24h",
+      "boa iluminação na área do restaurante",
+      "controlo de acesso ao estacionamento",
+      "staff atencioso e prestável para qualquer assistência"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve o menu degustação se quiser experimentar o melhor da cozinha angolana contemporânea",
+      "autor": "Paulo Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o mufete contemporâneo, é uma reinterpretação brilhante do prato tradicional",
+      "autor": "Sofia Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "não saia sem provar o cocktail Kero, é único e usa ingredientes angolanos",
+      "autor": "Miguel Andrade",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "pergunte ao staff sobre a história dos pratos, eles adoram explicar as técnicas e ingredientes",
+      "autor": "Ana Rodrigues",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "a mousse de múcua é imperdível, uma sobremesa verdadeiramente angolana",
+      "autor": "Carlos Mendes",
+      "origem": "Maputo, Moçambique"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "menuDegustacao": true,
+    "chefAVista": false,
+    "idealParaCasais": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Kero - Cozinha Angolana Contemporânea na Ilha de Luanda",
+    "metaDescricao": "restaurante angolano contemporâneo na Ilha de Luanda. mufete, muamba, calulu revisitados com técnicas modernas. celebre os sabores tradicionais de Angola.",
+    "tags": ["angolana", "contemporânea", "mufete", "muamba", "calulu", "moderna", "ilha de luanda", "fusão africana", "ingredientes locais", "sofisticada"]
+  }
+}

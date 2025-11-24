@@ -1,0 +1,323 @@
+{
+  "id": "wave-beach-club",
+  "nome": "Wave Beach Club",
+  "descricao": "beach club premium na Ilha de Luanda com piscina, gastronomia internacional e eventos ao pôr do sol com DJ",
+  "descricaoCompleta": "o Wave Beach Club é um dos espaços mais modernos e sofisticados da Ilha de Luanda, combinando gastronomia de qualidade com uma atmosfera vibrante à beira-mar. com uma piscina ampla, espreguiçadeiras confortáveis e várias áreas lounge, o espaço oferece uma experiência completa de beach club. a carta gastronómica destaca-se pela fusão entre cozinha internacional e ingredientes locais, com especial destaque para os pratos de marisco fresco, sushi e grelhados premium. aos fins de semana, o Wave Beach Club transforma-se num dos pontos mais animados da cidade com sessões de DJ, eventos sunset e uma energia contagiante. o serviço atencioso, a decoração moderna e a vista deslumbrante sobre o oceano Atlântico fazem deste espaço uma escolha perfeita tanto para almoços relaxados como para noites festivas. ideal para grupos de amigos, casais e famílias que procuram uma experiência premium na Ilha.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.7995,
+      "longitude": 13.2328
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 445 780",
+    "telemovel": "+244 926 345 678",
+    "email": "reservas@wavebeachclub.ao",
+    "website": "https://www.wavebeachclub.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/wavebeachclubluanda",
+      "instagram": "https://www.instagram.com/wavebeachclub",
+      "tiktok": "https://www.tiktok.com/@wavebeachclub"
+    }
+  },
+
+  "tipoCozinha": ["internacional", "fusão", "marisco", "sushi", "grelhados"],
+  "especialidades": [
+    "sushi premium selection",
+    "camarão tigre grelhado",
+    "polvo à lagareiro",
+    "lombo de atum selado",
+    "lagosta grelhada",
+    "hambúrguer wave signature",
+    "cocktails tropicais autorais"
+  ],
+  "ambiente": ["moderno", "beach club", "vista mar", "piscina", "animado", "dj", "sunset"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 16500,
+    "moeda": "AOA",
+    "observacao": "entrada mínima de 4000 AOA consumível aos sábados e domingos"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ceviche tropical",
+          "descricao": "peixe fresco marinado em lima, leite de coco, coentros e pimenta",
+          "preco": 4200
+        },
+        {
+          "nome": "tártaro de salmão",
+          "descricao": "salmão fresco com abacate, wakame e molho ponzu",
+          "preco": 4500
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho, azeite e limão",
+          "preco": 3800
+        },
+        {
+          "nome": "bruschetta de tomate",
+          "descricao": "bruschetta italiana com tomate, manjericão e mozzarella",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & sashimi",
+      "pratos": [
+        {
+          "nome": "wave signature roll",
+          "descricao": "salmão, cream cheese, pepino, tempura flakes e molho especial",
+          "preco": 6200
+        },
+        {
+          "nome": "rainbow roll",
+          "descricao": "california roll coberto com salmão, atum e abacate",
+          "preco": 7500
+        },
+        {
+          "nome": "sashimi misto premium",
+          "descricao": "selecção de sashimi de atum, salmão e robalo",
+          "preco": 8800
+        },
+        {
+          "nome": "temaki de camarão",
+          "descricao": "temaki de camarão empanado com maionese wasabi",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada wave",
+          "descricao": "lagosta inteira grelhada com manteiga de alho e batatas",
+          "preco": 17500
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo confitado com batatas a murro e azeite virgem",
+          "preco": 13200
+        },
+        {
+          "nome": "lombo de atum selado",
+          "descricao": "lombo de atum com crosta de sésamo, legumes e molho teriyaki",
+          "preco": 12500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarão tigre gigante grelhado com molho de alho e ervas",
+          "preco": 11800
+        },
+        {
+          "nome": "hambúrguer wave signature",
+          "descricao": "hambúrguer de vaca premium com queijo, bacon e batatas trufadas",
+          "preco": 8500
+        },
+        {
+          "nome": "peixe grelhado do dia",
+          "descricao": "peixe fresco grelhado com legumes salteados e arroz",
+          "preco": 9800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cheesecake de maracujá",
+          "descricao": "cheesecake cremoso com coulis de maracujá",
+          "preco": 2300
+        },
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie de chocolate quente com gelado de baunilha",
+          "preco": 2500
+        },
+        {
+          "nome": "salada de frutas tropicais",
+          "descricao": "frutas frescas da época com gelado de coco",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "wave sunset cocktail",
+          "descricao": "cocktail autoral com vodka, maracujá, lima e xarope de gengibre",
+          "preco": 2400
+        },
+        {
+          "nome": "mojito clássico",
+          "descricao": "mojito tradicional com rum branco, hortelã e lima",
+          "preco": 2000
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "rum, ananás e leite de coco",
+          "preco": 2200
+        },
+        {
+          "nome": "sumo natural de ananás",
+          "descricao": "sumo fresco de ananás natural",
+          "preco": 800
+        },
+        {
+          "nome": "água de coco",
+          "descricao": "água de coco gelada natural",
+          "preco": 700
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-23:00",
+      "sexta": "11:00-02:00",
+      "sabado": "10:00-03:00",
+      "domingo": "10:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "eventos sunset às sextas e sábados a partir das 18h. brunch aos domingos das 10h às 14h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 324,
+    "avaliacoes": [
+      {
+        "autor": "Mariana Silva",
+        "nota": 5,
+        "comentario": "espaço incrível! a piscina é linda, a comida é excelente e o ambiente ao pôr do sol é mágico. adorei os cocktails.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Pereira",
+        "nota": 4,
+        "comentario": "muito bom! o sushi é de qualidade e o ambiente é moderno. preços elevados mas justificáveis pela experiência.",
+        "data": "2025-11-18",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Joana Costa",
+        "nota": 5,
+        "comentario": "o melhor beach club da Ilha! serviço impecável, comida deliciosa e a energia aos sábados é fantástica.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Paulo Santos",
+        "nota": 4,
+        "comentario": "excelente para passar o dia. a piscina é ótima, as espreguiçadeiras confortáveis e o hambúrguer wave é muito bom.",
+        "data": "2025-11-12",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "estacionamento privativo com serviço de valet parking gratuito. capacidade para 40 viaturas com segurança 24h.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito com valet parking"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada rigorosa na entrada",
+      "valet parking disponível para protecção do veículo",
+      "zona bem iluminada e vigiada 24h",
+      "controlo de acesso ao recinto",
+      "staff de segurança discreto mas presente em todo o espaço"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência para os eventos sunset de sexta e sábado, enche muito rápido",
+      "autor": "Catarina Lopes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o brunch de domingo, é espectacular e inclui opções doces e salgadas",
+      "autor": "Miguel Andrade",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "chegue cedo se quiser uma boa espreguiçadeira junto à piscina",
+      "autor": "Sofia Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "o wave sunset cocktail é obrigatório, especialmente ao pôr do sol",
+      "autor": "André Carvalho",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "traga fato de banho se quiser usar a piscina, há balneários no local",
+      "autor": "Laura Santos",
+      "origem": "Maputo, Moçambique"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ sexta e sábado a partir das 18h",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "piscina": true,
+    "valetParking": true,
+    "dresscode": "smart casual aos fins de semana",
+    "entradaMinima": true,
+    "eventosSunset": true,
+    "brunch": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1582610116397-edb318620f90?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Wave Beach Club - Beach Club Premium Ilha de Luanda | Piscina & Sunset",
+    "metaDescricao": "beach club moderno na Ilha de Luanda com piscina, gastronomia internacional, sushi, eventos sunset com DJ e brunch aos domingos. experiência premium à beira-mar.",
+    "tags": ["beach club", "piscina", "sunset", "dj", "moderno", "ilha de luanda", "sushi", "cocktails", "eventos", "brunch", "valet parking", "vista mar"]
+  }
+}

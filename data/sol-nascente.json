@@ -1,0 +1,305 @@
+{
+  "id": "sol-nascente",
+  "nome": "Restaurante Sol Nascente",
+  "descricao": "restaurante com vista espectacular sobre o oceano, especializado em culinária de fusão afro-portuguesa e peixe fresco num ambiente moderno e relaxante",
+  "descricaoCompleta": "o Restaurante Sol Nascente é um dos estabelecimentos mais recentes e promissores da Ilha de Luanda, rapidamente conquistando o coração dos luandenses e visitantes. o nome é uma homenagem ao espectáculo diário que o oceano Atlântico proporciona ao amanhecer, visível das amplas janelas panorâmicas do restaurante. o conceito do Sol Nascente é inovador, propondo uma fusão criativa entre a tradição culinária angolana e as técnicas da cozinha portuguesa contemporânea. o chef, formado em Lisboa e com experiência em restaurantes de renome, voltou a Angola com a missão de elevar a gastronomia local sem perder as raízes. o menu muda sazonalmente, mas mantém sempre favoritos como o peixe do dia em crosta de coco, o arroz de marisco com toque de óleo de palma e o famoso bife de atum com puré de banana-pão. o ambiente é moderno mas acolhedor, com uma paleta de cores que remete ao mar e ao sol, mobiliário contemporâneo e uma esplanada coberta onde se pode jantar ao som das ondas. o Sol Nascente tornou-se também popular pelos seus brunches de domingo, que oferecem um buffet variado com opções angolanas e internacionais.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Atlântico, Zona Sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8075,
+      "longitude": 13.2350
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 447 823",
+    "telemovel": "+244 927 654 321",
+    "email": "info@solnascente.ao",
+    "website": "https://www.solnascente.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restaurantesolnascente",
+      "instagram": "https://www.instagram.com/sol_nascente_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/solnascente"
+    }
+  },
+
+  "tipoCozinha": ["fusão", "afro-portuguesa", "contemporânea", "marisco", "internacional"],
+  "especialidades": [
+    "peixe em crosta de coco com molho de maracujá",
+    "arroz de marisco com óleo de palma",
+    "bife de atum com puré de banana-pão",
+    "polvo confitado com batata roxa",
+    "mufete contemporâneo",
+    "camarão em caril de múcua",
+    "lombo de peixe com funge cremoso"
+  ],
+  "ambiente": ["moderno", "vista mar", "relaxante", "contemporâneo", "elegante casual"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9800,
+    "moeda": "AOA",
+    "observacao": "brunch de domingo: 8500 AOA por pessoa (buffet livre)"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ceviche tropical",
+          "descricao": "ceviche de robalo com leite de coco, lima, coentros e chips de mandioca",
+          "preco": 3200
+        },
+        {
+          "nome": "tartare de atum com abacate",
+          "descricao": "atum fresco em tartare com abacate, gengibre e molho de soja",
+          "preco": 3800
+        },
+        {
+          "nome": "camarão crocante",
+          "descricao": "camarão empanado em coco ralado com molho agridoce de maracujá",
+          "preco": 3500
+        },
+        {
+          "nome": "salada Sol Nascente",
+          "descricao": "mix de folhas, manga, queijo de cabra e nozes com vinagrete de mel",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe em crosta de coco",
+          "descricao": "lombo de peixe do dia com crosta de coco, molho de maracujá e arroz de jasmim",
+          "preco": 8900
+        },
+        {
+          "nome": "arroz de marisco fusion",
+          "descricao": "arroz cremoso de marisco com toque de óleo de palma e leite de coco",
+          "preco": 9500
+        },
+        {
+          "nome": "bife de atum premium",
+          "descricao": "bife de atum selado com puré de banana-pão e legumes salteados",
+          "preco": 10500
+        },
+        {
+          "nome": "polvo confitado",
+          "descricao": "polvo confitado a baixa temperatura com puré de batata roxa e aioli de piri-piri",
+          "preco": 11200
+        },
+        {
+          "nome": "mufete contemporâneo",
+          "descricao": "peixe cacusso com molho cru revisitado, chips de banana e funge cremoso",
+          "preco": 7800
+        },
+        {
+          "nome": "camarão em caril de múcua",
+          "descricao": "camarão tigre em caril cremoso de múcua com arroz basmati",
+          "preco": 12800
+        },
+        {
+          "nome": "lombo de robalo",
+          "descricao": "lombo de robalo grelhado com risoto de limão siciliano e espargos",
+          "preco": 9200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cheesecake de maracujá",
+          "descricao": "cheesecake cremosa com coulis de maracujá fresco",
+          "preco": 2000
+        },
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie quente de chocolate com gelado de baunilha e calda",
+          "preco": 2200
+        },
+        {
+          "nome": "pavlova tropical",
+          "descricao": "merengue crocante com chantilly e frutas tropicais",
+          "preco": 2400
+        },
+        {
+          "nome": "mousse de chocolate e coco",
+          "descricao": "mousse leve de chocolate com raspas de coco torrado",
+          "preco": 1900
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "cocktail Sol Nascente",
+          "descricao": "cocktail especial da casa com rum, maracujá e manga",
+          "preco": 1800
+        },
+        {
+          "nome": "mojito de múcua",
+          "descricao": "mojito tropical com polpa de múcua e hortelã",
+          "preco": 1700
+        },
+        {
+          "nome": "vinho branco português",
+          "descricao": "selecção de vinhos brancos portugueses",
+          "preco": 7500
+        },
+        {
+          "nome": "sumo detox verde",
+          "descricao": "sumo natural de espinafres, maçã, gengibre e limão",
+          "preco": 1200
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 18:30-22:30",
+      "quarta": "12:00-15:00, 18:30-22:30",
+      "quinta": "12:00-15:00, 18:30-22:30",
+      "sexta": "12:00-15:00, 18:30-23:30",
+      "sabado": "12:00-23:30",
+      "domingo": "10:00-16:00, 19:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "brunch aos domingos das 10:00 às 15:00 (reserva obrigatória). menu degustação disponível mediante reserva prévia"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 156,
+    "avaliacoes": [
+      {
+        "autor": "Daniela Soares",
+        "nota": 5,
+        "comentario": "que descoberta maravilhosa! a fusão de sabores é incrível e muito bem executada. o peixe em crosta de coco é uma obra de arte. ambiente moderno e vista espectacular.",
+        "data": "2025-11-23",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Rui Marques",
+        "nota": 5,
+        "comentario": "o melhor brunch de Luanda sem dúvida! variedade imensa, tudo fresco e delicioso. o ambiente é relaxante e o staff muito profissional. vale cada kwanza!",
+        "data": "2025-11-20",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Tatiana Costa",
+        "nota": 4,
+        "comentario": "adorei a proposta de fusão! o chef conseguiu criar pratos únicos que respeitam as raízes angolanas mas com toques contemporâneos. recomendo!",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Alexandre Silva",
+        "nota": 5,
+        "comentario": "experiência gastronómica fantástica! o bife de atum estava perfeito e o puré de banana-pão uma surpresa deliciosa. vista linda e ambiente agradável.",
+        "data": "2025-11-16",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carolina Nunes",
+        "nota": 4,
+        "comentario": "muito bom! gostei especialmente do arroz de marisco fusion, diferente de tudo que já provei. staff simpático e atencioso.",
+        "data": "2025-11-13",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com segurança, capacidade para 30 viaturas. acesso direto ao restaurante. gratuito para clientes.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona segura com vigilância privada",
+      "estacionamento privativo vigiado 24h",
+      "boa iluminação em todo o perímetro",
+      "staff treinado e atencioso",
+      "frequentado por público local e internacional",
+      "sistema de segurança moderno no estabelecimento"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência para o brunch de domingo, é muito concorrido e vale muito a pena",
+      "autor": "Sofia Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o peixe em crosta de coco, é a assinatura do chef e simplesmente delicioso",
+      "autor": "Pedro Alves",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "peça mesa junto às janelas para aproveitar a vista panorâmica sobre o oceano",
+      "autor": "Inês Rodrigues",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "se gosta de experimentar coisas novas, pergunte pelo menu degustação. vale a pena!",
+      "autor": "Marco Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "não saia sem provar o cocktail Sol Nascente, é refrescante e delicioso",
+      "autor": "Juliana Ferreira",
+      "origem": "São Paulo, Brasil"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Sol Nascente - Restaurante Fusão na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante de fusão afro-portuguesa na Ilha de Luanda. culinária contemporânea, peixe fresco, brunch aos domingos e vista espectacular sobre o oceano.",
+    "tags": ["fusão", "contemporânea", "afro-portuguesa", "vista mar", "brunch", "ilha de luanda", "peixe fresco", "moderno", "elegante", "marisco", "internacional"]
+  }
+}

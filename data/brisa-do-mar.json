@@ -1,0 +1,334 @@
+{
+  "id": "brisa-do-mar",
+  "nome": "Brisa do Mar",
+  "descricao": "bar e restaurante à beira-mar com ambiente descontraído, cocktails tropicais, petiscos angolanos e música ao vivo aos fins de semana",
+  "descricaoCompleta": "o Brisa do Mar é muito mais do que um restaurante, é uma experiência completa da vida na Ilha de Luanda. este estabelecimento combina perfeitamente a função de bar, restaurante e espaço de lazer, criando um ambiente único onde os visitantes podem passar horas a desfrutar da brisa do oceano, boa música e comida saborosa. localizado numa posição privilegiada junto à praia, o Brisa do Mar oferece uma atmosfera descontraída e bohemia, com mesas na areia, redes para relaxar e uma decoração colorida que evoca o espírito tropical de Angola. o menu foca-se em petiscos angolanos, grelhados simples e deliciosos, e uma carta de cocktails tropicais que são a especialidade da casa. aos fins de semana, o espaço ganha vida com música ao vivo, desde kizomba e semba até reggae e música acústica, transformando-se num ponto de encontro para jovens, famílias e turistas. o Brisa do Mar é perfeito para quem procura uma experiência autêntica e relaxada, longe da formalidade de restaurantes mais sofisticados. é o lugar ideal para uma tarde de cerveja gelada, um jantar casual com amigos ou simplesmente para aproveitar o pôr do sol com os pés na areia.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Praia Central, Zona Norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7945,
+      "longitude": 13.2305
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 388 976",
+    "telemovel": "+244 928 456 731",
+    "email": "info@brisadomar.ao",
+    "website": "https://www.brisadomar.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/brisadomarluanda",
+      "instagram": "https://www.instagram.com/brisa_do_mar",
+      "twitter": "https://twitter.com/brisadomar"
+    }
+  },
+
+  "tipoCozinha": ["petiscos", "angolana", "grelhados", "bar", "casual"],
+  "especialidades": [
+    "camarão grelhado ao alho",
+    "espetadas de carne e peixe",
+    "ginguba torrada",
+    "peixe grelhado simples",
+    "mandioca frita crocante",
+    "batata-doce assada",
+    "cocktails tropicais da casa"
+  ],
+  "ambiente": ["descontraído", "pé na areia", "bohemio", "tropical", "animado", "música ao vivo"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 4500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal marinho, snack tradicional angolano",
+          "preco": 500
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca frita bem crocante com molho de piri-piri",
+          "preco": 900
+        },
+        {
+          "nome": "batata-doce assada",
+          "descricao": "batata-doce assada na brasa com manteiga",
+          "preco": 800
+        },
+        {
+          "nome": "tremoços",
+          "descricao": "tremoços portugueses temperados",
+          "preco": 600
+        },
+        {
+          "nome": "pastéis de massa tenra",
+          "descricao": "pastéis tradicionais angolanos fritos na hora",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "grelhados",
+      "pratos": [
+        {
+          "nome": "camarão ao alho",
+          "descricao": "camarão grande grelhado com alho e azeite, servido com pão",
+          "preco": 5500
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra grelhado simples com limão",
+          "preco": 3800
+        },
+        {
+          "nome": "espetada de frango",
+          "descricao": "espetada de frango marinado grelhada na brasa",
+          "preco": 2800
+        },
+        {
+          "nome": "espetada de peixe",
+          "descricao": "espetada de peixe fresco com legumes grelhados",
+          "preco": 4200
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com azeite e limão",
+          "preco": 4800
+        },
+        {
+          "nome": "costelas de porco",
+          "descricao": "costelas de porco marinadas grelhadas lentamente",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos simples",
+      "pratos": [
+        {
+          "nome": "arroz de feijão com peixe",
+          "descricao": "prato tradicional angolano, arroz de feijão com peixe frito",
+          "preco": 3200
+        },
+        {
+          "nome": "cachupa",
+          "descricao": "prato tradicional com feijão, milho, mandioca e carne",
+          "preco": 3500
+        },
+        {
+          "nome": "hambúrguer Brisa",
+          "descricao": "hambúrguer de carne com queijo, batatas fritas",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "Brisa Tropical",
+          "descricao": "cocktail especial da casa com rum, ananás, coco e hortelã",
+          "preco": 1800
+        },
+        {
+          "nome": "caipirinha de maracujá",
+          "descricao": "caipirinha tradicional com maracujá fresco",
+          "preco": 1500
+        },
+        {
+          "nome": "mojito clássico",
+          "descricao": "mojito tradicional com rum, hortelã e lima",
+          "preco": 1600
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "cocktail cremoso de ananás e coco",
+          "preco": 1700
+        },
+        {
+          "nome": "caipiroska de múcua",
+          "descricao": "caipiroska com vodka e polpa de múcua",
+          "preco": 1600
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Eka gelada",
+          "descricao": "cerveja angolana Eka bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "sumo de maracujá natural",
+          "descricao": "sumo fresco de maracujá",
+          "preco": 800
+        },
+        {
+          "nome": "água de coco natural",
+          "descricao": "água de coco fresca",
+          "preco": 900
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "14:00-22:00",
+      "terca": "14:00-22:00",
+      "quarta": "14:00-22:00",
+      "quinta": "14:00-23:00",
+      "sexta": "12:00-02:00",
+      "sabado": "11:00-03:00",
+      "domingo": "11:00-23:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "horário alargado aos fins de semana. música ao vivo sexta, sábado e domingo a partir das 16h. happy hour de segunda a quinta das 17h às 19h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.3,
+    "numeroAvaliacoes": 521,
+    "avaliacoes": [
+      {
+        "autor": "Tiago Rodrigues",
+        "nota": 5,
+        "comentario": "o melhor spot da Ilha para passar uma tarde relaxada! cocktails deliciosos, música boa e o ambiente é simplesmente perfeito. adoramos!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Vanessa Lima",
+        "nota": 4,
+        "comentario": "ambiente super descontraído e autêntico! os grelhados são simples mas saborosos. ideal para fins de semana com amigos. preços acessíveis.",
+        "data": "2025-11-20",
+        "origem": "Lobito, Angola"
+      },
+      {
+        "autor": "Bruno Ferreira",
+        "nota": 5,
+        "comentario": "adoro este lugar! tem aquela vibe relaxada que só a Ilha tem. camarão ao alho é top e os cocktails são fortes e bem feitos. música ao vivo é óptima!",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Emma Johnson",
+        "nota": 4,
+        "comentario": "authentic Angolan experience! loved the laid-back atmosphere and live music. great place to watch the sunset with a cold beer. recommended!",
+        "data": "2025-11-15",
+        "origem": "Londres, UK"
+      },
+      {
+        "autor": "Lúcia Santos",
+        "nota": 4,
+        "comentario": "perfeito para um fim de tarde com os pés na areia! não é um restaurante fino, mas tem charme e autenticidade. gostei muito!",
+        "data": "2025-11-13",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público na rua",
+    "informacaoEstacionamento": "estacionamento na rua próximo ao bar. aos fins de semana pode ser difícil encontrar lugar devido à grande afluência. recomenda-se chegar cedo.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o dia e noite nos fins de semana",
+      "muita gente circulando, especialmente aos fins de semana",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "staff atencioso e conhecedor da área",
+      "ambiente familiar e descontraído",
+      "maior segurança em grupo, especialmente à noite"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao fim da tarde para apanhar o pôr do sol, é simplesmente mágico com cocktail na mão",
+      "autor": "Raquel Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o cocktail Brisa Tropical, é refrescante e tem aquele toque angolano",
+      "autor": "David Martinez",
+      "origem": "Barcelona, Espanha"
+    },
+    {
+      "dica": "aos fins de semana enche muito! chegue cedo se quiser mesa na areia perto do mar",
+      "autor": "Filipe Sousa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "aproveite o happy hour de segunda a quinta, os cocktails ficam mais baratos",
+      "autor": "Mariana Alves",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "ideal para conhecer a autêntica vida noturna da Ilha de forma descontraída",
+      "autor": "Kevin Brown",
+      "origem": "Nova Iorque, EUA"
+    },
+    {
+      "dica": "traga fato de banho, há zonas de praia próximas onde pode dar um mergulho",
+      "autor": "Cristina Neves",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música ao vivo sexta, sábado e domingo a partir das 16h. kizomba, semba, reggae e acústico",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800",
+      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Brisa do Mar - Bar e Restaurante na Ilha de Luanda | Cocktails",
+    "metaDescricao": "bar e restaurante descontraído à beira-mar na Ilha de Luanda. cocktails tropicais, petiscos angolanos, música ao vivo e pôr do sol com os pés na areia.",
+    "tags": ["bar", "cocktails", "pé na areia", "música ao vivo", "descontraído", "ilha de luanda", "petiscos", "grelhados", "tropical", "bohemio", "pôr do sol", "praia"]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "id": "santa-maria",
+  "nome": "Bar Santa Maria",
+  "descricao": "bar de praia descontraído e tradicional na Ilha de Luanda, famoso pelos petiscos de marisco, cervejas geladas e ambiente popular",
+  "descricaoCompleta": "o Bar Santa Maria é uma instituição da Ilha de Luanda há mais de três décadas. este bar de praia tradicional conquistou gerações de luandenses pela sua autenticidade, preços acessíveis e ambiente genuinamente angolano. localizado numa posição privilegiada à beira-mar, o Santa Maria oferece a experiência clássica de pé na areia, com mesas simples de plástico, chapéus de sol coloridos e o som constante das ondas. é o lugar perfeito para quem procura a verdadeira essência da Ilha, longe dos estabelecimentos mais sofisticados. o bar especializou-se em petiscos de marisco fresco - camarão grelhado, peixe frito, lagosta - sempre acompanhados por cervejas Cuca bem geladas. aos fins de semana, o ambiente torna-se particularmente animado com música angolana ao vivo, kizomba e semba, atraindo famílias, grupos de amigos e turistas que procuram uma experiência autêntica. o serviço é simples mas eficiente, e os preços são dos mais acessíveis da Ilha, tornando o Santa Maria num favorito local que resistiu às mudanças e mantém o seu carácter popular.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Praia da Ilha, Zona Norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte (praia)",
+    "coordenadas": {
+      "latitude": -8.7935,
+      "longitude": 13.2305
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 392 445",
+    "telemovel": "+244 923 445 678",
+    "email": "barsantamaria@gmail.com",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/barsantamariailha",
+      "instagram": "https://www.instagram.com/santamaria_ilha"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "marisco", "petiscos", "peixe fresco", "tradicional"],
+  "especialidades": [
+    "camarão grelhado gigante",
+    "peixe frito com funge",
+    "lagosta grelhada simples",
+    "caldeirada de peixe",
+    "lulas grelhadas",
+    "ginguba torrada",
+    "batata-doce frita"
+  ],
+  "ambiente": ["pé na areia", "tradicional", "popular", "descontraído", "praia", "familiar", "animado"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5000,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal",
+          "preco": 400
+        },
+        {
+          "nome": "batata-doce frita",
+          "descricao": "batata-doce frita crocante",
+          "preco": 600
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca frita com molho picante",
+          "preco": 700
+        },
+        {
+          "nome": "banana-pão grelhada",
+          "descricao": "banana-pão grelhada tradicional",
+          "preco": 500
+        }
+      ]
+    },
+    {
+      "categoria": "marisco",
+      "pratos": [
+        {
+          "nome": "camarão grelhado gigante",
+          "descricao": "camarões gigantes grelhados com molho de alho (500g)",
+          "preco": 7500
+        },
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta inteira grelhada com manteiga",
+          "preco": 12000
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com azeite e limão",
+          "preco": 4800
+        },
+        {
+          "nome": "caranguejos",
+          "descricao": "caranguejos cozidos ao molho picante",
+          "preco": 5500
+        },
+        {
+          "nome": "buzios",
+          "descricao": "búzios salteados com alho e piri-piri",
+          "preco": 3200
+        }
+      ]
+    },
+    {
+      "categoria": "peixe",
+      "pratos": [
+        {
+          "nome": "peixe cacusso frito",
+          "descricao": "cacusso frito inteiro com funge e molho cru",
+          "preco": 4500
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra grelhado com batata-doce e banana-pão",
+          "preco": 3800
+        },
+        {
+          "nome": "caldeirada de peixe",
+          "descricao": "caldeirada tradicional com peixe fresco e legumes",
+          "preco": 5800
+        },
+        {
+          "nome": "peixe galo frito",
+          "descricao": "peixe galo frito crocante com arroz",
+          "preco": 3500
+        },
+        {
+          "nome": "mufete completo",
+          "descricao": "peixe grelhado com molho cru, batata-doce, banana e funge",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos angolanos",
+      "pratos": [
+        {
+          "nome": "funge com caldeirada",
+          "descricao": "funge de bombó com caldeirada de peixe",
+          "preco": 3500
+        },
+        {
+          "nome": "muamba de galinha",
+          "descricao": "galinha em molho de dendém com quiabos e funge",
+          "preco": 4200
+        },
+        {
+          "nome": "calulu de peixe",
+          "descricao": "calulu tradicional com peixe seco, batata-doce e ginguba",
+          "preco": 3800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 500
+        },
+        {
+          "nome": "Cuca longneck",
+          "descricao": "Cuca em garrafa longneck gelada",
+          "preco": 600
+        },
+        {
+          "nome": "caipirinha",
+          "descricao": "caipirinha tradicional de limão",
+          "preco": 1000
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua gelado",
+          "preco": 600
+        },
+        {
+          "nome": "água de coco",
+          "descricao": "água de coco natural gelada",
+          "preco": 500
+        },
+        {
+          "nome": "refrigerante",
+          "descricao": "coca-cola, fanta ou sprite gelados",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "10:00-20:00",
+      "terca": "10:00-20:00",
+      "quarta": "10:00-20:00",
+      "quinta": "10:00-20:00",
+      "sexta": "10:00-22:00",
+      "sabado": "09:00-23:00",
+      "domingo": "09:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "aberto todos os dias. horário alargado aos fins de semana com música ao vivo"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 654,
+    "avaliacoes": [
+      {
+        "autor": "João Fernandes",
+        "nota": 5,
+        "comentario": "o verdadeiro espírito da Ilha de Luanda! preços honestos, marisco fresco e o pé na areia é impagável. venho aqui há anos!",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Maria Costa",
+        "nota": 4,
+        "comentario": "ambiente autêntico e popular. o camarão grelhado é delicioso e em boa quantidade. recomendo para quem quer experiência genuína.",
+        "data": "2025-11-20",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Thomas Weber",
+        "nota": 4,
+        "comentario": "loved the authentic beach bar atmosphere! fresh seafood, cold beer and friendly service. perfect spot to experience local culture.",
+        "data": "2025-11-17",
+        "origem": "Berlim, Alemanha"
+      },
+      {
+        "autor": "Carla Mendes",
+        "nota": 5,
+        "comentario": "o meu lugar favorito na Ilha! simples mas com comida saborosa e preços acessíveis. aos domingos com música ao vivo é top!",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Silva",
+        "nota": 4,
+        "comentario": "bar tradicional que mantém a essência da Ilha. o peixe é sempre fresco e bem preparado. ambiente descontraído e familiar.",
+        "data": "2025-11-08",
+        "origem": "Lobito, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua com vigilância informal",
+    "informacaoEstacionamento": "estacionamento na rua próxima ao bar. vigilância informal. pode ficar mais difícil aos fins de semana devido à grande afluência.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "300-500 AOA (pago aos vigilantes informais)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada durante o dia, segura pela presença de muitas pessoas",
+      "vigilância informal no estacionamento",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "ambiente familiar e acolhedor",
+      "boa iluminação aos fins de semana durante eventos"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "venha aos domingos para aproveitar a música ao vivo e o ambiente mais animado com famílias angolanas",
+      "autor": "Isabel Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o camarão grelhado gigante, é fresco e vale muito a pena. chegue cedo para garantir boa mesa na areia",
+      "autor": "Paulo Santos",
+      "origem": "Huambo, Angola"
+    },
+    {
+      "dica": "se quer experiência autêntica da Ilha longe dos lugares turísticos, este é o sítio certo. preços justos!",
+      "autor": "Ana Rodrigues",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "peça Cuca bem gelada e aproveite para conversar com os locais, pessoal é muito simpático",
+      "autor": "Miguel Andrade",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o mufete completo é muito bem servido e autêntico. ideal para conhecer a gastronomia angolana",
+      "autor": "Sophie Martin",
+      "origem": "Paris, França"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": false,
+    "estacionamentoVigiado": false,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música angolana ao vivo aos sábados e domingos a partir das 15h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true,
+    "ambientePopular": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=800",
+      "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Bar Santa Maria - Bar de Praia Tradicional na Ilha de Luanda | Marisco Fresco",
+    "metaDescricao": "bar de praia autêntico na Ilha de Luanda com pé na areia, marisco fresco, petiscos angolanos e música ao vivo. preços acessíveis e ambiente popular.",
+    "tags": ["pé na areia", "praia", "marisco", "tradicional", "angolana", "popular", "ilha de luanda", "camarão", "peixe fresco", "música ao vivo", "familiar", "autêntico"]
+  }
+}

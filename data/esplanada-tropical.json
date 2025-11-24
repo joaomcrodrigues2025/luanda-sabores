@@ -1,0 +1,298 @@
+{
+  "id": "esplanada-tropical",
+  "nome": "Esplanada Tropical",
+  "descricao": "restaurante descontraído à beira-mar com especialidades em grelhados de peixe fresco, culinária angolana tradicional e petiscos num ambiente familiar",
+  "descricaoCompleta": "a Esplanada Tropical é um verdadeiro tesouro da Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e descontraída numa localização privilegiada junto ao mar. este restaurante familiar é conhecido pela sua atmosfera acolhedora e informal, onde os clientes podem desfrutar de refeições deliciosas com os pés quase na areia. a carta celebra o melhor da culinária angolana tradicional, com destaque para o peixe fresco grelhado na brasa, caldeiradas generosas e os famosos petiscos locais. o espaço amplo, com mesas sob chapéus de sol coloridos e palmeiras balançando à brisa do oceano, transporta os visitantes para uma atmosfera verdadeiramente tropical. aos fins de semana, a Esplanada Tropical ganha vida com música ao vivo, tornando-se um ponto de encontro popular entre famílias, grupos de amigos e turistas que procuram a autenticidade da Ilha. os preços acessíveis e a generosidade das doses fazem deste restaurante uma escolha popular para quem quer saborear a verdadeira essência da gastronomia angolana num ambiente relaxado e festivo.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Marginal, Zona Central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8015,
+      "longitude": 13.2325
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 391 845",
+    "telemovel": "+244 923 781 456",
+    "email": "info@esplanadatropical.ao",
+    "website": "https://www.esplanadatropical.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/esplanadatropical",
+      "instagram": "https://www.instagram.com/esplanada_tropical"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "grelhados", "marisco", "peixe fresco", "petiscos"],
+  "especialidades": [
+    "peixe serra grelhado com funge",
+    "caldeirada de peixe à angolana",
+    "carapau grelhado com molho cru",
+    "lagosta grelhada na brasa",
+    "mufete tradicional",
+    "camarão tigre ao alho",
+    "espetadas de peixe e camarão"
+  ],
+  "ambiente": ["descontraído", "familiar", "vista mar", "tropical", "pé na areia", "animado"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5800,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal marinho, aperitivo tradicional",
+          "preco": 600
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca frita crocante servida com molho de piri-piri",
+          "preco": 900
+        },
+        {
+          "nome": "rissóis de camarão",
+          "descricao": "rissóis crocantes recheados com camarão e molho tártaro",
+          "preco": 1500
+        },
+        {
+          "nome": "pastéis de peixe",
+          "descricao": "pastéis crocantes de peixe fresco com limão",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado na brasa com funge de bombó, feijão e molho cru",
+          "preco": 4800
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada generosa com peixe do dia, camarão, lulas e moluscos",
+          "preco": 6500
+        },
+        {
+          "nome": "carapau grelhado",
+          "descricao": "carapau fresco grelhado com batata-doce, banana-pão e molho cru",
+          "preco": 3900
+        },
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta inteira grelhada na brasa com manteiga de alho e acompanhamentos",
+          "preco": 14500
+        },
+        {
+          "nome": "mufete tradicional",
+          "descricao": "peixe cacusso grelhado com molho cru, batata-doce, banana e mandioca",
+          "preco": 5200
+        },
+        {
+          "nome": "camarão ao alho",
+          "descricao": "camarão tigre salteado com alho, azeite e piri-piri, servido com arroz",
+          "preco": 7800
+        },
+        {
+          "nome": "espetada mista de marisco",
+          "descricao": "espetadas de peixe, camarão e lula grelhadas com legumes",
+          "preco": 6200
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "funge de bombó",
+          "descricao": "funge tradicional angolano de mandioca",
+          "preco": 800
+        },
+        {
+          "nome": "arroz branco",
+          "descricao": "arroz branco solto",
+          "preco": 600
+        },
+        {
+          "nome": "feijão de óleo de palma",
+          "descricao": "feijão tradicional angolano com óleo de palma",
+          "preco": 700
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Eka gelada",
+          "descricao": "cerveja angolana Eka bem gelada",
+          "preco": 600
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua (fruto do imbondeiro)",
+          "preco": 800
+        },
+        {
+          "nome": "caipirinha de maracujá",
+          "descricao": "caipirinha tradicional com maracujá fresco",
+          "preco": 1400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-22:00",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-22:00",
+      "sexta": "11:00-00:00",
+      "sabado": "10:00-01:00",
+      "domingo": "10:00-23:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "horário alargado aos fins de semana. música ao vivo aos sábados e domingos a partir das 14h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 487,
+    "avaliacoes": [
+      {
+        "autor": "João Manuel",
+        "nota": 5,
+        "comentario": "ambiente fantástico e comida deliciosa! o peixe serra é sempre fresco e muito bem temperado. preços honestos e porções generosas. recomendo!",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Catarina Silva",
+        "nota": 4,
+        "comentario": "adorei a experiência! muito autêntico e com vista maravilhosa. a caldeirada serve facilmente 2-3 pessoas. ideal para almoços de domingo em família.",
+        "data": "2025-11-19",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "André Costa",
+        "nota": 5,
+        "comentario": "um dos meus restaurantes favoritos na Ilha! ambiente descontraído, staff simpático e a comida é sempre de qualidade. o mufete é autêntico!",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Laura Mendes",
+        "nota": 4,
+        "comentario": "excelente para quem quer experimentar comida angolana tradicional num ambiente informal. música ao vivo aos domingos é óptima!",
+        "data": "2025-11-14",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Ricardo Fernandes",
+        "nota": 4,
+        "comentario": "peixe fresco, preços justos e localização perfeita. não é luxuoso mas tem charme e autenticidade. vale a pena!",
+        "data": "2025-11-10",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público vigiado",
+    "informacaoEstacionamento": "estacionamento público vigiado a cerca de 50 metros do restaurante. também é possível estacionar na rua em frente. pode ficar movimentado aos fins de semana.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o dia e início da noite",
+      "estacionamento com vigilância próximo ao restaurante",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "staff atencioso e prestável com os clientes",
+      "boa iluminação na área do restaurante",
+      "zona frequentada por locais e turistas, ambiente familiar"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao domingo para aproveitar a música ao vivo e o ambiente mais animado com famílias angolanas",
+      "autor": "Marta Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o peixe serra grelhado com funge, é a combinação perfeita e muito autêntica",
+      "autor": "Thomas Schmidt",
+      "origem": "Hamburgo, Alemanha"
+    },
+    {
+      "dica": "as doses são muito generosas, considere partilhar se não tiver muita fome",
+      "autor": "Isabel Rodrigues",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "chegue cedo aos fins de semana ou terá de esperar por mesa, é muito popular",
+      "autor": "Paulo Santos",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "peça ao staff para recomendar o peixe do dia, é sempre fresquíssimo",
+      "autor": "Carla Ferreira",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música ao vivo aos sábados e domingos a partir das 14h, semba e kizomba",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Esplanada Tropical - Restaurante na Ilha de Luanda | Peixe Grelhado",
+    "metaDescricao": "restaurante descontraído à beira-mar na Ilha de Luanda. especialidades angolanas, peixe fresco grelhado, mufete tradicional e música ao vivo aos fins de semana.",
+    "tags": ["angolana", "peixe grelhado", "mufete", "familiar", "vista mar", "descontraído", "ilha de luanda", "caldeirada", "música ao vivo", "tropical", "pé na areia"]
+  }
+}

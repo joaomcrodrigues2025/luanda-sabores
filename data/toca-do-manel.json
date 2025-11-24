@@ -1,0 +1,393 @@
+{
+  "id": "toca-do-manel",
+  "nome": "Toca do Manel",
+  "descricao": "restaurante português tradicional com pratos típicos lusitanos, bacalhau em todas as formas e ambiente acolhedor",
+  "descricaoCompleta": "a Toca do Manel é um restaurante português autêntico que trouxe os sabores tradicionais de Portugal para a Ilha de Luanda. fundado em 2016 pelo Sr. Manuel, natural de Trás-os-Montes, o restaurante recria a atmosfera de uma tasca portuguesa tradicional, com azulejos nas paredes, toalhas de xadrez e um ambiente familiar e acolhedor. a especialidade da casa é o bacalhau, preparado de mais de 20 formas diferentes, desde o clássico bacalhau à Brás, passando pelo bacalhau com natas, até ao famoso bacalhau à Lagareiro. mas a carta não se resume ao fiel amigo: encontra também alheira de Mirandela, cozido à portuguesa, rojões à minhota, carne de porco à alentejana e os tradicionais petiscos como ameijoas à bulhão pato e pica-pau. aos domingos, o prato do dia é sempre o cozido à portuguesa, servido em panela de barro e partilhado à mesa. a carta de vinhos é exclusivamente portuguesa, com rótulos cuidadosamente seleccionados das principais regiões vinícolas. o Sr. Manel circula pelas mesas, conversando com os clientes e recomendando pratos, criando um ambiente familiar que faz qualquer português sentir-se em casa. a Toca do Manel é ponto de encontro da comunidade portuguesa em Luanda, mas também atrai angolanos e outros visitantes que apreciam a genuína cozinha lusitana.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua dos Navegadores n.º 56, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8055,
+      "longitude": 13.2348
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 387 890",
+    "telemovel": "+244 925 678 234",
+    "email": "reservas@tocadomanel.ao",
+    "website": "https://www.tocadomanel.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/tocadomanel",
+      "instagram": "https://www.instagram.com/tocadomanel_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/tocadomanel"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "tradicional", "bacalhau", "petiscos"],
+  "especialidades": [
+    "bacalhau à Brás",
+    "bacalhau à Lagareiro",
+    "bacalhau com natas",
+    "cozido à portuguesa",
+    "alheira de Mirandela",
+    "polvo à lagareiro",
+    "rojões à minhota",
+    "carne de porco à alentejana",
+    "arroz de pato",
+    "pastéis de bacalhau"
+  ],
+  "ambiente": ["tradicional", "acolhedor", "português", "familiar", "tasca"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 8500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "pastéis de bacalhau tradicionais fritos na hora (6 unidades)",
+          "preco": 2200
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas com alho, coentros e azeite",
+          "preco": 3200
+        },
+        {
+          "nome": "pica-pau de vaca",
+          "descricao": "cubos de vaca salteados em molho picante com pickles",
+          "preco": 3500
+        },
+        {
+          "nome": "presunto e queijo da serra",
+          "descricao": "tábua de presunto e queijo da serra português",
+          "preco": 4200
+        },
+        {
+          "nome": "chouriço à bombeiro",
+          "descricao": "chouriço assado flamejado com aguardente",
+          "preco": 2800
+        },
+        {
+          "nome": "queijo de cabra assado",
+          "descricao": "queijo de cabra assado com mel e nozes",
+          "preco": 3000
+        }
+      ]
+    },
+    {
+      "categoria": "bacalhau",
+      "pratos": [
+        {
+          "nome": "bacalhau à Brás",
+          "descricao": "bacalhau desfiado com batata palha, ovo e azeitonas",
+          "preco": 7500
+        },
+        {
+          "nome": "bacalhau à Lagareiro",
+          "descricao": "bacalhau assado no forno com batatas a murro e azeite",
+          "preco": 8500
+        },
+        {
+          "nome": "bacalhau com natas",
+          "descricao": "bacalhau gratinado com natas, cebola e batatas",
+          "preco": 7800
+        },
+        {
+          "nome": "bacalhau à Gomes de Sá",
+          "descricao": "bacalhau com batatas, cebola, ovo e azeitonas gratinado",
+          "preco": 7200
+        },
+        {
+          "nome": "bacalhau espiritual",
+          "descricao": "bacalhau desfiado com puré e queijo gratinado",
+          "preco": 7000
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas de bacalhau fritas servidas com arroz de feijão",
+          "preco": 6500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos tradicionais",
+      "pratos": [
+        {
+          "nome": "cozido à portuguesa",
+          "descricao": "cozido com carnes variadas, enchidos e legumes (domingo)",
+          "preco": 8800
+        },
+        {
+          "nome": "arroz de pato",
+          "descricao": "arroz de pato tradicional com chouriço e carne de pato desfiada",
+          "preco": 7500
+        },
+        {
+          "nome": "rojões à minhota",
+          "descricao": "carne de porco frita com batatas e molho de rojões",
+          "preco": 6800
+        },
+        {
+          "nome": "carne de porco à alentejana",
+          "descricao": "carne de porco com ameijoas, batatas e coentros",
+          "preco": 7200
+        },
+        {
+          "nome": "alheira de Mirandela grelhada",
+          "descricao": "alheira tradicional grelhada servida com grelos e batatas",
+          "preco": 5800
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo assado com batatas a murro e azeite de alho",
+          "preco": 9500
+        },
+        {
+          "nome": "febras de porco grelhadas",
+          "descricao": "febras grelhadas servidas com arroz e batatas fritas",
+          "preco": 6200
+        },
+        {
+          "nome": "bife à café",
+          "descricao": "bife de vaca em molho de café, ovo, batatas e arroz",
+          "preco": 7800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pastel de nata",
+          "descricao": "pastéis de nata tradicionais de Lisboa (3 unidades)",
+          "preco": 1500
+        },
+        {
+          "nome": "pudim abade de priscos",
+          "descricao": "pudim tradicional português com caramelo",
+          "preco": 1800
+        },
+        {
+          "nome": "tarte de amêndoa",
+          "descricao": "tarte de amêndoa tradicional portuguesa",
+          "preco": 1700
+        },
+        {
+          "nome": "arroz doce",
+          "descricao": "arroz doce cremoso com canela",
+          "preco": 1400
+        },
+        {
+          "nome": "baba de camelo",
+          "descricao": "sobremesa cremosa com ovos, leite condensado e bolacha",
+          "preco": 1600
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse de chocolate caseira",
+          "preco": 1500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde",
+          "descricao": "vinho verde do Minho (garrafa)",
+          "preco": 7500
+        },
+        {
+          "nome": "vinho tinto Douro",
+          "descricao": "vinho tinto do Douro (garrafa)",
+          "preco": 9800
+        },
+        {
+          "nome": "vinho do Porto",
+          "descricao": "vinho do Porto tawny ou ruby (cálice)",
+          "preco": 1800
+        },
+        {
+          "nome": "cerveja Super Bock",
+          "descricao": "cerveja portuguesa gelada",
+          "preco": 700
+        },
+        {
+          "nome": "ginjinha",
+          "descricao": "licor de ginja portuguesa (cálice)",
+          "preco": 1200
+        },
+        {
+          "nome": "bagaço",
+          "descricao": "aguardente bagaceira portuguesa (dose)",
+          "preco": 1000
+        },
+        {
+          "nome": "café expresso",
+          "descricao": "café expresso à portuguesa",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-23:30",
+      "sabado": "12:00-15:00, 19:00-23:30",
+      "domingo": "12:00-16:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "aos domingos apenas almoço com cozido à portuguesa. reservas altamente recomendadas"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 521,
+    "avaliacoes": [
+      {
+        "autor": "José Ferreira",
+        "nota": 5,
+        "comentario": "a melhor comida portuguesa de Luanda! sinto-me em Portugal quando venho aqui. o bacalhau à Brás é perfeito e o Sr. Manel é muito simpático.",
+        "data": "2025-11-22",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Maria Sousa",
+        "nota": 5,
+        "comentario": "autêntica tasca portuguesa! o cozido à portuguesa de domingo é obrigatório. ambiente familiar e acolhedor. adoro!",
+        "data": "2025-11-19",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Carlos Mendes",
+        "nota": 5,
+        "comentario": "excelente! venho aqui todas as semanas. os pastéis de bacalhau são os melhores da cidade e o polvo à lagareiro é divinal.",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ana Rodrigues",
+        "nota": 4,
+        "comentario": "muito bom restaurante português. comida saborosa e bem confeccionada. o bacalhau com natas estava óptimo. recomendo!",
+        "data": "2025-11-13",
+        "origem": "Braga, Portugal"
+      },
+      {
+        "autor": "Paulo Costa",
+        "nota": 5,
+        "comentario": "a Toca do Manel é o meu restaurante de eleição em Luanda. comida caseira portuguesa como deve ser. qualidade sempre garantida.",
+        "data": "2025-11-09",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Teresa Alves",
+        "nota": 5,
+        "comentario": "restaurante acolhedor com comida tradicional portuguesa de excelência. as febras de porco e a alheira são incríveis. serviço 5 estrelas!",
+        "data": "2025-11-04",
+        "origem": "Coimbra, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua e parque privativo pequeno",
+    "informacaoEstacionamento": "estacionamento na rua em frente e pequeno parque privativo com 8 lugares. vigilância na área. pode ser difícil aos fins de semana.",
+    "capacidadeEstacionamento": 15,
+    "custoEstacionamento": "gratuito no parque privativo"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona residencial tranquila e segura",
+      "vigilância informal na área",
+      "bem iluminado durante a noite",
+      "staff atencioso e conhece bem a vizinhança",
+      "recomenda-se não deixar objectos de valor visíveis no carro"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve sempre com antecedência, especialmente aos fins de semana e domingos para o cozido",
+      "autor": "Manuel Silva",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente o bacalhau à Lagareiro, é a especialidade da casa e está perfeito",
+      "autor": "Fernanda Costa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "aos domingos vá para o cozido à portuguesa, vale muito a pena mas esgota cedo",
+      "autor": "Ricardo Pereira",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "comece com os pastéis de bacalhau e ameijoas à bulhão pato, são fantásticos",
+      "autor": "Sofia Almeida",
+      "origem": "Braga, Portugal"
+    },
+    {
+      "dica": "peça recomendação de vinho ao Sr. Manel, ele conhece muito bem a carta",
+      "autor": "João Tavares",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "termine com pastel de nata e café, são trazidos directamente de Portugal",
+      "autor": "Cláudia Fernandes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "música ambiente portuguesa (fado, pimba)",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1604152135912-04a022e23696?w=800",
+      "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Toca do Manel - Restaurante Português Tradicional na Ilha de Luanda | Bacalhau",
+    "metaDescricao": "restaurante português autêntico na Ilha de Luanda. bacalhau em 20 formas, cozido à portuguesa, alheira e pratos tradicionais lusitanos. ambiente familiar e acolhedor.",
+    "tags": ["portuguesa", "bacalhau", "tradicional", "tasca", "cozido", "alheira", "petiscos", "ilha de luanda", "familiar", "acolhedor", "polvo", "pastel de nata"]
+  }
+}

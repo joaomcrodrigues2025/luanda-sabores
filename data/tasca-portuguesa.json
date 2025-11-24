@@ -1,0 +1,320 @@
+{
+  "id": "tasca-portuguesa",
+  "nome": "Tasca Portuguesa",
+  "descricao": "tasca tradicional portuguesa na Ilha de Luanda com petiscos autênticos, vinhos portugueses e ambiente caseiro",
+  "descricaoCompleta": "a Tasca Portuguesa é um pedacinho de Portugal no coração da Ilha de Luanda, oferecendo uma experiência gastronómica autêntica e acolhedora. este restaurante familiar destaca-se pela dedicação em manter vivas as tradições culinárias portuguesas, desde os famosos petiscos até aos pratos principais mais icónicos da cozinha lusitana. o ambiente é descontraído e genuinamente português, com decoração típica que inclui azulejos tradicionais, objectos antigos e uma atmosfera que transporta os visitantes para uma tasca do bairro alto em Lisboa. a carta de vinhos é cuidadosamente seleccionada, apresentando os melhores rótulos de Portugal, do Douro ao Alentejo. os proprietários, um casal português radicado em Angola há décadas, supervisionam pessoalmente a cozinha e o atendimento, garantindo que cada cliente se sinta em casa. aos fins de semana, é comum ouvir fado ao vivo, criando momentos emocionantes e memoráveis. a Tasca Portuguesa é o local ideal para quem procura sabores genuínos, doses generosas e um serviço caloroso.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua dos Pescadores, Zona Central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8015,
+      "longitude": 13.2335
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 392 145",
+    "telemovel": "+244 923 789 456",
+    "email": "info@tascaportuguesa.ao",
+    "website": "https://www.tascaportuguesa.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/tascaportuguesaluanda",
+      "instagram": "https://www.instagram.com/tascaportuguesa",
+      "tripadvisor": "https://www.tripadvisor.com/tascaportuguesa"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "petiscos", "tradicional", "caseira"],
+  "especialidades": [
+    "bacalhau à brás",
+    "cozido à portuguesa",
+    "alheira com ovo",
+    "polvo à lagareiro",
+    "febras de porco à alentejana",
+    "pastéis de bacalhau",
+    "chouriço assado",
+    "queijos e enchidos portugueses"
+  ],
+  "ambiente": ["tradicional", "acolhedor", "caseiro", "português", "fado ao vivo"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 6800,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "tábua de queijos e enchidos",
+          "descricao": "selecção de queijos e enchidos portugueses com pão alentejano",
+          "preco": 3500
+        },
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "pastéis tradicionais de bacalhau (6 unidades)",
+          "preco": 2200
+        },
+        {
+          "nome": "chouriço assado",
+          "descricao": "chouriço tradicional assado com mostarda",
+          "preco": 1800
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas com muito alho e coentros",
+          "preco": 2800
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas tradicionais com arroz de tomate",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "bacalhau à brás",
+          "descricao": "bacalhau desfiado com batata palha, cebola e ovos",
+          "preco": 7500
+        },
+        {
+          "nome": "cozido à portuguesa",
+          "descricao": "cozido tradicional com carnes, enchidos e legumes (disponível às quintas)",
+          "preco": 8200
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo assado com batatas a murro e muito azeite",
+          "preco": 9800
+        },
+        {
+          "nome": "febras de porco à alentejana",
+          "descricao": "febras de porco grelhadas com amêijoas e batatas fritas",
+          "preco": 6800
+        },
+        {
+          "nome": "alheira com ovo",
+          "descricao": "alheira de Mirandela grelhada com ovo estrelado e batatas",
+          "preco": 5500
+        },
+        {
+          "nome": "arroz de pato",
+          "descricao": "arroz de pato tradicional gratinado no forno",
+          "preco": 7200
+        },
+        {
+          "nome": "bitoque à portuguesa",
+          "descricao": "bife de vaca com ovo, batatas fritas e arroz",
+          "preco": 5800
+        },
+        {
+          "nome": "bacalhau com natas",
+          "descricao": "bacalhau gratinado com natas e batatas",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pastel de nata",
+          "descricao": "pastel de nata tradicional português (2 unidades)",
+          "preco": 1200
+        },
+        {
+          "nome": "pudim de ovos",
+          "descricao": "pudim tradicional de ovos com calda",
+          "preco": 1400
+        },
+        {
+          "nome": "toucinho do céu",
+          "descricao": "doce tradicional algarvio de amêndoa",
+          "preco": 1500
+        },
+        {
+          "nome": "arroz doce",
+          "descricao": "arroz doce tradicional com canela",
+          "preco": 1300
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho do Porto",
+          "descricao": "vinho do Porto tinto ou branco (copo)",
+          "preco": 1800
+        },
+        {
+          "nome": "vinho tinto Douro",
+          "descricao": "vinho tinto do Douro (garrafa)",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho verde",
+          "descricao": "vinho verde português (garrafa)",
+          "preco": 7200
+        },
+        {
+          "nome": "ginjinha de Óbidos",
+          "descricao": "licor de ginja portuguesa (copo)",
+          "preco": 1200
+        },
+        {
+          "nome": "cerveja Sagres",
+          "descricao": "cerveja portuguesa Sagres",
+          "preco": 700
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-22:00",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "12:00-23:00",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "fado ao vivo às sextas e sábados a partir das 20h. cozido à portuguesa disponível às quintas-feiras (reserva obrigatória)"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 387,
+    "avaliacoes": [
+      {
+        "autor": "Teresa Santos",
+        "nota": 5,
+        "comentario": "comida portuguesa autêntica! o bacalhau à brás estava perfeito e o fado ao vivo emocionou. senti-me em Portugal!",
+        "data": "2025-11-22",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "António Ferreira",
+        "nota": 5,
+        "comentario": "a melhor tasca portuguesa de Luanda sem dúvida! doses generosas, sabores genuínos e ambiente acolhedor. voltarei sempre!",
+        "data": "2025-11-20",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Carla Sousa",
+        "nota": 4,
+        "comentario": "adorei! os petiscos são deliciosos e os vinhos portugueses são excelentes. o polvo à lagareiro estava divinal.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Miguel Costa",
+        "nota": 5,
+        "comentario": "ambiente familiar e comida caseira de qualidade. o cozido à portuguesa de quinta-feira é imperdível!",
+        "data": "2025-11-15",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Joana Lopes",
+        "nota": 4,
+        "comentario": "excelente experiência! a tábua de queijos e enchidos é espectacular. serviço muito simpático.",
+        "data": "2025-11-12",
+        "origem": "Coimbra, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público próximo",
+    "informacaoEstacionamento": "estacionamento em parque público a 50 metros do restaurante. vigilância durante o dia.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona central movimentada e segura",
+      "vigilância no parque de estacionamento durante o dia",
+      "recomenda-se usar estacionamento vigiado à noite",
+      "staff muito atencioso e prestável",
+      "boa iluminação na zona do restaurante"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": false
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve para as noites de fado, são muito concorridas e o espaço é pequeno",
+      "autor": "Paulo Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "não perca o cozido à portuguesa das quintas-feiras, mas reserve com antecedência",
+      "autor": "Ana Rodrigues",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "comece pelos petiscos e partilhe, as doses são generosas e vale a pena experimentar vários",
+      "autor": "Ricardo Alves",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "experimente o vinho do Porto no final da refeição, é autêntico e muito bom",
+      "autor": "Sofia Martins",
+      "origem": "Braga, Portugal"
+    },
+    {
+      "dica": "o pastel de nata é feito diariamente, chegue cedo ou reserve porque esgota",
+      "autor": "Fernando Silva",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": false,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "fado ao vivo sexta e sábado a partir das 20h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "idealParaFamilias": true,
+    "ambiente_tradicional": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Tasca Portuguesa - Restaurante Português na Ilha de Luanda | Fado Ao Vivo",
+    "metaDescricao": "tasca tradicional portuguesa na Ilha de Luanda com petiscos autênticos, bacalhau, vinhos portugueses e fado ao vivo. ambiente caseiro e doses generosas.",
+    "tags": ["portuguesa", "tasca", "petiscos", "bacalhau", "fado", "tradicional", "ilha de luanda", "vinhos", "cozido", "caseira"]
+  }
+}

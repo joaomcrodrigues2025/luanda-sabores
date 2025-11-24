@@ -1,0 +1,373 @@
+{
+  "id": "afrika",
+  "nome": "Restaurante Afrika",
+  "descricao": "restaurante especializado em cozinha africana contemporânea na Ilha de Luanda, celebrando os sabores autênticos de Angola e do continente",
+  "descricaoCompleta": "o Restaurante Afrika é uma celebração vibrante da rica diversidade gastronómica africana, com especial destaque para a culinária angolana tradicional reinterpretada de forma contemporânea. situado num edifício de arquitectura moderna na Ilha de Luanda, o espaço combina elementos de design africano com conforto contemporâneo, criando um ambiente acolhedor e sofisticado. a decoração apresenta arte africana, tecidos tradicionais, máscaras tribais e mobiliário artesanal que contam histórias do continente. o menu é uma jornada pelos sabores de Angola e África, desde os clássicos muamba de galinha, calulu de peixe e feijão de óleo de palma, até pratos menos conhecidos de outras regiões africanas. o chef angolano, formado internacionalmente, respeita as receitas ancestrais enquanto adiciona toques modernos na apresentação e técnicas culinárias. utiliza ingredientes locais de qualidade, trabalhando directamente com produtores angolanos para garantir autenticidade e frescura. o Restaurante Afrika não é apenas um lugar para comer, mas uma experiência cultural que educa e celebra a herança gastronómica africana. regularmente, o espaço acolhe eventos culturais com música africana ao vivo, exposições de arte e workshops de culinária tradicional. ideal para quem procura uma experiência gastronómica autêntica e significativa, onde cada prato conta uma história e cada refeição é uma celebração da identidade africana.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua Central da Ilha, Edifício África Plaza, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8025,
+      "longitude": 13.2335
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 394 567",
+    "telemovel": "+244 925 678 901",
+    "email": "reservas@restauranteafrika.ao",
+    "website": "https://www.restauranteafrika.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restauranteafrika",
+      "instagram": "https://www.instagram.com/restauranteafrika",
+      "twitter": "https://twitter.com/restaurantafrik",
+      "tripadvisor": "https://www.tripadvisor.com/restaurante-afrika-luanda"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "africana", "tradicional", "contemporânea", "fusão africana"],
+  "especialidades": [
+    "muamba de galinha com funge",
+    "calulu de peixe seco",
+    "feijão de óleo de palma",
+    "mufete de cacusso",
+    "cabidela de frango",
+    "kizaca com jindungo",
+    "peixe grelhado com molho cru",
+    "jollof rice oeste-africano",
+    "bobotie sul-africano",
+    "tagine marroquino de cordeiro"
+  ],
+  "ambiente": ["cultural", "autêntico", "moderno", "africano", "acolhedor", "educativo"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 8500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas angolanas",
+      "pratos": [
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal marinho e jindungo",
+          "preco": 800
+        },
+        {
+          "nome": "mandioca frita com molho cru",
+          "descricao": "mandioca crocante servida com molho cru angolano",
+          "preco": 1200
+        },
+        {
+          "nome": "banana-pão grelhada",
+          "descricao": "banana-pão grelhada com mel e piri-piri",
+          "preco": 1500
+        },
+        {
+          "nome": "rissóis de jindungo",
+          "descricao": "rissóis picantes recheados com carne e jindungo",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "sopas e caldos",
+      "pratos": [
+        {
+          "nome": "calulu light",
+          "descricao": "versão mais leve do calulu tradicional com peixe fresco e legumes",
+          "preco": 2500
+        },
+        {
+          "nome": "caldo de quitaba",
+          "descricao": "caldo nutritivo de folhas de quitaba com amendoim",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais angolanos",
+      "pratos": [
+        {
+          "nome": "muamba de galinha",
+          "descricao": "prato nacional angolano com galinha cozinhada em óleo de palma, quiabos e jindungo, servido com funge de bombó",
+          "preco": 7800
+        },
+        {
+          "nome": "calulu de peixe seco",
+          "descricao": "peixe seco com batata-doce, cebola, tomate e folhas de kizaca, acompanhado de funge ou arroz",
+          "preco": 8200
+        },
+        {
+          "nome": "feijão de óleo de palma",
+          "descricao": "feijão guisado em óleo de palma com carne de vaca e enchidos, servido com arroz e banana-pão",
+          "preco": 6800
+        },
+        {
+          "nome": "mufete de cacusso",
+          "descricao": "peixe cacusso grelhado com molho cru, batata-doce, banana-pão e mandioca",
+          "preco": 9500
+        },
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango cozinhado no próprio sangue com arroz branco",
+          "preco": 6500
+        },
+        {
+          "nome": "kizaca com peixe fumado",
+          "descricao": "folhas de mandioca cozinhadas com amendoim e peixe fumado",
+          "preco": 7200
+        }
+      ]
+    },
+    {
+      "categoria": "sabores africanos",
+      "pratos": [
+        {
+          "nome": "jollof rice",
+          "descricao": "arroz especial da África Ocidental com tomate, especiarias e frango grelhado",
+          "preco": 5800
+        },
+        {
+          "nome": "bobotie sul-africano",
+          "descricao": "prato gratinado de carne moída temperada com curry e frutas secas",
+          "preco": 7500
+        },
+        {
+          "nome": "tagine de cordeiro",
+          "descricao": "cordeiro cozinhado lentamente ao estilo marroquino com ameixas e amêndoas",
+          "preco": 11500
+        },
+        {
+          "nome": "peri-peri chicken moçambicano",
+          "descricao": "frango grelhado com molho peri-peri picante",
+          "preco": 6800
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "funge de bombó",
+          "descricao": "funge tradicional de farinha de mandioca",
+          "preco": 1200
+        },
+        {
+          "nome": "funge de milho",
+          "descricao": "funge de farinha de milho",
+          "preco": 1200
+        },
+        {
+          "nome": "pirão de peixe",
+          "descricao": "pirão tradicional feito com caldo de peixe",
+          "preco": 1500
+        },
+        {
+          "nome": "arroz de coco",
+          "descricao": "arroz cozinhado em leite de coco",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cocada angolana",
+          "descricao": "doce tradicional de coco ralado com açúcar",
+          "preco": 1200
+        },
+        {
+          "nome": "doce de ginguba",
+          "descricao": "doce cremoso de amendoim",
+          "preco": 1500
+        },
+        {
+          "nome": "bolo de múcua",
+          "descricao": "bolo húmido com polpa de múcua (fruto do imbondeiro)",
+          "preco": 1800
+        },
+        {
+          "nome": "manga flambada",
+          "descricao": "manga fresca flambada com rum angolano e gelado",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua, rico e cremoso",
+          "preco": 800
+        },
+        {
+          "nome": "sumo de maracujá",
+          "descricao": "sumo fresco de maracujá angolano",
+          "preco": 700
+        },
+        {
+          "nome": "kissangua",
+          "descricao": "bebida tradicional fermentada de milho",
+          "preco": 600
+        },
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana",
+          "preco": 600
+        },
+        {
+          "nome": "vinho português",
+          "descricao": "selecção de vinhos portugueses",
+          "preco": 7000
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-15:00, 19:00-22:00",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "12:00-23:00",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "eventos culturais às quintas e sábados a partir das 20h. workshops de culinária angolana mensais mediante reserva"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 358,
+    "avaliacoes": [
+      {
+        "autor": "Madalena Neto",
+        "nota": 5,
+        "comentario": "experiência incrível! a muamba de galinha estava divinal, exactamente como a da minha avó. ambiente acolhedor e staff muito atencioso.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Thomas Anderson",
+        "nota": 5,
+        "comentario": "como turista, fiquei impressionado com a autenticidade e qualidade! aprendi muito sobre a cultura angolana através da comida. altamente recomendado!",
+        "data": "2025-11-19",
+        "origem": "Londres, UK"
+      },
+      {
+        "autor": "João Kamwenho",
+        "nota": 5,
+        "comentario": "o melhor restaurante de comida angolana de Luanda! o calulu estava perfeito e o funge no ponto. orgulho da nossa gastronomia!",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Patricia Lopes",
+        "nota": 4,
+        "comentario": "adorei conhecer pratos de outras regiões africanas! o jollof rice e o bobotie estavam deliciosos. ambiente muito bonito!",
+        "data": "2025-11-13",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Celestino Brito",
+        "nota": 5,
+        "comentario": "comida caseira com qualidade de restaurante! porções generosas, temperos no ponto e o atendimento é familiar. sinto-me em casa!",
+        "data": "2025-11-09",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo coberto",
+    "informacaoEstacionamento": "estacionamento privativo coberto no edifício África Plaza com acesso directo ao restaurante. capacidade para 40 viaturas com vigilância 24h.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "restaurante em edifício moderno com segurança 24h",
+      "estacionamento privativo coberto e vigiado",
+      "zona central bem movimentada e segura",
+      "controlo de acesso no edifício",
+      "sistema de vigilância completo",
+      "staff treinado e profissional"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "experimente a muamba de galinha, é o prato mais emblemático de Angola e está excepcional aqui",
+      "autor": "Maria Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se nunca experimentou comida angolana, peça ao staff para recomendar. eles explicam tudo com paixão!",
+      "autor": "Sophie Martin",
+      "origem": "Paris, França"
+    },
+    {
+      "dica": "vá às quintas ou sábados para aproveitar os eventos culturais com música africana ao vivo",
+      "autor": "Carlos Mendes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o calulu de peixe seco é autêntico e delicioso, mas se não gosta de sabores fortes, opte pela versão light",
+      "autor": "Rita Fernandes",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "reserve para o workshop de culinária angolana, é uma experiência educativa fantástica!",
+      "autor": "Ana Pereira",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": false,
+    "espacoExterior": false,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "quinta e sábado a partir das 20h - música africana tradicional e contemporânea",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?w=800",
+      "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800",
+      "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?w=800",
+      "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Afrika - Cozinha Angolana e Africana Contemporânea na Ilha de Luanda",
+    "metaDescricao": "restaurante especializado em cozinha angolana tradicional e africana contemporânea. muamba de galinha, calulu, mufete e sabores de todo o continente. experiência cultural única.",
+    "tags": ["angolana", "africana", "muamba", "calulu", "tradicional", "cultural", "contemporânea", "ilha de luanda", "autêntica", "funge", "música africana"]
+  }
+}

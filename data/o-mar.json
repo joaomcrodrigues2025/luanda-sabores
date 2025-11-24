@@ -1,0 +1,309 @@
+{
+  "id": "o-mar",
+  "nome": "Restaurante O Mar",
+  "descricao": "restaurante tradicional especializado em marisco fresco e peixe grelhado, com vista privilegiada sobre o oceano Atlântico",
+  "descricaoCompleta": "o Restaurante O Mar é uma referência na Ilha de Luanda para quem procura autenticidade e qualidade em pratos de marisco e peixe. com mais de 15 anos de história, este estabelecimento familiar conquistou a confiança dos luandenses e visitantes pela consistência na qualidade dos ingredientes e no preparo tradicional dos pratos. a localização privilegiada oferece uma vista deslumbrante sobre o mar, criando o cenário perfeito para refeições memoráveis. o menu destaca-se pelas receitas tradicionais portuguesas e angolanas, com especial atenção à caldeirada de peixe, arroz de marisco e lagosta à O Mar. o ambiente é acolhedor e familiar, com uma esplanada ampla onde se pode desfrutar da brisa marítima. o serviço atencioso e a relação qualidade-preço fazem do O Mar uma escolha segura tanto para almoços de negócios como para jantares em família. a casa orgulha-se de trabalhar apenas com peixe e marisco frescos, trazidos diariamente dos mercados locais.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Marginal, Zona Sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8072,
+      "longitude": 13.2352
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 338 920",
+    "telemovel": "+244 924 567 890",
+    "email": "reservas@restauranteomare.ao",
+    "website": "https://www.restauranteomare.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restauranteomare",
+      "instagram": "https://www.instagram.com/omare_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/omare"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "marisco", "peixe fresco", "angolana", "tradicional"],
+  "especialidades": [
+    "caldeirada de peixe à pescador",
+    "arroz de marisco",
+    "lagosta à O Mar",
+    "camarão à guilho",
+    "cataplana de marisco",
+    "peixe serra grelhado",
+    "açorda de marisco"
+  ],
+  "ambiente": ["tradicional", "familiar", "vista mar", "esplanada", "acolhedor"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas salteadas com alho, coentros e azeite",
+          "preco": 3200
+        },
+        {
+          "nome": "mexilhão ao vapor",
+          "descricao": "mexilhões frescos cozinhados ao vapor com vinho branco",
+          "preco": 2800
+        },
+        {
+          "nome": "sapateira recheada",
+          "descricao": "sapateira recheada com a sua própria carne e maionese",
+          "preco": 4500
+        },
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "pastéis tradicionais de bacalhau crocantes",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "caldeirada de peixe à pescador",
+          "descricao": "caldeirada tradicional com variedade de peixe fresco, camarão e moluscos",
+          "preco": 11500
+        },
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com camarão, mexilhão, lulas, amêijoas e lagostim",
+          "preco": 10200
+        },
+        {
+          "nome": "lagosta à O Mar",
+          "descricao": "lagosta inteira grelhada ao molho especial da casa com arroz",
+          "preco": 16800
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana tradicional portuguesa com marisco variado",
+          "preco": 13500
+        },
+        {
+          "nome": "camarão à guilho",
+          "descricao": "camarão salteado em azeite com muito alho e pimenta",
+          "preco": 9800
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado com batatas cozidas e legumes",
+          "preco": 7500
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo assado com batatas a murro e azeite virgem",
+          "preco": 10800
+        },
+        {
+          "nome": "açorda de marisco",
+          "descricao": "açorda tradicional com marisco variado e ovo escalfado",
+          "preco": 8900
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de ovos",
+          "descricao": "pudim tradicional de ovos com calda de caramelo",
+          "preco": 1500
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse cremoso de chocolate belga",
+          "preco": 1600
+        },
+        {
+          "nome": "salada de frutas",
+          "descricao": "frutas frescas da época",
+          "preco": 1200
+        },
+        {
+          "nome": "tarte de limão",
+          "descricao": "tarte de limão merengada",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde português",
+          "descricao": "vinho verde fresco ideal para marisco",
+          "preco": 7500
+        },
+        {
+          "nome": "vinho branco Alentejo",
+          "descricao": "vinho branco português seco",
+          "preco": 8200
+        },
+        {
+          "nome": "cerveja Cuca",
+          "descricao": "cerveja angolana gelada",
+          "preco": 600
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "sumos naturais variados",
+          "preco": 700
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-15:00, 19:00-22:00",
+      "terca": "12:00-15:00, 19:00-22:00",
+      "quarta": "12:00-15:00, 19:00-22:00",
+      "quinta": "12:00-15:00, 19:00-22:00",
+      "sexta": "12:00-15:00, 19:00-23:00",
+      "sabado": "12:00-23:00",
+      "domingo": "12:00-22:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "reservas recomendadas aos fins de semana e feriados"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "Fernando Costa",
+        "nota": 5,
+        "comentario": "um dos melhores restaurantes de marisco de Luanda. a caldeirada é espectacular e o serviço é muito atencioso. recomendo vivamente!",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Isabel Martins",
+        "nota": 4,
+        "comentario": "excelente peixe fresco e vista maravilhosa. o arroz de marisco estava delicioso. preços justos para a qualidade.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Mendes",
+        "nota": 5,
+        "comentario": "restaurante familiar com comida autêntica. a lagosta à O Mar é imperdível! ambiente acolhedor e staff simpático.",
+        "data": "2025-11-16",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Patricia Alves",
+        "nota": 4,
+        "comentario": "adorei a esplanada com vista mar. o camarão à guilho estava perfeito, bem temperado e fresco.",
+        "data": "2025-11-14",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Manuel Silva",
+        "nota": 5,
+        "comentario": "já vim várias vezes e nunca desilude. qualidade consistente, marisco sempre fresco e ambiente tranquilo.",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com vigilância. capacidade para 25 viaturas. acesso direto ao restaurante.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "restaurante com vigilância privada",
+      "estacionamento vigiado durante todo o funcionamento",
+      "zona tranquila e segura da Ilha",
+      "boa iluminação na área exterior",
+      "staff atencioso e prestável para qualquer assistência"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve mesa na esplanada para desfrutar da vista sobre o mar, especialmente ao pôr do sol",
+      "autor": "Ana Costa",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente a caldeirada de peixe, é a especialidade da casa e serve duas pessoas facilmente",
+      "autor": "João Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "chegue cedo ao fim de semana, pois o restaurante enche e as esperas podem ser longas",
+      "autor": "Rita Ferreira",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "o arroz de marisco é excelente e vem em doses generosas, ideal para partilhar",
+      "autor": "Miguel Andrade",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "pergunte ao staff qual é o peixe mais fresco do dia, eles sempre têm boas recomendações",
+      "autor": "Sofia Lopes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "idealParaFamilias": true,
+    "petFriendly": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante O Mar - Marisco Fresco na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante tradicional na Ilha de Luanda especializado em marisco fresco e peixe grelhado. caldeirada, arroz de marisco, lagosta. vista privilegiada sobre o oceano.",
+    "tags": ["marisco", "peixe fresco", "vista mar", "tradicional", "caldeirada", "lagosta", "ilha de luanda", "portuguesa", "familiar", "esplanada"]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": "bahia",
+  "nome": "Restaurante Bahia",
+  "descricao": "restaurante com ambiente tropical e cozinha internacional, especializado em grelhados premium e cocktails exóticos à beira-mar",
+  "descricaoCompleta": "o Restaurante Bahia transporta-o para uma atmosfera tropical única na Ilha de Luanda. com uma decoração inspirada nas praias brasileiras, este restaurante destaca-se pela sua fusão de sabores internacionais com toques locais. o espaço amplo e colorido conta com uma área coberta com ar condicionado e uma esplanada vibrante com vista directa para o oceano. o Bahia é conhecido pela qualidade dos seus grelhados premium, incluindo carnes nobres importadas, peixe fresco e marisco seleccionado. o bar de cocktails é um dos melhores da Ilha, com mixologistas experientes que preparam criações autorais e clássicos tropicais. aos fins de semana, o restaurante oferece brunch especial e música ao vivo, criando um ambiente festivo que atrai tanto famílias durante o dia como grupos de amigos à noite. a carta de vinhos é cuidadosamente seleccionada com rótulos portugueses, sul-africanos e sul-americanos. o Bahia combina sofisticação com descontracção, sendo ideal tanto para jantares românticos como para celebrações em grupo.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Sul, Marginal da Praia, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8095,
+      "longitude": 13.2342
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 387 900",
+    "telemovel": "+244 923 456 123",
+    "email": "reservas@restaurantebahia.ao",
+    "website": "https://www.restaurantebahia.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restaurantebahialuanda",
+      "instagram": "https://www.instagram.com/bahia_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/bahia-ilha-luanda"
+    }
+  },
+
+  "tipoCozinha": ["internacional", "brasileira", "grelhados premium", "fusão", "marisco"],
+  "especialidades": [
+    "picanha argentina grelhada",
+    "lagosta na manteiga de alho e ervas",
+    "moqueca de peixe e camarão",
+    "costela BBQ com molho especial",
+    "robalo ao sal com legumes mediterrânicos",
+    "tábua de carnes premium para partilhar"
+  ],
+  "ambiente": ["tropical", "moderno", "vista mar", "esplanada", "romântico", "festivo", "música ao vivo"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 11500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ceviche tropical",
+          "descricao": "peixe fresco marinado em lima, coco, coentros e malagueta",
+          "preco": 3800
+        },
+        {
+          "nome": "tábua de queijos e enchidos",
+          "descricao": "selecção de queijos portugueses e enchidos artesanais",
+          "preco": 4200
+        },
+        {
+          "nome": "camarão na moranga",
+          "descricao": "camarão gratinado servido em abóbora moranga",
+          "preco": 4500
+        },
+        {
+          "nome": "carpaccio de vaca com rúcula",
+          "descricao": "carpaccio de vaca com rúcula, parmesão e azeite trufado",
+          "preco": 3900
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "picanha argentina",
+          "descricao": "picanha argentina 400g grelhada com molho chimichurri, arroz e batatas",
+          "preco": 13500
+        },
+        {
+          "nome": "lagosta na manteiga",
+          "descricao": "lagosta inteira grelhada com manteiga de alho, ervas e limão",
+          "preco": 17800
+        },
+        {
+          "nome": "moqueca de peixe e camarão",
+          "descricao": "moqueca brasileira com peixe, camarão, leite de coco e dendê, arroz de coco",
+          "preco": 9800
+        },
+        {
+          "nome": "costela BBQ",
+          "descricao": "costela de porco desfiada ao molho BBQ especial com batata rústica",
+          "preco": 8900
+        },
+        {
+          "nome": "robalo ao sal",
+          "descricao": "robalo inteiro ao sal com legumes mediterrânicos e batatas",
+          "preco": 12500
+        },
+        {
+          "nome": "tábua de carnes",
+          "descricao": "picanha, lombo, linguiça e frango para 2 pessoas com guarnições",
+          "preco": 22000
+        },
+        {
+          "nome": "espetada de peixe e camarão",
+          "descricao": "espetada mista com peixe-espada, salmão, camarão e legumes grelhados",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "brigadeiro gourmet",
+          "descricao": "brigadeiros de chocolate belga, maracujá e coco",
+          "preco": 1800
+        },
+        {
+          "nome": "pavê de maracujá",
+          "descricao": "pavê cremoso de maracujá com biscoito champagne",
+          "preco": 2000
+        },
+        {
+          "nome": "mousse de chocolate e café",
+          "descricao": "mousse dupla de chocolate e café com chantilly",
+          "preco": 1900
+        },
+        {
+          "nome": "banana flambada",
+          "descricao": "banana flambada com rum e servida com gelado de baunilha",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "caipirinha de maracujá",
+          "descricao": "caipirinha brasileira com maracujá fresco",
+          "preco": 1800
+        },
+        {
+          "nome": "mojito tropical",
+          "descricao": "mojito com rum, ananás, hortelã e lima",
+          "preco": 1900
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "cocktail clássico com rum, ananás e coco",
+          "preco": 2000
+        },
+        {
+          "nome": "bahia sunset",
+          "descricao": "cocktail autoral com vodka, manga, maracujá e champanhe",
+          "preco": 2300
+        }
+      ]
+    },
+    {
+      "categoria": "vinhos",
+      "pratos": [
+        {
+          "nome": "vinho verde Quinta da Lixa",
+          "descricao": "vinho verde português fresco",
+          "preco": 8500
+        },
+        {
+          "nome": "vinho tinto Douro Superior",
+          "descricao": "vinho tinto português encorpado",
+          "preco": 12000
+        },
+        {
+          "nome": "espumante Raposeira",
+          "descricao": "espumante português bruto",
+          "preco": 9500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-23:00",
+      "quarta": "12:00-23:00",
+      "quinta": "12:00-23:00",
+      "sexta": "12:00-01:00",
+      "sabado": "11:00-01:00",
+      "domingo": "11:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "brunch especial aos domingos das 11:00 às 16:00. música ao vivo sexta e sábado a partir das 20:00"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 289,
+    "avaliacoes": [
+      {
+        "autor": "Luís Pereira",
+        "nota": 5,
+        "comentario": "excelente experiência! a picanha argentina estava no ponto perfeito e os cocktails são deliciosos. ambiente tropical muito agradável.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ana Rodrigues",
+        "nota": 5,
+        "comentario": "adorei o brunch de domingo! muita variedade, tudo fresco e saboroso. a música ao vivo criou um ambiente maravilhoso.",
+        "data": "2025-11-17",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Pedro Alves",
+        "nota": 4,
+        "comentario": "restaurante muito bom com óptima localização. a moqueca estava autêntica e deliciosa. serviço atencioso. recomendo!",
+        "data": "2025-11-13",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carla Mendes",
+        "nota": 5,
+        "comentario": "um dos melhores restaurantes da Ilha! a lagosta na manteiga é divinal. ambiente romântico, perfeito para jantar a dois.",
+        "data": "2025-11-07",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com segurança 24h. capacidade para 35 viaturas. acesso direto ao restaurante.",
+    "capacidadeEstacionamento": 35,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "restaurante com segurança privada no local",
+      "estacionamento vigiado e bem iluminado",
+      "zona segura durante todo o horário de funcionamento",
+      "staff atencioso e prestável",
+      "boa iluminação em toda a área do restaurante",
+      "controlo de acesso ao estacionamento"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência aos fins de semana, especialmente para o brunch de domingo",
+      "autor": "Isabel Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente a tábua de carnes se forem 2 ou mais pessoas, vale muito a pena",
+      "autor": "Marcos Silva",
+      "origem": "Rio de Janeiro, Brasil"
+    },
+    {
+      "dica": "peça mesa na esplanada ao pôr do sol, a vista é espectacular",
+      "autor": "Rita Costa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "os cocktails autorais são excelentes, peça recomendação ao barman",
+      "autor": "Tiago Fernandes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "vá na sexta ou sábado à noite para aproveitar a música ao vivo",
+      "autor": "Sandra Oliveira",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "sexta e sábado a partir das 20:00",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "barCocktails": true,
+    "brunch": true,
+    "cartaVinhos": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Bahia - Cozinha Internacional e Grelhados Premium na Ilha de Luanda",
+    "metaDescricao": "restaurante tropical na Ilha de Luanda com grelhados premium, moqueca brasileira, lagosta e cocktails exóticos. música ao vivo aos fins de semana. reserve já!",
+    "tags": ["internacional", "brasileiro", "grelhados premium", "lagosta", "cocktails", "música ao vivo", "brunch", "tropical", "ilha de luanda", "romântico", "esplanada", "vista mar"]
+  }
+}

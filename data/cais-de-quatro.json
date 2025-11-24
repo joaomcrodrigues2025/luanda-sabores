@@ -1,0 +1,336 @@
+{
+  "id": "cais-de-quatro",
+  "nome": "Cais de Quatro",
+  "descricao": "restaurante elegante com vista panorâmica sobre a baía de Luanda, especializado em marisco fresco e pratos de fusão internacional",
+  "descricaoCompleta": "situado numa localização privilegiada na Ilha de Luanda, o Cais de Quatro oferece uma experiência gastronómica sofisticada com vista deslumbrante sobre a baía. com uma decoração contemporânea e ambiente elegante, o restaurante destaca-se pela qualidade do seu marisco fresco, trazido diariamente dos mercados locais. a carta combina técnicas culinárias internacionais com ingredientes angolanos, criando pratos únicos que celebram a riqueza gastronómica de Angola. o espaço conta com uma esplanada ampla à beira-mar, ideal para jantares românticos ao pôr do sol ou reuniões de negócios durante o almoço. a adega de vinhos é cuidadosamente seleccionada, com rótulos portugueses e internacionais que harmonizam perfeitamente com os pratos de marisco. o Cais de Quatro é sinónimo de refinamento e qualidade na Ilha de Luanda, sendo uma escolha obrigatória para quem procura alta gastronomia em Angola.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Ilha, zona sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8085,
+      "longitude": 13.2345
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 310 450",
+    "telemovel": "+244 923 456 789",
+    "email": "reservas@caisdequatro.ao",
+    "website": "https://www.caisdequatro.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/caisdequatro",
+      "instagram": "https://www.instagram.com/caisdequatro",
+      "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g293763-d8524156-Reviews-Cais_de_Quatro-Luanda_Luanda_Province.html"
+    }
+  },
+
+  "tipoCozinha": ["internacional", "marisco", "fusão", "portuguesa", "mediterrânica"],
+  "especialidades": [
+    "lagosta grelhada à Ilha",
+    "caldeirada de peixe do dia",
+    "arroz de marisco premium",
+    "lombo de atum com crosta de sésamo",
+    "camarão tigre à alho e óleo",
+    "peixe grelhado com molho de limão e ervas",
+    "polvo à lagareiro",
+    "cataplana de marisco"
+  ],
+  "ambiente": ["elegante", "vista mar", "romântico", "terraço", "jantar de negócios", "sofisticado"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 15000,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "carpaccio de polvo",
+          "descricao": "polvo fresco em carpaccio com azeite virgem, limão siciliano e coentros frescos",
+          "preco": 3500
+        },
+        {
+          "nome": "rissóis de camarão",
+          "descricao": "rissóis crocantes recheados com camarão tigre e molho tártaro caseiro",
+          "preco": 2800
+        },
+        {
+          "nome": "salada de lagostim",
+          "descricao": "lagostim fresco com rúcula, tomate cherry, abacate e vinagrete de mostarda",
+          "preco": 4200
+        },
+        {
+          "nome": "bruschetta de tomate heritage",
+          "descricao": "pão artesanal tostado com tomates coloridos, manjericão fresco e azeite trufado",
+          "preco": 2500
+        },
+        {
+          "nome": "tártaro de atum",
+          "descricao": "atum fresco em tártaro com abacate, wakame e chips de tapioca",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada à Ilha",
+          "descricao": "lagosta inteira grelhada com manteiga de alho e ervas finas, servida com batatas ao murro e legumes salteados",
+          "preco": 18000
+        },
+        {
+          "nome": "caldeirada de peixe",
+          "descricao": "caldeirada tradicional com peixe fresco do dia, camarão, mexilhão e moluscos em molho de tomate aromático",
+          "preco": 12500
+        },
+        {
+          "nome": "arroz de marisco premium",
+          "descricao": "arroz cremoso com camarão tigre, mexilhão, lulas, amêijoas e lavagante, finalizado com coentros",
+          "preco": 9800
+        },
+        {
+          "nome": "lombo de atum selado",
+          "descricao": "lombo de atum selado com crosta de sésamo preto e branco, legumes salteados e molho teriyaki",
+          "preco": 11500
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo confitado em azeite com batatas a murro, pimentos assados e coentros",
+          "preco": 13200
+        },
+        {
+          "nome": "robalo ao sal",
+          "descricao": "robalo inteiro assado em crosta de sal, servido com batatas cozidas e molho de limão",
+          "preco": 14500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana tradicional portuguesa com marisco variado, batata e coentros",
+          "preco": 16800
+        },
+        {
+          "nome": "espetada de camarão tigre",
+          "descricao": "camarão tigre grelhado em espetada com legumes e arroz de jasmim",
+          "preco": 10500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "mousse de maracujá",
+          "descricao": "mousse cremosa de maracujá com coulis de frutos tropicais e biscoito crocante",
+          "preco": 1800
+        },
+        {
+          "nome": "tarte de limão merengada",
+          "descricao": "tarte de limão com base crocante e merengue italiano flambado",
+          "preco": 2000
+        },
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim tradicional de coco fresco com calda de caramelo e coco ralado",
+          "preco": 1600
+        },
+        {
+          "nome": "pavlova tropical",
+          "descricao": "merengue crocante com creme chantilly, manga, ananás e maracujá",
+          "preco": 2200
+        },
+        {
+          "nome": "petit gateau",
+          "descricao": "bolo de chocolate quente com coração líquido e gelado de baunilha",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho branco Quinta do Vale",
+          "descricao": "vinho branco português seco da região do Douro, ideal para marisco",
+          "preco": 8500
+        },
+        {
+          "nome": "vinho rosé Esporão",
+          "descricao": "vinho rosé fresco do Alentejo, perfeito para dias quentes",
+          "preco": 7200
+        },
+        {
+          "nome": "champagne Moët & Chandon",
+          "descricao": "champagne francês brut, ideal para celebrações",
+          "preco": 25000
+        },
+        {
+          "nome": "sumo natural de maracujá",
+          "descricao": "sumo fresco de maracujá da região, sem açúcar adicionado",
+          "preco": 800
+        },
+        {
+          "nome": "caipirinha de ananás",
+          "descricao": "caipirinha tradicional com ananás fresco e cachaça premium",
+          "preco": 1500
+        },
+        {
+          "nome": "mojito clássico",
+          "descricao": "mojito com rum branco, hortelã fresca, lima e açúcar mascavado",
+          "preco": 1400
+        },
+        {
+          "nome": "gin tónico premium",
+          "descricao": "gin tónico com gin português e tónica fever-tree",
+          "preco": 1800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-15:00, 19:00-23:00",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "reservas fortemente recomendadas aos fins de semana e feriados. aceita reservas com 24h de antecedência"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 287,
+    "avaliacoes": [
+      {
+        "autor": "Maria Silva",
+        "nota": 5,
+        "comentario": "experiência fantástica! a lagosta estava divinal e a vista é simplesmente deslumbrante. serviço impecável e ambiente muito agradável. voltarei certamente!",
+        "data": "2025-11-15",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "João Santos",
+        "nota": 4,
+        "comentario": "excelente comida e localização privilegiada. preços um pouco elevados mas a qualidade justifica plenamente. o polvo à lagareiro é extraordinário. recomendo!",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ana Costa",
+        "nota": 5,
+        "comentario": "um dos melhores restaurantes de Luanda! o arroz de marisco é extraordinário e o staff é muito atencioso. a vista ao pôr do sol não tem preço.",
+        "data": "2025-11-05",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Paulo Fernandes",
+        "nota": 4,
+        "comentario": "ambiente sofisticado e comida de excelente qualidade. o tártaro de atum estava perfeito. apenas achei o serviço um pouco lento.",
+        "data": "2025-10-28",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Sandra Oliveira",
+        "nota": 5,
+        "comentario": "simplesmente perfeito para um jantar romântico! a lagosta grelhada é a melhor que já comi. staff muito profissional e ambiente elegante.",
+        "data": "2025-10-20",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com segurança 24h, capacidade para 30 viaturas. acesso direto ao restaurante através de portão com controlo.",
+    "capacidadeEstacionamento": 30,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "o restaurante possui segurança privada 24h no local e no estacionamento",
+      "estacionamento vigiado e bem iluminado à noite",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "zona considerada segura durante o dia e noite",
+      "staff atencioso e disponível para assistência e informações",
+      "sistema de videovigilância em todo o estabelecimento"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve mesa na esplanada com antecedência para desfrutar do espectacular pôr do sol sobre a baía de Luanda",
+      "autor": "Carlos Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente a lagosta grelhada à Ilha, é a especialidade da casa e vale cada kwanza. acompanhe com vinho branco português",
+      "autor": "Patricia Alves",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "chegue cedo ao fim de semana, pois enche rapidamente especialmente para jantar. a partir das 19h30 fica lotado",
+      "autor": "Fernando Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça recomendações ao staff sobre o peixe do dia, costuma ser sempre excelente e fresco",
+      "autor": "Isabel Martins",
+      "origem": "Maputo, Moçambique"
+    },
+    {
+      "dica": "se for em grupo, experimente a cataplana de marisco para partilhar. serve bem 3-4 pessoas",
+      "autor": "Ricardo Santos",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "quinta a sábado a partir das 20h - jazz e música lounge",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Cais de Quatro - Restaurante de Marisco na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante elegante na Ilha de Luanda especializado em marisco fresco. vista panorâmica sobre a baía, ambiente sofisticado e cozinha de excelência. reserve já!",
+    "tags": ["marisco", "vista mar", "elegante", "romântico", "ilha de luanda", "lagosta", "peixe fresco", "internacional", "fusão", "terraço", "jantar de negócios", "música ao vivo", "alta gastronomia"]
+  }
+}

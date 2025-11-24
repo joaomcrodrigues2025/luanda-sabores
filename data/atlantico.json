@@ -1,0 +1,291 @@
+{
+  "id": "atlantico",
+  "nome": "Bar Restaurante Atlântico",
+  "descricao": "bar restaurante com ambiente descontraído à beira-mar, conhecido pelos grelhados de peixe e petiscos tradicionais angolanos",
+  "descricaoCompleta": "o Bar Restaurante Atlântico é um dos locais mais autênticos da Ilha de Luanda, onde a simplicidade e a qualidade da comida angolana se encontram. com uma decoração simples mas acolhedora, este estabelecimento é muito procurado tanto por locais como por turistas que procuram uma experiência genuína. o Atlântico é famoso pelos seus grelhados de peixe fresco, preparados na hora numa grelha a carvão visível aos clientes. o cheiro irresistível do peixe a grelhar atrai visitantes ao longo de todo o dia. além dos grelhados, o restaurante serve petiscos tradicionais angolanos, cervejas bem geladas e uma variedade de sumos naturais. o ambiente descontraído, com mesas espalhadas pela areia e sob toldos coloridos, cria uma atmosfera informal perfeita para longas conversas ao som do mar. aos fins de semana, o espaço ganha vida com música ambiente e é ponto de encontro de grupos de amigos e famílias que procuram um dia relaxante na praia.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Marginal Norte, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7935,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 391 456",
+    "telemovel": "+244 926 789 012",
+    "email": "info@atlanticoluanda.ao",
+    "website": "",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/baratlanticoluanda",
+      "instagram": "https://www.instagram.com/atlantico_ilha"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "grelhados", "petiscos", "peixe fresco"],
+  "especialidades": [
+    "peixe serra grelhado",
+    "cacusso na brasa",
+    "espetadas de peixe e camarão",
+    "choco grelhado",
+    "mandioca frita com peixe",
+    "mufete tradicional"
+  ],
+  "ambiente": ["informal", "descontraído", "praia", "vista mar", "familiar", "pé na areia"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 5800,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca crocante frita servida com molho picante",
+          "preco": 800
+        },
+        {
+          "nome": "ginguba com sal",
+          "descricao": "amendoins torrados com sal marinho",
+          "preco": 500
+        },
+        {
+          "nome": "bolinhos de peixe",
+          "descricao": "bolinhos crocantes de peixe com molho tártaro",
+          "preco": 1200
+        },
+        {
+          "nome": "camarão panado",
+          "descricao": "camarão empanado crocante com molho de alho",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado na brasa com funge e mandioca",
+          "preco": 4800
+        },
+        {
+          "nome": "cacusso na brasa",
+          "descricao": "peixe cacusso inteiro grelhado com molho cru e acompanhamentos",
+          "preco": 5200
+        },
+        {
+          "nome": "espetada mista de peixe",
+          "descricao": "espetada de peixe e camarão grelhada com legumes",
+          "preco": 6500
+        },
+        {
+          "nome": "choco grelhado",
+          "descricao": "choco tenro grelhado com azeite, alho e piri-piri",
+          "preco": 5800
+        },
+        {
+          "nome": "mufete tradicional",
+          "descricao": "peixe grelhado com molho cru, batata-doce, banana-pão e feijão de óleo de palma",
+          "preco": 5500
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho e limão",
+          "preco": 4500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "cocada fresca",
+          "descricao": "cocada tradicional de coco",
+          "preco": 800
+        },
+        {
+          "nome": "banana frita com mel",
+          "descricao": "banana-pão frita servida com mel",
+          "preco": 900
+        },
+        {
+          "nome": "gelado de múcua",
+          "descricao": "gelado artesanal de múcua",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca 330ml",
+          "descricao": "cerveja angolana gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Nocal 330ml",
+          "descricao": "cerveja angolana premium gelada",
+          "preco": 700
+        },
+        {
+          "nome": "sumo de ananás natural",
+          "descricao": "sumo fresco de ananás",
+          "preco": 700
+        },
+        {
+          "nome": "sumo de maracujá",
+          "descricao": "sumo natural de maracujá",
+          "preco": 750
+        },
+        {
+          "nome": "caipirinha de limão",
+          "descricao": "caipirinha tradicional bem gelada",
+          "preco": 1200
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "11:00-22:00",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-22:00",
+      "sexta": "11:00-23:00",
+      "sabado": "10:00-00:00",
+      "domingo": "10:00-23:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "funciona todos os dias, horário alargado aos fins de semana"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.2,
+    "numeroAvaliacoes": 328,
+    "avaliacoes": [
+      {
+        "autor": "José Cardoso",
+        "nota": 5,
+        "comentario": "ambiente autêntico e descontraído! o peixe grelhado estava fresco e muito bem temperado. preços acessíveis e boa localização na praia.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Inês Pereira",
+        "nota": 4,
+        "comentario": "gostei muito da experiência! comida simples mas saborosa. o mufete estava delicioso e o atendimento foi simpático.",
+        "data": "2025-11-16",
+        "origem": "Coimbra, Portugal"
+      },
+      {
+        "autor": "Fernando Neto",
+        "nota": 4,
+        "comentario": "óptimo para um almoço informal com os pés na areia. o cacusso grelhado é excelente! cervejas bem geladas.",
+        "data": "2025-11-09",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Raquel Sousa",
+        "nota": 4,
+        "comentario": "ambiente descontraído e familiar. adorei as espetadas de peixe! bom custo-benefício. recomendo para grupos.",
+        "data": "2025-11-04",
+        "origem": "Benguela, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua com vigilância informal",
+    "informacaoEstacionamento": "estacionamento na rua em frente ao restaurante. vigilância informal disponível. pode ficar concorrido aos fins de semana.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "500 AOA (propina ao vigilante)"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o dia",
+      "vigilância informal no estacionamento",
+      "mantenha objectos de valor fora da vista no carro",
+      "ambiente familiar e tranquilo durante o horário de funcionamento",
+      "staff local e prestável",
+      "evite deixar o veículo isolado à noite"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "experimente o peixe do dia grelhado na brasa, é sempre fresco e bem preparado",
+      "autor": "Miguel Tavares",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "vá ao fim da tarde para apanhar o pôr do sol enquanto come, é lindo",
+      "autor": "Sofia Lopes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "peça mesa na areia para a experiência completa de praia",
+      "autor": "André Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "os preços são justos e as porções generosas, óptimo custo-benefício",
+      "autor": "Paula Ferreira",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "perfeito para ir com amigos aos fins de semana, ambiente muito animado",
+      "autor": "Ricardo Alves",
+      "origem": "Huambo, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Bar Restaurante Atlântico - Grelhados de Peixe na Ilha de Luanda",
+    "metaDescricao": "bar restaurante descontraído na Ilha de Luanda. peixe grelhado na brasa, mufete tradicional e petiscos angolanos à beira-mar. ambiente familiar e preços acessíveis.",
+    "tags": ["peixe grelhado", "grelhados", "pé na areia", "descontraído", "familiar", "ilha de luanda", "mufete", "petiscos", "angolana", "praia", "informal"]
+  }
+}

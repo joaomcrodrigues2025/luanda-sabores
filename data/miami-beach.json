@@ -1,0 +1,319 @@
+{
+  "id": "miami-beach",
+  "nome": "Miami Beach",
+  "descricao": "restaurante de praia icónico com especialidades em peixe grelhado, marisco fresco e ambiente familiar descontraído à beira-mar",
+  "descricaoCompleta": "o Miami Beach é um dos restaurantes mais emblemáticos da Ilha de Luanda, com mais de 15 anos de história. localizado na zona norte da ilha, oferece uma experiência gastronómica autêntica com os pés na areia. este espaço familiar destaca-se pela qualidade do seu peixe fresco diário, trazido pelos pescadores locais todas as manhãs. a especialidade da casa é o mufete de cacusso, preparado de forma tradicional com banana-pão, batata-doce e o famoso molho cru angolano. o restaurante tem capacidade para mais de 200 pessoas, com mesas directamente na areia e uma zona coberta para dias de maior calor. aos fins de semana, o Miami Beach ganha vida com música ao vivo, tornando-se um ponto de encontro imperdível para famílias, grupos de amigos e turistas que procuram a verdadeira essência da cultura gastronómica angolana junto ao mar. o ambiente descontraído e os preços acessíveis fazem deste restaurante uma escolha popular entre locais e visitantes.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Norte, próximo ao Clube Naval, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona norte",
+    "coordenadas": {
+      "latitude": -8.7925,
+      "longitude": 13.2315
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 396 785",
+    "telemovel": "+244 923 456 123",
+    "email": "info@miamibeachluanda.ao",
+    "website": "https://www.facebook.com/miamibeachluanda",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/miamibeachluanda",
+      "instagram": "https://www.instagram.com/miamibeach_luanda"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "marisco", "grelhados", "peixe", "tradicional"],
+  "especialidades": [
+    "mufete de cacusso tradicional",
+    "peixe serra grelhado",
+    "caldeirada de marisco",
+    "lagosta grelhada na brasa",
+    "camarão tigre grelhado",
+    "lulas grelhadas com alho",
+    "cabidela de frango angolana",
+    "espetadas de peixe e carne"
+  ],
+  "ambiente": ["informal", "familiar", "praia", "vista mar", "pé na areia", "animado", "tradicional"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 7000,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "pastéis crocantes de bacalhau servidos com molho picante caseiro",
+          "preco": 1500
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca crocante frita com molho de alho e pimenta",
+          "preco": 900
+        },
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins torrados com sal marinho",
+          "preco": 600
+        },
+        {
+          "nome": "bolinhos de peixe",
+          "descricao": "bolinhos de peixe fresco com ervas angolanas",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "mufete de cacusso",
+          "descricao": "peixe cacusso grelhado com molho cru, batata-doce, banana-pão e mandioca",
+          "preco": 6500
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado na brasa com acompanhamentos tradicionais",
+          "preco": 5000
+        },
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta inteira grelhada na brasa com manteiga de alho e limão",
+          "preco": 16000
+        },
+        {
+          "nome": "caldeirada de marisco",
+          "descricao": "caldeirada rica com peixe, camarão, lula e moluscos frescos",
+          "preco": 8500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões gigantes grelhados com molho de alho e pimenta",
+          "preco": 7800
+        },
+        {
+          "nome": "cabidela de frango",
+          "descricao": "frango tradicional angolano cozinhado no próprio sangue com arroz",
+          "preco": 4200
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho, limão e coentros",
+          "preco": 5500
+        },
+        {
+          "nome": "espetadas mistas",
+          "descricao": "espetadas de carne e peixe com legumes grelhados",
+          "preco": 6000
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim cremoso de coco com calda de caramelo",
+          "preco": 1500
+        },
+        {
+          "nome": "salada de frutas tropicais",
+          "descricao": "frutas frescas da época com sumo de maracujá",
+          "preco": 1200
+        },
+        {
+          "nome": "mousse de múcua",
+          "descricao": "mousse cremosa de múcua (fruto do imbondeiro)",
+          "preco": 1600
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada (600ml)",
+          "preco": 700
+        },
+        {
+          "nome": "Eka gelada",
+          "descricao": "cerveja angolana premium (600ml)",
+          "preco": 800
+        },
+        {
+          "nome": "caipirinha",
+          "descricao": "caipirinha clássica ou de frutas tropicais",
+          "preco": 1400
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua (fruto do imbondeiro)",
+          "preco": 800
+        },
+        {
+          "nome": "sumo de maracujá",
+          "descricao": "sumo natural de maracujá fresco",
+          "preco": 700
+        },
+        {
+          "nome": "água mineral",
+          "descricao": "água mineral natural (500ml)",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-22:00",
+      "sexta": "11:00-01:00",
+      "sabado": "10:00-02:00",
+      "domingo": "10:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "horário alargado aos fins de semana com música ao vivo a partir das 15h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 628,
+    "avaliacoes": [
+      {
+        "autor": "António Silva",
+        "nota": 5,
+        "comentario": "o melhor mufete de cacusso que já comi! ambiente familiar e autêntico, preços justos. imperdível aos domingos com música ao vivo.",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Marta Ferreira",
+        "nota": 4,
+        "comentario": "adorei a experiência! peixe muito fresco, pé na areia e vista linda. o staff é super simpático e atencioso.",
+        "data": "2025-11-18",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "João Pedro",
+        "nota": 5,
+        "comentario": "restaurante icónico da Ilha! já vou há anos e continua a ser o meu preferido. a lagosta grelhada é espectacular.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Laura Costa",
+        "nota": 4,
+        "comentario": "ambiente muito animado aos fins de semana! comida saborosa e porções generosas. recomendo chegar cedo para garantir boa mesa.",
+        "data": "2025-11-10",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Mendes",
+        "nota": 5,
+        "comentario": "experiência autêntica angolana! adorei o molho cru e a cabidela. staff muito prestável e ambiente descontraído.",
+        "data": "2025-11-05",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público vigiado",
+    "informacaoEstacionamento": "estacionamento amplo na rua e parque público próximo com vigilância. pode ficar mais concorrido aos fins de semana e feriados.",
+    "capacidadeEstacionamento": 60,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o dia e noite",
+      "vigilância presente no parque de estacionamento",
+      "recomenda-se cautela com pertences pessoais em dias de grande movimento",
+      "staff atencioso e disponível para ajudar",
+      "boa iluminação na área do restaurante e estacionamento",
+      "presença regular de seguranças privados aos fins de semana"
+    ],
+    "nivelSeguranca": "médio-alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao domingo para aproveitar a música ao vivo e o ambiente mais festivo. chegue antes das 13h para garantir boa mesa",
+      "autor": "Teresa Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o mufete de cacusso com uma Cuca bem gelada. é a combinação perfeita e muito tradicional",
+      "autor": "Paulo Rodrigues",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "se gosta de marisco, a lagosta grelhada é excelente e tem bom preço comparado a outros restaurantes da ilha",
+      "autor": "Ana Martins",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "peça mesa directamente na areia para a experiência completa. traga protector solar se for ao almoço",
+      "autor": "Roberto Costa",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "aos sábados há sempre DJ após as 18h. ambiente muito animado e descontraído. ideal para grupos de amigos",
+      "autor": "Miguel Alves",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": false,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "sexta a partir das 20h, sábado e domingo a partir das 15h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true,
+    "idealParaGrupos": true,
+    "zonaFumadores": true,
+    "permiteCriancas": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Miami Beach - Restaurante Tradicional na Ilha de Luanda | Mufete e Marisco",
+    "metaDescricao": "restaurante icónico na Ilha de Luanda com pé na areia. especialidades em mufete de cacusso, peixe grelhado e marisco fresco. música ao vivo aos fins de semana.",
+    "tags": ["pé na areia", "praia", "angolana", "mufete", "familiar", "música ao vivo", "descontraído", "ilha de luanda", "peixe grelhado", "marisco", "tradicional", "cacusso", "molho cru"]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "id": "coconuts",
+  "nome": "Coconuts",
+  "descricao": "restaurante de praia descontraído e animado, famoso pelo ambiente tropical, petiscos de marisco e música ao vivo aos fins de semana",
+  "descricaoCompleta": "o Coconuts é um dos restaurantes mais icónicos e animados da Ilha de Luanda, conhecido pelo seu ambiente tropical e descontraído que atrai tanto residentes como turistas. localizado na zona central da Ilha, directamente na praia, o espaço oferece uma experiência gastronómica informal com os pés na areia, onde se pode desfrutar de petiscos de marisco fresco, grelhados e pratos típicos angolanos enquanto se aprecia a brisa do mar. o restaurante destaca-se pela sua decoração com temática de coqueiros e elementos tropicais, criando um ambiente de férias permanente. aos fins de semana, o Coconuts transforma-se num ponto de encontro vibrante com música ao vivo, dj e uma atmosfera festiva que se prolonga até tarde. a carta de bebidas inclui cocktails tropicais, cervejas geladas e caipirinhas que são a cara da casa. é o local ideal para almoços de grupo, celebrações com amigos ou simplesmente para relaxar à beira-mar num ambiente descontraído e acolhedor.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, zona central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8000,
+      "longitude": 13.2325
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 395 812",
+    "telemovel": "+244 924 567 890",
+    "email": "info@coconutsluanda.ao",
+    "website": "https://www.coconutsluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/coconutsluanda",
+      "instagram": "https://www.instagram.com/coconutsluanda",
+      "tiktok": "https://www.tiktok.com/@coconutsluanda"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "marisco", "grelhados", "petiscos", "tropical", "internacional"],
+  "especialidades": [
+    "espetadas de camarão grelhado",
+    "peixe grelhado do dia",
+    "lulas grelhadas com alho",
+    "camarão à guilho",
+    "mufete de cacusso",
+    "caldeirada mista",
+    "feijoada de marisco",
+    "espetadas de frango piri-piri"
+  ],
+  "ambiente": ["descontraído", "tropical", "praia", "pé na areia", "animado", "música ao vivo", "familiar", "festivo"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 6000,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "batata frita rústica",
+          "descricao": "batata frita cortada à faca com pele, servida com maionese de alho",
+          "preco": 1200
+        },
+        {
+          "nome": "mandioca frita crocante",
+          "descricao": "mandioca frita dourada e crocante com molho picante",
+          "preco": 900
+        },
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "pastéis crocantes de bacalhau com molho tártaro",
+          "preco": 1500
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas salteadas com alho, coentros e azeite",
+          "preco": 2800
+        },
+        {
+          "nome": "camarão panado",
+          "descricao": "camarão empanado crocante servido com molho agridoce",
+          "preco": 3200
+        },
+        {
+          "nome": "ginguba torrada",
+          "descricao": "amendoins angolanos torrados com sal marinho",
+          "preco": 500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "espetada de camarão tigre",
+          "descricao": "espetada de camarão tigre grelhado com pimentos, cebola e molho de alho",
+          "preco": 7500
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado servido com arroz, salada e batata",
+          "preco": 4800
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas grelhadas com alho, coentros e limão, acompanhadas de arroz",
+          "preco": 5500
+        },
+        {
+          "nome": "mufete de cacusso",
+          "descricao": "peixe cacusso grelhado com molho cru, batata-doce, banana-pão e mandioca",
+          "preco": 5200
+        },
+        {
+          "nome": "caldeirada de peixe e marisco",
+          "descricao": "caldeirada com peixe fresco, camarão, mexilhão e lulas em molho de tomate",
+          "preco": 6800
+        },
+        {
+          "nome": "frango grelhado piri-piri",
+          "descricao": "frango inteiro grelhado com molho piri-piri picante, batata frita e salada",
+          "preco": 4200
+        },
+        {
+          "nome": "feijoada de marisco",
+          "descricao": "feijoada tradicional com marisco variado, arroz branco e farofa",
+          "preco": 7200
+        },
+        {
+          "nome": "espetada mista de carne",
+          "descricao": "espetada de vaca, porco e frango com legumes grelhados",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "baba de camelo",
+          "descricao": "sobremesa tradicional angolana com ovos, leite condensado e bolacha",
+          "preco": 1200
+        },
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim caseiro de coco com calda de caramelo",
+          "preco": 1400
+        },
+        {
+          "nome": "salada de fruta tropical",
+          "descricao": "frutas frescas da época com gelado de coco",
+          "preco": 1500
+        },
+        {
+          "nome": "gelado artesanal",
+          "descricao": "gelado artesanal de múcua, coco ou maracujá",
+          "preco": 1000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada 330ml",
+          "preco": 600
+        },
+        {
+          "nome": "Eka gelada",
+          "descricao": "cerveja angolana Eka bem gelada 330ml",
+          "preco": 600
+        },
+        {
+          "nome": "caipirinha tropical",
+          "descricao": "caipirinha de ananás, maracujá ou coco",
+          "preco": 1200
+        },
+        {
+          "nome": "mojito de morango",
+          "descricao": "mojito refrescante com morangos frescos",
+          "preco": 1300
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "cocktail tropical com rum, ananás e coco",
+          "preco": 1400
+        },
+        {
+          "nome": "sumo de múcua",
+          "descricao": "sumo natural de múcua (fruto do imbondeiro)",
+          "preco": 700
+        },
+        {
+          "nome": "sumo de ananás natural",
+          "descricao": "sumo fresco de ananás sem açúcar",
+          "preco": 700
+        },
+        {
+          "nome": "água de coco fresca",
+          "descricao": "água de coco servida directamente no coco",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-23:00",
+      "sexta": "11:00-01:00",
+      "sabado": "10:00-02:00",
+      "domingo": "10:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "horário alargado aos fins de semana com música ao vivo. domingos com ambiente mais familiar"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 523,
+    "avaliacoes": [
+      {
+        "autor": "Pedro Gomes",
+        "nota": 5,
+        "comentario": "ambiente fantástico e muito animado! comida boa e preços justos. o pé na areia e a música ao vivo tornam a experiência impagável. recomendo as espetadas de camarão!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Rita Ferreira",
+        "nota": 4,
+        "comentario": "adorei a experiência! muito animado aos fins de semana com música ao vivo e dj. ideal para ir com amigos e família. o mufete estava autêntico e delicioso.",
+        "data": "2025-11-18",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Marco Silva",
+        "nota": 4,
+        "comentario": "excelente para um almoço descontraído à beira-mar. o peixe é sempre fresco e bem preparado. ambiente tropical muito agradável. recomendo!",
+        "data": "2025-11-12",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Juliana Costa",
+        "nota": 5,
+        "comentario": "um dos meus lugares favoritos em Luanda! ambiente descontraído, staff simpático e as caipirinhas são maravilhosas. perfeito para relaxar ao fim de semana.",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Thomas Mueller",
+        "nota": 4,
+        "comentario": "great beach vibe and fresh seafood! the grilled prawns were excellent. very lively on weekends with good music. prices are reasonable for the location.",
+        "data": "2025-11-03",
+        "origem": "Berlim, Alemanha"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público vigiado",
+    "informacaoEstacionamento": "estacionamento na rua junto ao restaurante e parque público próximo com vigilância. pode ficar mais movimentado aos fins de semana, recomenda-se chegar cedo.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona muito movimentada e segura durante o dia e noite",
+      "vigilância presente no parque de estacionamento",
+      "recomenda-se cautela com pertences pessoais em dias de grande afluência",
+      "staff atencioso e prestável, sempre disponível",
+      "boa iluminação na área do restaurante e arredores",
+      "muita gente circula na zona, especialmente aos fins de semana"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao sábado à tarde para aproveitar a música ao vivo e o ambiente mais animado. chega a ficar muito cheio!",
+      "autor": "Isabel Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente as espetadas de camarão, são enormes e muito saborosas. acompanhe com uma caipirinha tropical",
+      "autor": "Carlos Andrade",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "chegue cedo aos fins de semana ou reserve mesa, pois enche muito. a partir das 14h fica lotado",
+      "autor": "Carla Sousa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "peça mesa na areia para a experiência completa de pé na praia. leve protector solar se for durante o dia!",
+      "autor": "Miguel Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "aos domingos o ambiente é mais familiar e tranquilo, ideal para almoçar com crianças",
+      "autor": "Ana Rodrigues",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "quinta a domingo - DJ às sextas e sábados a partir das 19h, música ao vivo aos domingos a partir das 15h",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "idealParaFamilias": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?w=800",
+      "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Coconuts - Restaurante de Praia na Ilha de Luanda | Música ao Vivo",
+    "metaDescricao": "restaurante descontraído e animado na praia da Ilha de Luanda. marisco fresco, petiscos, cocktails tropicais e música ao vivo aos fins de semana. ambiente tropical!",
+    "tags": ["pé na areia", "praia", "tropical", "música ao vivo", "descontraído", "familiar", "ilha de luanda", "marisco", "petiscos", "cocktails", "animado", "dj"]
+  }
+}

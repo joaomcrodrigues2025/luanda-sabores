@@ -1,0 +1,332 @@
+{
+  "id": "sunset-beach-bar",
+  "nome": "Sunset Beach Bar",
+  "descricao": "beach bar moderno com ambiente descontraído, especializado em cocktails, petiscos e eventos ao pôr do sol com DJ",
+  "descricaoCompleta": "o Sunset Beach Bar é o destino preferido dos jovens e amantes de boa música na Ilha de Luanda. com uma atmosfera moderna e descontraída, este beach bar rapidamente se tornou referência para quem procura diversão à beira-mar. o espaço conta com espreguiçadeiras na areia, mesas sob chapéus de sol coloridos e uma área lounge com sofás confortáveis. o bar é famoso pelos seus cocktails criativos e refrescantes, preparados por mixologistas experientes que usam frutas tropicais locais. a carta de petiscos inclui hambúrguers gourmet, tacos, nachos, asas de frango e opções vegetarianas. o grande atrativo do Sunset são as sessões ao pôr do sol com DJ's nacionais e internacionais, que transformam as tardes de sexta, sábado e domingo em verdadeiras festas na praia. o ambiente jovem e vibrante atrai tanto locais como turistas que procuram uma experiência mais informal e festiva. durante o dia, o espaço é perfeito para relaxar na praia com amigos, enquanto à noite se transforma num dos pontos mais animados da Ilha de Luanda.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Zona Central, Frente à Praia, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8020,
+      "longitude": 13.2328
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 394 567",
+    "telemovel": "+244 927 654 321",
+    "email": "info@sunsetbeachbar.ao",
+    "website": "https://www.sunsetbeachbar.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/sunsetbeachbarluanda",
+      "instagram": "https://www.instagram.com/sunsetbeachbar_lda",
+      "tiktok": "https://www.tiktok.com/@sunsetbeachbar",
+      "twitter": "https://twitter.com/sunsetbarlda"
+    }
+  },
+
+  "tipoCozinha": ["petiscos", "hambúrguers gourmet", "internacional", "fusion", "finger food"],
+  "especialidades": [
+    "sunset burger com bacon e queijo",
+    "tacos de peixe fresco",
+    "nachos supreme com guacamole",
+    "asas de frango picantes",
+    "ceviche de camarão",
+    "batata-doce frita com molhos especiais"
+  ],
+  "ambiente": ["moderno", "descontraído", "jovem", "praia", "festa", "DJ", "pôr do sol"],
+
+  "precos": {
+    "faixaPreco": 2,
+    "faixaPrecoTexto": "$$",
+    "precoMedio": 4500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "petiscos",
+      "pratos": [
+        {
+          "nome": "nachos supreme",
+          "descricao": "nachos crocantes com queijo derretido, guacamole, sour cream e jalapeños",
+          "preco": 2500
+        },
+        {
+          "nome": "asas de frango picantes",
+          "descricao": "12 asas de frango crocantes com molho BBQ ou picante",
+          "preco": 2800
+        },
+        {
+          "nome": "ceviche de camarão",
+          "descricao": "camarão fresco marinado em lima, coentros e pimenta",
+          "preco": 3200
+        },
+        {
+          "nome": "batata-doce frita",
+          "descricao": "batata-doce em palitos crocantes com molhos variados",
+          "preco": 1800
+        },
+        {
+          "nome": "tábua de queijos",
+          "descricao": "selecção de queijos com crackers e compota",
+          "preco": 2900
+        }
+      ]
+    },
+    {
+      "categoria": "hambúrguers",
+      "pratos": [
+        {
+          "nome": "sunset burger",
+          "descricao": "hambúrguer de vaca 200g com bacon, queijo cheddar, alface, tomate e molho especial",
+          "preco": 3500
+        },
+        {
+          "nome": "chicken burger",
+          "descricao": "peito de frango grelhado com queijo, rúcula e maionese de ervas",
+          "preco": 3200
+        },
+        {
+          "nome": "fish burger",
+          "descricao": "peixe fresco empanado com queijo, alface e molho tártaro",
+          "preco": 3400
+        },
+        {
+          "nome": "veggie burger",
+          "descricao": "hambúrguer vegetariano de grão-de-bico com legumes grelhados",
+          "preco": 3000
+        }
+      ]
+    },
+    {
+      "categoria": "tacos & wraps",
+      "pratos": [
+        {
+          "nome": "tacos de peixe",
+          "descricao": "3 tacos com peixe grelhado, repolho, abacate e molho chipotle",
+          "preco": 2900
+        },
+        {
+          "nome": "tacos de frango",
+          "descricao": "3 tacos com frango, queijo, alface e molho picante",
+          "preco": 2700
+        },
+        {
+          "nome": "wrap vegetariano",
+          "descricao": "wrap integral com hummus, legumes grelhados e rúcula",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie de chocolate quente com gelado de baunilha",
+          "preco": 1500
+        },
+        {
+          "nome": "churros com chocolate",
+          "descricao": "churros crocantes com molho de chocolate",
+          "preco": 1600
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails",
+      "pratos": [
+        {
+          "nome": "sunset special",
+          "descricao": "cocktail autoral com vodka, maracujá, ananás e champanhe",
+          "preco": 2000
+        },
+        {
+          "nome": "mojito clássico",
+          "descricao": "mojito com rum branco, hortelã, lima e açúcar",
+          "preco": 1800
+        },
+        {
+          "nome": "piña colada",
+          "descricao": "rum, ananás, coco e gelo",
+          "preco": 1900
+        },
+        {
+          "nome": "caipirinha de frutas",
+          "descricao": "caipirinha com cachaça e frutas tropicais",
+          "preco": 1700
+        },
+        {
+          "nome": "sex on the beach",
+          "descricao": "vodka, licor de pêssego, laranja e arando",
+          "preco": 1900
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca 330ml",
+          "descricao": "cerveja angolana gelada",
+          "preco": 600
+        },
+        {
+          "nome": "Heineken 330ml",
+          "descricao": "cerveja internacional",
+          "preco": 800
+        },
+        {
+          "nome": "smoothie tropical",
+          "descricao": "smoothie de manga, ananás e coco",
+          "preco": 1200
+        },
+        {
+          "nome": "limonada de gengibre",
+          "descricao": "limonada natural com gengibre e hortelã",
+          "preco": 900
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "16:00-23:00",
+      "quarta": "16:00-23:00",
+      "quinta": "16:00-00:00",
+      "sexta": "15:00-02:00",
+      "sabado": "12:00-03:00",
+      "domingo": "12:00-00:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "sessões sunset com DJ sexta, sábado e domingo a partir das 17:00. happy hour terça a quinta das 17:00 às 19:00"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "Diogo Martins",
+        "nota": 5,
+        "comentario": "ambiente incrível! as sessões sunset são fantásticas, boa música e cocktails deliciosos. o lugar perfeito para curtir o fim de tarde.",
+        "data": "2025-11-22",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Marta Sousa",
+        "nota": 4,
+        "comentario": "adorei a experiência! ambiente jovem e descontraído. os hambúrguers são óptimos e a vista é linda. voltarei com certeza.",
+        "data": "2025-11-19",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "André Costa",
+        "nota": 5,
+        "comentario": "o melhor beach bar da Ilha! DJ's excelentes, cocktails refrescantes e petiscos saborosos. ambiente perfeito para estar com amigos.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Carolina Nunes",
+        "nota": 4,
+        "comentario": "lugar top para passar a tarde de domingo! música boa, comida saborosa e ambiente super animado. recomendo os tacos de peixe.",
+        "data": "2025-11-10",
+        "origem": "São Paulo, Brasil"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público vigiado",
+    "informacaoEstacionamento": "estacionamento público próximo com vigilância. pode ficar muito concorrido aos fins de semana, especialmente durante as sessões sunset.",
+    "capacidadeEstacionamento": 60,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o funcionamento",
+      "segurança discreta no local aos fins de semana",
+      "estacionamento vigiado próximo",
+      "ambiente familiar durante o dia, mais festivo à noite",
+      "evite deixar objectos de valor à vista no veículo",
+      "staff atencioso e prestável"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "chegue por volta das 17h nos fins de semana para garantir bom lugar para o sunset",
+      "autor": "Rui Tavares",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "aproveite o happy hour de terça a quinta, cocktails com 20% de desconto",
+      "autor": "Joana Pires",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "experimente o sunset special, é o cocktail autoral e é delicioso",
+      "autor": "Miguel Andrade",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se gosta de hambúrguers, o sunset burger é imperdível",
+      "autor": "Beatriz Lima",
+      "origem": "Rio de Janeiro, Brasil"
+    },
+    {
+      "dica": "vá ao domingo para aproveitar a sessão sunset, ambiente mais relaxado que sábado",
+      "autor": "Tiago Rodrigues",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": false,
+    "acessibilidade": false,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ's sexta, sábado e domingo a partir das 17:00",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "peNaAreia": true,
+    "espreguicadeiras": true,
+    "loungeArea": true,
+    "happyHour": true,
+    "eventosSunset": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1582610116397-edb318620f90?w=800",
+      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Sunset Beach Bar - Beach Bar Moderno na Ilha de Luanda | Cocktails e DJ",
+    "metaDescricao": "beach bar descontraído na Ilha de Luanda com cocktails autorais, hambúrguers gourmet e sessões sunset com DJ. ambiente jovem e vibrante. happy hour disponível.",
+    "tags": ["beach bar", "cocktails", "sunset", "DJ", "jovem", "descontraído", "hambúrguers", "petiscos", "ilha de luanda", "música", "festa", "happy hour", "pôr do sol"]
+  }
+}

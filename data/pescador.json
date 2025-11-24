@@ -1,0 +1,275 @@
+{
+  "id": "pescador",
+  "nome": "Restaurante Pescador",
+  "descricao": "restaurante tradicional de marisco com vista panorâmica sobre o oceano, especializado em peixe fresco e frutos do mar da costa angolana",
+  "descricaoCompleta": "situado numa posição privilegiada na Ilha de Luanda, o Restaurante Pescador é uma instituição entre os amantes de marisco e peixe fresco. com mais de 20 anos de história, este restaurante familiar conquistou a confiança dos luandenses pela qualidade consistente do seu marisco, trazido diariamente pelos pescadores locais. a decoração náutica e o ambiente descontraído criam uma atmosfera acolhedora onde pode saborear autênticos pratos de marisco angolano. o restaurante destaca-se pelos generosos pratos de lagosta, camarão gigante e peixe grelhado, sempre acompanhados de molhos tradicionais e guarnições locais como funge, mandioca e batata-doce. ideal para almoços em família ou jantares com amigos, o Pescador oferece uma experiência gastronómica genuína com vista directa para o mar, onde o som das ondas completa a experiência sensorial.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Praia, Zona Central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8010,
+      "longitude": 13.2325
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 390 123",
+    "telemovel": "+244 924 567 890",
+    "email": "reservas@restaurantepescador.ao",
+    "website": "https://www.restaurantepescador.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restaurantepescadorluanda",
+      "instagram": "https://www.instagram.com/pescadorilha",
+      "tripadvisor": "https://www.tripadvisor.com/pescador-luanda"
+    }
+  },
+
+  "tipoCozinha": ["angolana", "marisco", "portuguesa", "peixe fresco"],
+  "especialidades": [
+    "lagosta grelhada na brasa",
+    "caldeirada de peixe à pescador",
+    "camarão tigre grelhado",
+    "peixe serra com molho cru",
+    "arroz de marisco tradicional",
+    "santola recheada"
+  ],
+  "ambiente": ["tradicional", "vista mar", "familiar", "descontraído", "náutico"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "sapateira recheada",
+          "descricao": "sapateira fresca gratinada com molho bechamel",
+          "preco": 3200
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas salteadas com alho, coentros e azeite",
+          "preco": 2800
+        },
+        {
+          "nome": "camarão à alho",
+          "descricao": "camarão salteado em azeite, alho e piri-piri",
+          "preco": 3500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta inteira grelhada na brasa com manteiga de limão e ervas, acompanhada de batatas",
+          "preco": 16500
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada rica com peixe do dia, camarão, lulas e mexilhões em molho de tomate",
+          "preco": 8900
+        },
+        {
+          "nome": "peixe serra grelhado",
+          "descricao": "peixe serra fresco grelhado com molho cru, funge e mandioca",
+          "preco": 5500
+        },
+        {
+          "nome": "camarão tigre grelhado",
+          "descricao": "camarões gigantes grelhados com molho de manteiga e limão",
+          "preco": 12000
+        },
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com camarão, mexilhão, amêijoas e lulas",
+          "preco": 7800
+        },
+        {
+          "nome": "santola recheada",
+          "descricao": "santola gratinada recheada com carne de caranguejo",
+          "preco": 9500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim caseiro de coco com calda de caramelo",
+          "preco": 1500
+        },
+        {
+          "nome": "baba de camelo",
+          "descricao": "sobremesa tradicional portuguesa com ovos e leite condensado",
+          "preco": 1600
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse cremosa de chocolate belga",
+          "preco": 1400
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "Cuca gelada",
+          "descricao": "cerveja angolana bem gelada 330ml",
+          "preco": 600
+        },
+        {
+          "nome": "vinho verde português",
+          "descricao": "vinho verde fresco, ideal para marisco",
+          "preco": 7500
+        },
+        {
+          "nome": "sumo de maracujá natural",
+          "descricao": "sumo fresco de maracujá da região",
+          "preco": 750
+        },
+        {
+          "nome": "água Cacula",
+          "descricao": "água mineral angolana sem gás",
+          "preco": 400
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-22:00",
+      "quarta": "12:00-22:00",
+      "quinta": "12:00-22:00",
+      "sexta": "12:00-23:00",
+      "sabado": "11:00-23:00",
+      "domingo": "11:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "recomendável reservar aos fins de semana e feriados"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 412,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Rodrigues",
+        "nota": 5,
+        "comentario": "um dos melhores restaurantes de marisco da Ilha! a lagosta grelhada estava perfeita e o atendimento foi muito simpático. recomendo vivamente.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Teresa Almeida",
+        "nota": 4,
+        "comentario": "excelente peixe fresco e porções generosas. a caldeirada é deliciosa! preços justos para a qualidade. ambiente familiar e acolhedor.",
+        "data": "2025-11-12",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Fernandes",
+        "nota": 5,
+        "comentario": "restaurante tradicional com comida de qualidade. o camarão tigre estava divinal. vista bonita para o mar e staff atencioso.",
+        "data": "2025-11-08",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Beatriz Santos",
+        "nota": 4,
+        "comentario": "boa experiência! o arroz de marisco é muito bem servido e saboroso. ideal para ir em família. voltarei certamente.",
+        "data": "2025-11-02",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque público próximo",
+    "informacaoEstacionamento": "estacionamento público vigiado a 50 metros do restaurante. espaço também disponível na rua em frente.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "500 AOA"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e segura durante o horário de funcionamento",
+      "estacionamento vigiado próximo ao restaurante",
+      "recomenda-se não deixar objectos de valor visíveis no interior do veículo",
+      "boa iluminação na área circundante",
+      "staff conhece bem a zona e pode dar assistência",
+      "evite caminhar sozinho à noite em zonas mais desertas"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "chegue cedo aos fins de semana ou faça reserva, pois enche rapidamente",
+      "autor": "António Silva",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça a lagosta grelhada, é a especialidade da casa e sempre muito fresca",
+      "autor": "Mariana Costa",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "se gosta de vinho, experimente o vinho verde português com o marisco",
+      "autor": "Paulo Mendes",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "o restaurante tem vista directa para o mar, peça mesa junto à janela para melhor experiência",
+      "autor": "Sandra Gomes",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": false,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1559303867-b01357b8d825?w=800",
+      "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Pescador - Marisco Fresco na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante tradicional na Ilha de Luanda especializado em marisco fresco e peixe grelhado. lagosta, camarão tigre e caldeirada à pescador. reserve já!",
+    "tags": ["marisco", "peixe fresco", "lagosta", "camarão", "caldeirada", "vista mar", "tradicional", "familiar", "ilha de luanda", "angolana", "portuguesa"]
+  }
+}

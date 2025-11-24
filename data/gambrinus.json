@@ -1,0 +1,372 @@
+{
+  "id": "gambrinus",
+  "nome": "Restaurante Gambrinus",
+  "descricao": "restaurante português tradicional na Ilha de Luanda, famoso pelos grelhados de marisco, bacalhau e pratos lusos autênticos",
+  "descricaoCompleta": "o Gambrinus é uma verdadeira instituição gastronómica na Ilha de Luanda, trazendo a autêntica cozinha portuguesa para Angola há mais de 20 anos. com uma proposta que celebra os sabores lusitanos, o restaurante é conhecido pelos seus grelhados de marisco excecionais, bacalhau preparado de diversas formas tradicionais e uma carta de vinhos portugueses cuidadosamente seleccionada. o ambiente remete para as típicas marisqueiras portuguesas, com decoração clássica em azulejo, mesas de madeira e uma atmosfera acolhedora e familiar. a localização privilegiada na Ilha oferece uma vista magnífica sobre a baía de Luanda, tornando cada refeição numa experiência memorável. o chef português traz receitas tradicionais transmitidas de geração em geração, utilizando técnicas ancestrais combinadas com produtos frescos locais e ingredientes importados de Portugal. ideal para almoços de negócios, jantares em família ou celebrações especiais, o Gambrinus mantém a tradição da hospitalidade portuguesa, onde cada cliente é recebido como um amigo de longa data.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua Principal da Ilha, Zona Sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8095,
+      "longitude": 13.2352
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 392 678",
+    "telemovel": "+244 923 345 678",
+    "email": "reservas@gambrinusilha.ao",
+    "website": "https://www.gambrinusilha.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/gambrinusilha",
+      "instagram": "https://www.instagram.com/gambrinusilha",
+      "tripadvisor": "https://www.tripadvisor.com/restaurante-gambrinus-luanda"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "marisco", "grelhados", "bacalhau", "mediterrânica"],
+  "especialidades": [
+    "bacalhau à Brás",
+    "bacalhau com natas",
+    "polvo à lagareiro",
+    "arroz de marisco",
+    "cataplana de marisco",
+    "lagosta grelhada",
+    "gambas à Moçambique",
+    "cozido à portuguesa",
+    "ameijoas à Bulhão Pato",
+    "bife à café"
+  ],
+  "ambiente": ["tradicional", "acolhedor", "familiar", "vista mar", "português", "clássico"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 10500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ameijoas à Bulhão Pato",
+          "descricao": "ameijoas frescas salteadas com alho, coentros e azeite virgem",
+          "preco": 3200
+        },
+        {
+          "nome": "peixinhos da horta",
+          "descricao": "vagens fritas em polme crocante, receita tradicional portuguesa",
+          "preco": 1800
+        },
+        {
+          "nome": "gambas ao alho",
+          "descricao": "gambas salteadas com alho, azeite e piri-piri",
+          "preco": 4500
+        },
+        {
+          "nome": "pastéis de bacalhau",
+          "descricao": "bolinhos crocantes de bacalhau com batata e salsa",
+          "preco": 2200
+        },
+        {
+          "nome": "queijo da serra com compota",
+          "descricao": "queijo português curado servido com compota de figo",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "sopas",
+      "pratos": [
+        {
+          "nome": "caldo verde",
+          "descricao": "sopa tradicional portuguesa de couve galega com chouriço",
+          "preco": 1500
+        },
+        {
+          "nome": "açorda de marisco",
+          "descricao": "açorda alentejana com marisco fresco e coentros",
+          "preco": 2800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - bacalhau",
+      "pratos": [
+        {
+          "nome": "bacalhau à Brás",
+          "descricao": "bacalhau desfiado com batata palha, ovos e azeitonas",
+          "preco": 7800
+        },
+        {
+          "nome": "bacalhau com natas",
+          "descricao": "bacalhau gratinado com natas, batatas e cebola",
+          "preco": 8200
+        },
+        {
+          "nome": "bacalhau à Gomes de Sá",
+          "descricao": "bacalhau com batatas, ovos cozidos e azeitonas ao forno",
+          "preco": 8500
+        },
+        {
+          "nome": "bacalhau à lagareiro",
+          "descricao": "bacalhau assado com batatas a murro e azeite",
+          "preco": 9200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - marisco",
+      "pratos": [
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com camarão, amêijoas, mexilhão e lula",
+          "preco": 9500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "marisco variado cozinhado na tradicional cataplana portuguesa",
+          "preco": 12800
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo assado com batatas a murro e azeite virgem",
+          "preco": 11500
+        },
+        {
+          "nome": "lagosta grelhada",
+          "descricao": "lagosta inteira grelhada com manteiga de alho e ervas",
+          "preco": 16500
+        },
+        {
+          "nome": "gambas à Moçambique",
+          "descricao": "gambas gigantes em molho picante de cerveja e piri-piri",
+          "preco": 13200
+        },
+        {
+          "nome": "caldeirada de peixe",
+          "descricao": "caldeirada tradicional com peixe fresco e marisco",
+          "preco": 10800
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - carne",
+      "pratos": [
+        {
+          "nome": "cozido à portuguesa",
+          "descricao": "prato tradicional com carnes variadas, enchidos e legumes",
+          "preco": 8900
+        },
+        {
+          "nome": "bife à café",
+          "descricao": "bife de vaca com molho de mostarda, pickles e batata frita",
+          "preco": 9800
+        },
+        {
+          "nome": "costeletas de borrego grelhadas",
+          "descricao": "costeletas de borrego com batatas assadas e legumes",
+          "preco": 11200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pastel de nata",
+          "descricao": "pastel de Belém tradicional com canela",
+          "preco": 800
+        },
+        {
+          "nome": "molotov",
+          "descricao": "claras batidas em ponto neve com doce de ovos",
+          "preco": 1800
+        },
+        {
+          "nome": "pudim Abade de Priscos",
+          "descricao": "pudim tradicional português com toucinho do céu",
+          "preco": 2200
+        },
+        {
+          "nome": "tarte de amêndoa",
+          "descricao": "tarte tradicional algarvia de amêndoa e doce de ovos",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde Quinta da Aveleda",
+          "descricao": "vinho verde português fresco e leve",
+          "preco": 6500
+        },
+        {
+          "nome": "vinho tinto Douro",
+          "descricao": "vinho tinto robusto do Douro",
+          "preco": 8500
+        },
+        {
+          "nome": "vinho do Porto",
+          "descricao": "Porto vintage ou tawny",
+          "preco": 4500
+        },
+        {
+          "nome": "Super Bock",
+          "descricao": "cerveja portuguesa imperial",
+          "preco": 800
+        },
+        {
+          "nome": "ginjinha de Óbidos",
+          "descricao": "licor de ginja servido em copinho de chocolate",
+          "preco": 1200
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "12:00-15:00, 19:00-23:00",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": [],
+    "observacoes": "reservas recomendadas especialmente aos fins de semana. cozido à portuguesa disponível apenas aos domingos"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 487,
+    "avaliacoes": [
+      {
+        "autor": "Manuel Santos",
+        "nota": 5,
+        "comentario": "o melhor bacalhau à Brás que comi fora de Portugal! autêntico, bem temperado e porção generosa. o ambiente remete-nos para as típicas marisqueiras portuguesas.",
+        "data": "2025-11-21",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Isabel Rodrigues",
+        "nota": 5,
+        "comentario": "restaurante fantástico! a cataplana de marisco estava divinal e o serviço é muito atencioso. carta de vinhos portugueses excelente.",
+        "data": "2025-11-19",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "António Ferreira",
+        "nota": 4,
+        "comentario": "qualidade impecável! o polvo à lagareiro estava no ponto certo e as batatas a murro deliciosas. preços justos para a qualidade oferecida.",
+        "data": "2025-11-15",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Mariana Costa",
+        "nota": 5,
+        "comentario": "adoramos! fomos em família e todos saíram satisfeitos. experimentámos vários pratos e todos estavam excelentes. a vista é linda!",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "João Almeida",
+        "nota": 5,
+        "comentario": "como português, senti-me em casa! receitas autênticas, ingredientes de qualidade e o atendimento é cinco estrelas. recomendo vivamente!",
+        "data": "2025-11-08",
+        "origem": "Coimbra, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com capacidade para 35 viaturas, vigiado 24h. acesso directo ao restaurante. espaço coberto disponível.",
+    "capacidadeEstacionamento": 35,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "restaurante estabelecido há mais de 20 anos com óptima reputação",
+      "segurança privada 24h no local",
+      "estacionamento vigiado e bem iluminado",
+      "zona segura e movimentada da Ilha",
+      "staff experiente e profissional",
+      "sistemas de vigilância instalados"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência aos fins de semana, é muito procurado pela comunidade portuguesa",
+      "autor": "Carlos Mendes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "não deixe de experimentar o bacalhau à Brás, é a especialidade da casa e está fantástico",
+      "autor": "Fernanda Silva",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "aos domingos têm cozido à portuguesa, vale muito a pena! chegue cedo pois esgota rapidamente",
+      "autor": "Roberto Gomes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça recomendações de vinho ao staff, eles conhecem muito bem a carta e ajudam na harmonização",
+      "autor": "Patricia Lopes",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "termine a refeição com um Porto e pastel de nata, combinação perfeita!",
+      "autor": "Miguel Andrade",
+      "origem": "Braga, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Gambrinus - Cozinha Portuguesa na Ilha de Luanda | Bacalhau e Marisco",
+    "metaDescricao": "restaurante português tradicional na Ilha de Luanda. especializado em bacalhau, marisco grelhado, polvo à lagareiro e vinhos portugueses. mais de 20 anos de tradição.",
+    "tags": ["portuguesa", "bacalhau", "marisco", "polvo", "tradicional", "vista mar", "ilha de luanda", "grelhados", "vinhos portugueses", "familiar", "clássico"]
+  }
+}

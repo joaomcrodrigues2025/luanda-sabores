@@ -1,0 +1,299 @@
+{
+  "id": "lua-cheia",
+  "nome": "Restaurante Lua Cheia",
+  "descricao": "restaurante elegante à beira-mar especializado em culinária portuguesa contemporânea e marisco fresco, com ambiente romântico e vista panorâmica",
+  "descricaoCompleta": "o Restaurante Lua Cheia é uma referência na Ilha de Luanda para quem procura uma experiência gastronómica refinada com vista privilegiada sobre o oceano Atlântico. situado numa localização privilegiada na zona sul da Ilha, o restaurante oferece um ambiente elegante e romântico, perfeito para ocasiões especiais, jantares a dois ou celebrações familiares. a carta é uma celebração da culinária portuguesa contemporânea, com forte ênfase em marisco fresco e peixe trazido diariamente dos mercados locais. o chef combina técnicas tradicionais com apresentações modernas, criando pratos que encantam tanto visualmente como no paladar. o nome Lua Cheia evoca as noites mágicas em que a lua reflete sobre as águas da baía, criando uma atmosfera única. com uma decoração sofisticada em tons neutros, iluminação suave e uma esplanada ampla virada para o mar, o restaurante tornou-se um dos destinos preferidos da elite luandense e de visitantes internacionais que procuram qualidade e sofisticação num ambiente relaxado.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohamed, Zona Sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8095,
+      "longitude": 13.2340
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 338 412",
+    "telemovel": "+244 924 567 823",
+    "email": "reservas@luacheia.ao",
+    "website": "https://www.luacheia.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/restauranteluacheia",
+      "instagram": "https://www.instagram.com/luacheia_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/luacheia"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "marisco", "mediterrânica", "internacional", "contemporânea"],
+  "especialidades": [
+    "arroz de lagosta à Lua Cheia",
+    "robalo ao sal com legumes grelhados",
+    "cataplana de marisco",
+    "polvo à lagareiro",
+    "açorda de camarão",
+    "bacalhau à Brás premium",
+    "lombo de atum com crosta de sésamo"
+  ],
+  "ambiente": ["elegante", "romântico", "vista mar", "terraço", "sofisticado", "jantar de negócios"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 16500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "carpaccio de robalo",
+          "descricao": "lâminas finas de robalo fresco com azeite virgem, limão siciliano e alcaparras",
+          "preco": 3800
+        },
+        {
+          "nome": "ameijoas à bulhão pato",
+          "descricao": "ameijoas frescas salteadas com alho, azeite, coentros e vinho branco",
+          "preco": 4200
+        },
+        {
+          "nome": "gambas ao alho",
+          "descricao": "gambas grandes salteadas em azeite, alho laminado e piri-piri",
+          "preco": 4500
+        },
+        {
+          "nome": "pataniscas de bacalhau",
+          "descricao": "pataniscas tradicionais de bacalhau com arroz de feijão",
+          "preco": 2900
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "arroz de lagosta à Lua Cheia",
+          "descricao": "arroz cremoso com lagosta inteira, camarão e moluscos, especialidade da casa",
+          "preco": 19500
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "cataplana tradicional com amêijoas, camarão, mexilhão, lulas e berbigão",
+          "preco": 13800
+        },
+        {
+          "nome": "robalo ao sal",
+          "descricao": "robalo inteiro assado ao sal com batatas a murro e legumes grelhados",
+          "preco": 15200
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo tenro assado no forno com batatas a murro e azeite de alho",
+          "preco": 11900
+        },
+        {
+          "nome": "bacalhau à Brás premium",
+          "descricao": "bacalhau desfiado com batata palha, ovos, cebola e azeitonas",
+          "preco": 9500
+        },
+        {
+          "nome": "açorda de camarão",
+          "descricao": "açorda tradicional portuguesa com camarão tigre e coentros",
+          "preco": 8700
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pastel de nata quente",
+          "descricao": "pastel de nata tradicional servido quente com canela",
+          "preco": 1200
+        },
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse cremosa de chocolate belga com framboesas frescas",
+          "preco": 1800
+        },
+        {
+          "nome": "pudim de coco",
+          "descricao": "pudim tradicional de coco com calda de caramelo e raspas de limão",
+          "preco": 1600
+        },
+        {
+          "nome": "tarte de amêndoa",
+          "descricao": "tarte tradicional de amêndoa com gelado de baunilha",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde Alvarinho",
+          "descricao": "vinho verde português, ideal para marisco",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho tinto Douro Reserve",
+          "descricao": "vinho tinto português encorpado, Douro Reserve",
+          "preco": 12000
+        },
+        {
+          "nome": "sangria branca",
+          "descricao": "sangria de vinho branco com frutas frescas da estação",
+          "preco": 3500
+        },
+        {
+          "nome": "sumo natural de maracujá",
+          "descricao": "sumo fresco de maracujá da região",
+          "preco": 900
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas obrigatórias aos fins de semana e feriados. horário alargado para eventos especiais"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.7,
+    "numeroAvaliacoes": 312,
+    "avaliacoes": [
+      {
+        "autor": "Mariana Ferreira",
+        "nota": 5,
+        "comentario": "experiência maravilhosa! o arroz de lagosta é simplesmente divinal e a vista ao pôr do sol inesquecível. serviço impecável e ambiente muito romântico.",
+        "data": "2025-11-20",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Carlos Eduardo",
+        "nota": 5,
+        "comentario": "um dos melhores restaurantes de Luanda. a qualidade do marisco é excepcional e o chef realmente sabe o que faz. preços justos para a qualidade oferecida.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Sofia Mendes",
+        "nota": 4,
+        "comentario": "adorei tudo! o polvo à lagareiro estava perfeito e a equipa é muito atenciosa. ambiente sofisticado mas acolhedor. recomendo vivamente!",
+        "data": "2025-11-15",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Roberto Silva",
+        "nota": 5,
+        "comentario": "jantar de aniversário perfeito! pedi mesa na esplanada e foi mágico. a cataplana de marisco serve bem duas pessoas e é deliciosa.",
+        "data": "2025-11-12",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Ana Costa",
+        "nota": 4,
+        "comentario": "excelente para ocasiões especiais. comida de alta qualidade, staff profissional e vista deslumbrante. vale cada kwanza!",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking",
+    "informacaoEstacionamento": "estacionamento privativo com segurança 24h e serviço de valet parking gratuito para clientes. capacidade para 35 viaturas com acesso direto ao restaurante.",
+    "capacidadeEstacionamento": 35,
+    "custoEstacionamento": "gratuito com valet parking"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "o restaurante possui segurança privada 24h na entrada e no estacionamento",
+      "valet parking disponível para maior comodidade e segurança",
+      "zona muito segura da Ilha de Luanda, frequentada por público selecto",
+      "iluminação excelente em todo o perímetro do restaurante",
+      "staff treinado e atento para garantir bem-estar dos clientes",
+      "sistema de videovigilância em todo o recinto"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve mesa na esplanada para desfrutar do pôr do sol sobre o oceano, é simplesmente mágico",
+      "autor": "Teresa Almeida",
+      "origem": "Coimbra, Portugal"
+    },
+    {
+      "dica": "não deixe de experimentar o arroz de lagosta, é a especialidade da casa e vale cada kwanza",
+      "autor": "Miguel Santos",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "faça reserva com pelo menos 2-3 dias de antecedência aos fins de semana, enche muito",
+      "autor": "Patricia Costa",
+      "origem": "Rio de Janeiro, Brasil"
+    },
+    {
+      "dica": "pergunte ao staff sobre o vinho do dia, têm sempre óptimas sugestões portuguesas",
+      "autor": "Fernando Lopes",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "ideal para jantares românticos ou celebrações especiais. o ambiente à noite é encantador",
+      "autor": "Joana Martins",
+      "origem": "Luanda, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "música ao vivo às sextas e sábados a partir das 20h30, jazz e bossa nova",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Lua Cheia - Restaurante de Marisco na Ilha de Luanda | Vista Mar",
+    "metaDescricao": "restaurante elegante na Ilha de Luanda especializado em culinária portuguesa e marisco fresco. vista panorâmica, ambiente romântico e serviço de excelência.",
+    "tags": ["marisco", "portuguesa", "vista mar", "romântico", "elegante", "ilha de luanda", "lagosta", "cataplana", "polvo", "terraço", "valet parking", "música ao vivo"]
+  }
+}

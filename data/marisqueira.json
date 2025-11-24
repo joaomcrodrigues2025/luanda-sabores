@@ -1,0 +1,365 @@
+{
+  "id": "marisqueira",
+  "nome": "Restaurante Marisqueira",
+  "descricao": "marisqueira tradicional especializada em marisco fresco do dia, peixe grelhado e pratos de marisco à portuguesa",
+  "descricaoCompleta": "o Restaurante Marisqueira é uma referência na Ilha de Luanda para os amantes de marisco fresco e peixe do dia. fundado em 2015, o restaurante mantém uma filosofia simples mas eficaz: marisco fresco trazido diariamente dos mercados locais e preparado de forma tradicional portuguesa. o espaço acolhedor é decorado com elementos náuticos que remetem para a cultura marítima, criando um ambiente descontraído e familiar. a carta destaca-se pela variedade de marisco disponível, desde lagosta, sapateira, camarão gigante, amêijoas à bulhão pato e conquilhas. o peixe grelhado é outro ponto forte, com opções como robalo, dourada, pargo e cherne sempre frescos. aos fins de semana, a Marisqueira enche-se de famílias e grupos que procuram a autenticidade da cozinha portuguesa de marisco num ambiente informal. a equipa é experiente e conhecedora, ajudando os clientes a escolher o melhor marisco do dia e sugerindo vinhos brancos portugueses que harmonizam perfeitamente com os pratos.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Marginal n.º 78, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8072,
+      "longitude": 13.2352
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 395 123",
+    "telemovel": "+244 926 789 012",
+    "email": "reservas@marisqueirailha.ao",
+    "website": "https://www.marisqueirailha.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/marisqueirailha",
+      "instagram": "https://www.instagram.com/marisqueirailha",
+      "tripadvisor": "https://www.tripadvisor.com/marisqueirailha"
+    }
+  },
+
+  "tipoCozinha": ["portuguesa", "marisco", "peixe", "grelhados"],
+  "especialidades": [
+    "arroz de marisco",
+    "caldeirada de peixe à pescador",
+    "lagosta grelhada",
+    "sapateira recheada",
+    "camarão tigre grelhado",
+    "amêijoas à bulhão pato",
+    "cataplana de marisco",
+    "açorda de marisco",
+    "polvo à lagareiro"
+  ],
+  "ambiente": ["tradicional", "familiar", "náutico", "descontraído", "vista mar"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "percebes",
+          "descricao": "percebes frescos cozidos ao vapor (100g)",
+          "preco": 4500
+        },
+        {
+          "nome": "amêijoas à bulhão pato",
+          "descricao": "amêijoas frescas salteadas com alho, coentros e azeite",
+          "preco": 3200
+        },
+        {
+          "nome": "conquilhas",
+          "descricao": "conquilhas ao natural com alho e limão",
+          "preco": 2800
+        },
+        {
+          "nome": "mexilhão ao vapor",
+          "descricao": "mexilhão fresco cozido ao vapor com vinho branco e alho",
+          "preco": 2500
+        },
+        {
+          "nome": "camarão à alho e óleo",
+          "descricao": "camarão salteado em azeite com alho e piri-piri",
+          "preco": 4800
+        }
+      ]
+    },
+    {
+      "categoria": "marisco",
+      "pratos": [
+        {
+          "nome": "lagosta grelhada (kg)",
+          "descricao": "lagosta fresca grelhada com manteiga de alho e limão",
+          "preco": 22000
+        },
+        {
+          "nome": "sapateira recheada",
+          "descricao": "sapateira recheada com o próprio molho e gratinada",
+          "preco": 8500
+        },
+        {
+          "nome": "camarão tigre grelhado (kg)",
+          "descricao": "camarão tigre grelhado com sal grosso e limão",
+          "preco": 18000
+        },
+        {
+          "nome": "santola cozida (kg)",
+          "descricao": "santola cozida servida fria com maionese",
+          "preco": 16500
+        },
+        {
+          "nome": "lulas grelhadas",
+          "descricao": "lulas frescas grelhadas com alho e salsa",
+          "preco": 6800
+        }
+      ]
+    },
+    {
+      "categoria": "arroz e caldeirada",
+      "pratos": [
+        {
+          "nome": "arroz de marisco",
+          "descricao": "arroz cremoso com camarão, amêijoas, mexilhão e lulas (2 pessoas)",
+          "preco": 14500
+        },
+        {
+          "nome": "arroz de tamboril",
+          "descricao": "arroz de tamboril com coentros e tomate (2 pessoas)",
+          "preco": 13800
+        },
+        {
+          "nome": "caldeirada à pescador",
+          "descricao": "caldeirada mista com peixe do dia e marisco (2 pessoas)",
+          "preco": 15200
+        },
+        {
+          "nome": "cataplana de marisco",
+          "descricao": "marisco variado preparado na cataplana tradicional (2 pessoas)",
+          "preco": 16800
+        },
+        {
+          "nome": "açorda de marisco",
+          "descricao": "açorda tradicional com camarão, amêijoas e coentros",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "peixe grelhado",
+      "pratos": [
+        {
+          "nome": "robalo grelhado (kg)",
+          "descricao": "robalo fresco grelhado servido com batatas cozidas e legumes",
+          "preco": 12500
+        },
+        {
+          "nome": "dourada grelhada (kg)",
+          "descricao": "dourada fresca grelhada com azeite e limão",
+          "preco": 11800
+        },
+        {
+          "nome": "pargo grelhado (kg)",
+          "descricao": "pargo fresco grelhado com molho de limão",
+          "preco": 10500
+        },
+        {
+          "nome": "cherne grelhado (kg)",
+          "descricao": "cherne grelhado servido com batatas e legumes salteados",
+          "preco": 13500
+        },
+        {
+          "nome": "polvo à lagareiro",
+          "descricao": "polvo confitado com batatas a murro e azeite",
+          "preco": 9800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "mousse de chocolate",
+          "descricao": "mousse cremosa de chocolate belga",
+          "preco": 1600
+        },
+        {
+          "nome": "salada de frutas tropicais",
+          "descricao": "frutas tropicais frescas da época",
+          "preco": 1400
+        },
+        {
+          "nome": "pudim flan",
+          "descricao": "pudim flan caseiro com caramelo",
+          "preco": 1500
+        },
+        {
+          "nome": "tarte de limão",
+          "descricao": "tarte de limão merengada",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho verde português",
+          "descricao": "vinho verde do Minho, ideal para marisco",
+          "preco": 7500
+        },
+        {
+          "nome": "vinho branco alentejano",
+          "descricao": "vinho branco português seco do Alentejo",
+          "preco": 9200
+        },
+        {
+          "nome": "sangria branca",
+          "descricao": "sangria de vinho branco com frutas frescas (jarra)",
+          "preco": 3500
+        },
+        {
+          "nome": "cerveja Super Bock",
+          "descricao": "cerveja portuguesa gelada",
+          "preco": 700
+        },
+        {
+          "nome": "água mineral",
+          "descricao": "água com ou sem gás",
+          "preco": 500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:30, 19:00-23:00",
+      "quarta": "12:00-15:30, 19:00-23:00",
+      "quinta": "12:00-15:30, 19:00-23:00",
+      "sexta": "12:00-15:30, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas altamente recomendadas aos fins de semana. marisco disponível conforme chegada do mercado"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.4,
+    "numeroAvaliacoes": 378,
+    "avaliacoes": [
+      {
+        "autor": "António Silva",
+        "nota": 5,
+        "comentario": "o melhor marisco da Ilha! sempre fresco e bem preparado. o arroz de marisco está divinal, muito cremoso e bem temperado. serviço atencioso.",
+        "data": "2025-11-20",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Francisca Neto",
+        "nota": 5,
+        "comentario": "restaurante de confiança para marisco. venho aqui há anos e a qualidade mantém-se sempre alta. a lagosta grelhada é espectacular!",
+        "data": "2025-11-17",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Manuel Costa",
+        "nota": 4,
+        "comentario": "excelente qualidade de marisco e peixe fresco. preços justos para a qualidade oferecida. ambiente familiar e acolhedor.",
+        "data": "2025-11-13",
+        "origem": "Porto, Portugal"
+      },
+      {
+        "autor": "Teresa Gomes",
+        "nota": 4,
+        "comentario": "adorei a cataplana de marisco! muito bem confeccionada e com marisco de primeira. recomendo reservar com antecedência.",
+        "data": "2025-11-08",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "João Rodrigues",
+        "nota": 5,
+        "comentario": "restaurante top para marisco em Luanda. o polvo à lagareiro é dos melhores que já comi. staff muito profissional e simpático.",
+        "data": "2025-11-02",
+        "origem": "Coimbra, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com vigilância 24h junto ao restaurante. capacidade para 20 viaturas. acesso directo.",
+    "capacidadeEstacionamento": 20,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona segura com vigilância privada do restaurante",
+      "estacionamento vigiado incluído",
+      "boa iluminação na área envolvente",
+      "staff atencioso e disponível para assistência",
+      "zona movimentada durante horário de funcionamento"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "chegue cedo ou reserve, especialmente aos fins de semana quando enche muito",
+      "autor": "Isabel Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "peça ao staff para mostrar o marisco fresco do dia antes de escolher",
+      "autor": "Rui Fernandes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "o arroz de marisco é para duas pessoas mas é muito bem servido",
+      "autor": "Carla Sousa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "experimente o vinho verde português, combina perfeitamente com marisco",
+      "autor": "Paulo Andrade",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "se gosta de lagosta, vale mesmo a pena. fresca e grelhada na perfeição",
+      "autor": "Sandra Oliveira",
+      "origem": "Faro, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1580554530089-85b407bc2c13?w=800",
+      "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?w=800",
+      "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800",
+      "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Restaurante Marisqueira - Marisco Fresco na Ilha de Luanda | Peixe Grelhado",
+    "metaDescricao": "marisqueira tradicional na Ilha de Luanda especializada em marisco fresco do dia, arroz de marisco, lagosta grelhada e peixe. cozinha portuguesa autêntica.",
+    "tags": ["marisco", "portuguesa", "peixe grelhado", "lagosta", "arroz de marisco", "cataplana", "polvo", "ilha de luanda", "tradicional", "familiar", "fresco"]
+  }
+}

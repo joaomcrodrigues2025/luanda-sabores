@@ -1,0 +1,370 @@
+{
+  "id": "ilha-mar-beach-club",
+  "nome": "Ilha Mar Beach Club",
+  "descricao": "beach club descontraído com ambiente jovem, gastronomia mediterrânica e eventos temáticos à beira-mar",
+  "descricaoCompleta": "o Ilha Mar Beach Club é um espaço vibrante e descontraído que se tornou um dos pontos de encontro preferidos dos jovens adultos e famílias modernas de Luanda. inaugurado em 2021, o clube combina a descontração de um beach bar com a qualidade gastronómica de um restaurante contemporâneo. localizado numa das zonas mais bonitas da Ilha de Luanda, o espaço oferece uma atmosfera relaxada durante o dia, perfeita para almoços prolongados à beira-mar, e transforma-se num ambiente mais animado ao final da tarde e noite, especialmente aos fins de semana. a carta gastronómica é inspirada na cozinha mediterrânica com influências angolanas, destacando-se os peixes grelhados, saladas frescas, petiscos para partilhar e pizzas artesanais cozinhadas em forno a lenha. o Ilha Mar é conhecido pelos seus eventos temáticos mensais, como noites de cinema na praia, festas brancas de verão e sessões de yoga ao nascer do sol. o clube dispõe de uma zona de praia privativa com espreguiçadeiras e chapéus-de-sol, zona de jogos para crianças, bar de praia e uma esplanada coberta com vista privilegiada sobre o oceano. aos domingos, o sunset session com música chill out e DJ's é um dos momentos mais procurados. o ambiente descontraído, preços moderados e boa relação qualidade-preço fazem do Ilha Mar Beach Club uma excelente opção para quem procura uma experiência de praia completa sem o peso da formalidade.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Marginal, Zona Sul, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona sul",
+    "coordenadas": {
+      "latitude": -8.8070,
+      "longitude": 13.2350
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 397 654",
+    "telemovel": "+244 925 678 910",
+    "email": "reservas@ilhamarclub.ao",
+    "website": "https://www.ilhamarclub.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/ilhamarclub",
+      "instagram": "https://www.instagram.com/ilhamar_beachclub",
+      "tiktok": "https://www.tiktok.com/@ilhamarclub"
+    }
+  },
+
+  "tipoCozinha": ["mediterrânica", "internacional", "pizza", "peixe grelhado", "petiscos", "saladas"],
+  "especialidades": [
+    "pizza artesanal em forno a lenha",
+    "peixe do dia grelhado com legumes",
+    "polvo grelhado com batata-doce",
+    "gambas ao alho picante",
+    "salada mediterrânica com burrata",
+    "hambúrguer de vaca angolana",
+    "espetadas de camarão e vegetais",
+    "tábua de queijos e enchidos"
+  ],
+  "ambiente": ["descontraído", "jovem", "praia", "vista mar", "familiar", "animado", "casual", "eventos temáticos"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 9500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas e petiscos",
+      "pratos": [
+        {
+          "nome": "tábua de queijos e enchidos",
+          "descricao": "selecção de queijos portugueses, enchidos ibéricos, azeitonas e compotas",
+          "preco": 4500
+        },
+        {
+          "nome": "gambas ao alho picante",
+          "descricao": "gambas tigre salteadas com alho, azeite e pimenta malagueta",
+          "preco": 3800
+        },
+        {
+          "nome": "bruschetta mediterrânica",
+          "descricao": "pão italiano torrado com tomate, manjericão, alho e azeite",
+          "preco": 2200
+        },
+        {
+          "nome": "calamares fritos crocantes",
+          "descricao": "lulas empanadas crocantes com maionese de limão",
+          "preco": 3200
+        },
+        {
+          "nome": "hummus com vegetais",
+          "descricao": "hummus de grão cremoso com palitos de cenoura, pepino e pão pita",
+          "preco": 2600
+        }
+      ]
+    },
+    {
+      "categoria": "saladas",
+      "pratos": [
+        {
+          "nome": "salada mediterrânica",
+          "descricao": "rúcula, tomate cherry, burrata, nozes, tomate seco e vinagrete balsâmico",
+          "preco": 3500
+        },
+        {
+          "nome": "salada caesar com frango",
+          "descricao": "alface romana, frango grelhado, croutons, parmesão e molho caesar",
+          "preco": 3800
+        },
+        {
+          "nome": "salada de polvo",
+          "descricao": "polvo cozido com batata, pimento, cebola roxa, coentros e azeite",
+          "preco": 4200
+        }
+      ]
+    },
+    {
+      "categoria": "pizzas artesanais",
+      "pratos": [
+        {
+          "nome": "pizza margherita",
+          "descricao": "molho de tomate, mozzarella, manjericão fresco e azeite (forno a lenha)",
+          "preco": 3800
+        },
+        {
+          "nome": "pizza prosciutto e rúcula",
+          "descricao": "molho de tomate, mozzarella, presunto parma, rúcula e parmesão",
+          "preco": 4500
+        },
+        {
+          "nome": "pizza quatro queijos",
+          "descricao": "mozzarella, gorgonzola, parmesão e queijo de cabra",
+          "preco": 4200
+        },
+        {
+          "nome": "pizza de marisco",
+          "descricao": "molho branco, camarão, lula, mexilhão, alho e coentros",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais",
+      "pratos": [
+        {
+          "nome": "peixe do dia grelhado",
+          "descricao": "peixe fresco grelhado com legumes salteados, batata e molho de limão",
+          "preco": 7500
+        },
+        {
+          "nome": "polvo grelhado",
+          "descricao": "polvo grelhado com batata-doce assada, espinafres e azeite de coentros",
+          "preco": 9800
+        },
+        {
+          "nome": "espetadas de camarão",
+          "descricao": "espetadas de camarão tigre com vegetais grelhados e arroz de coco",
+          "preco": 8500
+        },
+        {
+          "nome": "hambúrguer ilha mar",
+          "descricao": "hambúrguer de vaca angolana 200g com queijo, bacon, cebola caramelizada e batatas rústicas",
+          "preco": 5500
+        },
+        {
+          "nome": "risotto de cogumelos",
+          "descricao": "risotto cremoso com cogumelos variados, parmesão e trufa",
+          "preco": 6800
+        },
+        {
+          "nome": "frango grelhado mediterrânico",
+          "descricao": "peito de frango grelhado com ervas, legumes grelhados e batata ao murro",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "brownie com gelado",
+          "descricao": "brownie de chocolate quente com gelado de baunilha e calda de chocolate",
+          "preco": 2200
+        },
+        {
+          "nome": "panna cotta de maracujá",
+          "descricao": "panna cotta cremosa com coulis de maracujá e frutos vermelhos",
+          "preco": 2000
+        },
+        {
+          "nome": "tarte de nata",
+          "descricao": "tarte de nata portuguesa tradicional servida morna",
+          "preco": 1600
+        },
+        {
+          "nome": "salada de frutas tropicais",
+          "descricao": "frutas frescas da época com sumo de lima e hortelã",
+          "preco": 1800
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas e cocktails",
+      "pratos": [
+        {
+          "nome": "mojito clássico",
+          "descricao": "rum branco, hortelã, lima, açúcar e soda",
+          "preco": 1800
+        },
+        {
+          "nome": "caipirinha tropical",
+          "descricao": "cachaça com maracujá, ananás ou manga",
+          "preco": 1600
+        },
+        {
+          "nome": "sangria de vinho tinto",
+          "descricao": "vinho tinto com frutas frescas e especiarias (jarro 1L)",
+          "preco": 4500
+        },
+        {
+          "nome": "ilha mar sunset",
+          "descricao": "cocktail especial com vodka, licor de maracujá, ananás e sprite",
+          "preco": 2000
+        },
+        {
+          "nome": "Cuca ou Eka gelada",
+          "descricao": "cerveja angolana bem gelada (600ml)",
+          "preco": 700
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "laranja, maracujá, ananás ou melancia (fresco)",
+          "preco": 800
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "11:00-22:00",
+      "quarta": "11:00-22:00",
+      "quinta": "11:00-23:00",
+      "sexta": "11:00-01:00",
+      "sabado": "10:00-02:00",
+      "domingo": "10:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "sunset session aos domingos a partir das 17h com DJ. eventos temáticos mensais (consultar redes sociais)"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 412,
+    "avaliacoes": [
+      {
+        "autor": "Beatriz Santos",
+        "nota": 5,
+        "comentario": "adorei o ambiente descontraído! as pizzas são deliciosas e o atendimento é super simpático. perfeito para um almoço casual com amigos.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Tiago Ferreira",
+        "nota": 4,
+        "comentario": "espaço muito agradável com boa música. o polvo grelhado estava excelente! preços justos e boa relação qualidade-preço.",
+        "data": "2025-11-18",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Mariana Costa",
+        "nota": 5,
+        "comentario": "o melhor lugar para passar o domingo! sunset session é fantástico, música boa e cocktails deliciosos. ambiente jovem e animado.",
+        "data": "2025-11-16",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Pedro Alves",
+        "nota": 4,
+        "comentario": "comida saborosa e bem confeccionada. gostei muito das gambas ao alho. espaço ideal para famílias durante o dia.",
+        "data": "2025-11-12",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Joana Ribeiro",
+        "nota": 5,
+        "comentario": "excelente para grupos! fomos num evento temático e foi incrível. staff super atencioso e comida de qualidade. recomendo muito!",
+        "data": "2025-11-08",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "parque privativo vigiado",
+    "informacaoEstacionamento": "parque de estacionamento privativo vigiado com capacidade para 45 viaturas. pode ficar concorrido aos fins de semana, recomenda-se chegar cedo.",
+    "capacidadeEstacionamento": 45,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona segura com vigilância privada durante todo o horário de funcionamento",
+      "estacionamento vigiado incluso para clientes",
+      "staff atencioso e disponível para assistência",
+      "boa iluminação em toda a área do clube",
+      "segurança reforçada durante eventos noturnos",
+      "ambiente familiar e seguro durante o dia"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "vá ao domingo para o sunset session. a música é excelente e o ambiente é super descontraído. chegue por volta das 16h para garantir boa mesa",
+      "autor": "Filipa Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente as pizzas artesanais, são cozinhadas em forno a lenha e ficam deliciosas. a de marisco é a minha preferida",
+      "autor": "Rui Costa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "ideal para ir com crianças durante o dia. há zona de praia privativa e área de jogos. ambiente muito familiar",
+      "autor": "Ana Paula",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "siga as redes sociais do clube para ficar a par dos eventos temáticos. são sempre muito divertidos e bem organizados",
+      "autor": "Carlos Eduardo",
+      "origem": "Lobito, Angola"
+    },
+    {
+      "dica": "a sangria é excelente e perfeita para partilhar. peça um jarro para a mesa enquanto apreciam o mar",
+      "autor": "Susana Lopes",
+      "origem": "Lisboa, Portugal"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": true,
+    "musicaAoVivoInfo": "DJ aos domingos a partir das 17h (sunset session). eventos temáticos com música ao vivo mensalmente",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": false,
+    "praiaPrivativa": true,
+    "espreguicadeiras": true,
+    "zonaJogosCriancas": true,
+    "idealParaFamilias": true,
+    "idealParaJovens": true,
+    "barPraia": true,
+    "fornoLenha": true,
+    "eventosTematicos": true,
+    "yogaNascerSol": true,
+    "cinemaPraia": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Ilha Mar Beach Club - Restaurante e Beach Club na Ilha de Luanda | Pizza e Marisco",
+    "metaDescricao": "beach club descontraído na Ilha de Luanda com gastronomia mediterrânica, pizzas artesanais, peixe grelhado e eventos temáticos. sunset session aos domingos com DJ.",
+    "tags": ["beach club", "descontraído", "mediterrânica", "pizza", "ilha de luanda", "jovem", "eventos", "sunset", "dj", "familiar", "praia privativa", "vista mar", "marisco", "peixe grelhado"]
+  }
+}

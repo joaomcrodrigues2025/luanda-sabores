@@ -1,0 +1,372 @@
+{
+  "id": "sal-e-brasa",
+  "nome": "Restaurante Sal & Brasa",
+  "descricao": "churrascaria moderna especializada em carnes grelhadas premium, rodízio brasileiro e buffet variado com vista para o mar",
+  "descricaoCompleta": "o Sal & Brasa é uma churrascaria moderna e sofisticada que trouxe o conceito brasileiro de rodízio de carnes para a Ilha de Luanda com grande sucesso. inaugurado em 2020, o restaurante rapidamente se tornou referência para os amantes de carne na capital angolana. o espaço amplo e climatizado dispõe de uma sala principal com capacidade para 120 pessoas, decorada com elementos contemporâneos e rústicos que remetem para a tradição do churrasco. o grande destaque é o rodízio de carnes premium, onde passadores circulam pelas mesas oferecendo mais de 15 tipos de carnes nobres grelhadas na brasa, incluindo picanha, costela bovina, frango, cordeiro e porco. complementando o rodízio, um buffet variado oferece saladas frescas, acompanhamentos quentes, sushi, pratos quentes e sobremesas. aos domingos, o Sal & Brasa é especialmente popular com famílias que vêm desfrutar do almoço de rodízio. a carta de vinhos é extensa, com rótulos sul-americanos, portugueses e franceses cuidadosamente seleccionados. o serviço é profissional e atencioso, garantindo uma experiência gastronómica de qualidade superior.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Atlântica n.º 120, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8025,
+      "longitude": 13.2335
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 445 678",
+    "telemovel": "+244 927 654 321",
+    "email": "reservas@salebrasa.ao",
+    "website": "https://www.salebrasa.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/salebrasaluanda",
+      "instagram": "https://www.instagram.com/salebrasa_luanda",
+      "tripadvisor": "https://www.tripadvisor.com/salebrasa"
+    }
+  },
+
+  "tipoCozinha": ["churrascaria", "brasileira", "carnes", "rodízio", "buffet"],
+  "especialidades": [
+    "rodízio de carnes premium",
+    "picanha angus",
+    "costela bovina na brasa",
+    "cordeiro assado",
+    "frango na púcara",
+    "linguiça artesanal",
+    "alcatra recheada",
+    "cupim assado",
+    "buffet de saladas e acompanhamentos"
+  ],
+  "ambiente": ["moderno", "espaçoso", "familiar", "vista mar", "elegante casual"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 10500,
+    "moeda": "AOA",
+    "observacao": "rodízio completo inclui todas as carnes e buffet livre"
+  },
+
+  "menu": [
+    {
+      "categoria": "rodízio",
+      "pratos": [
+        {
+          "nome": "rodízio completo adulto",
+          "descricao": "rodízio ilimitado de 15+ tipos de carnes premium, buffet de saladas, acompanhamentos quentes, sushi e sobremesas",
+          "preco": 12000
+        },
+        {
+          "nome": "rodízio completo criança (6-12 anos)",
+          "descricao": "rodízio ilimitado de carnes, buffet de saladas e acompanhamentos",
+          "preco": 6000
+        },
+        {
+          "nome": "rodízio meio",
+          "descricao": "rodízio de carnes com buffet de saladas (porção reduzida)",
+          "preco": 8500
+        }
+      ]
+    },
+    {
+      "categoria": "carnes à la carte",
+      "pratos": [
+        {
+          "nome": "picanha angus (500g)",
+          "descricao": "picanha angus premium grelhada no ponto, servida com arroz, feijão, farofa e vinagrete",
+          "preco": 14500
+        },
+        {
+          "nome": "costela bovina assada (kg)",
+          "descricao": "costela bovina assada lentamente na brasa por 6 horas",
+          "preco": 18000
+        },
+        {
+          "nome": "alcatra recheada (600g)",
+          "descricao": "alcatra recheada com bacon, queijo e ervas, acompanhamentos incluídos",
+          "preco": 13500
+        },
+        {
+          "nome": "frango na púcara",
+          "descricao": "frango inteiro assado na púcara de barro com temperos especiais",
+          "preco": 8500
+        },
+        {
+          "nome": "cordeiro assado (kg)",
+          "descricao": "cordeiro temperado e assado lentamente com ervas aromáticas",
+          "preco": 22000
+        }
+      ]
+    },
+    {
+      "categoria": "acompanhamentos",
+      "pratos": [
+        {
+          "nome": "arroz de alho",
+          "descricao": "arroz branco salteado com alho frito",
+          "preco": 1200
+        },
+        {
+          "nome": "farofa especial",
+          "descricao": "farofa crocante com bacon, banana e ovos",
+          "preco": 1500
+        },
+        {
+          "nome": "batatas fritas rústicas",
+          "descricao": "batatas rústicas fritas com casca e alecrim",
+          "preco": 1400
+        },
+        {
+          "nome": "vinagrete",
+          "descricao": "molho vinagrete com tomate, cebola e pimentos",
+          "preco": 800
+        },
+        {
+          "nome": "mandioca frita",
+          "descricao": "mandioca crocante frita servida com molho",
+          "preco": 1300
+        }
+      ]
+    },
+    {
+      "categoria": "saladas",
+      "pratos": [
+        {
+          "nome": "salada caesar",
+          "descricao": "alface romana, croutons, parmesão e molho caesar",
+          "preco": 2800
+        },
+        {
+          "nome": "salada tropical",
+          "descricao": "mix de folhas, ananás grelhado, manga e molho de maracujá",
+          "preco": 2500
+        },
+        {
+          "nome": "salada de rúcula com parmesão",
+          "descricao": "rúcula fresca, tomate cherry, lascas de parmesão e azeite",
+          "preco": 2400
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "pudim de leite condensado",
+          "descricao": "pudim cremoso de leite condensado com calda de caramelo",
+          "preco": 1800
+        },
+        {
+          "nome": "mousse de chocolate belga",
+          "descricao": "mousse aerada de chocolate belga 70% cacau",
+          "preco": 2000
+        },
+        {
+          "nome": "abacaxi grelhado com canela",
+          "descricao": "abacaxi grelhado com canela e mel, servido com gelado",
+          "preco": 1600
+        },
+        {
+          "nome": "petit gateau",
+          "descricao": "bolo de chocolate quente com gelado de baunilha",
+          "preco": 2500
+        },
+        {
+          "nome": "cheesecake de frutos vermelhos",
+          "descricao": "cheesecake cremoso com coulis de frutos vermelhos",
+          "preco": 2200
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho tinto argentino malbec",
+          "descricao": "vinho tinto malbec de Mendoza, ideal para carnes",
+          "preco": 11500
+        },
+        {
+          "nome": "vinho tinto português douro",
+          "descricao": "vinho tinto do Douro, corpo robusto",
+          "preco": 10800
+        },
+        {
+          "nome": "caipirinha clássica",
+          "descricao": "caipirinha tradicional brasileira de limão",
+          "preco": 1500
+        },
+        {
+          "nome": "caipirinha de frutas",
+          "descricao": "caipirinha de maracujá, morango ou kiwi",
+          "preco": 1700
+        },
+        {
+          "nome": "cerveja artesanal",
+          "descricao": "selecção de cervejas artesanais nacionais",
+          "preco": 1200
+        },
+        {
+          "nome": "sumo natural",
+          "descricao": "sumos naturais de laranja, ananás ou maracujá",
+          "preco": 900
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "rodízio disponível ao almoço e jantar. domingos muito concorridos, recomenda-se reserva"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.6,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "Paulo Ribeiro",
+        "nota": 5,
+        "comentario": "excelente churrascaria! carnes de primeira qualidade, bem temperadas e no ponto certo. o buffet é variado e fresco. serviço impecável.",
+        "data": "2025-11-21",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Andreia Costa",
+        "nota": 5,
+        "comentario": "melhor rodízio de Luanda sem dúvida! a picanha é divinal e a costela derrete na boca. ambiente agradável e staff muito atencioso.",
+        "data": "2025-11-18",
+        "origem": "São Paulo, Brasil"
+      },
+      {
+        "autor": "Jorge Santos",
+        "nota": 4,
+        "comentario": "muito bom para almoço de família aos domingos. variedade de carnes excelente e o buffet tem de tudo. preço justo para a qualidade.",
+        "data": "2025-11-15",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Catarina Lopes",
+        "nota": 5,
+        "comentario": "adorei a experiência! carnes macias e saborosas, o frango na púcara é espectacular. o ambiente é moderno e confortável.",
+        "data": "2025-11-11",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Fernando Alves",
+        "nota": 4,
+        "comentario": "boa churrascaria com carnes de qualidade. o rodízio vale a pena. apenas o serviço pode ser um pouco lento quando está cheio.",
+        "data": "2025-11-06",
+        "origem": "Benguela, Angola"
+      },
+      {
+        "autor": "Beatriz Mendes",
+        "nota": 5,
+        "comentario": "perfeito para quem adora carne! a variedade é enorme e tudo muito saboroso. o buffet de sobremesas também está óptimo.",
+        "data": "2025-11-02",
+        "origem": "Rio de Janeiro, Brasil"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo amplo com vigilância 24h. capacidade para 40 viaturas. serviço de valet parking disponível aos fins de semana.",
+    "capacidadeEstacionamento": 40,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada rigorosa na entrada e estacionamento",
+      "zona segura e bem iluminada",
+      "valet parking disponível aos fins de semana",
+      "staff de segurança discreto mas presente",
+      "sistema de videovigilância no recinto"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "chegue com fome! o rodízio é farto e tem muita variedade de carnes",
+      "autor": "Ricardo Sousa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "reserve mesa aos domingos, enche sempre. o almoço é o melhor momento",
+      "autor": "Mariana Silva",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "experimente a picanha e a costela, são as melhores do rodízio",
+      "autor": "Bruno Tavares",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "não encha muito o prato no buffet antes, deixe espaço para as carnes!",
+      "autor": "Cláudia Fernandes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "o vinho argentino malbec harmoniza perfeitamente com as carnes grelhadas",
+      "autor": "António Pereira",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "guarde espaço para sobremesa, o petit gateau é imperdível",
+      "autor": "Juliana Costa",
+      "origem": "Brasília, Brasil"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "rodizio": true,
+    "buffetLivre": true,
+    "valetParking": true,
+    "valetParkingInfo": "disponível aos fins de semana"
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1558030006-450675393462?w=800",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "https://images.unsplash.com/photo-1564759224907-65b7e3e1b2ff?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Sal & Brasa - Churrascaria Rodízio na Ilha de Luanda | Carnes Premium",
+    "metaDescricao": "churrascaria moderna na Ilha de Luanda com rodízio de carnes premium, buffet variado e vista para o mar. picanha, costela e carnes nobres grelhadas na brasa.",
+    "tags": ["churrascaria", "rodízio", "carnes", "brasileira", "picanha", "buffet", "ilha de luanda", "moderno", "familiar", "vista mar", "premium"]
+  }
+}

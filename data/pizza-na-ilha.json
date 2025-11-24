@@ -1,0 +1,344 @@
+{
+  "id": "pizza-na-ilha",
+  "nome": "Pizza na Ilha",
+  "descricao": "pizzaria italiana autêntica com forno a lenha, massas frescas artesanais e vista para o oceano Atlântico",
+  "descricaoCompleta": "a Pizza na Ilha é uma pizzaria italiana autêntica localizada no coração da Ilha de Luanda, conhecida pelas suas pizzas napolitanas cozinhadas em forno a lenha tradicional. fundada em 2018 por um chef italiano apaixonado pela gastronomia, o restaurante orgulha-se de utilizar ingredientes importados de Itália combinados com produtos locais frescos. a massa é preparada diariamente de forma artesanal, fermentada durante 48 horas para garantir a textura perfeita. o espaço oferece um ambiente casual e acolhedor, com uma esplanada virada para o mar onde pode desfrutar de pizzas crocantes, massas frescas e saladas mediterrânicas. aos fins de semana, o restaurante enche-se de famílias e grupos de amigos que procuram a autenticidade da cozinha italiana num ambiente descontraído à beira-mar. a carta de vinhos inclui selecções italianas e portuguesas cuidadosamente escolhidas para harmonizar com os pratos.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Rua da Praia n.º 45, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8015,
+      "longitude": 13.2328
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 387 654",
+    "telemovel": "+244 924 567 890",
+    "email": "reservas@pizzanailha.ao",
+    "website": "https://www.pizzanailha.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/pizzanailha",
+      "instagram": "https://www.instagram.com/pizzanailha",
+      "tripadvisor": "https://www.tripadvisor.com/pizzanailha"
+    }
+  },
+
+  "tipoCozinha": ["italiana", "pizzaria", "massas", "mediterrânica"],
+  "especialidades": [
+    "pizza margherita napolitana",
+    "pizza quattro formaggi",
+    "pizza diavola com picante",
+    "pizza frutti di mare",
+    "lasanha alla bolognese",
+    "spaghetti carbonara",
+    "calzone recheado",
+    "tiramisu caseiro"
+  ],
+  "ambiente": ["casual", "familiar", "vista mar", "esplanada", "italiano"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 7500,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "bruschetta mista",
+          "descricao": "pão italiano tostado com tomate fresco, manjericão, azeite e alho",
+          "preco": 1800
+        },
+        {
+          "nome": "caprese salad",
+          "descricao": "tomate, mozzarella de búfala, manjericão fresco e azeite extra virgem",
+          "preco": 2500
+        },
+        {
+          "nome": "carpaccio de vaca",
+          "descricao": "fatias finas de vaca crua com rúcula, parmesão e azeite trufado",
+          "preco": 3200
+        },
+        {
+          "nome": "azeitonas marinadas",
+          "descricao": "azeitonas mistas marinadas com ervas aromáticas",
+          "preco": 1200
+        }
+      ]
+    },
+    {
+      "categoria": "pizzas",
+      "pratos": [
+        {
+          "nome": "margherita",
+          "descricao": "molho de tomate san marzano, mozzarella fior di latte, manjericão fresco e azeite",
+          "preco": 4500
+        },
+        {
+          "nome": "quattro formaggi",
+          "descricao": "mozzarella, gorgonzola, parmesão e provolone com base de natas",
+          "preco": 5200
+        },
+        {
+          "nome": "diavola",
+          "descricao": "molho de tomate, mozzarella, salame picante e pimenta calabresa",
+          "preco": 5500
+        },
+        {
+          "nome": "frutti di mare",
+          "descricao": "molho de tomate, mozzarella, camarão, lulas, mexilhão e alho",
+          "preco": 7800
+        },
+        {
+          "nome": "prosciutto e funghi",
+          "descricao": "molho de tomate, mozzarella, fiambre parma e cogumelos frescos",
+          "preco": 6200
+        },
+        {
+          "nome": "capricciosa",
+          "descricao": "molho de tomate, mozzarella, fiambre, cogumelos, alcachofras e azeitonas",
+          "preco": 6500
+        },
+        {
+          "nome": "vegetariana",
+          "descricao": "molho de tomate, mozzarella, beringela, courgette, pimentos e cogumelos",
+          "preco": 5000
+        },
+        {
+          "nome": "calzone",
+          "descricao": "pizza fechada recheada com ricotta, mozzarella, fiambre e cogumelos",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "massas",
+      "pratos": [
+        {
+          "nome": "spaghetti carbonara",
+          "descricao": "esparguete com bacon, ovo, parmesão e pimenta preta",
+          "preco": 4800
+        },
+        {
+          "nome": "lasanha alla bolognese",
+          "descricao": "lasanha tradicional com molho bolonhesa, bechamel e parmesão",
+          "preco": 5500
+        },
+        {
+          "nome": "penne all'arrabbiata",
+          "descricao": "penne com molho de tomate picante, alho e pimenta",
+          "preco": 4200
+        },
+        {
+          "nome": "fettuccine alfredo",
+          "descricao": "fettuccine com molho cremoso de parmesão e manteiga",
+          "preco": 4500
+        },
+        {
+          "nome": "ravioli di ricotta e spinaci",
+          "descricao": "ravioli recheado com ricotta e espinafres em molho de manteiga e sálvia",
+          "preco": 5800
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "tiramisu caseiro",
+          "descricao": "sobremesa italiana clássica com mascarpone, café e cacau",
+          "preco": 2200
+        },
+        {
+          "nome": "panna cotta",
+          "descricao": "panna cotta com coulis de frutos vermelhos",
+          "preco": 1900
+        },
+        {
+          "nome": "gelado italiano artesanal",
+          "descricao": "gelado cremoso feito na casa, vários sabores disponíveis",
+          "preco": 1500
+        },
+        {
+          "nome": "cannoli siciliani",
+          "descricao": "massa crocante recheada com ricotta doce e pepitas de chocolate",
+          "preco": 2000
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "vinho tinto italiano",
+          "descricao": "selecção de vinhos tintos italianos (chianti, montepulciano)",
+          "preco": 9500
+        },
+        {
+          "nome": "vinho branco italiano",
+          "descricao": "selecção de vinhos brancos italianos (pinot grigio, vermentino)",
+          "preco": 9000
+        },
+        {
+          "nome": "limonada caseira",
+          "descricao": "limonada fresca preparada na casa",
+          "preco": 900
+        },
+        {
+          "nome": "spritz aperol",
+          "descricao": "aperol, prosecco, água com gás e laranja",
+          "preco": 2200
+        },
+        {
+          "nome": "negroni",
+          "descricao": "gin, campari e vermute rosso",
+          "preco": 2500
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 18:30-23:00",
+      "quarta": "12:00-15:00, 18:30-23:00",
+      "quinta": "12:00-15:00, 18:30-23:00",
+      "sexta": "12:00-15:00, 18:30-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas recomendadas aos fins de semana e feriados. aceita encomendas para take-away"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 412,
+    "avaliacoes": [
+      {
+        "autor": "Giuseppe Rossi",
+        "nota": 5,
+        "comentario": "autêntica pizza italiana em Luanda! a massa é perfeita, crocante por fora e macia por dentro. sinto-me em Nápoles!",
+        "data": "2025-11-21",
+        "origem": "Roma, Itália"
+      },
+      {
+        "autor": "Mariana Fernandes",
+        "nota": 5,
+        "comentario": "as melhores pizzas da Ilha! ambiente familiar e acolhedor. a pizza quattro formaggi é divinal. staff simpático e atencioso.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Pereira",
+        "nota": 4,
+        "comentario": "excelente comida italiana e boa relação qualidade-preço. a lasanha estava deliciosa e o tiramisu também. recomendo!",
+        "data": "2025-11-14",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Cláudia Sousa",
+        "nota": 5,
+        "comentario": "adoro este sítio! venho aqui todas as semanas. a pizza margherita é simples mas perfeita. a esplanada com vista mar é maravilhosa.",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Miguel Santos",
+        "nota": 4,
+        "comentario": "muito bom! pizzas saborosas e bem confeccionadas. o serviço pode ser um pouco lento quando está cheio mas vale a pena esperar.",
+        "data": "2025-11-05",
+        "origem": "Porto, Portugal"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "rua e parque público próximo",
+    "informacaoEstacionamento": "estacionamento na rua em frente ao restaurante e parque público a 50 metros com vigilância. pode ser difícil encontrar lugar aos fins de semana.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "500 AOA no parque público"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "zona movimentada e relativamente segura durante o dia e noite",
+      "vigilância no parque de estacionamento público",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "iluminação adequada na área do restaurante",
+      "staff atencioso e prestável em caso de necessidade"
+    ],
+    "nivelSeguranca": "médio",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve mesa com antecedência aos fins de semana, enche muito rapidamente",
+      "autor": "Ana Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente a pizza diavola se gosta de picante, é incrível!",
+      "autor": "Paulo Mendes",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "peça mesa na esplanada para desfrutar da brisa do mar enquanto come",
+      "autor": "Sofia Almeida",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "o tiramisu caseiro é obrigatório, não saia sem experimentar",
+      "autor": "Laura Barbosa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se não conseguir mesa, fazem take-away. a pizza mantém-se boa",
+      "autor": "Carlos Silva",
+      "origem": "Benguela, Angola"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": false,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": false,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+      "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+      "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=800",
+      "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Pizza na Ilha - Pizzaria Italiana Autêntica na Ilha de Luanda | Forno a Lenha",
+    "metaDescricao": "pizzaria italiana autêntica na Ilha de Luanda com forno a lenha, massas artesanais e vista para o mar. pizzas napolitanas, massas frescas e gelados. reserve já!",
+    "tags": ["pizza", "italiana", "forno a lenha", "napolitana", "massas", "vista mar", "familiar", "ilha de luanda", "esplanada", "autêntica", "tiramisu", "take-away"]
+  }
+}

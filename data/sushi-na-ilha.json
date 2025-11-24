@@ -1,0 +1,323 @@
+{
+  "id": "sushi-na-ilha",
+  "nome": "Sushi na Ilha",
+  "descricao": "restaurante japonês moderno na Ilha de Luanda, especializado em sushi fresco e cozinha nikkei com influências angolanas",
+  "descricaoCompleta": "localizado numa posição privilegiada na Ilha de Luanda, o Sushi na Ilha é o destino preferido para os amantes de cozinha japonesa em Angola. com uma proposta gastronómica que combina a tradição japonesa com ingredientes locais frescos, o restaurante oferece uma experiência única de sabores orientais à beira-mar. o chef especializado prepara diariamente sushi, sashimi e pratos quentes com peixe capturado nas águas angolanas, garantindo frescura e qualidade excepcionais. o ambiente é moderno e minimalista, com decoração japonesa contemporânea, música ambiente suave e uma vista magnífica sobre o oceano Atlântico. ideal para jantares românticos, encontros de negócios ou celebrações especiais, o Sushi na Ilha destaca-se pela atenção ao detalhe, apresentação impecável dos pratos e serviço profissional. aos fins de semana, o restaurante oferece menu degustação exclusivo com harmonização de sakés premium.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Murtala Mohammed, Zona Central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central",
+    "coordenadas": {
+      "latitude": -8.8015,
+      "longitude": 13.2328
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 391 245",
+    "telemovel": "+244 924 567 890",
+    "email": "reservas@sushinailha.ao",
+    "website": "https://www.sushinailha.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/sushinailha",
+      "instagram": "https://www.instagram.com/sushinailha",
+      "tripadvisor": "https://www.tripadvisor.com/sushinailha"
+    }
+  },
+
+  "tipoCozinha": ["japonesa", "sushi", "nikkei", "asiática", "fusão"],
+  "especialidades": [
+    "sushi mix premium com peixe local",
+    "sashimi de atum rabilho",
+    "temaki de lagosta angolana",
+    "nigiri de robalo fresco",
+    "roll especial nikkei com molho de maracujá",
+    "tempura de camarão gigante",
+    "teppanyaki de vaca black angus",
+    "ceviche nikkei"
+  ],
+  "ambiente": ["moderno", "minimalista", "elegante", "vista mar", "romântico", "intimista"],
+
+  "precos": {
+    "faixaPreco": 3,
+    "faixaPrecoTexto": "$$$",
+    "precoMedio": 12000,
+    "moeda": "AOA"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "edamame",
+          "descricao": "feijão de soja salteado com flor de sal",
+          "preco": 1800
+        },
+        {
+          "nome": "gyoza de camarão",
+          "descricao": "pastéis japoneses recheados com camarão e legumes",
+          "preco": 2500
+        },
+        {
+          "nome": "salada wakame",
+          "descricao": "algas marinhas com sementes de sésamo e vinagrete japonês",
+          "preco": 2200
+        },
+        {
+          "nome": "tataki de atum",
+          "descricao": "atum selado levemente com molho ponzu e gengibre",
+          "preco": 3800
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & sashimi",
+      "pratos": [
+        {
+          "nome": "combinado sushi na ilha",
+          "descricao": "18 peças variadas de sushi e sashimi com peixe fresco do dia",
+          "preco": 9500
+        },
+        {
+          "nome": "sashimi premium mix",
+          "descricao": "selecção de sashimi de atum, salmão, robalo e peixe-espada",
+          "preco": 8200
+        },
+        {
+          "nome": "roll especial nikkei",
+          "descricao": "salmão, cream cheese, abacate com molho de maracujá angolano",
+          "preco": 5800
+        },
+        {
+          "nome": "temaki de lagosta",
+          "descricao": "cone de alga nori com lagosta angolana, abacate e maionese wasabi",
+          "preco": 4500
+        },
+        {
+          "nome": "nigiri selection 10 peças",
+          "descricao": "10 nigiri variados com peixe fresco e marisco local",
+          "preco": 6800
+        },
+        {
+          "nome": "california roll",
+          "descricao": "caranguejo, abacate, pepino e ovas de peixe voador",
+          "preco": 4200
+        }
+      ]
+    },
+    {
+      "categoria": "pratos quentes",
+      "pratos": [
+        {
+          "nome": "tempura misto",
+          "descricao": "camarão e legumes fritos em massa leve crocante",
+          "preco": 5500
+        },
+        {
+          "nome": "teppanyaki de vaca",
+          "descricao": "lombo de vaca black angus grelhado com legumes e molho teriyaki",
+          "preco": 14500
+        },
+        {
+          "nome": "robalo teriyaki",
+          "descricao": "filete de robalo grelhado com molho teriyaki e arroz gohan",
+          "preco": 8900
+        },
+        {
+          "nome": "ramen especial",
+          "descricao": "sopa japonesa com noodles, porco chashu, ovo marinado e legumes",
+          "preco": 4800
+        },
+        {
+          "nome": "yakisoba de marisco",
+          "descricao": "noodles salteados com camarão, lula e legumes",
+          "preco": 5200
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "mochi sortidos",
+          "descricao": "5 unidades de mochi com recheios variados (chá verde, manga, morango)",
+          "preco": 2200
+        },
+        {
+          "nome": "dorayaki",
+          "descricao": "panquecas japonesas recheadas com doce de feijão azuki",
+          "preco": 1800
+        },
+        {
+          "nome": "gelado tempura",
+          "descricao": "gelado de baunilha frito em tempura com mel e frutos vermelhos",
+          "preco": 2500
+        }
+      ]
+    },
+    {
+      "categoria": "bebidas",
+      "pratos": [
+        {
+          "nome": "saké quente",
+          "descricao": "saké japonês tradicional servido quente",
+          "preco": 3500
+        },
+        {
+          "nome": "saké premium frio",
+          "descricao": "saké daiginjo premium servido gelado",
+          "preco": 5800
+        },
+        {
+          "nome": "chá verde sencha",
+          "descricao": "chá verde japonês tradicional",
+          "preco": 800
+        },
+        {
+          "nome": "mojito de lichia",
+          "descricao": "mojito especial com lichia fresca",
+          "preco": 1800
+        },
+        {
+          "nome": "cerveja japonesa Asahi",
+          "descricao": "cerveja japonesa importada bem gelada",
+          "preco": 1200
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-15:00, 19:00-23:00",
+      "quarta": "12:00-15:00, 19:00-23:00",
+      "quinta": "12:00-15:00, 19:00-23:00",
+      "sexta": "12:00-15:00, 19:00-00:00",
+      "sabado": "12:00-00:00",
+      "domingo": "12:00-23:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "reservas obrigatórias aos fins de semana. menu degustação disponível com reserva prévia de 48h"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.5,
+    "numeroAvaliacoes": 324,
+    "avaliacoes": [
+      {
+        "autor": "Teresa Machado",
+        "nota": 5,
+        "comentario": "o melhor sushi de Luanda sem dúvida! peixe fresco, apresentação impecável e o chef é muito atencioso. o roll especial nikkei com maracujá é uma genialidade!",
+        "data": "2025-11-20",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Miguel Ferreira",
+        "nota": 5,
+        "comentario": "experiência fantástica! ambiente elegante, serviço impecável e a qualidade do sushi é extraordinária. o sashimi estava incrivelmente fresco.",
+        "data": "2025-11-18",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Yuki Tanaka",
+        "nota": 4,
+        "comentario": "como japonês, posso confirmar que a qualidade é excelente. muito autêntico com toques locais interessantes. recomendo o temaki de lagosta!",
+        "data": "2025-11-15",
+        "origem": "Tóquio, Japão"
+      },
+      {
+        "autor": "Carla Sousa",
+        "nota": 5,
+        "comentario": "adorei tudo! desde a decoração minimalista até cada peça de sushi. preços justos para a qualidade oferecida. voltarei com certeza!",
+        "data": "2025-11-10",
+        "origem": "Luanda, Angola"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo vigiado",
+    "informacaoEstacionamento": "estacionamento privativo com segurança 24h, capacidade para 25 viaturas. acesso direto ao restaurante através de entrada exclusiva.",
+    "capacidadeEstacionamento": 25,
+    "custoEstacionamento": "gratuito para clientes"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "restaurante com segurança privada presente 24h",
+      "estacionamento vigiado e bem iluminado",
+      "zona segura e movimentada da Ilha",
+      "entrada controlada com recepção",
+      "recomenda-se não deixar objectos de valor visíveis no carro",
+      "staff treinado para assistência aos clientes"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com antecedência, especialmente aos fins de semana. o restaurante enche rapidamente",
+      "autor": "Paulo Ribeiro",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o menu degustação com harmonização de sakés, vale muito a pena!",
+      "autor": "Sandra Costa",
+      "origem": "Porto, Portugal"
+    },
+    {
+      "dica": "peça mesa junto à janela para desfrutar da vista sobre o mar enquanto janta",
+      "autor": "Ricardo Alves",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "o roll especial nikkei com molho de maracujá é único e delicioso, não deixe de experimentar",
+      "autor": "Ana Martins",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "se gosta de comida picante, peça o molho especial da casa para acompanhar o sushi",
+      "autor": "James Wilson",
+      "origem": "Londres, UK"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": false,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": true,
+    "servicoDelivery": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800",
+      "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?w=800",
+      "https://images.unsplash.com/photo-1564489563601-c53cfc451e93?w=800",
+      "https://images.unsplash.com/photo-1611143669185-af224c5e3252?w=800",
+      "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Sushi na Ilha - Restaurante Japonês na Ilha de Luanda | Sushi Fresco",
+    "metaDescricao": "o melhor sushi de Luanda! restaurante japonês especializado em sushi fresco, sashimi e cozinha nikkei. vista mar, ambiente elegante e chef especializado.",
+    "tags": ["sushi", "japonesa", "nikkei", "sashimi", "marisco", "elegante", "vista mar", "ilha de luanda", "asiática", "fusão", "moderno"]
+  }
+}

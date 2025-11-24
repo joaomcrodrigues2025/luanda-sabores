@@ -1,0 +1,417 @@
+{
+  "id": "pimms",
+  "nome": "Pimm's",
+  "descricao": "restaurante e beach club premium com gastronomia internacional, piscina à beira-mar, eventos especiais e ambiente cosmopolita",
+  "descricaoCompleta": "o Pimm's é um dos estabelecimentos mais emblemáticos e sofisticados da Ilha de Luanda, combinando restaurante de alta gastronomia com beach club premium numa experiência única à beira-mar. inaugurado há mais de uma década, o Pimm's rapidamente se tornou referência em Luanda pela qualidade da sua cozinha internacional, ambiente cosmopolita e eventos especiais que atraem a elite angolana e visitantes internacionais. o espaço conta com diversas áreas distintas: restaurante interior climatizado com decoração elegante, terraço coberto com vista para o mar, área de piscina com espreguiçadeiras e cabanas privadas, e uma zona de bar com cocktails premium. a carta gastronómica é extensa e variada, destacando-se os pratos de marisco fresco, carnes premium, sushi de qualidade superior e uma selecção de vinhos cuidadosamente escolhida. aos fins de semana, o Pimm's organiza eventos especiais com DJ's, festas temáticas e sunset sessions que criam uma atmosfera vibrante e exclusiva. o brunch de domingo é um dos mais conceituados de Luanda, com buffet variado, champagne à descrição e música ao vivo. o Pimm's é sinónimo de exclusividade, qualidade e sofisticação na Ilha de Luanda, sendo escolha obrigatória para quem procura uma experiência gastronómica e social de alto nível.",
+
+  "localizacao": {
+    "endereco": "Ilha de Luanda, Avenida Principal, zona premium central, Luanda, Angola",
+    "zona": "Ilha de Luanda - zona central premium",
+    "coordenadas": {
+      "latitude": -8.8005,
+      "longitude": 13.2335
+    }
+  },
+
+  "contactos": {
+    "telefone": "+244 222 310 888",
+    "telemovel": "+244 927 123 456",
+    "email": "reservas@pimmsluanda.ao",
+    "website": "https://www.pimmsluanda.ao",
+    "redesSociais": {
+      "facebook": "https://www.facebook.com/pimmsluanda",
+      "instagram": "https://www.instagram.com/pimmsluanda",
+      "twitter": "https://twitter.com/pimmsluanda",
+      "tiktok": "https://www.tiktok.com/@pimmsluanda"
+    }
+  },
+
+  "tipoCozinha": ["internacional", "mediterrânica", "marisco", "sushi", "carnes premium", "fusão"],
+  "especialidades": [
+    "lagosta thermidor",
+    "chateaubriand para dois",
+    "sushi premium selection",
+    "risotto de lavagante",
+    "robalo em crosta de sal",
+    "wagyu beef premium",
+    "polvo à lagareiro gourmet",
+    "arroz de marisco especial"
+  ],
+  "ambiente": ["luxo", "beach club", "piscina", "elegante", "cosmopolita", "vista mar", "eventos especiais", "brunch"],
+
+  "precos": {
+    "faixaPreco": 4,
+    "faixaPrecoTexto": "$$$$",
+    "precoMedio": 20000,
+    "moeda": "AOA",
+    "observacao": "entrada mínima de 8000 AOA por pessoa aos fins de semana. brunch de domingo 12000 AOA por pessoa com champagne incluído"
+  },
+
+  "menu": [
+    {
+      "categoria": "entradas",
+      "pratos": [
+        {
+          "nome": "ostras frescas",
+          "descricao": "meia dúzia de ostras frescas servidas com limão e molho mignonette",
+          "preco": 6500
+        },
+        {
+          "nome": "tártaro de atum premium",
+          "descricao": "atum de qualidade sashimi em tártaro com abacate, wasabi e chips de batata-doce",
+          "preco": 5800
+        },
+        {
+          "nome": "carpaccio de polvo e camarão",
+          "descricao": "carpaccio de polvo e camarão com azeite de coentros, lima e flor de sal",
+          "preco": 4800
+        },
+        {
+          "nome": "burrata di bufala",
+          "descricao": "burrata italiana com tomates heritage, pesto de manjericão e redução balsâmica",
+          "preco": 4200
+        },
+        {
+          "nome": "vieiras grelhadas",
+          "descricao": "vieiras grelhadas com puré de ervilha, bacon crocante e espuma de limão",
+          "preco": 7200
+        }
+      ]
+    },
+    {
+      "categoria": "sushi & sashimi premium",
+      "pratos": [
+        {
+          "nome": "pimm's signature selection",
+          "descricao": "selecção premium de 24 peças: nigiri, sashimi e rolls especiais",
+          "preco": 12500
+        },
+        {
+          "nome": "sashimi premium mix",
+          "descricao": "sashimi de atum, salmão, robalo, peixe-manteiga e polvo",
+          "preco": 9800
+        },
+        {
+          "nome": "dragon roll",
+          "descricao": "roll de tempura de camarão, abacate, enguia e tobiko",
+          "preco": 6800
+        },
+        {
+          "nome": "rainbow roll",
+          "descricao": "roll califórnia coberto com salmão, atum e abacate",
+          "preco": 6500
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - mar",
+      "pratos": [
+        {
+          "nome": "lagosta thermidor",
+          "descricao": "lagosta inteira gratinada com molho thermidor, servida com legumes e batata fondant",
+          "preco": 22000
+        },
+        {
+          "nome": "robalo em crosta de sal",
+          "descricao": "robalo selvagem inteiro assado em crosta de sal com ervas, batatas e molho de limão",
+          "preco": 16500
+        },
+        {
+          "nome": "risotto de lavagante",
+          "descricao": "risotto cremoso de lavagante com tomate cherry, courgette e parmesão",
+          "preco": 14800
+        },
+        {
+          "nome": "polvo à lagareiro gourmet",
+          "descricao": "polvo confitado 48h com batatas esmagadas, pimentos assados e azeite de coentros",
+          "preco": 15200
+        },
+        {
+          "nome": "arroz de marisco especial",
+          "descricao": "arroz de marisco com lavagante, camarão tigre, amêijoas e mexilhão",
+          "preco": 13500
+        },
+        {
+          "nome": "caldeirada de peixe premium",
+          "descricao": "caldeirada com peixe nobre, marisco e molho de tomate aromático",
+          "preco": 14000
+        }
+      ]
+    },
+    {
+      "categoria": "pratos principais - terra",
+      "pratos": [
+        {
+          "nome": "chateaubriand para dois",
+          "descricao": "lombo de novilho 500g servido com molho béarnaise, batatas dauphinoise e legumes",
+          "preco": 28000
+        },
+        {
+          "nome": "wagyu beef premium",
+          "descricao": "lombo de wagyu 300g grelhado com puré trufado e legumes baby",
+          "preco": 32000
+        },
+        {
+          "nome": "costeletas de borrego",
+          "descricao": "costeletas de borrego grelhadas com puré de batata-doce e molho de hortelã",
+          "preco": 16800
+        },
+        {
+          "nome": "magret de pato",
+          "descricao": "magret de pato com molho de laranja, puré de castanha e legumes salteados",
+          "preco": 15500
+        }
+      ]
+    },
+    {
+      "categoria": "sobremesas",
+      "pratos": [
+        {
+          "nome": "fondant de chocolate",
+          "descricao": "bolo quente de chocolate com coração líquido e gelado de baunilha de madagáscar",
+          "preco": 2800
+        },
+        {
+          "nome": "pavlova de frutos vermelhos",
+          "descricao": "merengue crocante com chantilly, frutos vermelhos frescos e coulis",
+          "preco": 2600
+        },
+        {
+          "nome": "crème brûlée de baunilha",
+          "descricao": "crème brûlée clássica com casca caramelizada crocante",
+          "preco": 2400
+        },
+        {
+          "nome": "tarte tatin",
+          "descricao": "tarte tatin de maçã caramelizada com gelado de canela",
+          "preco": 2500
+        },
+        {
+          "nome": "cheesecake de maracujá",
+          "descricao": "cheesecake cremosa com coulis de maracujá e biscoito crocante",
+          "preco": 2700
+        }
+      ]
+    },
+    {
+      "categoria": "cocktails premium",
+      "pratos": [
+        {
+          "nome": "pimm's signature cocktail",
+          "descricao": "cocktail exclusivo com gin premium, pepino, morango, hortelã e champagne",
+          "preco": 3200
+        },
+        {
+          "nome": "espresso martini premium",
+          "descricao": "vodka beluga, licor de café, café expresso e xarope de baunilha",
+          "preco": 2900
+        },
+        {
+          "nome": "mojito de frutos vermelhos",
+          "descricao": "mojito especial com rum envelhecido, frutos vermelhos e hortelã fresca",
+          "preco": 2600
+        },
+        {
+          "nome": "cosmopolitan",
+          "descricao": "vodka, cointreau, sumo de arando e lima",
+          "preco": 2700
+        }
+      ]
+    },
+    {
+      "categoria": "champagne & vinhos premium",
+      "pratos": [
+        {
+          "nome": "champagne Dom Pérignon",
+          "descricao": "champagne Dom Pérignon vintage - garrafa",
+          "preco": 85000
+        },
+        {
+          "nome": "champagne Veuve Clicquot",
+          "descricao": "champagne Veuve Clicquot rosé - garrafa",
+          "preco": 32000
+        },
+        {
+          "nome": "champagne Moët & Chandon",
+          "descricao": "champagne Moët & Chandon brut - garrafa",
+          "preco": 26000
+        },
+        {
+          "nome": "vinho branco Quinta do Crasto",
+          "descricao": "vinho branco superior do Douro - garrafa",
+          "preco": 12000
+        },
+        {
+          "nome": "vinho tinto Quinta do Vale Meão",
+          "descricao": "vinho tinto premium do Douro - garrafa",
+          "preco": 18000
+        }
+      ]
+    }
+  ],
+
+  "horario": {
+    "horarioFuncionamento": {
+      "segunda": "encerrado",
+      "terca": "12:00-23:00",
+      "quarta": "12:00-23:00",
+      "quinta": "12:00-00:00",
+      "sexta": "12:00-02:00",
+      "sabado": "11:00-03:00",
+      "domingo": "11:00-22:00"
+    },
+    "diasEncerrado": ["segunda-feira"],
+    "observacoes": "brunch de domingo das 11h às 16h. eventos especiais aos sábados com DJ a partir das 20h. reserva obrigatória"
+  },
+
+  "avaliacoes": {
+    "avaliacao": 4.8,
+    "numeroAvaliacoes": 456,
+    "avaliacoes": [
+      {
+        "autor": "Catarina Lopes",
+        "nota": 5,
+        "comentario": "experiência absolutamente incrível! a lagosta thermidor estava divinal e o serviço é impecável. ambiente luxuoso e sofisticado. vale cada kwanza!",
+        "data": "2025-11-23",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "André Carvalho",
+        "nota": 5,
+        "comentario": "o melhor restaurante de Luanda sem dúvida! comida de altíssima qualidade, carta de vinhos excelente e ambiente único. o brunch de domingo é espectacular!",
+        "data": "2025-11-21",
+        "origem": "Lisboa, Portugal"
+      },
+      {
+        "autor": "Sofia Mendes",
+        "nota": 5,
+        "comentario": "adorei tudo! o sushi é fresco e de excelente qualidade, a piscina é linda e o pôr do sol é inesquecível. staff muito profissional e atencioso.",
+        "data": "2025-11-18",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "Ricardo Santos",
+        "nota": 4,
+        "comentario": "ambiente premium e comida excepcional. o chateaubriand para dois estava perfeito. preços elevados mas a experiência justifica totalmente.",
+        "data": "2025-11-15",
+        "origem": "Maputo, Moçambique"
+      },
+      {
+        "autor": "Diana Costa",
+        "nota": 5,
+        "comentario": "simplesmente perfeito! o polvo à lagareiro é o melhor que já comi. ambiente elegante, música excelente e vista deslumbrante. recomendo vivamente!",
+        "data": "2025-11-12",
+        "origem": "Luanda, Angola"
+      },
+      {
+        "autor": "James Wilson",
+        "nota": 5,
+        "comentario": "outstanding experience! best restaurant in Luanda by far. the wagyu beef was incredible, service was impeccable. will definitely return!",
+        "data": "2025-11-08",
+        "origem": "Londres, UK"
+      }
+    ]
+  },
+
+  "estacionamento": {
+    "temEstacionamento": true,
+    "tipoEstacionamento": "privativo com valet parking premium",
+    "informacaoEstacionamento": "serviço de valet parking premium gratuito para todos os clientes. estacionamento privativo com segurança 24h e capacidade para 60 viaturas. acesso directo ao restaurante.",
+    "capacidadeEstacionamento": 60,
+    "custoEstacionamento": "gratuito com valet parking"
+  },
+
+  "seguranca": {
+    "dicasSeguranca": [
+      "segurança privada rigorosa e profissional 24h",
+      "controlo de acesso na entrada com lista de reservas",
+      "valet parking premium disponível",
+      "zona de alta segurança com vigilância constante",
+      "excelente iluminação em todo o complexo",
+      "staff de segurança discreto mas sempre presente",
+      "sistema de videovigilância em todo o estabelecimento",
+      "protocolo de segurança premium para VIP's"
+    ],
+    "nivelSeguranca": "alto",
+    "temVigilancia": true
+  },
+
+  "dicasViajantes": [
+    {
+      "dica": "reserve com pelo menos uma semana de antecedência, especialmente para fins de semana e brunch de domingo. enche rapidamente!",
+      "autor": "Carlos Mendes",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "experimente o brunch de domingo, é uma experiência única em Luanda com buffet variado e champagne incluído. vale muito a pena!",
+      "autor": "Patricia Alves",
+      "origem": "São Paulo, Brasil"
+    },
+    {
+      "dica": "para jantar romântico, peça mesa no terraço com vista para o mar. chegue antes das 18h para apreciar o pôr do sol",
+      "autor": "Isabel Martins",
+      "origem": "Lisboa, Portugal"
+    },
+    {
+      "dica": "se gosta de sushi, a selecção premium é excelente e muito fresca. peça recomendações ao sushi chef",
+      "autor": "Thomas Mueller",
+      "origem": "Berlim, Alemanha"
+    },
+    {
+      "dica": "o dress code é smart elegant. evite roupa muito casual, especialmente aos fins de semana",
+      "autor": "Juliana Costa",
+      "origem": "Luanda, Angola"
+    },
+    {
+      "dica": "aos sábados há eventos especiais com DJ. se preferir ambiente mais tranquilo, opte por outros dias",
+      "autor": "Miguel Santos",
+      "origem": "Maputo, Moçambique"
+    }
+  ],
+
+  "caracteristicas": {
+    "wifi": true,
+    "arCondicionado": true,
+    "acessibilidade": true,
+    "reservasOnline": true,
+    "aceitaCartao": true,
+    "estacionamentoVigiado": true,
+    "vistaMar": true,
+    "espacoExterior": true,
+    "musicaAoVivo": false,
+    "musicaAoVivoInfo": "DJ's aos sábados a partir das 20h - house, deep house e música internacional",
+    "aceitaGrupos": true,
+    "salaPrivada": true,
+    "servicoTakeaway": false,
+    "servicoDelivery": false,
+    "piscina": true,
+    "piscinaInfinity": false,
+    "spa": false,
+    "cabanas": true,
+    "valetParking": true,
+    "dresscode": "smart elegant",
+    "entradaMinima": true,
+    "brunch": true,
+    "eventosSunset": true,
+    "beachClub": true
+  },
+
+  "imagens": {
+    "imagemPrincipal": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "https://images.unsplash.com/photo-1582610116397-edb318620f90?w=800"
+    ],
+    "creditoImagens": "Unsplash"
+  },
+
+  "seo": {
+    "metaTitulo": "Pimm's - Restaurante Premium e Beach Club na Ilha de Luanda | Gastronomia de Luxo",
+    "metaDescricao": "restaurante e beach club premium na Ilha de Luanda. gastronomia internacional de alto nível, piscina, eventos especiais e brunch de domingo. experiência exclusiva!",
+    "tags": ["luxo", "beach club", "premium", "alta gastronomia", "piscina", "brunch", "ilha de luanda", "marisco", "carnes premium", "sushi", "eventos especiais", "elegante", "cosmopolita"]
+  }
+}
